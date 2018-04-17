@@ -6,6 +6,7 @@ GRUPO [ Bruna – Cleisson – Filipe - Luiza - Priscila – Roberto ]
 ## Páginas
 
 * [Arquitetura da Informação](../master/ARQUITETURA.md)
+* [Como editar arquivos ".md"](../master/DICAS.md)
 
 ## Divisão
 
