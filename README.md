@@ -50,3 +50,10 @@ de domínio público e conter um link para a fonte original sempre que não for 
   4. R.A.;
   5. Função no grupo (coder, gerente, designer, etc);
   6. Área pela qual é responsável, com link para a mesma.
+  
+--------
+## Fotos Adicionais:
+
+![projeto01](https://github.com/projectzr/projectzr.github.io/blob/master/imagens/foto-projeto-01.jpg)
+
+![projeto01](https://github.com/projectzr/projectzr.github.io/blob/master/imagens/foto-projeto-02.jpg)
