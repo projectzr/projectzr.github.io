@@ -1,7 +1,6 @@
 # Projeto Integrador - 2 Semestre
 
 ## Participantes
---------
 
 Escolas                                          | Responsável
 ------------------------------------------------ | -----------
@@ -13,7 +12,6 @@ Modernismo (1922 - 1950)                         | (-)
 Pós-Modernismo (1950 - até hoje)                 | (-)
 
 ## Principais critérios de avaliação
---------
 
 * Concepção Mobile First;
 * Existência de um Mapa do Site e Wireframe contemplando pelo menos 3
@@ -24,8 +22,8 @@ Pós-Modernismo (1950 - até hoje)                 | (-)
 * Unidade de navegação;
 * Estruturas de navegação de 1º e 2º níveis.
 
-## Observações adicionais::
 --------
+## Observações adicionais:
 
 * O "tema" do portal será alguma forma de arte a ser definida livremente
 * pelo grupo;
@@ -44,8 +42,8 @@ de domínio público e conter um link para a fonte original sempre que não for 
   * Mais 4 páginas gerais definidas pelo grupo.
 * A página "quem somos" é obrigatória e deve conter:
   1. Foto do aluno;
-  1. Mini-biografia (144 caracteres);
-  1. Nome;
-  1. R.A.;
-  1. Função no grupo (coder, gerente, designer, etc);
-  1. Área pela qual é responsável, com link para a mesma.
+  2. Mini-biografia (144 caracteres);
+  3. Nome;
+  4. R.A.;
+  5. Função no grupo (coder, gerente, designer, etc);
+  6. Área pela qual é responsável, com link para a mesma.
