@@ -1,4 +1,8 @@
 # Projeto Integrador - 2 Semestre
+TEMA  - LITERATURA BRASILEIRA
+ESCOLAS LITERARIA 
+
+GRUPO [ Bruna – Cleisson – Filipe - Luiza - Priscila – Roberto ]
 
 ## Participantes
 
@@ -14,8 +18,7 @@ Pós-Modernismo (1950 - até hoje)                 | (-)
 ## Principais critérios de avaliação
 
 * Concepção Mobile First;
-* Existência de um Mapa do Site e Wireframe contemplando pelo menos 3
-* resoluções (pqn, med, gde);
+* Existência de um Mapa do Site e Wireframe contemplando pelo menos 3 resoluções (pqn, med, gde);
 * Ser responsivo (possivelmente com Bootstrap);
 * Páginas validadas na W3.org;
 * Design;
