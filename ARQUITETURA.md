@@ -12,6 +12,6 @@ Página de informações sobre a arquitetura das páginas
 ### O Portal
 * informação concisa do que é o portal (140 caracteres)
 ### Categorias
-* layout “bagunçado” ao estilo piterest
+* layout “bagunçado” ao estilo pinterest
 * IMAGENS que remetem ao estilo
 * FRASES que remetem ao estilo ao passar o mouse sob a imagem
