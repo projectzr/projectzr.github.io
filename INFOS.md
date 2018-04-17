@@ -7,9 +7,9 @@ Cada uma das fases do Romantismo apresenta características distintas:
 3.ª fase: liberdade
 
 ### Autores e Obras
--   1.ª fase: Gonçalves Dias - Canção do Exílio
--   2.ª fase: Álvares de Azevedo - Lira dos Vinte Anos
--   3.ª fase: Castro Alves - O Navio Negreiro
+-   1.ª fase: Gonçalves Dias - Canção do Exílio;
+-   2.ª fase: Álvares de Azevedo - Lira dos Vinte Anos;
+-   3.ª fase: Castro Alves - O Navio Negreiro;
     
 
 # Realismo, Naturalismo, Parnasianismo (1881 - 1893)
