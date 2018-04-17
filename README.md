@@ -53,6 +53,8 @@ de domínio público e conter um link para a fonte original sempre que não for 
   
 --------
 ## Fotos Adicionais:
+> OBS: A visualização das imagens só é possível diretamente pelo diretório do github.
+> Você pode acessá-lo [clicando aqui](https://github.com/projectzr/projectzr.github.io) 
 
 ![projeto01](https://github.com/projectzr/projectzr.github.io/blob/master/imagens/foto-projeto-01.jpg)
 
