@@ -1,10 +1,13 @@
 # Projeto Integrador - 2 Semestre
-TEMA  - LITERATURA BRASILEIRA
-ESCOLAS LITERARIA 
+TEMA  - LITERATURA BRASILEIRA - ESCOLAS LITERARIA 
 
 GRUPO [ Bruna – Cleisson – Filipe - Luiza - Priscila – Roberto ]
 
-## Participantes
+## Páginas
+
+* [Arquitetura da Informação](../master/ARQUITETURA.md)
+
+## Divisão
 
 Escolas                                          | Responsável
 ------------------------------------------------ | -----------
@@ -15,8 +18,6 @@ Pré-Modernismo (1910 - 1922)                     | (-)
 Modernismo (1922 - 1950)                         | (-)
 Pós-Modernismo (1950 - até hoje)                 | (-)
 
-## Páginas
-* [Arquitetura da Informação](../master/ARQUITETURA.md)
 
 ## Principais critérios de avaliação
 
