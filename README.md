@@ -10,6 +10,8 @@ GRUPO [ Bruna – Cleisson – Filipe - Luiza - Priscila – Roberto ]
 
 ## Divisão
 
+> OBS: a tabela com Escolas, Características e Autores e Obras está no documento enviado por email
+
 Escolas                                          | Responsável
 ------------------------------------------------ | -----------
 Romantismo (1836 - 1881)                         | (-)
