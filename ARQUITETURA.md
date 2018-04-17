@@ -3,19 +3,15 @@ Página de informações sobre a arquitetura das páginas
 * Deixe sempre separado por título
 * Tente sintetizar ao máximo a informação
 
-------
-# Página Principal (index)
-
-## Header 
+## Página Principal (index)
+### Header 
 * Imagem de header com logo/frase de efeito (header padrão)
-## Nav
+### Nav
 * PRINCIPAL: Categorias
 * SUB: dropdown com fases da categoria
-## O Portal
+### O Portal
 * informação concisa do que é o portal (140 caracteres)
-## Categorias
+### Categorias
 * layout “bagunçado” ao estilo piterest
 * IMAGENS que remetem ao estilo
 * FRASES que remetem ao estilo ao passar o mouse sob a imagem
-
-------
