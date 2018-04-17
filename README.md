@@ -15,6 +15,9 @@ Pré-Modernismo (1910 - 1922)                     | (-)
 Modernismo (1922 - 1950)                         | (-)
 Pós-Modernismo (1950 - até hoje)                 | (-)
 
+## Páginas
+* [Arquitetura da Informação](../master/ARQUITETURA.md)
+
 ## Principais critérios de avaliação
 
 * Concepção Mobile First;
