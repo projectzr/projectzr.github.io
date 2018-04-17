@@ -4,7 +4,7 @@
 Cada uma das fases do Romantismo apresenta características distintas:
 1.ª fase: nacionalismo e indianismo
 2.ª fase: egocentrismo e pessimismo
-3.ª fase: liberdade.
+3.ª fase: liberdade
 
 ### Autores e Obras
 -   1.ª fase: Gonçalves Dias - Canção do Exílio
