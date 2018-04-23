@@ -51,6 +51,10 @@ de domínio público e conter um link para a fonte original sempre que não for 
   * Contato;
   * Normas de Utilização
   * Mais 4 páginas gerais definidas pelo grupo.
+    * Dicas de Vestibular
+    * Mapa do Site
+    * Academia Brasileira de Letras
+    * Agenda
 * A página "quem somos" é obrigatória e deve conter:
   1. Foto do aluno;
   2. Mini-biografia (144 caracteres);
