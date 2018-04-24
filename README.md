@@ -7,7 +7,7 @@ GRUPO [ Bruna – Cleisson – Filipe - Luiza - Priscila – Roberto ]
 
 * [Arquitetura da Informação](../master/ARQUITETURA.md)
 * [Como editar arquivos ".md"](../master/DICAS.md)
-* [Informações de cada "Escola"](../master/INFOS.md)
+* [Informações de cada "Escola"](https://github.com/projectzr/projectzr.github.io/tree/master/wireframe)
 * [Wireframes](../master/Wireframe)
 
 ## Divisão
