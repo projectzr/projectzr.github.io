@@ -6,6 +6,26 @@
 - [x] Agenda
 - [x] Academia Brasileira de Letras
 - [x] Dicas de Vestibular
-- [x] Contato (passar para PS)
-- [x] Normas de Utilização (passar para PS)
+- [x] Contato
+- [x] Normas de Utilização
 - [ ] Mapa do Site
+
+## Áreas Individuais
+
+### Bruna
+- [] Não listada
+
+### Cleisson
+- [] Não listada
+
+### Filipe
+- [] Não listada
+
+### Luiza
+- [] Não listada
+
+### Priscila
+- [] Não listada
+
+### Roberto
+- [] Não listada
