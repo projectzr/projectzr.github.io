@@ -13,19 +13,25 @@
 ## Áreas Individuais
 
 ### Bruna
-- [] Não listada
+- [ ] Não listada
+- [ ] Não listada
 
 ### Cleisson
-- [] Não listada
+- [ ] Não listada
+- [ ] Não listada
 
 ### Filipe
-- [] Não listada
+- [ ] Não listada
+- [ ] Não listada
 
 ### Luiza
-- [] Não listada
+- [ ] Não listada
+- [ ] Não listada
 
 ### Priscila
-- [] Não listada
+- [ ] Não listada
+- [ ] Não listada
 
 ### Roberto
-- [] Não listada
+- [ ] Não listada
+- [ ] Não listada
