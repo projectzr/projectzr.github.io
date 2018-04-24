@@ -7,5 +7,5 @@
 - [x] Normas de Utilização
 - [x] Academia Brasileira de Letras
 - [x] Agenda
-- [ ] Dicas de Vestibular
+- [x] Dicas de Vestibular
 - [ ] Mapa do Site
