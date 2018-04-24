@@ -46,15 +46,15 @@ Pós-Modernismo (1950 - até hoje)                 | (-)
 * Os texto podem ser &quot;lorem ipsum...&quot;, mas os menus, headings, alts, legendas e etc, devem todos ser textos verdadeiros. (Opcionalmente o texto pode ser real também, mas neste caso deve obrigatoriamente ser
 de domínio público e conter um link para a fonte original sempre que não for produção original do grupo);
 * São obrigatórias as páginas:
-  * Home; -ok
-  * Quem Somos; -ok
-  * Contato; -ok
-  * Normas de Utilização -ok
+  * Home;
+  * Quem Somos;
+  * Contato;
+  * Normas de Utilização
   * Mais 4 páginas gerais definidas pelo grupo.
     * Dicas de Vestibular
     * Mapa do Site
-    * Academia Brasileira de Letras -ok
-    * Agenda -ok
+    * Academia Brasileira de Letras
+    * Agenda
 * A página "quem somos" é obrigatória e deve conter:
   1. Foto do aluno;
   2. Mini-biografia (144 caracteres);
