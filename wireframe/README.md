@@ -3,9 +3,9 @@
 ## Áreas Comuns
 - [x] Home
 - [x] Quem Somos
-- [x] Contato
-- [x] Normas de Utilização
-- [x] Academia Brasileira de Letras
 - [x] Agenda
-- [x] Dicas de Vestibular
+- [x] Contato (passar para PS)
+- [x] Normas de Utilização (passar para PS)
+- [x] Academia Brasileira de Letras (passar para PS)
+- [x] Dicas de Vestibular (passar para PS)
 - [ ] Mapa do Site
