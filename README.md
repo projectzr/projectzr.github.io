@@ -8,6 +8,7 @@ GRUPO [ Bruna – Cleisson – Filipe - Luiza - Priscila – Roberto ]
 * [Arquitetura da Informação](../master/ARQUITETURA.md)
 * [Como editar arquivos ".md"](../master/DICAS.md)
 * [Informações de cada "Escola"](../master/INFOS.md)
+* [Wireframes](../master/Wireframe)
 
 ## Divisão
 
