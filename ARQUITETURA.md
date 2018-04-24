@@ -4,14 +4,14 @@ Página de informações sobre a arquitetura das páginas
 * Tente sintetizar ao máximo a informação
 
 ## Página Principal (index)
-### Header 
-* Imagem de header com logo/frase de efeito (header padrão)
 ### Nav
 * PRINCIPAL: Categorias
 * SUB: dropdown com fases da categoria
-### O Portal
-* informação concisa do que é o portal (140 caracteres)
+### Header 
+* Imagem Machado de assis+frase (header padrão)
 ### Categorias
-* layout “bagunçado” ao estilo pinterest
-* IMAGENS que remetem ao estilo
-* FRASES que remetem ao estilo ao passar o mouse sob a imagem
+> DIVISÃO POR ESCOLAS LITERARIAS
+* Autor de Destaque da escola em questão
+* Principais Obras - Relacionadas ao autor de destaque
+* Contexto Histórico - o contexto no qual o autor de destaque vivia
+* Livros do vestibular - o(s) livro(s) que mais caem no vestibular
