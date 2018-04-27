@@ -91,143 +91,21 @@ a:hover {
     min-height: 30vh;
 }
 
-/* Divisores
+/* Sessao 2
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-.divisor {
-    height: 1px;
+.sessao2 {
+    background-color: #1a1a1a;
+    color: #f8f8f8;
 }
 
-/* Escola - PADRÕES
+/* Sessao 3
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-.escolas {
+.sessao3 {
     background-color: #ebebeb;
 }
-.autor-destaque {
-    margin: .5rem 0;
-    box-shadow: 0 0 5px rgba(185, 185, 185, 0.8);
-    position: relative;
-    background-size: cover;
-    background-position: center;
-    background-color: #bfbfbf;
-    display: table;
-    width: 100%;
-    height:calc(100% - 1rem);
-}
-@media (min-width: 991px) {
-    /* usado para ajustar a altura do autor 
-    em destaque de acordo com o conteudo, apenas
-    quando estão lado a lado */
-    .escolas-individual {
-        display: flex;
-    }
-}
-@media (max-width: 992px) {
-    /* Cria um tamanho fixo para
-    quando não está mais dividindo espaço
-    com o conteudo */
-    .autor-destaque {
-        height: 600px;
-        display: block;
-    }
-}
-.autor-descricao {
-    background-color: rgba(0,0,0,0.8);
-    bottom: 0;
-    color: white;
-    left: 0;
-    position: absolute;
-    width: 100%;
-    padding: 3rem 2rem;
-}
-.autor-titulo {
-    position: relative;
-    font-family: 'Bitter', serif;
-    font-variant: small-caps;
-    font-size: 27pt;
-    margin-bottom: 20px;
-}
-.autor-titulo:after {
-    content: '';
-    position: absolute;
-    left: 20%;
-    bottom: -10px;
-    width: 60%;
-    height: 2px;
-    background-color: #ededed;
-}
-.autor-texto {
-    font-size: 14pt;
-}
-.materia {
-    margin: .5rem 0;
-    background-color: #f3f3f3;
-    box-shadow: 0 0 5px rgba(185, 185, 185, 0.8);
-}
-.materia .titulo {
-    margin: 1rem 0;
-}
-.materia-img {
-    margin: 1rem 0;
-    width: 100%;
-}
-
-/* Escola - EXCLUSIVOS
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
-.escola1 .person {
-    background-image: url('https://images.unsplash.com/photo-1455758190477-ac7265bc8139?fit=crop&h=800&q=80');
-}
-.escola1 .materia-img {
-    border-left: 4px solid #0EBEFF;
-}
-
-.divisor.escola2 {
-    background-color: #db123a;
-}
-.escola2 .person {
-    background-image: url('https://images.unsplash.com/photo-1485056850891-99e734b7083d?fit=crop&h=800&q=80');
-}
-.escola2 .materia-img {
-    border-left: 4px solid #db123a;
-}
-
-.divisor.escola3 {
-    background-color: #009688;
-}
-.escola3 .person {
-    background-image: url('https://images.unsplash.com/photo-1485463969733-3b3853b9d1bc?fit=crop&h=800&q=80');
-}
-.escola3 .materia-img {
-    border-left: 4px solid #009688;
-}
-
-.divisor.escola4 {
-    background-color: #FF9800;
-}
-.escola4 .person {
-    background-image: url('https://images.unsplash.com/photo-1524109778675-a86c515079cb?fit=crop&h=800&q=80');
-}
-.escola4 .materia-img {
-    border-left: 4px solid #FF9800;
-}
-
-.divisor.escola5 {
-    background-color: #0077ac;
-}
-.escola5 .person {
-    background-image: url('https://images.unsplash.com/photo-1488862909749-5b4d9fea994c?fit=crop&h=800&q=80');
-}
-.escola5 .materia-img {
-    border-left: 4px solid #0077ac;
-}
-
-.divisor.escola6 {
-    background-color: #ff579e;
-}
-.escola6 .person {
-    background-image: url('https://images.unsplash.com/photo-1507809796103-09a999870b99?fit=crop&h=800&q=80');
-}
-.escola6 .materia-img {
-    border-left: 4px solid #ff579e;
+.sessao3 i {
+    font-size: 35pt;
+    text-align: right;
 }
 
 /* Rodapé

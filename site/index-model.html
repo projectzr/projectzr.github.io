@@ -1,0 +1,254 @@
+<!--
+**********************************************************
+*** Cliente: Curso de Sistemas para internet (Fatec SR)
+*** Projeto: Website/Portal
+*** Autores (por favor, colocar os nomes): 
+*** - Bruna
+*** - Cleisson
+*** - Filipe Daineze
+*** - Luisa
+*** - Priscila
+*** - Roberto
+**********************************************************
+-->
+
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head> 
+    <!-- Informações básicas
+    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <meta charset="utf-8">
+    <title>TITULO DO SITE</title>
+    <meta name="description" content="Descrição que aparecerá no google e ao compartilhar o link no face e wpp">
+    <meta name="author" content="Fatec SR - Sistemas para Internet - 2o Sem. de 2017">
+
+    <!-- Mobile Specific Metas
+    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- CDN's
+    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <!-- jQuery
+    –––––––––––––--––– -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    
+    <!-- FontAwesome
+    ––––––––––––––--–– -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.10/css/all.css" integrity="sha384-+d0P83n9kaQMCwj8F4RJB66tzIwOKmrdb46+porD/OvrJ+37WqIM7UoBtwHO6Nlg" crossorigin="anonymous">
+
+    
+    <!-- Bootstrap 3.3.7
+    –––––––––-–––––-–– -->
+    <!-- minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+    <!-- minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+    
+    <!-- JavaScript
+    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <!-- api de efeito parallax -->
+    <script src="js/parallax.min.js"></script>
+    <!-- api de loading do site -->
+    <script src="js/pace.min.js"></script>
+    <!-- script nosso -->
+    <script src="js/script.js"></script>
+
+    <!-- FONT
+    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+
+    <!-- CSS
+    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <!-- css nosso -->
+    <link rel="stylesheet" href="css/custom.css">
+
+    <!-- Favicon
+    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <link rel="icon" type="image/png" href="img/favicon.png">
+</head>
+
+<body>
+
+    <!-- Menu de Navegação
+    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <nav id="menu" class="navbar navbar-custom navbar-fixed-top navbar-inverse">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <div class="navbar-brand">
+                    <a href="#inicio">Portal</a>
+                </div>
+            </div>
+
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a href="#inicio">Home</a></li>
+                    <li><a href="#sessao1">Sessão 1</a></li>
+                    <li><a href="#sessao2">Sessão 2</a></li>
+                    <li><a href="#sessao3">Sessão 3</a></li>
+                    <li><a href="#">Sessão 4*</a></li>
+                    <li><a href="#">Sessão 5*</a></li>
+                    <li><a href="#">Sessão 6*</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Header
+    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <header class="inicio" id="inicio">
+        <div class="parallax-window" data-parallax="scroll" data-image-src="img/header.jpg">
+            <div class="container">
+                <div class="row text-center">
+                    <div class="col-md-12">
+                        <img class="img-responsive" src="img/logo.png" alt="Logo">
+                        <p>Página de exemplo</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Conteúdo
+    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <main>
+        <h1 style="display: none">Principal</h1>
+        
+        <!-- Exemplo 2 sessões/10 colunas levemente centralizado
+        –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+        <article class="section sessao1" id="sessao1">
+            <div class="container">
+                <div class="row text-center">
+                    <h2 class="titulo no-space">Titulo da sessão</h2>
+                    <p class="sub-titulo extra-space">10 colunas ocupadas</p>
+                    
+                    
+                    <!-- Coluna 1
+                    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+                    <div class="col-sm-6 col-md-offset-1 col-md-5">
+                        <p>Por conseguinte, o desenvolvimento contínuo de distintas formas de atuação pode nos levar a considerar a reestruturação de todos os recursos funcionais envolvidos.</p>
+                        <p>Não obstante, o desenvolvimento contínuo de distintas formas de atuação é uma das consequências dos conhecimentos estratégicos para atingir a excelência.</p>
+                        <p>Gostaria de enfatizar que a determinação clara de objetivos aponta para a melhoria das diretrizes de desenvolvimento para o futuro.</p>
+                    </div>
+
+                    <!-- Coluna 2
+                    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+                    <div class="col-sm-6 col-md-5">
+                        <p>Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar a manutenção das condições financeiras e administrativas exigidas.</p>
+                        <p>Neste sentido, a estrutura atual da organização possibilita uma melhor visão global dos modos de operação convencionais.</p>
+                        <p>A certificação de metodologias que nos auxiliam a lidar com a complexidade dos estudos efetuados oferece uma interessante oportunidade para verificação da gestão inovadora da qual fazemos parte.</p>
+                    </div>
+
+                </div>
+            </div>
+        </article>
+        
+        <!-- Exemplo 2 sessões/12 colunas
+        –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+        <article class="section sessao2" id="sessao2">
+            <div class="container">
+                <div class="row text-center">
+                    <h2 class="titulo no-space">Titulo da sessão</h2>
+                    <p class="sub-titulo extra-space">12 colunas ocupadas</p>
+                    
+                    
+                    <!-- Coluna 1
+                    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+                    <div class="col-sm-6">
+                        <p>Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar a manutenção das condições administrativas exigidas.</p>
+                        <p>Neste sentido, a estrutura atual da organização possibilita uma melhor visão global dos modos de operação convencionais.</p>
+                        <p>A certificação de metodologias que nos auxiliam a lidar com a complexidade dos estudos efetuados oferece uma interessante oportunidade para verificação da gestão inovadora da qual fazemos parte.</p>
+                    </div>
+
+                    <!-- Coluna 2
+                    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+                    <div class="col-sm-6">
+                        <p>Por conseguinte, o desenvolvimento contínuo de distintas formas de atuação pode nos levar a considerar a reestruturação de todos os recursos funcionais envolvidos.</p>
+                        <p>Não obstante, o desenvolvimento contínuo de distintas formas de atuação é uma das consequências dos conhecimentos estratégicos para atingir a excelência.</p>
+                        <p>Gostaria de enfatizar que a determinação clara de objetivos aponta para a melhoria das diretrizes de desenvolvimento para o futuro.</p>
+                    </div>
+
+                </div>
+            </div>
+        </article>
+
+        <!-- Exemplo ícone/foto + sub-titulo e texto
+        –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+        <article class="section sessao3" id="sessao3">
+            <div class="container">
+                <div class="row text-center">
+                    <h2 class="titulo">Titulo da sessão</h2>
+
+                    <!-- Coluna 1
+                    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+                    <div class="col-md-4">
+                       
+                        <div class="col-md-12">
+                            <div class="col-md-2">
+                                <i class="fa fa-book" aria-hidden="true"></i>
+                            </div>
+                            <div class="col-md-10">
+                                <p class="sub-titulo">Sub-título</p>
+                                <p>Pensando a longo prazo, o julgamento imparcial das eventualidades não pode mais se dissociar das regras de conduta normativas.</p>
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <!-- Coluna 2
+                    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+                    <div class="col-md-4">
+                       
+                        <div class="col-md-12">
+                            <div class="col-md-2">
+                                <i class="fa fa-rocket" aria-hidden="true"></i>
+                            </div>
+                            <div class="col-md-10">
+                                <p class="sub-titulo">Sub-título</p>
+                                <p>Todas estas questões, devidamente ponderadas, levantam várias dúvidas sobre a contínua expansão de nossa atividade.</p>
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <!-- Coluna 3
+                    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+                    <div class="col-md-4">
+                       
+                        <div class="col-md-12">
+                            <div class="col-md-2">
+                                <i class="fa fa-car" aria-hidden="true" style="margin-left: -10px;"></i>
+                            </div>
+                            <div class="col-md-10">
+                                <p class="sub-titulo">Sub-título</p>
+                                <p>Desta maneira, a percepção das dificuldades acarreta um processo de reformulação do retorno esperado a longo prazo.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </article>
+        
+    </main>
+
+    <!-- Rodapé
+    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <footer id="rodape">
+        <div class="container">
+            <div class="row text-center">
+                <p><a href="#inicio">Nome do Portal</a> &copy; 2018 - Todos os direitos reservados.</p>
+                <div class="borda"></div>
+                <p><a href="#quem somos">Informação sobre a equipe</a></p>
+            </div>
+        </div>
+    </footer>
+
+</body>
+
+</html>
