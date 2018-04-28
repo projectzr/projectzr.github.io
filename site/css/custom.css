@@ -46,7 +46,7 @@ a:hover {
     text-decoration: underline;
 }
 
-/* Navbar Customização
+/* Navbar
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .navbar-custom {
     font-weight: bold;
@@ -97,7 +97,7 @@ a:hover {
     height: 1px;
 }
 
-/* Escola - PADRÕES
+/* Escolas - PADRÕES
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .escolas {
     background-color: #ebebeb;
@@ -171,7 +171,7 @@ a:hover {
     width: 100%;
 }
 
-/* Escola - EXCLUSIVOS
+/* Escolas - EXCLUSIVOS
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .escola1 .person {
     background-image: url('https://images.unsplash.com/photo-1455758190477-ac7265bc8139?fit=crop&h=800&q=80');
