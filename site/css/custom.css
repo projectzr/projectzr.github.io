@@ -6,41 +6,49 @@
 
 /* Padrões
 –––-–––––––––––––––––––––––––––––––––––––––––––––– */
+
 .section {
     padding: 6rem 0;
     text-align: center;
 }
+
 .titulo {
     font-size: 3.3rem;
     font-weight: bold;
     margin-bottom: 6rem;
     font-family: 'Bitter', serif;
-/*    text-transform: uppercase;*/
+    /*    text-transform: uppercase;*/
     font-variant: small-caps;
     letter-spacing: .3rem;
 }
+
 .sub-titulo {
     font-size: 1.7rem;
     font-weight: bold;
     font-family: 'Bitter', serif;
 }
+
 .extra-space {
     /* usado pra casos específicos onde se QUER aplicar um espaçamento padrao */
     margin-bottom: 6rem;
 }
+
 .no-space {
     /* usado pra casos específicos onde não se quer o espaçamento padrao */
     margin-bottom: 0;
 }
+
 p {
     font-size: 1.7rem;
     line-height: 2.95rem;
     font-family: 'Slabo 27px', serif;
 }
+
 a {
     color: #00b1ff;
     text-decoration: none;
 }
+
 a:hover {
     color: #52caff;
     text-decoration: underline;
@@ -48,20 +56,25 @@ a:hover {
 
 /* Navbar
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
+
 .navbar-custom {
     font-weight: bold;
 }
+
 .navbar-custom a {
     color: #ddd;
     text-decoration: none;
 }
+
 .navbar-custom a:hover {
     color: #fff;
 }
+
 .navbar-inverse {
-    background-color: rgba(34,34,34,0.92);
+    background-color: rgba(34, 34, 34, 0.92);
     border-bottom: 0;
 }
+
 .navbar-brand {
     font-weight: normal;
     letter-spacing: 0;
@@ -69,12 +82,14 @@ a:hover {
 
 /* Header
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
+
 .inicio img {
     margin: 0 auto;
     max-width: 157px;
     padding-top: 80px;
     width: 100%;
 }
+
 .inicio p {
     color: white;
     font-size: 20pt;
@@ -83,7 +98,9 @@ a:hover {
     text-shadow: 2px 2px 1px rgba(0, 0, 0, 0.8);
     text-transform: uppercase;
 }
+
 /* esse é um estilo padrão usado pela API de parallax */
+
 .parallax-window {
     align-items: center;
     background: transparent;
@@ -93,15 +110,18 @@ a:hover {
 
 /* Divisores
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
+
 .divisor {
     height: 1px;
 }
 
 /* Escolas - PADRÕES
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
+
 .escolas {
     background-color: #ebebeb;
 }
+
 .autor-destaque {
     margin: .5rem 0;
     box-shadow: 0 0 5px rgba(185, 185, 185, 0.8);
@@ -111,8 +131,9 @@ a:hover {
     background-color: #bfbfbf;
     display: table;
     width: 100%;
-    height:calc(100% - 1rem);
+    height: calc(100% - 1rem);
 }
+
 @media (min-width: 991px) {
     /* usado para ajustar a altura do autor 
     em destaque de acordo com o conteudo, apenas
@@ -121,6 +142,7 @@ a:hover {
         display: flex;
     }
 }
+
 @media (max-width: 992px) {
     /* Cria um tamanho fixo para
     quando não está mais dividindo espaço
@@ -130,8 +152,9 @@ a:hover {
         display: block;
     }
 }
+
 .autor-descricao {
-    background-color: rgba(0,0,0,0.8);
+    background-color: rgba(0, 0, 0, 0.8);
     bottom: 0;
     color: white;
     left: 0;
@@ -139,6 +162,7 @@ a:hover {
     width: 100%;
     padding: 3rem 2rem;
 }
+
 .autor-titulo {
     position: relative;
     font-family: 'Bitter', serif;
@@ -146,6 +170,7 @@ a:hover {
     font-size: 27pt;
     margin-bottom: 20px;
 }
+
 .autor-titulo:after {
     content: '';
     position: absolute;
@@ -155,17 +180,21 @@ a:hover {
     height: 2px;
     background-color: #ededed;
 }
+
 .autor-texto {
     font-size: 14pt;
 }
+
 .materia {
     margin: .5rem 0;
     background-color: #f3f3f3;
     box-shadow: 0 0 5px rgba(185, 185, 185, 0.8);
 }
+
 .materia .titulo {
     margin: 1rem 0;
 }
+
 .materia-img {
     margin: 1rem 0;
     width: 100%;
@@ -173,9 +202,11 @@ a:hover {
 
 /* Escolas - EXCLUSIVOS
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
+
 .escola1 .person {
     background-image: url('https://images.unsplash.com/photo-1455758190477-ac7265bc8139?fit=crop&h=800&q=80');
 }
+
 .escola1 .materia-img {
     border-left: 4px solid #0EBEFF;
 }
@@ -183,9 +214,11 @@ a:hover {
 .divisor.escola2 {
     background-color: #db123a;
 }
+
 .escola2 .person {
     background-image: url('https://images.unsplash.com/photo-1485056850891-99e734b7083d?fit=crop&h=800&q=80');
 }
+
 .escola2 .materia-img {
     border-left: 4px solid #db123a;
 }
@@ -193,9 +226,11 @@ a:hover {
 .divisor.escola3 {
     background-color: #009688;
 }
+
 .escola3 .person {
     background-image: url('https://images.unsplash.com/photo-1485463969733-3b3853b9d1bc?fit=crop&h=800&q=80');
 }
+
 .escola3 .materia-img {
     border-left: 4px solid #009688;
 }
@@ -203,9 +238,11 @@ a:hover {
 .divisor.escola4 {
     background-color: #FF9800;
 }
+
 .escola4 .person {
     background-image: url('https://images.unsplash.com/photo-1524109778675-a86c515079cb?fit=crop&h=800&q=80');
 }
+
 .escola4 .materia-img {
     border-left: 4px solid #FF9800;
 }
@@ -213,9 +250,11 @@ a:hover {
 .divisor.escola5 {
     background-color: #0077ac;
 }
+
 .escola5 .person {
     background-image: url('https://images.unsplash.com/photo-1488862909749-5b4d9fea994c?fit=crop&h=800&q=80');
 }
+
 .escola5 .materia-img {
     border-left: 4px solid #0077ac;
 }
@@ -223,40 +262,48 @@ a:hover {
 .divisor.escola6 {
     background-color: #ff579e;
 }
+
 .escola6 .person {
     background-image: url('https://images.unsplash.com/photo-1507809796103-09a999870b99?fit=crop&h=800&q=80');
 }
+
 .escola6 .materia-img {
     border-left: 4px solid #ff579e;
 }
 
 /* Rodapé
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
+
 footer {
     background-color: #1a1a1a;
     padding: 25px 0 10px 0;
 }
+
 footer p {
     color: white;
     font-size: 1.2rem;
     font-weight: bold;
 }
+
 /* isso é só pra criar uma linha "divisoria" no footer */
+
 footer .texto:first-child::after {
-	background: #555;
-	content: '';
-	display: block;
-	height: 1px;
-	margin: 0 auto;
+    background: #555;
+    content: '';
+    display: block;
+    height: 1px;
+    margin: 0 auto;
     margin-bottom: 30px;
     position: relative;
     top: 15px;
-	width: 200px;
+    width: 200px;
 }
 
 /* Pace Loading (API DE LOADING)
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
+
 /* This is a compiled file, you should be editing the file in the templates directory */
+
 .pace {
     -webkit-pointer-events: none;
     pointer-events: none;
@@ -264,9 +311,11 @@ footer .texto:first-child::after {
     -moz-user-select: none;
     user-select: none;
 }
+
 .pace-inactive {
     display: none;
 }
+
 .pace .pace-progress {
     /* COR DA PARRA DE LOADING */
     background: #00b1ff;
@@ -276,4 +325,41 @@ footer .texto:first-child::after {
     top: 0;
     width: 100%;
     z-index: 2000;
+}
+
+
+/*QuemSomos 
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+.escola1 {
+    border-left: 4px solid #0EBEFF;
+}
+
+.escola2 {
+    border-left: 4px solid #db123a;
+}
+
+.escola3 {
+    border-left: 4px solid #009688;
+}
+
+.escola4 {
+    border-left: 4px solid #FF9800;
+}
+
+.escola5 {
+    border-left: 4px solid #0077ac;
+}
+
+.escola6 {
+    border-left: 4px solid #ff579e;
+    ;
+}
+
+.thumbnail {
+    border-radius: 0px;
+}
+
+.caption p {
+    text-align: justify;
 }
