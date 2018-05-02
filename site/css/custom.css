@@ -331,35 +331,36 @@ footer .texto:first-child::after {
 /*QuemSomos 
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
-.escola1 {
-    border-left: 4px solid #0EBEFF;
-}
-
-.escola2 {
-    border-left: 4px solid #db123a;
-}
-
-.escola3 {
-    border-left: 4px solid #009688;
-}
-
-.escola4 {
-    border-left: 4px solid #FF9800;
-}
-
-.escola5 {
-    border-left: 4px solid #0077ac;
-}
-
-.escola6 {
-    border-left: 4px solid #ff579e;
-    ;
-}
-
 .thumbnail {
     border-radius: 0px;
+    text-align: center;
 }
 
 .caption p {
     text-align: justify;
+}
+
+.thumbnail.escola1 {
+    border-left: 4px solid #0EBEFF;
+}
+
+.thumbnail.escola2 {
+    border-left: 4px solid #db123a;
+}
+
+.thumbnail.escola3 {
+    border-left: 4px solid #009688;
+}
+
+.thumbnail.escola4 {
+    border-left: 4px solid #FF9800;
+}
+
+.thumbnail.escola5 {
+    border-left: 4px solid #0077ac;
+}
+
+.thumbnail.escola6 {
+    border-left: 4px solid #ff579e;
+    ;
 }
