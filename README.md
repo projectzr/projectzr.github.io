@@ -6,7 +6,6 @@ GRUPO [ Bruna – Cleisson – Filipe - Luiza - Priscila – Roberto ]
 ## Páginas
 
 * [AGENDA!](../master/AGENDA.md)
-* [Arquitetura Base](../master/ARQUITETURA-BASE.md)
 * [Arquitetura da Informação](../master/ARQUITETURA.md)
 * [Como editar arquivos ".md"](../master/DICAS.md)
 * [Informações de cada "Escola"](../master/INFOS.md)
