@@ -22,7 +22,8 @@
 - [ ] Pós-Modernismo - Filipe
 
 ##Wireframe (10/05)
-**Wireframes Pequeno**
+
+###Wireframes Pequeno
 - [x] Home
 - [x] Quem Somos
 - [x] Contato
@@ -31,7 +32,7 @@
 - [x] Termos de Uso
 - [x] Agenda
 
-**Wireframes Medio**
+###Wireframes Medio
 - [ ] Home
 - [x] Quem Somos
 - [ ] Contato
@@ -40,7 +41,7 @@
 - [ ] Termos de Uso
 - [ ] Agenda
 
-**Wireframes Grande**
+###Wireframes Grande
 - [x] Home
 - [x] Quem Somos
 - [x] Contato
@@ -50,7 +51,8 @@
 - [ ] Agenda
 
 ##Mockup (24/05)
-**Mockups Pequeno**
+
+###Mockups Pequeno
 - [ ] Home - Filipe
 - [ ] Quem Somos - Cleisson
 - [ ] Contato - Luiza
@@ -60,7 +62,8 @@
 - [ ] Agenda - Roberto
 
 ##Código
-**HTML/CSS Primeira Versão** (14/06)
+
+###HTML/CSS Primeira Versão (14/06)
 - [x] Home - Filipe
 - [x] Quem Somos - Cleisson
 - [ ] Contato - Luiza
@@ -69,7 +72,7 @@
 - [ ] Termos de Uso - Bruna
 - [ ] Agenda - Roberto
 
-**HTML/CSS Versão Final** (21/06)
+###HTML/CSS Versão Final (21/06)
 - [ ] Home - Filipe
 - [ ] Quem Somos - Cleisson
 - [ ] Contato - Luiza
@@ -79,18 +82,20 @@
 - [ ] Agenda - Roberto
 
 ##Validação
-**Edição e Validação** (14 e 21 de junho)
+
+###Edição e Validação (14 e 21 de junho)
 - [ ] Páginas Comuns - Filipe
 
 ##Páginas Individuais
-**Primeira Versão** (14/06)
+
+###Primeira Versão (14/06)
 - [ ] Romantismo - Roberto
 - [ ] Realismo - Luiza
 - [ ] Simbolismo - Cleisson
 - [ ] Pré-Modernismo - Bruna
 - [ ] Modernismo - Priscila
 
-**Versão Final** (21/06)
+###Versão Final (21/06)
 - [ ] Romantismo - Roberto
 - [ ] Realismo - Luiza
 - [ ] Simbolismo - Cleisson
