@@ -5,6 +5,7 @@ GRUPO [ Bruna – Cleisson – Filipe - Luiza - Priscila – Roberto ]
 
 ## Páginas
 
+* [AGENDA!](../master/AGENDA.md)
 * [Arquitetura da Informação](../master/ARQUITETURA.md)
 * [Como editar arquivos ".md"](../master/DICAS.md)
 * [Informações de cada "Escola"](../master/INFOS.md)
@@ -16,12 +17,12 @@ GRUPO [ Bruna – Cleisson – Filipe - Luiza - Priscila – Roberto ]
 
 Escolas                                          | Responsável
 ------------------------------------------------ | -----------
-Romantismo (1836 - 1881)                         | (-)
-Realismo Naturalismo Parnasianismo (1881 - 1893) | (-)
-Simbolismo (1893 - 1910)                         | (-)
-Pré-Modernismo (1910 - 1922)                     | (-)
-Modernismo (1922 - 1950)                         | (-)
-Pós-Modernismo (1950 - até hoje)                 | (-)
+Romantismo (1836 - 1881)                         | (Roberto)
+Realismo Naturalismo Parnasianismo (1881 - 1893) | (Luiza)
+Simbolismo (1893 - 1910)                         | (Cleisson)
+Pré-Modernismo (1910 - 1922)                     | (Bruna)
+Modernismo (1922 - 1950)                         | (Priscila)
+Pós-Modernismo (1950 - até hoje)                 | (Filipe)
 
 
 ## Principais critérios de avaliação
