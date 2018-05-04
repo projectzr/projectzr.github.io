@@ -1,17 +1,29 @@
 # Projeto Integrador - Arquitetura da Informação
 Página de informações sobre a arquitetura das páginas
-* Deixe sempre separado por título
-* Tente sintetizar ao máximo a informação
 
 ## Página Principal (index)
 ### Nav
-* PRINCIPAL: Categorias
-* SUB: dropdown com fases da categoria
+- Home
+- Escolas (dropdown)
+- - Romantismo
+- - Realismo
+- - Simbolismo
+- - Pré-Modernismo
+- - Modernismo
+- - Pós-Modernismo
+- - Dicas de Vestibular
+- Contato
+- Agenda
+- Institucional (dropdown)
+- - Quem Somos
+- - Academia
+- - Termos de Uso
 ### Header 
-* Imagem Machado de assis+frase (header padrão)
+* PRINCIPAL: Imagem Machado de assis+frase
+* SECUNDARIAS: Imagem Padrao com titulo
 ### Categorias
 > DIVISÃO POR ESCOLAS LITERARIAS
-* Autor de Destaque da escola em questão
-* Principais Obras - Relacionadas ao autor de destaque
-* Contexto Histórico - o contexto no qual o autor de destaque vivia
-* Livros do vestibular - o(s) livro(s) que mais caem no vestibular
+- Autor de Destaque (da escola em questão)
+- Principais Obras (Relacionadas a toda escola)
+- Contexto Histórico (o contexto no qual a escola se iniciou)
+* Livros do vestibular - Esse link é encaminhado a página de dicas
