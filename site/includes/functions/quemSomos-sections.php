@@ -7,10 +7,10 @@
     <div class="container">
         <div class="section">
             <!-- Coluna 1
-–––––––––––––––––––––––––––––––––––––––––––––––––– -->
+            –––––––––––––––––––––––––––––––––––––––––––––––––– -->
             <div class="col-xs-12 col-md-12">
                 <!-- Primeira linha
-–––––––––––––––––––––––––––––––––––––––––––––––––– -->
+                –––––––––––––––––––––––––––––––––––––––––––––––––– -->
                 <div class="row SobrePortal ">
                     <h1>Sobre o Portal</h1>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum repellat repudiandae voluptates adipisci ad fugiat perspiciatis impedit consequatur nisi reiciendis eum sunt eligendi et commodi expedita, explicabo soluta, corporis quis ipsa, illo, incidunt vero!
@@ -26,7 +26,7 @@
 
                 <h1 class="extra-space">A Equipe</h1>
                 <!-- Coluna 1
-–––––––––––––––––––––––––––––––––––––––––––––––––– -->
+                –––––––––––––––––––––––––––––––––––––––––––––––––– -->
                 <!--Integrantes 1-->
                 <div class="col-xs-12 col-md-4 extra-space">
                     <div class="thumbnail materia <?= $escola ?>">
@@ -52,7 +52,7 @@
                 <?php } ?>
                 <?php function quemSomos2 ($escola2, $perfilImagem2, $nome2, $RA2, $cargo2, $descPessoal2, $responsabilidade2) { ?>
                 <!-- Coluna 2
-–––––––––––––––––––––––––––––––––––––––––––––––––– -->
+                –––––––––––––––––––––––––––––––––––––––––––––––––– -->
                 <!--Integrantes 2-->
                 <div class="col-xs-12 col-md-4 extra-space">
                     <div class="thumbnail materia <?= $escola2 ?>">
@@ -78,7 +78,7 @@
                 <?php } ?>
                 <?php function quemSomos3 ($escola3, $perfilImagem3, $nome3, $RA3, $cargo3, $descPessoal3, $responsabilidade3) { ?>
                 <!-- Coluna 3
-–––––––––––––––––––––––––––––––––––––––––––––––––– -->
+                –––––––––––––––––––––––––––––––––––––––––––––––––– -->
                 <!--Integrantes 3-->
                 <div class="col-xs-12 col-md-4 extra-space">
                     <div class="thumbnail materia <?= $escola3 ?>">
@@ -103,11 +103,11 @@
                 </div>
                 <?php } ?>
                 <!--    Linha 2
-    ----------------------------- -->
+                ----------------------------- -->
                 <?php function quemSomos4 ($escola4, $perfilImagem4, $nome4, $RA4, $cargo4, $descPessoal4, $responsabilidade4) { ?>
 
                 <!-- Coluna 1
-–––––––––––––––––––––––––––––––––––––––––––––––––– -->
+                –––––––––––––––––––––––––––––––––––––––––––––––––– -->
                 <!--Integrantes 4-->
                 <div class="col-xs-12 col-md-4 extra-space">
                     <div class="thumbnail materia <?= $escola4 ?>">
@@ -135,7 +135,7 @@
                 <?php function quemSomos5 ($escola5, $perfilImagem5, $nome5, $RA5, $cargo5, $descPessoal5, $responsabilidade5) { ?>
 
                 <!-- Coluna 2
-–––––––––––––––––––––––––––––––––––––––––––––––––– -->
+                –––––––––––––––––––––––––––––––––––––––––––––––––– -->
                 <!--Integrantes 5-->
                 <div class="col-xs-12 col-md-4 extra-space">
                     <div class="thumbnail materia <?= $escola5 ?>">
@@ -162,7 +162,7 @@
                 <?php function quemSomos6 ($escola6, $perfilImagem6, $nome6, $RA6, $cargo6, $descPessoal6, $responsabilidade5) { ?>
 
                 <!-- Coluna 3
-–––––––––––––––––––––––––––––––––––––––––––––––––– -->
+                –––––––––––––––––––––––––––––––––––––––––––––––––– -->
                 <!--Integrantes 6-->
                 <div class="col-xs-12 col-md-4 extra-space">
                     <div class="thumbnail materia <?= $escola6 ?>">

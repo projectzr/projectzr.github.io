@@ -13,13 +13,36 @@
 
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav navbar-right">
-                    <li><a href="#inicio">Home</a></li>
-                    <li><a href="#sessao1">Sessão 1</a></li>
-                    <li><a href="#sessao2">Sessão 2</a></li>
-                    <li><a href="#sessao3">Sessão 3</a></li>
-                    <li><a href="#">Sessão 4*</a></li>
-                    <li><a href="#">Sessão 5*</a></li>
-                    <li><a href="#">Sessão 6*</a></li>
+                    <?php 
+                    function checkURL($pagina){
+                        $page = basename($_SERVER['PHP_SELF']); 
+                        if($page == $pagina){ echo 'active';}
+                        
+                        if($pagina == 'escolas.php') {
+                            if($page == 'autor-destaque.php'){ echo 'active';}
+                            if($page == 'contexto-histórico.php'){ echo 'active';}
+                            if($page == 'principais-obras.php'){ echo 'active';}
+                        }
+                    }
+                    ?>
+                    
+                    <li class="<?php checkURL('index.php');?>"><a href="index.php">Home</a></li>
+                    
+                    <li class="dropdown <?php checkURL('escolas.php');?>">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Escolas<span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="exemplo.php">Romantismo</a></li>
+                            <li><a href="exemplo.php">Realismo</a></li>
+                            <li><a href="exemplo.php">Simbolismo</a></li>
+                            <li><a href="exemplo.php">Pré-Modernismo</a></li>
+                            <li><a href="exemplo.php">Modernismo </a></li>
+                            <li><a href="exemplo.php">Pós-Modernismo</a></li>
+                        </ul>
+                    </li>
+                    
+                    <li class="<?php checkURL('contato.php');?>"><a href="<?= $path ?>contato.php">Contato</a></li>
+                    <li class="<?php checkURL('agenda.php');?>"><a href="<?= $path ?>agenda.php">Agenda</a></li>
+                    <li class="<?php checkURL('institucional.php');?>"><a href="<?= $path ?>institucional.php">Institucional</a></li>
                 </ul>
             </div>
         </div>
