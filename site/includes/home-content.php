@@ -30,19 +30,19 @@ criarSectionHome(
     // titulo 1
     'Título teste',
     // texto 1
-    'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar a manutenção das condições financeiras e administrativas exigidas.',
+    'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar.',
     // imagem 2
     'http://via.placeholder.com/125x125',
     // titulo 2
     'Título',
     // texto 2
-    'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar a manutenção das condições financeiras e administrativas exigidas.',
+    'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar.',
     // imagem 3
     'http://via.placeholder.com/125x125',
     // titulo 3
     'Título',
     // texto 3
-    'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar a manutenção das condições financeiras e administrativas exigidas.'
+    'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar.'
 );
 
 // ESCOLA 2
@@ -60,19 +60,19 @@ criarSectionHome(
     // titulo 1
     'Título teste',
     // texto 1
-    'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar a manutenção das condições financeiras e administrativas exigidas.',
+    'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar.',
     // imagem 2
     'http://via.placeholder.com/125x125',
     // titulo 2
     'Título',
     // texto 2
-    'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar a manutenção das condições financeiras e administrativas exigidas.',
+    'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar.',
     // imagem 3
     'http://via.placeholder.com/125x125',
     // titulo 3
     'Título',
     // texto 3
-    'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar a manutenção das condições financeiras e administrativas exigidas.'
+    'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar.'
 );
 
 
@@ -91,19 +91,19 @@ criarSectionHome(
     // titulo 1
     'Título teste',
     // texto 1
-    'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar a manutenção das condições financeiras e administrativas exigidas.',
+    'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar.',
     // imagem 2
     'http://via.placeholder.com/125x125',
     // titulo 2
     'Título',
     // texto 2
-    'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar a manutenção das condições financeiras e administrativas exigidas.',
+    'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar.',
     // imagem 3
     'http://via.placeholder.com/125x125',
     // titulo 3
     'Título',
     // texto 3
-    'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar a manutenção das condições financeiras e administrativas exigidas.'
+    'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar.'
 );
 
 
@@ -122,19 +122,19 @@ criarSectionHome(
     // titulo 1
     'Título teste',
     // texto 1
-    'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar a manutenção das condições financeiras e administrativas exigidas.',
+    'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar.',
     // imagem 2
     'http://via.placeholder.com/125x125',
     // titulo 2
     'Título',
     // texto 2
-    'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar a manutenção das condições financeiras e administrativas exigidas.',
+    'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar.',
     // imagem 3
     'http://via.placeholder.com/125x125',
     // titulo 3
     'Título',
     // texto 3
-    'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar a manutenção das condições financeiras e administrativas exigidas.'
+    'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar.'
 );
 
 
@@ -153,19 +153,19 @@ criarSectionHome(
     // titulo 1
     'Título teste',
     // texto 1
-    'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar a manutenção das condições financeiras e administrativas exigidas.',
+    'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar.',
     // imagem 2
     'http://via.placeholder.com/125x125',
     // titulo 2
     'Título',
     // texto 2
-    'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar a manutenção das condições financeiras e administrativas exigidas.',
+    'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar.',
     // imagem 3
     'http://via.placeholder.com/125x125',
     // titulo 3
     'Título',
     // texto 3
-    'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar a manutenção das condições financeiras e administrativas exigidas.'
+    'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar.'
 );
 
 

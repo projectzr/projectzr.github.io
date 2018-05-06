@@ -244,8 +244,14 @@ a:hover {
     quando não está mais dividindo espaço
     com o conteudo */
     .autor-destaque {
-        height: 600px;
+        height: 300px;
         display: block;
+    }
+    .autor-descricao {
+        height: 100%;
+        display: flex;
+        align-content: center;
+        justify-content: center;
     }
 }
 
@@ -257,6 +263,12 @@ a:hover {
     position: absolute;
     width: 100%;
     padding: 3rem 2rem;
+}
+
+.autor-descricao div {
+    display: table;
+    height: auto;
+    margin: auto 0;
 }
 
 .autor-titulo {
@@ -283,8 +295,10 @@ a:hover {
 
 .materia {
     margin: .5rem 0;
+    padding: 1rem;
     background-color: #f3f3f3;
     box-shadow: 0 0 5px rgba(185, 185, 185, 0.8);
+    text-align: left;
 }
 
 .materia .titulo {
@@ -292,8 +306,26 @@ a:hover {
 }
 
 .materia-img {
-    margin: 1rem 0;
+    width: 20%;
+    padding-right: 1rem;
+    min-width: 120px;
+    float: left;
+}
+
+.materia-img img {
     width: 100%;
+}
+
+@media (min-width: 992px) {
+    .materia.right {
+        text-align: right;
+    }
+    .materia-img.right {
+        min-width: calc(120px - 1rem);
+        float: right;
+        padding-right: 0;
+        margin-left: 1rem;
+    }
 }
 
 /* Escolas - EXCLUSIVOS
