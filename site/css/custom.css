@@ -109,6 +109,10 @@ a:hover {
     list-style: none;
 }
 
+.mega-dropdown-menu > li > ul > li > ul > li:first-child {
+    margin-top: 8px;
+}
+
 .mega-dropdown-menu > li > ul > li > ul > li > a {
     display: block;
     line-height: 3.5rem;
