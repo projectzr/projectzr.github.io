@@ -29,78 +29,85 @@
                 <li class="dropdown mega-dropdown <?php checkURL('escolas.php');?>">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">Escolas Literárias <span class="caret"></span></a>
                     <ul class="dropdown-menu mega-dropdown-menu">
-                        <li class="col-sm-4 col-md-3">
+                        <li class="col-sm-6 col-lg-4">
                             <ul>
-                                <li class="dropdown-header escola1-navid" id="drop-escola" data-target="drop-escola1">Romantismo</li>
-                                <div class="drop-escola nav-hide" id="drop-escola1">
-                                    <li><a href="#">Autor de destaque: Nome Sobrenome</a></li>
-                                    <li><a href="#">Obras mais importantes</a></li>
-                                    <li><a href="#">Contexto Histórico da época</a></li>
-                                </div>
+                                <li class="dropdown-header escola1-navid" data-type="drop-escola" data-target="drop-escola1"><span>Romantismo</span>
+                                    <ul class="drop-escola nav-hide" id="drop-escola1">
+                                        <li><a href="#">Autor de destaque: Nome Sobrenome</a></li>
+                                        <li><a href="#">Obras mais importantes</a></li>
+                                        <li><a href="#">Contexto Histórico da época</a></li>
+                                    </ul>
+                                </li>
+                                <li class="divider"></li>
+                            </ul>
+                        </li>     
+                        
+                        <li class="col-sm-6 col-lg-4">
+                            <ul>
+                                <li class="dropdown-header escola2-navid" data-type="drop-escola" data-target="drop-escola2"><span>Realismo</span>
+                                    <ul class="drop-escola nav-hide" id="drop-escola2">
+                                        <li><a href="#">Autor de destaque: Nome Sobrenome</a></li>
+                                        <li><a href="#">Obras mais importantes</a></li>
+                                        <li><a href="#">Contexto Histórico da época</a></li>
+                                    </ul>
+                                </li>
                                 <li class="divider"></li>
                             </ul>
                         </li>
-                        <li class="col-sm-4 col-md-3">
+                        <li class="col-sm-6 col-lg-4">
                             <ul>
-                                <li class="dropdown-header escola2-navid" id="drop-escola" data-target="drop-escola2">Realismo</li>
-                                <div class="drop-escola nav-hide" id="drop-escola2">
-                                    <li><a href="#">Autor de destaque: Nome Sobrenome</a></li>
-                                    <li><a href="#">Obras mais importantes</a></li>
-                                    <li><a href="#">Contexto Histórico da época</a></li>
-                                </div>
+                                <li class="dropdown-header escola3-navid" data-type="drop-escola" data-target="drop-escola3"><span>Simbolismo</span>
+                                    <ul class="drop-escola nav-hide" id="drop-escola3">
+                                        <li><a href="#">Autor de destaque: Nome Sobrenome</a></li>
+                                        <li><a href="#">Obras mais importantes</a></li>
+                                        <li><a href="#">Contexto Histórico da época</a></li>
+                                    </ul>
+                                </li>
                                 <li class="divider"></li>
                             </ul>
                         </li>
-                        <li class="col-sm-4 col-md-3">
+                        <li class="col-sm-6 col-lg-4">
                             <ul>
-                                <li class="dropdown-header escola3-navid" id="drop-escola" data-target="drop-escola3">Simbolismo</li>
-                                <div class="drop-escola nav-hide" id="drop-escola3">
-                                    <li><a href="#">Autor de destaque: Nome Sobrenome</a></li>
-                                    <li><a href="#">Obras mais importantes</a></li>
-                                    <li><a href="#">Contexto Histórico da época</a></li>
-                                </div>
+                                <li class="dropdown-header escola4-navid" data-type="drop-escola" data-target="drop-escola4"><span>Pré-Modernismo</span>
+                                    <ul class="drop-escola nav-hide" id="drop-escola4">
+                                        <li><a href="#">Autor de destaque: Nome Sobrenome</a></li>
+                                        <li><a href="#">Obras mais importantes</a></li>
+                                        <li><a href="#">Contexto Histórico da época</a></li>
+                                    </ul>
+                                </li>
                                 <li class="divider"></li>
                             </ul>
                         </li>
-                        <li class="col-sm-4 col-md-3 ">
+                        <li class="col-sm-6 col-lg-4">
                             <ul>
-                                <li class="dropdown-header escola4-navid" id="drop-escola" data-target="drop-escola4">Pré-Modernismo</li>
-                                <div class="drop-escola nav-hide" id="drop-escola4">
-                                    <li><a href="#">Autor de destaque: Nome Sobrenome</a></li>
-                                    <li><a href="#">Obras mais importantes</a></li>
-                                    <li><a href="#">Contexto Histórico da época</a></li>
-                                </div>
+                                <li class="dropdown-header escola5-navid" data-type="drop-escola" data-target="drop-escola5"><span>Modernismo</span>
+                                    <ul class="drop-escola nav-hide" id="drop-escola5">
+                                        <li><a href="#">Autor de destaque: Nome Sobrenome</a></li>
+                                        <li><a href="#">Obras mais importantes</a></li>
+                                        <li><a href="#">Contexto Histórico da época</a></li>
+                                    </ul>
+                                </li>
                                 <li class="divider"></li>
                             </ul>
                         </li>
-                        <li class="col-sm-4 col-md-3">
+                        <li class="col-sm-6 col-lg-4">
                             <ul>
-                                <li class="dropdown-header escola5-navid" id="drop-escola" data-target="drop-escola5">Modernismo</li>
-                                <div class="drop-escola nav-hide" id="drop-escola5">
-                                    <li><a href="#">Autor de destaque: Nome Sobrenome</a></li>
-                                    <li><a href="#">Obras mais importantes</a></li>
-                                    <li><a href="#">Contexto Histórico da época</a></li>
-                                </div>
-                                <li class="divider"></li>
-                            </ul>
-                        </li>
-                        <li class="col-sm-3">
-                            <ul>
-                                <li class="dropdown-header escola6-navid" id="drop-escola" data-target="drop-escola6">Pós-Modernismo</li>
-                                <div class="drop-escola nav-hide" id="drop-escola6">
-                                    <li><a href="#">Autor de destaque: Nome Sobrenome</a></li>
-                                    <li><a href="#">Obras mais importantes</a></li>
-                                    <li><a href="#">Contexto Histórico da época</a></li>
-                                </div>
+                                <li class="dropdown-header escola6-navid" data-type="drop-escola" data-target="drop-escola6"><span>Pós-Modernismo</span>
+                                    <ul class="drop-escola nav-hide" id="drop-escola6">
+                                        <li><a href="#">Autor de destaque: Nome Sobrenome</a></li>
+                                        <li><a href="#">Obras mais importantes</a></li>
+                                        <li><a href="#">Contexto Histórico da época</a></li>
+                                    </ul>
+                                </li>
                                 <li class="divider"></li>
                             </ul>
                         </li>
                     </ul>
                 </li>
                    
-                <li class="<?php checkURL('contato.php');?>"><a href="<?= $path ?>contato.php">Contato</a></li>
-                <li class="<?php checkURL('agenda.php');?>"><a href="<?= $path ?>agenda.php">Agenda</a></li>
-                <li class="<?php checkURL('institucional.php');?>"><a href="<?= $path ?>institucional.php">Institucional</a></li>
+                <li class="<?php checkURL('contato.php');?>"><a href="contato.php">Contato</a></li>
+                <li class="<?php checkURL('agenda.php');?>"><a href="agenda.php">Agenda</a></li>
+                <li class="<?php checkURL('institucional.php');?>"><a href="institucional.php">Institucional</a></li>
             </ul>
             <span class="navbar-text dia-nav" id="data-atual"></span>
         </div>

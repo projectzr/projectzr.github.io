@@ -27,14 +27,16 @@ $(document).ready(function () {
     /* Impede o Dropdown de sumir ao abrir um menu
      * de escola funciona apenas no celular
      -------------------------------------------- */
-    $('.dropdown-menu').on("click.bs.dropdown", function (e) {
-        console.log($(window).width());
-        if ($(window).width() < 768) {
-            e.stopPropagation();
-            e.preventDefault();    
-        }
-    });
-    $('li[id^="drop-escola"]').click(function() {
+    $('li[data-type^="drop-escola"]').click(function() {
+        
+        $('.dropdown-menu').on("click.bs.dropdown", function (e) {
+            console.log($(window).width());
+            if ($(window).width() < 768) {
+                e.stopPropagation();
+                e.preventDefault();   
+            }
+        });
+        
         if ($(window).width() < 768) {
             var rel = $(this).attr("data-target");
             var tg = document.getElementById(rel);
