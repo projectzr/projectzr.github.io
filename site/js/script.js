@@ -1,15 +1,8 @@
 $(document).ready(function () {
-    
-    /* 
-    * Efeito de rolagem e fechamento do menu ao clicar
-    * (Filipe Daineze)
+    /* Efeito de rolagem (Filipe Daineze)
     --------------------------------------------- */
-	$('a[href^="#"]').on('click', function (e) {
+	$('.intern-nav a[href^="#"]').on('click', function (e) {
 		e.preventDefault();
-        /* Fecha o nav mobile do bootstrap ao clicar */
-        if($('.navbar-toggle').css('display') !='none'){
-            $('.navbar-toggle').trigger( "click" );
-        }
 		var id = $(this).attr('href'),
 				targetOffset = $(id).offset().top;
 		$('html, body').animate({
@@ -17,4 +10,35 @@ $(document).ready(function () {
 		}, 500);
 	});
     
+    /* Data Atual
+    --------------------------------------------- */
+    var data = new Date();
+    var dia = data.getDate(); // 1-31
+    if(dia<10) { dia = '0'+dia }
+    
+    var meses = new Array('Janeiro','Fevereiro','Março','Abril','Maio','Junho','Julho','Agosto','Setembro','Outubro','Novembro','Dezembro');
+    mes = meses[data.getMonth()];
+    
+    var ano = data.getFullYear(); // 4 dígitos
+    
+    document.getElementById("data-atual").innerHTML = dia+" de "+mes+" de "+ano+" - Portal Brasil Literário";
+        
+    
+    /* Impede o Dropdown de sumir ao abrir um menu
+     * de escola funciona apenas no celular
+     -------------------------------------------- */
+    $('.dropdown-menu').on("click.bs.dropdown", function (e) {
+        console.log($(window).width());
+        if ($(window).width() < 768) {
+            e.stopPropagation();
+            e.preventDefault();    
+        }
+    });
+    $('li[id^="drop-escola"]').click(function() {
+        if ($(window).width() < 768) {
+            var rel = $(this).attr("data-target");
+            var tg = document.getElementById(rel);
+            tg.classList.toggle("nav-hide");
+        }
+    });
 });

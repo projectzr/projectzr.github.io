@@ -57,10 +57,6 @@ a:hover {
 /* Navbar
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
-.navbar-custom {
-    font-weight: bold;
-}
-
 .navbar-custom a {
     color: #ddd;
     text-decoration: none;
@@ -78,6 +74,106 @@ a:hover {
 .navbar-brand {
     font-weight: normal;
     letter-spacing: 0;
+}
+
+.navbar-collapse {
+    max-height: 90vh !important;
+}
+
+.mega-dropdown {
+    position: static !important;
+}
+
+.mega-dropdown-menu {
+    width: 100%;
+}
+
+.mega-dropdown-menu .dropdown-header {
+    padding: 10px 0px !important;
+    margin: 0;
+    line-height: 2.5rem;
+    font-size: 1.7rem;
+    font-weight: bold;
+    font-family: 'Bitter', serif;
+}
+
+.mega-dropdown-menu .dropdown-header::before {
+    content: '';
+    display: inline-block;
+    height: 12px;
+    width: 4px;
+    margin-right: 10px;
+}
+
+.mega-dropdown-menu > li > ul > div > li {
+    list-style: none;
+}
+
+.mega-dropdown-menu > li > ul > div > li > a::before {
+    content: '';
+    display: inline-block;
+    height: 4px;
+    width: 4px;
+    margin-right: 10px;
+    margin-bottom: .3rem;
+}
+
+.mega-dropdown-menu > li > ul > div > li > a {
+    display: block;
+    line-height: 3.5rem;
+}
+
+@media (min-width: 768px) {
+    /* Desktop */
+    .mega-dropdown-menu > li > ul > div > li > a {
+        line-height: 3.5rem;
+        color: #222;
+        padding-left: 10px;
+    }
+    .mega-dropdown-menu > li > ul > div > li:hover > a {
+        color: #222;
+        background-color: #eee;
+    }
+    .mega-dropdown-menu .dropdown-header {
+        padding-left: 10px !important;
+    }
+    .mega-dropdown-menu > li > ul > div > li:first-child {
+        list-style: none;
+    }
+    .mega-dropdown-menu > li > ul > div > li > a::before {
+        background-color: #222;
+    }
+}
+
+@media (max-width: 768px) {
+    /* mobile */
+    .mega-dropdown-menu > li > ul > div > li > a {
+        line-height: 4.5rem;
+    }
+    .mega-dropdown-menu > li > ul > div > li > a::before {
+        background-color: #333;
+    }
+    .nav-hide {
+        display: none;
+    }
+    .mega-dropdown-menu .dropdown-header {
+        cursor: pointer;
+    }
+    .mega-dropdown-menu .dropdown-header::after {
+        content: '+';
+        margin-left: 10px;
+    }
+}
+
+.dia-nav {
+    float: right;
+    color: #727272 !important;
+}
+
+@media (max-width: 991px) {
+    .dia-nav {
+        display: none;
+    }
 }
 
 /* Header
@@ -134,7 +230,7 @@ a:hover {
     height: calc(100% - 1rem);
 }
 
-@media (min-width: 991px) {
+@media (min-width: 992px) {
     /* usado para ajustar a altura do autor 
     em destaque de acordo com o conteudo, apenas
     quando estão lado a lado */
@@ -143,7 +239,7 @@ a:hover {
     }
 }
 
-@media (max-width: 992px) {
+@media (max-width: 991px) {
     /* Cria um tamanho fixo para
     quando não está mais dividindo espaço
     com o conteudo */
@@ -211,8 +307,12 @@ a:hover {
     border-left: 4px solid #0EBEFF;
 }
 
+.escola1-navid::before {
+    background-color: #0EBEFF;
+}
+
 .divisor.escola2 {
-    background-color: #db123a;
+    background-color: #ff579e;
 }
 
 .escola2 .person {
@@ -220,7 +320,11 @@ a:hover {
 }
 
 .escola2 .materia-img {
-    border-left: 4px solid #db123a;
+    border-left: 4px solid #ff579e;
+}
+
+.escola2-navid::before {
+    background-color: #ff579e;
 }
 
 .divisor.escola3 {
@@ -235,6 +339,10 @@ a:hover {
     border-left: 4px solid #009688;
 }
 
+.escola3-navid::before {
+    background-color: #009688;
+}
+
 .divisor.escola4 {
     background-color: #FF9800;
 }
@@ -245,6 +353,10 @@ a:hover {
 
 .escola4 .materia-img {
     border-left: 4px solid #FF9800;
+}
+
+.escola4-navid::before {
+    background-color: #FF9800;
 }
 
 .divisor.escola5 {
@@ -259,8 +371,12 @@ a:hover {
     border-left: 4px solid #0077ac;
 }
 
+.escola5-navid::before {
+    background-color: #0077ac;
+}
+
 .divisor.escola6 {
-    background-color: #ff579e;
+    background-color: #db123a;
 }
 
 .escola6 .person {
@@ -268,7 +384,11 @@ a:hover {
 }
 
 .escola6 .materia-img {
-    border-left: 4px solid #ff579e;
+    border-left: 4px solid #db123a;
+}
+
+.escola6-navid::before {
+    background-color: #db123a;
 }
 
 /* Rodapé
