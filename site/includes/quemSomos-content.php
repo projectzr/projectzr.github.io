@@ -2,6 +2,10 @@
 
 include 'includes/functions/quemSomos-sections.php'; 
 
+headerquemSomos ();
+
+// include 'includes/functions/cabecalhoQuemSomos.php';
+
 // sequencia de declaração:
 // escola (escola1, escola2, escola3, escola4, escola5, escola6)
 // Imagem de Perfil (localização da Imagem de Perfil)
@@ -13,32 +17,33 @@ include 'includes/functions/quemSomos-sections.php';
 
 // Integrante 1
 //----------------------------------------------------//
-quemSomos1(
+quemSomos(
     // escola
     'escola1',
     // Imagem Perfil
     'http://via.placeholder.com/125x125',
     // Nome
-    'Nome Aqui.',
+    'Bruna',
     // RA
     '000.0000.000.000.000',
     // Cargo
     'Cargo teste',
     // Descriçao pessoal
     'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar a manutenção das condições financeiras e administrativas exigidas.',
+    
     // Responsabilidades
     'Foi feitas as paginas x e y.'
 );
 
 // Integrante 2
 //----------------------------------------------------//
-quemSomos2(
+quemSomos(
     // escola
     'escola2',
     // Imagem Perfil
     'http://via.placeholder.com/125x125',
     // Nome
-    'Nome Aqui.',
+    'Cleisson',
     // RA
     '000.0000.000.000.000',
     // Cargo
@@ -51,13 +56,13 @@ quemSomos2(
 
 // Integrante 3
 //----------------------------------------------------//
-quemSomos3(
+quemSomos(
     // escola
     'escola3',
     // Imagem Perfil
     'http://via.placeholder.com/125x125',
     // Nome
-    'Nome Aqui.',
+    'Filipe',
     // RA
     '000.0000.000.000.000',
     // Cargo
@@ -70,13 +75,13 @@ quemSomos3(
 
 // Integrante 4
 //----------------------------------------------------//
-quemSomos4(
+quemSomos(
     // escola
     'escola4',
     // Imagem Perfil
     'http://via.placeholder.com/125x125',
     // Nome
-    'Nome Aqui.',
+    'Luiza',
     // RA
     '000.0000.000.000.000',
     // Cargo
@@ -89,13 +94,13 @@ quemSomos4(
 
 // Integrante 5
 //----------------------------------------------------//
-quemSomos5(
+quemSomos(
     // escola
     'escola5',
     // Imagem Perfil
     'http://via.placeholder.com/125x125',
     // Nome
-    'Nome Aqui.',
+    'Priscila',
     // RA
     '000.0000.000.000.000',
     // Cargo
@@ -107,13 +112,13 @@ quemSomos5(
 );
 // Integrante 6
 //----------------------------------------------------//
-quemSomos6(
+quemSomos(
     // escola
     'escola6',
     // Imagem Perfil
     'http://via.placeholder.com/125x125',
     // Nome
-    'Nome Aqui.',
+    'Roberto',
     // RA
     '000.0000.000.000.000',
     // Cargo
@@ -123,5 +128,7 @@ quemSomos6(
     // Responsabilidades
     'Foi feitas as paginas x e y.'
 );
+
+footerQuemSomos ();
     
 ?>
