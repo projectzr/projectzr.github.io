@@ -50,6 +50,14 @@
 - [ ] Termos de Uso
 - [ ] Agenda
 
+### Wireframes Areas Individuais (Todos)
+- [ ] Romantismo - Roberto
+- [ ] Realismo - Luiza
+- [ ] Simbolismo - Cleisson
+- [ ] Pré-Modernismo - Bruna
+- [ ] Modernismo - Priscila
+- [ ] Pós-Modernismo - Filipe
+
 ## Mockup (24/05)
 
 ### Mockups Pequeno
@@ -64,6 +72,9 @@
 ## Código
 
 ### HTML/CSS Primeira Versão (14/06)
+- [x] Navbar Padrao - Filipe
+- [x] Header Padrao - Filipe
+- [ ] Footer Padrao - Filipe
 - [x] Home - Filipe
 - [x] Quem Somos - Cleisson
 - [ ] Contato - Luiza
@@ -73,6 +84,9 @@
 - [ ] Agenda - Roberto
 
 ### HTML/CSS Versão Final (21/06)
+- [ ] Navbar Padrao - Filipe
+- [ ] Header Padrao - Filipe
+- [ ] Footer Padrao - Filipe
 - [ ] Home - Filipe
 - [ ] Quem Somos - Cleisson
 - [ ] Contato - Luiza
