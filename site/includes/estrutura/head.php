@@ -43,3 +43,7 @@
     <!-- Favicon
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <link rel="icon" type="image/png" href="img/favicon.png">
+
+    <!-- Logo SVG adaptável
+    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <?php include 'includes/functions/logo.php'; ?>

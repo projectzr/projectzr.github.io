@@ -199,18 +199,21 @@ a:hover {
 /* Header
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
-.inicio img {
-    margin: 0 auto;
-    max-width: 157px;
-    width: 100%;
-}
-
 .inicio p {
     color: white;
-    font-size: 20pt;
     font-weight: bold;
     text-shadow: 2px 2px 1px rgba(0, 0, 0, 0.8);
-    text-transform: uppercase;
+}
+.inicio p:last-child {
+    font-size: 12pt;
+}
+.inicio p:first-child {
+    font-size: 20pt;
+    letter-spacing: 3pt;
+}
+
+.inicio .sub {
+    padding-bottom: 18px;   
 }
 
 /* esse é um estilo padrão usado pela API de parallax */

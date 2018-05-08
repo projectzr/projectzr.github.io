@@ -7,7 +7,15 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="index.php">Brasil Literário</a>
+            <a class="navbar-brand logo-brand" href="index.php">
+                <!-- sombra, corpo, verde, amarelo, width, height -->
+                <?php logoGenerate('light', '40px', 'auto'); ?>
+            </a>
+<!--
+            <a class="navbar-brand text-brand" href="index.php">
+                Brasil Literário
+            </a>
+-->
         </div>
 
         <div class="collapse navbar-collapse js-navbar-collapse">
