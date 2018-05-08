@@ -56,6 +56,20 @@ a:hover {
     text-decoration: underline;
 }
 
+/* Desktop Only */
+@media (max-width: 768px) {
+    .desktop-only {
+        display: none;
+    }
+}
+
+/* Mobile Only */
+@media (min-width: 768px) {
+    .mobile-only {
+        display: none;
+    }
+}
+
 /* Navbar
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
@@ -188,7 +202,6 @@ a:hover {
 .inicio img {
     margin: 0 auto;
     max-width: 157px;
-    padding-top: 80px;
     width: 100%;
 }
 
@@ -196,7 +209,6 @@ a:hover {
     color: white;
     font-size: 20pt;
     font-weight: bold;
-    padding-bottom: 60px;
     text-shadow: 2px 2px 1px rgba(0, 0, 0, 0.8);
     text-transform: uppercase;
 }
@@ -207,7 +219,6 @@ a:hover {
     align-items: center;
     background: transparent;
     display: flex;
-    min-height: 30vh;
 }
 
 /* Divisores
