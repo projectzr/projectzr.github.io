@@ -6,7 +6,7 @@
 *** - Bruna
 *** - Cleisson
 *** - Filipe
-*** - Luisa
+*** - Luiza
 *** - Priscila
 *** - Roberto
 **********************************************************

@@ -44,6 +44,7 @@ p {
     font-size: 1.7rem;
     line-height: 2.95rem;
     font-family: 'Slabo 27px', serif;
+    /* font-family: 'Zilla Slab', serif; */
 }
 
 a {
@@ -503,38 +504,51 @@ footer .texto:first-child::after {
 
 /*QuemSomos 
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-.SobrePortal {
-    text-align: justify;
+.quemSomos p {
+    text-align: left;
+    font-family: 'Zilla Slab', serif;
+    line-height: 2em;
 }
 
-.SobrePortal::after {
+.quemSomos.divisor {
+    height: 1px;
+    background-color:#696969;
+    position: relative;
+    bottom: 25px;
+    margin-bottom: 3rem;
+    width: 100%;
+}
+.quemSomos.divisor::after {
     content: "";
     display: block;
+    position: relative;
     margin: 0 auto;
-    bottom: 6rem;
-    height: 0.3rem;
-    background: #6d6d6d;
-    width:100%;
-    left: 0;
+    height: 0.5rem;
+    background-color:gray;
+    width: 26%;
+    bottom:0.4rem;
+    /* left: 0; */
     margin-top: 30px;
 }
 
-.SobrePortal h1 {
+.quemSomos h1 {
     text-align: center;
     font-variant: small-caps;
 }
 
-.thumbnail {
+.quemSomos.thumbnail {
     border-radius: 0px;
     text-align: center;
+    
 }
 
 .caption p {
     text-align: justify;
+    font-family:'Zilla Slab', serif;
     line-height: 3.75rem;
 }
 
-.thumbnail h1 {
+.quemSomos.thumbnail h1 {
     font-size: 2.7rem;
     font-weight: bold;
     font-family: 'Bitter', serif;
@@ -542,52 +556,52 @@ footer .texto:first-child::after {
 
 }
 
-.thumbnail h1:after {
+.quemSomos.thumbnail h1:after {
         content: "";
         display: block;
         margin: 0 auto;
         bottom: 6rem;
-        height: 0.1rem;
+        height: 1px;
         background: #e4e4e4;
         width: 4em;
         left: 0;
         margin-top: 30px;
 }
 
-.thumbnail h2:after {
+.quemSomos.thumbnail h2:after {
     content: "";
     display: block;
     margin: 0 auto;
     bottom: 6rem;
-    height: 0.1rem;
+    height: 1px;
     background: #dedede;
-    width: 4em;
+    width: 5em;
     left: 0;
     margin-top: 30px;
 }
 
 
-.thumbnail.escola1 {
+.quemSomos.thumbnail.escola1 {
     border-left: 4px solid #0EBEFF;
 }
 
-.thumbnail.escola2 {
+.quemSomos.thumbnail.escola2 {
     border-left: 4px solid #db123a;
 }
 
-.thumbnail.escola3 {
+.quemSomos.thumbnail.escola3 {
     border-left: 4px solid #009688;
 }
 
-.thumbnail.escola4 {
+.quemSomos.thumbnail.escola4 {
     border-left: 4px solid #FF9800;
 }
 
-.thumbnail.escola5 {
+.quemSomos.thumbnail.escola5 {
     border-left: 4px solid #0077ac;
 }
 
-.thumbnail.escola6 {
+.quemSomos.thumbnail.escola6 {
     border-left: 4px solid #ff579e;
     ;
 }
