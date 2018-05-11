@@ -32,13 +32,12 @@ input {
     margin: .5rem 0;
     padding: 1rem;
     box-shadow: 0 0 5px rgba(185, 185, 185, 0.8);
-    text-align: left;
+    text-align: center;
 }
 .materia-img {
     width: 20%;
     padding-right: 1rem;
     min-width: 120px;
-    float: left !important;
     display: inline-block;
 }
 
