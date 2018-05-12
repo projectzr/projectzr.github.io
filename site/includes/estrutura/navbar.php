@@ -30,9 +30,24 @@
                     if($pagina == 'escolas.php') {
                         $escolas = array(
                             // Falta destrinchar as escolas
-                            "autor-destaque.php", 
-                            "contexto-histórico.php", 
-                            "principais-obras.php"
+                            "romantismo-autor-destaque.php", 
+                            "romantismo-contexto-histórico.php", 
+                            "romantismo-principais-obras.php",
+                            "realismo-autor-destaque.php", 
+                            "realismo-contexto-histórico.php", 
+                            "realismo-principais-obras.php",
+                            "simbolismo-autor-destaque.php", 
+                            "simbolismo-contexto-histórico.php", 
+                            "simbolismo-principais-obras.php",
+                            "pre-modernismo-autor-destaque.php", 
+                            "pre-modernismo-contexto-histórico.php", 
+                            "pre-modernismo-principais-obras.php",
+                            "modernismo-autor-destaque.php", 
+                            "modernismo-contexto-histórico.php", 
+                            "modernismo-principais-obras.php",
+                            "pos-modernismo-autor-destaque.php", 
+                            "pos-modernismo-contexto-histórico.php", 
+                            "pos-modernismo-principais-obras.php"
                         ); 
                         if (in_array($page, $escolas)) { echo 'active'; }
                     }
@@ -41,10 +56,10 @@
                         $institucional = array(
                             "quem-somos.php", 
                             "dicas-de-vestibular.php", 
-                            "academia.php"
+                            "academia.php",
                             "normas.php"
                         ); 
-                        if (in_array($page, $escolas)) { echo 'active'; }
+                        if (in_array($page, $institucional)) { echo 'active'; }
                     }
                 }
                 ?>
@@ -56,9 +71,9 @@
                             <ul>
                                 <li class="dropdown-header escola1-navid" data-type="drop-escola" data-target="drop-escola1"><span>Romantismo</span>
                                     <ul class="drop-escola nav-hide" id="drop-escola1">
-                                        <li><a href="#">Autor de destaque: Nome Sobrenome</a></li>
-                                        <li><a href="#">Obras mais importantes</a></li>
-                                        <li><a href="#">Contexto Histórico da época</a></li>
+                                        <li><a href="romantismo-contexto-histórico.php">Contexto Histórico da época</a></li>
+                                        <li><a href="romantismo-autor-destaque.php">Autor de destaque: Nome Sobrenome</a></li>
+                                        <li><a href="romantismo-principais-obras.php">Obras mais importantes</a></li>
                                     </ul>
                                 </li>
                                 <li class="divider"></li>
@@ -69,9 +84,9 @@
                             <ul>
                                 <li class="dropdown-header escola2-navid" data-type="drop-escola" data-target="drop-escola2"><span>Realismo</span>
                                     <ul class="drop-escola nav-hide" id="drop-escola2">
-                                        <li><a href="#">Autor de destaque: Nome Sobrenome</a></li>
-                                        <li><a href="#">Obras mais importantes</a></li>
-                                        <li><a href="#">Contexto Histórico da época</a></li>
+                                        <li><a href="realismo-contexto-histórico.php">Contexto Histórico da época</a></li>
+                                        <li><a href="realismo-autor-destaque.php">Autor de destaque: Nome Sobrenome</a></li>
+                                        <li><a href="realismo-principais-obras.php">Obras mais importantes</a></li>
                                     </ul>
                                 </li>
                                 <li class="divider"></li>
@@ -81,9 +96,9 @@
                             <ul>
                                 <li class="dropdown-header escola3-navid" data-type="drop-escola" data-target="drop-escola3"><span>Simbolismo</span>
                                     <ul class="drop-escola nav-hide" id="drop-escola3">
-                                        <li><a href="#">Autor de destaque: Nome Sobrenome</a></li>
-                                        <li><a href="#">Obras mais importantes</a></li>
-                                        <li><a href="#">Contexto Histórico da época</a></li>
+                                        <li><a href="simbolismo-contexto-histórico.php">Contexto Histórico da época</a></li>
+                                        <li><a href="simbolismo-autor-destaque.php">Autor de destaque: Nome Sobrenome</a></li>
+                                        <li><a href="simbolismo-principais-obras.php">Obras mais importantes</a></li>
                                     </ul>
                                 </li>
                                 <li class="divider"></li>
@@ -93,9 +108,9 @@
                             <ul>
                                 <li class="dropdown-header escola4-navid" data-type="drop-escola" data-target="drop-escola4"><span>Pré-Modernismo</span>
                                     <ul class="drop-escola nav-hide" id="drop-escola4">
-                                        <li><a href="#">Autor de destaque: Nome Sobrenome</a></li>
-                                        <li><a href="#">Obras mais importantes</a></li>
-                                        <li><a href="#">Contexto Histórico da época</a></li>
+                                        <li><a href="pre-modernismo-contexto-histórico.php">Contexto Histórico da época</a></li>
+                                        <li><a href="pre-modernismo-autor-destaque.php">Autor de destaque: Nome Sobrenome</a></li>
+                                        <li><a href="pre-modernismo-principais-obras.php">Obras mais importantes</a></li>
                                     </ul>
                                 </li>
                                 <li class="divider"></li>
@@ -105,9 +120,9 @@
                             <ul>
                                 <li class="dropdown-header escola5-navid" data-type="drop-escola" data-target="drop-escola5"><span>Modernismo</span>
                                     <ul class="drop-escola nav-hide" id="drop-escola5">
-                                        <li><a href="#">Autor de destaque: Nome Sobrenome</a></li>
-                                        <li><a href="#">Obras mais importantes</a></li>
-                                        <li><a href="#">Contexto Histórico da época</a></li>
+                                        <li><a href="modernismo-contexto-histórico.php">Contexto Histórico da época</a></li>
+                                        <li><a href="modernismo-autor-destaque.php">Autor de destaque: Nome Sobrenome</a></li>
+                                        <li><a href="modernismo-principais-obras.php">Obras mais importantes</a></li>
                                     </ul>
                                 </li>
                                 <li class="divider"></li>
@@ -117,9 +132,9 @@
                             <ul>
                                 <li class="dropdown-header escola6-navid" data-type="drop-escola" data-target="drop-escola6"><span>Pós-Modernismo</span>
                                     <ul class="drop-escola nav-hide" id="drop-escola6">
-                                        <li><a href="#">Autor de destaque: Nome Sobrenome</a></li>
-                                        <li><a href="#">Obras mais importantes</a></li>
-                                        <li><a href="#">Contexto Histórico da época</a></li>
+                                        <li><a href="pos-modernismo-contexto-histórico.php">Contexto Histórico da época</a></li>
+                                        <li><a href="pos-modernismo-autor-destaque.php">Autor de destaque: Nome Sobrenome</a></li>
+                                        <li><a href="pos-modernismo-principais-obras.php">Obras mais importantes</a></li>
                                     </ul>
                                 </li>
                                 <li class="divider"></li>
