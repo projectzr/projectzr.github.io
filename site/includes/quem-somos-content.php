@@ -1,6 +1,6 @@
 <?php 
 
-include 'includes/functions/quemSomos-sections.php'; 
+include 'includes/functions/quem-somos-sections.php'; 
 
 headerquemSomos ();
 

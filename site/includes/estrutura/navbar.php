@@ -29,7 +29,6 @@
                     // Rever possível uso de regex
                     if($pagina == 'escolas.php') {
                         $escolas = array(
-                            // Falta destrinchar as escolas
                             "romantismo-autor-destaque.php", 
                             "romantismo-contexto-histórico.php", 
                             "romantismo-principais-obras.php",

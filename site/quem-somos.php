@@ -27,7 +27,7 @@
 –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <main>
 
-        <?php include 'includes/quemSomos-content.php'; ?>
+        <?php include 'includes/quem-somos-content.php'; ?>
 
     </main>
 
