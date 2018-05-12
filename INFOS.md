@@ -1,4 +1,4 @@
-# Romantismo (1836 - 1881)
+# Romantismo (1836 - 1881) 
 
 ### Características
 Cada uma das fases do Romantismo apresenta características distintas:
