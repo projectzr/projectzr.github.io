@@ -21,7 +21,7 @@
 
     <!-- Header
 –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <?php include 'includes/home-header.php'; ?>
+    <?php $titulo='Portal Brasil Literário'; $subtitulo='Quem Somos'; include 'includes/section-header.php'; ?>
 
     <!-- Conteúdo
 –––––––––––––––––––––––––––––––––––––––––––––––––– -->
