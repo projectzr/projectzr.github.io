@@ -26,11 +26,25 @@
                     $page = basename($_SERVER['PHP_SELF']);  
                     if($page == $pagina){ echo 'active'; } 
 
-                    // Rever uso codigo trecho
+                    // Rever possível uso de regex
                     if($pagina == 'escolas.php') {
-                        if($page == 'autor-destaque.php'){ echo 'active'; }
-                        if($page == 'contexto-histórico.php'){ echo 'active'; }
-                        if($page == 'principais-obras.php'){ echo 'active'; }
+                        $escolas = array(
+                            // Falta destrinchar as escolas
+                            "autor-destaque.php", 
+                            "contexto-histórico.php", 
+                            "principais-obras.php"
+                        ); 
+                        if (in_array($page, $escolas)) { echo 'active'; }
+                    }
+                    
+                    if($pagina == 'institucional.php') {
+                        $institucional = array(
+                            "quem-somos.php", 
+                            "dicas-de-vestibular.php", 
+                            "academia.php"
+                            "normas.php"
+                        ); 
+                        if (in_array($page, $escolas)) { echo 'active'; }
                     }
                 }
                 ?>
@@ -120,11 +134,11 @@
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
                     Institucional<span class="caret"></span></a>
                     <ul class="dropdown-menu basic-menu">
-                        <li><a href="#">Quem somos</a></li>
-                        <li><a href="#">Dicas de Vestibular</a></li>
-                        <li><a href="#">Academia Brasileira de Letras</a></li>
+                        <li><a href="quem-somos.php">Quem somos</a></li>
+                        <li><a href="dicas-de-vestibular.php">Dicas de Vestibular</a></li>
+                        <li><a href="academia.php">Academia Brasileira de Letras</a></li>
                         <li role="separator" class="divider"></li>
-                        <li><a href="#">Normas de utilização</a></li>
+                        <li><a href="normas.php">Normas de utilização</a></li>
                     </ul>
                 </li>
             </ul>
