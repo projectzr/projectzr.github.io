@@ -189,6 +189,9 @@ a:hover {
     .mega-dropdown-menu .dropdown-header span {
         cursor: pointer;
     }
+    .basic-menu>li>a {
+        padding: 8px 15px 8px 25px !important;
+    }
 }
 
 @media (max-width: 991px) {
@@ -212,9 +215,12 @@ a:hover {
     font-size: 20pt;
     letter-spacing: 3pt;
 }
-
-.inicio .sub {
+.inicio .title, .inicio .subtitle {
     padding-bottom: 18px;   
+}
+.inicio .subtitle {
+    font-size: 2rem !important;
+    margin-top: -18px;
 }
 
 /* esse é um estilo padrão usado pela API de parallax */

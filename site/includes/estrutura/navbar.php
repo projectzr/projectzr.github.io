@@ -23,13 +23,14 @@
                 
                 <?php 
                 function checkURL($pagina){
-                    $page = basename($_SERVER['PHP_SELF']); 
-                    if($page == $pagina){ echo 'active';}
+                    $page = basename($_SERVER['PHP_SELF']);  
+                    if($page == $pagina){ echo 'active'; } 
 
+                    // Rever uso codigo trecho
                     if($pagina == 'escolas.php') {
-                        if($page == 'autor-destaque.php'){ echo 'active';}
-                        if($page == 'contexto-histórico.php'){ echo 'active';}
-                        if($page == 'principais-obras.php'){ echo 'active';}
+                        if($page == 'autor-destaque.php'){ echo 'active'; }
+                        if($page == 'contexto-histórico.php'){ echo 'active'; }
+                        if($page == 'principais-obras.php'){ echo 'active'; }
                     }
                 }
                 ?>
@@ -115,7 +116,17 @@
                    
                 <li class="<?php checkURL('contato.php');?>"><a href="contato.php">Contato</a></li>
                 <li class="<?php checkURL('agenda.php');?>"><a href="agenda.php">Agenda</a></li>
-                <li class="<?php checkURL('institucional.php');?>"><a href="institucional.php">Institucional</a></li>
+                <li class="dropdown <?php checkURL('institucional.php');?>">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                    Institucional<span class="caret"></span></a>
+                    <ul class="dropdown-menu basic-menu">
+                        <li><a href="#">Quem somos</a></li>
+                        <li><a href="#">Dicas de Vestibular</a></li>
+                        <li><a href="#">Academia Brasileira de Letras</a></li>
+                        <li role="separator" class="divider"></li>
+                        <li><a href="#">Normas de utilização</a></li>
+                    </ul>
+                </li>
             </ul>
             <span class="navbar-text dia-nav" id="data-atual"></span>
         </div>

@@ -3,7 +3,12 @@
             <div class="container">
                 <div class="row text-center">
                     <div class="col-md-12" style="margin: 97px 0 23px 0;">
-                        <p class="sub"><?= $titulo ?></p>
+                        <p class="title"><?= $titulo ?></p>
+                        <?php 
+                        if(isset($subtitulo)){
+                            echo '<p class="subtitle">'.$subtitulo.'</p>';
+                        }
+                        ?>
                     </div>
                 </div>
             </div>

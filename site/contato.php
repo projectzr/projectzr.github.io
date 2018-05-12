@@ -23,6 +23,9 @@
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <?php 
     $titulo="CONTATO";
+    // SE VOCÊ NÃO DECLARAR A VARIAVEL SUBTITULO
+    // VAI FUNCIONAR! FICARÁ APENAS COM UM TITULO
+    $subtitulo="TESTE"; 
     include 'includes/section-header.php'; 
     ?>    
 
