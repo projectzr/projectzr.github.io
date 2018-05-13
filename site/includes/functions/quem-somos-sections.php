@@ -9,9 +9,9 @@
             <div class="col-xs-12 col-md-12">
                 <!-- Primeira linha
             –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-                <div class="row quemSomos extra-space ">
+                <div class="row QM extra-space ">
                     <h1 class="titulo">Sobre o Portal</h1>
-                    <div class="quemSomos divisor "></div>
+                    <div class="QM divisor "></div>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum repellat repudiandae voluptates adipisci
                     d fugiat perspiciatis impedit consequatur nisi reiciendis eumsunt eligendi et commodi expedita,
                     explicabo soluta, corporis quis ipsa, illo, incidunt vero!
@@ -25,10 +25,10 @@
             </div>
 
             <div class="col-xs-12 col-md-12">
-                <div class="row quemSomos">
+                <div class="row QM">
 
                     <h1 class="titulo">A Equipe</h1>
-                    <div class="quemSomos divisor "></div>
+                    <div class="QM divisor "></div>
 
 
                     <?php } ?>
@@ -38,7 +38,7 @@
 –––––––––––––––––––––––––––––––––––––––––––––––––– -->
                     <!--Integrantes -->
                     <div class="col-xs-12 col-md-6 col-lg-4 extra-space">
-                        <div class="quemSomos thumbnail materia <?= $escola ?>">
+                        <div class="QM thumbnail materia <?= $escola ?>">
                             <img src="<?= $perfilImagem ?> " alt="..." class="img-circle">
                             <div class="caption">
                                 <h1 class="sub-titulo">
