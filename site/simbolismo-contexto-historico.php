@@ -30,7 +30,7 @@
         
         <!-- Escolas Literárias
         –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-        <?php include 'includes/home-content.php'; ?>    
+       <h1>Era para ter contexto historico</h1>
         
     </main>
 

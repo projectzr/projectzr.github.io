@@ -29,8 +29,10 @@
         <h1 style="display: none">Conteúdo</h1>
         
         <!-- Escolas Literárias
+     
         –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-        <?php include 'includes/home-content.php'; ?>    
+        <h1>vai ter principais obras aqui</h1>
+       
         
     </main>
 
