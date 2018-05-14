@@ -634,3 +634,6 @@ footer .texto:first-child::after {
     border-left: 4px solid #ff579e;
     ;
 }
+
+/*CSS Formulário da página contato*/
+.classecontato {margin-top: 34px;}
