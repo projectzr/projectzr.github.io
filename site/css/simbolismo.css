@@ -1,41 +1,5 @@
-
-/* .imagemAutor {
-  background-image: url('https://placehold.it/460x620?text=Autor-Destaque');
-  background-repeat: no-repeat;
-  width: 100vw;
-  height: 100vh;
-}
- */
-@media (min-width: 768px) {
-
-  .texto {
-    display: flex;
-    width: 100%;
-    height: 100vh;
-    flex-direction: column;
-    justify-content: center;
-  }
-  }
-
-@media (min-width: 992px) {
-
-  .texto {
-    display: flex;
-    width: 100%;
-    height: 100vh;
-    flex-direction: column;
-    justify-content: center;
-  }
-  }
-
-
-@media (min-width: 1200px) {
-
-.texto {
-  display: flex;
-  width: 100%;
-  height: 60vh;
-  flex-direction: column;
-  justify-content: center;
-}
+hr{
+  height:1px;
+  background-color:#696969;
+  width: 90%;
 }

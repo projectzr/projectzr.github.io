@@ -34,7 +34,9 @@
     <!-- titulos -->
     <link href="https://fonts.googleapis.com/css?family=Bitter" rel="stylesheet">
     <!-- textos -->
-    <link href="https://fonts.googleapis.com/css?family=Slabo+27px|Zilla+Slab" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Slabo+27px" rel="stylesheet">
+
+    <link href="https://fonts.googleapis.com/css?family=Zilla+Slab" rel="stylesheet">
     
     <!-- CSS
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
