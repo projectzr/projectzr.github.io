@@ -8,7 +8,27 @@ hr{
   width: 90%;
 }
 
-.line::after{
+aside p {
+  font-family: 'Sriracha', cursive;
+}
+
+article p{
+  text-align: left;
+  font-family: 'Zilla Slab', serif;
+  line-height: 2em;
+}
+@media (min-width: 534px) {
+  .centro 
+  {
+    width: 100%;
+  margin: 0 auto;
+}
+}
+
+
+
+
+.line:after{
   content: "";
   display: block;
   margin-top: 0.2em;

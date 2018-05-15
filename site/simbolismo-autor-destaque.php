@@ -11,6 +11,7 @@
   <title>Brasil Literário - Simbolismo: Autor de Destaque</title>
   <?php include 'includes/estrutura/head.php'; ?>
   <link rel="stylesheet" href="css/simbolismo.css">
+  <link href="https://fonts.googleapis.com/css?family=Sriracha" rel="stylesheet">
 
 </head>
 
@@ -33,13 +34,15 @@
 
     <!-- Escolas Literárias
         –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <div class="container-fluid">
+        <aside>
+    <div class="container">
       <div class="row">
         <h2 class="titulo text-center">Cruz e Souza</h2>
         <hr class="hidden-xs">
         <div class="media">
           <div class="media-left media-middle">
-            <img class="media-object  center-block" src="https://placehold.it/544x600?text=Autor-Destaque" alt="Autor de Destaque ">
+            <img class="media-object centro" src="
+            img/simb/cruz-e-souza.jpg" alt="Autor de Destaque ">
           </div>
           <div class="media-body media-middle hidden-xs">
             <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rem et necessitatibus, ea saepe quas optio perspiciatis
@@ -65,6 +68,7 @@
         </div>
       </div>
     </div>
+    </aside>
     <div class="container text-left">
       <div class="col-xs-12">
         <div class="row">
