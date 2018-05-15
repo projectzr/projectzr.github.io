@@ -33,7 +33,7 @@
         –––––––––––––––––––––––––––––––––––––––––––––––––– -->
 <div class="container section">
 <div class="row text-left">
-<h1 class="paddingh1">Contexto Histórico do Realismo</h1>
+<h1 class="paddingh1 titulo">Contexto Histórico do Realismo</h1>
 <article class="col-xs-12 col-md-6 ">
  <div class=" col-xs-12 col-md-12 paddingimg">  <img src="img/obrarealista.jpg" alt="Pintura do Baile da Ilha de Fiscal" class="descricaoimg">
    <p>"Pintura do Baile da Ilha Fiscal, o último da monarquia brasileira." - Livro 1889.</p>
