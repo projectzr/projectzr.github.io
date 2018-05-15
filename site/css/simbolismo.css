@@ -1,5 +1,18 @@
+.titulo {
+  margin-bottom: 3rem;
+}
+
 hr{
   height:1px;
   background-color:#696969;
   width: 90%;
+}
+
+.line::after{
+  content: "";
+  display: block;
+  margin-top: 0.2em;
+  height: 3px;
+  background: #3333339f;
+  width: 5em;
 }
