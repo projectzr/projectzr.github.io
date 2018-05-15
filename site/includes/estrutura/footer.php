@@ -21,15 +21,15 @@
                     <div class="row">
                         
                         <div class="footer-escolas col-sm-6">
-                            <p>- <a href="romantismo-contexto-histórico.php">Romantismo</a></p>
-                            <p>- <a href="realismo-contexto-histórico.php">Realismo</a></p>
-                            <p>- <a href="simbolismo-contexto-histórico.php">Simbolismo</a></p>
+                            <p>- <a href="romantismo-contexto-historico.php">Romantismo</a></p>
+                            <p>- <a href="realismo-contexto-historico.php">Realismo</a></p>
+                            <p>- <a href="simbolismo-contexto-historico.php">Simbolismo</a></p>
                         </div>
                         
                         <div class="footer-escolas col-sm-6">
-                            <p>- <a href="pre-modernismo-contexto-histórico.php">Pré-Modernismo</a></p>
-                            <p>- <a href="modernismo-contexto-histórico.php">Modernismo</a></p>
-                            <p>- <a href="pos-modernismo-contexto-histórico.php">Pós-Modernismo</a></p>
+                            <p>- <a href="pre-modernismo-contexto-historico.php">Pré-Modernismo</a></p>
+                            <p>- <a href="modernismo-contexto-historico.php">Modernismo</a></p>
+                            <p>- <a href="pos-modernismo-contexto-historico.php">Pós-Modernismo</a></p>
                         </div>
                         
                     </div>
