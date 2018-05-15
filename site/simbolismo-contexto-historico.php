@@ -30,7 +30,12 @@
         
         <!-- Escolas Literárias
         –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-       <h1>Era para ter contexto historico</h1>
+       <h1>Contexto historico</h1>
+
+<p>Teste Responsivo</p>
+
+
+
         
     </main>
 
