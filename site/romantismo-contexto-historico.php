@@ -8,9 +8,9 @@
     <!-- Informações básicas
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <meta charset="utf-8">
-    <title>Brasil Literário - Simbolismo: Contexto Histórico</title>
+    <title>Brasil Literário - Romantismo: Contexto Histórico</title>
+    <link rel="stylesheet" href="css/romantismo.css">
     <?php include 'includes/estrutura/head.php'; ?>
-  <link rel="stylesheet" href="css/simbolismo.css">
     
 </head>
 
@@ -22,7 +22,11 @@
 
     <!-- Header
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <?php $titulo='Simbolismo'; $subtitulo='Contexto Histórico'; include 'includes/section-header.php'; ?>
+    <?php 
+    $titulo="Romantismo";
+    $subtitulo="Contexto Histórico"; 
+    include 'includes/section-header.php'; 
+    ?>    
 
     <!-- Conteúdo
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->

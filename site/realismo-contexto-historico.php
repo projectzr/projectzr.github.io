@@ -8,7 +8,7 @@
     <!-- Informações básicas
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <meta charset="utf-8">
-    <title>TITULO DO SITE</title>
+    <title>Brasil Literário - Realismo: Contexto Histórico</title>
     <?php include 'includes/estrutura/head.php'; ?>
     <link rel="stylesheet" href="css/realismo.css">
     
@@ -22,7 +22,7 @@
 
     <!-- Header
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <?php include 'includes/home-header.php'; ?>    
+    <?php $titulo='Realismo'; $subtitulo='Contexto Histórico'; include 'includes/section-header.php'; ?>
 
     <!-- Conteúdo
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
@@ -31,11 +31,11 @@
         
         <!-- Escolas Literárias
         –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-<div class="container">
-<div class="row">
+<div class="container section">
+<div class="row text-left">
 <h1 class="paddingh1">Contexto Histórico do Realismo</h1>
 <article class="col-xs-12 col-md-6 ">
- <div class=" col-xs-12 col-md-12 paddingimg">  <img src="img/obrarealista.jpg" alt="Descrição" class="descricaoimg">
+ <div class=" col-xs-12 col-md-12 paddingimg">  <img src="img/obrarealista.jpg" alt="Pintura do Baile da Ilha de Fiscal" class="descricaoimg">
    <p>"Pintura do Baile da Ilha Fiscal, o último da monarquia brasileira." - Livro 1889.</p>
    </div> 
     <p class="pararealismo">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est sunt eligendi molestiae nemo blanditiis, quisquam maiores aut quam ducimus nulla ullam magnam corporis sapiente in reiciendis. Officia, non, voluptate.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est sunt eligendi molestiae nemo blanditiis, quisquam maiores aut quam ducimus nulla ullam magnam corporis sapiente in reiciendis. Officia, non, voluptate.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est sunt eligendi molestiae nemo blanditiis, quisquam maiores aut quam ducimus nulla ullam magnam corporis sapiente in reiciendis. Officia, non, voluptate.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est sunt eligendi molestiae nemo blanditiis, quisquam maiores aut quam ducimus nulla ullam magnam corporis sapiente in reiciendis. Officia, non, voluptate.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est sunt eligendi molestiae nemo blanditiis, quisquam maiores aut quam ducimus nulla ullam magnam corporis sapiente in reiciendis.</p>

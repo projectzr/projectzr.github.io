@@ -8,7 +8,7 @@
     <!-- Informações básicas
 –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <meta charset="utf-8">
-    <title>QUEM SOMOS</title>
+    <title>Brasil Literário - Quem Somos</title>
     <?php include 'includes/estrutura/head.php'; ?>
 
 </head>

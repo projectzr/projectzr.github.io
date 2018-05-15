@@ -8,7 +8,7 @@
     <!-- Informações básicas
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <meta charset="utf-8">
-    <title>TITULO DO SITE</title>
+    <title>Portal Brasil Literário</title>
     <?php include 'includes/estrutura/head.php'; ?>
     
 </head>

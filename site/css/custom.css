@@ -7,6 +7,10 @@
 /* Padrões
 –––-–––––––––––––––––––––––––––––––––––––––––––––– */
 
+body {
+    background-color: #ebebeb;
+}
+
 .section {
     padding: 6rem 0;
     text-align: center;
@@ -654,4 +658,10 @@ footer .footer-mapa:first-child::after {
 .QM.thumbnail.escola6 {
     border-left: 4px solid #ff579e;
     ;
+}
+
+/*Contato 
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.classecontato {
+    margin-top: 34px;
 }

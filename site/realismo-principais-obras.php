@@ -8,7 +8,7 @@
     <!-- Informações básicas
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <meta charset="utf-8">
-    <title>TITULO DO SITE</title>
+    <title>Brasil Literário - Realismo: Principais Obras</title>
     <?php include 'includes/estrutura/head.php'; ?>
     <link rel="stylesheet" href="css/realismo.css">
 </head>
@@ -21,7 +21,7 @@
 
     <!-- Header
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <?php include 'includes/home-header.php'; ?>
+    <?php $titulo='Realismo'; $subtitulo='Principais Obras'; include 'includes/section-header.php'; ?>
 
     <!-- Conteúdo
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
@@ -30,8 +30,8 @@
 
         <!-- Escolas Literárias
         –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-        <div class="container">
-            <div class="row">
+        <div class="container section">
+            <div class="row text-left">
               <h1 class="parameio">Realismo no Brasil </h1>
                 <article class="col-xs-12 col-md-6 col-lg-6">
                     <p class="pararealismo">Aliquam erat volutpat. Phasellus semper cursus suscipit. Curabitur eget lacus finibus, porta metus id, tincidunt velit. Morbi ac augue ac libero rhoncus rhoncus. Nullam mattis semper magna, non vulputate lorem. Fusce quis tortor semper, congue est sit amet, ornare nibh. Fusce et quam quis urna aliquam finibus. Morbi nibh purus, mattis nec ligula eget, fermentum venenatis elit. Maecenas dictum massa ut aliquet sodales. Sed ut fermentum leo. Nulla lobortis, justo vestibulum gravida fringilla, ligula odio ullamcorper ligula, ut aliquam elit libero eget nulla. Quisque vitae velit accumsan, bibendum ante vel, tempor augue. Proin eget erat quis nibh malesuada suscipit quis ac est.</p>
@@ -46,15 +46,15 @@
 
                    <h2 class="parameio">Principais obras realistas</h2>
                        <section class="col-xs-12 col-md-4 col-lg-4">
-                   <div class="col-xs-8 col-md-8 col-lg-8 arrumarpimg"><img src="http://placehold.it/100x133" class="col-xs-12 col-md-12 text-center"  alt="Capa de Memórias de um Sargento de Mílicias "></div>
+                   <div class="col-xs-8 col-md-8 col-lg-8 arrumarpimg"><img src="img/mulato.JPG" class="col-xs-12 col-md-12 text-center"  alt="Capa de O Mulado de Aluísio de Azevedo  "></div>
                 <p class="pararealismo">Nunc sodales ornare eros. Praesent feugiat semper sollicitudin. Morbi egestas lorem leo, vitae feugiat nisl aliquam nec. Morbi dictum nisl neque. Donec pulvinar ullamcorper bibendum. Cras consequat lorem urna, id placerat risus feugiat at. Fusce vel libero non eros iaculis ultrices nec vitae nulla. Aliquam sollicitudin sem ac mi molestie, id pulvinar dui facilisis.</p>
                    </section>
                              <section class="col-xs-12 col-md-4 col-lg-4">
-                   <div class="col-xs-8 col-md-8 col-lg-8 arrumarpimg"><img src="http://placehold.it/100x133" class="col-xs-12 col-md-12 text-center"  alt="Capa de O Cortiço"></div>
+                   <div class="col-xs-8 col-md-8 col-lg-8 arrumarpimg"><img src="img/ateneu.jpg" class="col-xs-12 col-md-12 text-center"  alt="Capa de O Ateneu de Raul Pompéia"></div>
                 <p class="pararealismo">Nunc sodales ornare eros. Praesent feugiat semper sollicitudin. Morbi egestas lorem leo, vitae feugiat nisl aliquam nec. Morbi dictum nisl neque. Donec pulvinar ullamcorper bibendum. Cras consequat lorem urna, id placerat risus feugiat at. Fusce vel libero non eros iaculis ultrices nec vitae nulla. Aliquam sollicitudin sem ac mi molestie, id pulvinar dui facilisis.</p>
                    </section>
                              <section class="col-xs-12 col-md-4 col-lg-4">
-                   <div class="col-xs-8 col-md-8 col-lg-8 arrumarpimg"><img src="http://placehold.it/100x133" class="col-xs-12 col-md-12 text-center"  alt="Capa de Dom Casmurro"></div>
+                   <div class="col-xs-8 col-md-8 col-lg-8 arrumarpimg"><img src="img/inocencia.jpg" class="col-xs-12 col-md-12 text-center"  alt="Capa de Inocência de Visconde de Taunay"></div>
                 <p class="pararealismo">Nunc sodales ornare eros. Praesent feugiat semper sollicitudin. Morbi egestas lorem leo, vitae feugiat nisl aliquam nec. Morbi dictum nisl neque. Donec pulvinar ullamcorper bibendum. Cras consequat lorem urna, id placerat risus feugiat at. Fusce vel libero non eros iaculis ultrices nec vitae nulla. Aliquam sollicitudin sem ac mi molestie, id pulvinar dui facilisis.</p>
                    </section>
             </div>

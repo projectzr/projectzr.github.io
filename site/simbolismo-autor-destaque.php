@@ -8,7 +8,7 @@
   <!-- Informações básicas
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <meta charset="utf-8">
-  <title>TITULO DO SITE</title>
+  <title>Brasil Literário - Simbolismo: Autor de Destaque</title>
   <?php include 'includes/estrutura/head.php'; ?>
   <link rel="stylesheet" href="css/simbolismo.css">
 
@@ -22,7 +22,7 @@
 
   <!-- Header
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <?php include 'includes/home-header.php'; ?>
+    <?php $titulo='Simbolismo'; $subtitulo='Autor de Destaque'; include 'includes/section-header.php'; ?>
 
   <!-- Conteúdo
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
@@ -31,9 +31,9 @@
 
     <!-- Escolas Literárias
         –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <div class="container">
+    <div class="container section">
 
-      <section class="destaque">
+      <section class="destaque text-left">
         <div class="col-xs-12  col-xs-push-0 col-sm-6 col-md-6 col-md-push-0 col-lg-4 col-lg-push-0 center-block">
           <img src="https://placehold.it/300x500?text=Autor-Destaque" alt="">
         </div>

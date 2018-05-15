@@ -1,48 +1,78 @@
 /* Espaço para o CSS da escola Realista */
+
 .espacorealismo {
-padding-bottom: 0.8em;
+    padding-bottom: 0.8em;
 }
 
-.descricaoimg {width: 100%;}
+.descricaoimg {
+    width: 100%;
+}
 
-.paddingimg {padding:0;}
+.paddingimg {
+    padding: 0;
+}
 
-.paddingh1 {padding-left: 15px;}
+.paddingh1 {
+    padding-left: 15px;
+}
 
-.pararealismo {text-align: left;}
+.pararealismo {
+    text-align: left;
+}
 
- .descricaoimg2 {width: 50% }
+.descricaoimg2 {
+    width: 50%
+}
 
+    .sombra {
+        margin: .5rem 0;
+        background-color: #ffd5a6;
+        box-shadow: 0 0 5px rgba(230, 182, 129, 0.51));
+    }
 
+/*Parágrafo H1 página 2*/
+.parameio {
+    font-size:  2.2em;
+    padding-left: 15px;
+    text-align: left;}
+
+/*Padding imagem*/
+.arrumarpimg {
+    padding-left: 0px;
+padding-right: 0px;}
 
 /*Descktop*/
-@media (min-width: 1200px ) 
-{
-.sombra {
-    margin: .5rem 0;
-    background-color: #f3f3f3;
-    box-shadow: 0 0 5px rgba(185, 185, 185, 0.8);
-}
 
+@media (min-width: 1200px) 
+{
+    .sombra {
+        margin: .5rem 0;
+        background-color: #ffd5a6;
+        box-shadow: 0 0 5px rgba(230, 182, 129, 0.51));
     }
-    #memoriasimg {width: 70%}
 }
-    
+
+#memoriasimg {
+    width: 70%
+}
+
+
+
 /*Tablet*/
-@media (min-width: 992px ) 
-     {
-    .home {
-    background-color: #FFFFFF;
-    border-color: #000000;
-    border-style: solid;
-    border-width: 5px;
-                box-shadow: 2px 2px 5px #000;      
+
+@media (max-width: 993px) {
+    .sombra {
+        margin: .5rem 0;
+        background-color: #FFFFFF;
+        box-shadow: 0 0 5px rgba(230, 182, 129, 0.0));
+    }
+    #memoriasimg {
+        width: 70%
+    }
 
 }
 
 }
 
-@media (min-width: 768px)
-{
 
-}
+@media (min-width: 768px) {}

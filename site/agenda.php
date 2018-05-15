@@ -8,9 +8,8 @@
     <!-- Informações básicas
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <meta charset="utf-8">
-    <title>Brasil Literário - Simbolismo: Contexto Histórico</title>
+    <title>Brasil Literário - Agenda</title>
     <?php include 'includes/estrutura/head.php'; ?>
-  <link rel="stylesheet" href="css/simbolismo.css">
     
 </head>
 
@@ -22,7 +21,11 @@
 
     <!-- Header
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <?php $titulo='Simbolismo'; $subtitulo='Contexto Histórico'; include 'includes/section-header.php'; ?>
+    <?php 
+    $titulo="Portal Brasil Literário";
+    $subtitulo="Agenda"; 
+    include 'includes/section-header.php'; 
+    ?>    
 
     <!-- Conteúdo
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->

@@ -8,7 +8,7 @@
     <!-- Informações básicas
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <meta charset="utf-8">
-    <title>TITULO DO SITE</title>
+    <title>Brasil Literário - Realismo: Autor de Destaque</title>
     <?php include 'includes/estrutura/head.php'; ?>
         <link rel="stylesheet" href="css/realismo.css">
 </head>
@@ -21,7 +21,7 @@
 
     <!-- Header
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <?php include 'includes/home-header.php'; ?>    
+    <?php $titulo='Realismo'; $subtitulo='Autor de Destaque'; include 'includes/section-header.php'; ?>
 
     <!-- Conteúdo
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
@@ -31,8 +31,8 @@
         <!-- Escolas Literárias
         –––––––––––––––––––––––––––––––––––––––––––––––––– -->
 
- <div class="container">
-    <div class="row">
+ <div class="container section">
+    <div class="row text-left">
         <h1 class="paddingh1">Machado de Assis, o maior autor brasileiro</h1>
                 <article class="col-xs-12 col-md-8">
                     <div class> <img src="img/machado.jpg" alt="Machado de Assis" class="col-xs-4 col-md-4 descricaoimg2">
