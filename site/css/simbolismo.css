@@ -17,6 +17,7 @@ article p{
   font-family: 'Zilla Slab', serif;
   line-height: 2em;
 }
+/*
 @media (min-width: 534px) {
   .centro 
   {
@@ -24,9 +25,10 @@ article p{
   margin: 0 auto;
 }
 }
+*/
 
 
-
+/*booo*/
 
 .line:after{
   content: "";

@@ -52,17 +52,17 @@
 
                         <div class="form-group">
                             <label class="classecontato" for="nome">Nome:</label>
-                            <input type="text" class="form-control" name="nome" required>
+                            <input type="text" class="form-control" name="nome" required id="nome">
                         </div>
 
                         <div class="form-group">
                             <label for="email">Email:</label>
-                            <input type="email" class="form-control" name="email" required>
+                            <input type="email" class="form-control" name="email" required id="email">
                         </div>
 
                         <div class="form-group">
                             <label for="tel">Telefone:</label>
-                            <input type="number" class="form-control" name="tel" min="0" max="11" required>
+                            <input type="number" class="form-control" name="tel" min="0" max="11" required id="tel">
                         </div>
                         <div class="form-group">
                             <label for="exampleFormControlTextarea2">Mensagem:</label>

@@ -33,7 +33,7 @@
 
  <div class="container section">
     <div class="row text-left">
-        <h1 class="paddingh1">Machado de Assis, o maior autor brasileiro</h1>
+        <h1 class="paddingh1 titulo">Machado de Assis, o maior autor brasileiro</h1>
                 <article class="col-xs-12 col-md-8">
                     <div class> <img src="img/machado.jpg" alt="Machado de Assis" class="col-xs-4 col-md-4 descricaoimg2">
                         <p class="pararealismo">Fusce purus tortor, porta vel ornare ac, rutrum et sem. Cras fermentum urna sed euismod ultrices. Vivamus eleifend nisl eget nulla tempor tristique id id urna. Praesent dapibus orci velit, sit amet feugiat tellus pulvinar sed. Etiam viverra leo malesuada, porta neque eu, consequat nunc. Proin justo mi, laoreet eget efficitur vel, aliquet ut metus. Sed erat tortor, lobortis a viverra a, iaculis ac lorem. Morbi condimentum, nulla nec fringilla ornare, erat massa interdum quam, at lobortis neque velit vel nibh. Vivamus mattis pharetra erat, id malesuada lacus sodales quis. Proin id elit et leo fringilla dictum sit amet non quam. Cras fringilla in justo sed placerat. Interdum et malesuada fames ac ante ipsum primis in faucibus. Integer ac ante in erat feugiat rutrum vitae vulputate risus. Mauris nec tincidunt sem, a cursus justo. Pellentesque venenatis erat in felis blandit, in auctor enim semper. Morbi non tellus sit amet arcu scelerisque eleifend.Aliquam ut vestibulum felis. Aliquam erat volutpat. Nam euismod vel eros vitae elementum. Aliquam dapibus, quam vel fermentum aliquam, libero tellus facilisis eros, non suscipit velit enim vitae mi. </p>
@@ -47,10 +47,10 @@
                     </div>
                 </article>
                             <aside class="col-xs-12 col-md-4 sombra">
-                                        <h3>Memórias Póstumas de Brás Cubas, a obra mais importante do realismo</h3>
+                                        <h3 class="sub-titulo">Memórias Póstumas de Brás Cubas, a obra mais importante do realismo</h3>
         <img src="img/obra.JPG" alt="Capa do Livro Memórias Póstumas de Brás Cubas" class="col-xs-4 col-md-12 " id="memoriasimg">
             <p class="pararealismo">Fusce purus tortor, porta vel ornare ac, rutrum et sem. Cras fermentum urna sed euismod ultrices. Vivamus eleifend nisl eget nulla tempor tristique id id urna. Praesent dapibus orci velit, sit amet feugiat tellus pulvinar sed. Etiam viverra leo malesuada, porta neque eu, consequat nunc. Proin justo mi, laoreet eget efficitur vel, aliquet ut metus. Sed erat tortor, lobortis a viverra a, iaculis ac lorem. Morbi condimentum, nulla nec fringilla ornare, erat massa interdum quam, at lobortis neque velit vel nibh. Vivamus mattis pharetra erat, id malesuada lacus sodales quis. Proin id elit et leo fringilla dictum sit amet non quam. Cras fringilla in justo sed placerat. Interdum et malesuada fames ac ante ipsum primis in faucibus. </p>
-            <p class="pararealismo">Ut fermentum urna at elit sagittis viverra. Duis quis felis euismod elit aliquet semper nec a elit. Suspendisse convallis blandit aliquam.Vivamus mattis pharetra erat, id malesuada lacus sodales quis. </p>
+            <p class="pararealismo">Ut fermentum urna at elit sagittis viverra. Duis quis felis euismod elit aliquet semper nec a elit. Suspendisse convallis blandit aliquam.Vivamus mattis pharetra erat, id malesuada lacus sodales quis.At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum  </p>
                         
                     
     

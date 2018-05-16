@@ -4,6 +4,7 @@ include 'includes/functions/home-sections.php';
 
 // sequencia de declaração:
 // escola (escola1, escola2, escola3, escola4, escola5, escola6)
+// nome (romantismo, realismo, simbolismo, pre-modernismo, modernismo, pos-modernismo)
 // autor (nome do autor de destaque)
 // frase (frase deste autor)
 // imagem 1 (imagem da primeira materia)
@@ -21,26 +22,28 @@ include 'includes/functions/home-sections.php';
 criarSectionHome(
     // escola
     'escola1',
+    //nome da escola
+    'romantismo',
     // autor
     'Autor Teste',
     // frase do autor
     'Neste sentido, a estrutura atual da organização possibilita uma melhor visão global dos modos de operação convencionais.',
     // imagem 1
-    'http://via.placeholder.com/125x125',
+    'img/home-materias/romantismo-contexto-historico.jpg',
     // titulo 1
-    'Título teste',
+    'Contexto Histórico',
     // texto 1
     'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar.',
     // imagem 2
-    'http://via.placeholder.com/125x125',
+    'img/home-materias/romantismo-principais-obras.jpg',
     // titulo 2
-    'Título',
+    'Principais Obras',
     // texto 2
     'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar.',
     // imagem 3
-    'http://via.placeholder.com/125x125',
+    'img/home-materias/romantismo-dicas-de-vestibular.jpg',
     // titulo 3
-    'Título',
+    'Dicas de Vestibular',
     // texto 3
     'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar.'
 );
@@ -51,6 +54,8 @@ divisaoHome('escola2');
 criarSectionHome(
     // escola
     'escola2',
+    //nome da escola
+    'realismo',
     // autor
     'Autor Teste',
     // frase do autor
@@ -82,6 +87,8 @@ divisaoHome('escola3');
 criarSectionHome(
     // escola
     'escola3',
+    //nome da escola
+    'simbolismo',
     // autor
     'Autor Teste',
     // frase do autor
@@ -113,6 +120,8 @@ divisaoHome('escola4');
 criarSectionHome(
     // escola
     'escola4',
+    //nome da escola
+    'pre-modernismo',
     // autor
     'Autor Teste',
     // frase do autor
@@ -144,6 +153,8 @@ divisaoHome('escola5');
 criarSectionHome(
     // escola
     'escola5',
+    //nome da escola
+    'modernismo',
     // autor
     'Autor Teste',
     // frase do autor
@@ -175,6 +186,8 @@ divisaoHome('escola6');
 criarSectionHome(
     // escola
     'escola6',
+    //nome da escola
+    'pos-modernismo',
     // autor
     'Autor Teste',
     // frase do autor

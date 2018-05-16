@@ -1,4 +1,5 @@
 /* Espaço para o CSS da escola Realista */
+body {background-color: #ebebeb;}
 
 .espacorealismo {
     padding-bottom: 0.8em;
@@ -41,6 +42,23 @@
     padding-left: 0px;
 padding-right: 0px;}
 
+/* Linha nos Hs*/
+.line:after{
+  content: "";
+  display: block;
+  margin-top: 0.2em;
+  height: 3px;
+  background: #3333339f;
+  width: 19em;
+}
+/*Classe do título dos Hs*/
+.titulo {margin-bottom: 30px;}
+.centro {text-align: center;}
+
+/*Subir o article e aside da ´página realismo no Brasil*/
+.subir {margin-bottom: 3rem;}
+
+
 /*Descktop*/
 
 @media (min-width: 1200px) 
@@ -63,7 +81,7 @@ padding-right: 0px;}
 @media (max-width: 993px) {
     .sombra {
         margin: .5rem 0;
-        background-color: #FFFFFF;
+        background-color: #ebebeb;
         box-shadow: 0 0 5px rgba(230, 182, 129, 0.0));
     }
     #memoriasimg {
