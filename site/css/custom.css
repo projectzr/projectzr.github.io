@@ -309,6 +309,10 @@ a:hover {
     margin: auto 0;
 }
 
+.autor-descricao>a {
+    color: white;
+}
+
 .autor-titulo {
     position: relative;
     font-family: 'Bitter', serif;
@@ -341,19 +345,40 @@ a:hover {
     text-align: left;
 }
 
+.materia>a {
+    color: #333;
+}
+
+.materia>a:hover {
+    text-decoration: none;
+}
+
 .materia .titulo {
     margin: 1rem 0;
 }
 
 .materia-img {
-    width: 20%;
-    padding-right: 1rem;
-    min-width: 120px;
+    width: calc(20% - 1rem);
+    margin-right: 1rem;
+    min-width: calc(120px - 1rem);
     float: left;
+    overflow: hidden;
 }
 
 .materia-img img {
     width: 100%;
+}
+
+a>.materia-img>img {
+    transition: all .3s;
+}
+
+a:hover>.materia-img>img {
+    -webkit-transform: scale(1.2);
+    -moz-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    -o-transform: scale(1.2);
+    transform: scale(1.2);
 }
 
 @media (min-width: 992px) {
@@ -363,7 +388,7 @@ a:hover {
     .materia-img.right {
         min-width: calc(120px - 1rem);
         float: right;
-        padding-right: 0;
+        margin-right: 0;
         margin-left: 1rem;
     }
 }
