@@ -29,21 +29,21 @@ criarSectionHome(
     // frase do autor
     'Neste sentido, a estrutura atual da organização possibilita uma melhor visão global dos modos de operação convencionais.',
     // imagem 1
-    'http://via.placeholder.com/125x125',
+    'img/home-materias/romantismo-contexto-historico.jpg',
     // titulo 1
-    'Título teste',
+    'Contexto Histórico',
     // texto 1
     'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar.',
     // imagem 2
-    'http://via.placeholder.com/125x125',
+    'img/home-materias/romantismo-principais-obras.jpg',
     // titulo 2
-    'Título',
+    'Principais Obras',
     // texto 2
     'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar.',
     // imagem 3
-    'http://via.placeholder.com/125x125',
+    'img/home-materias/romantismo-dicas-de-vestibular.jpg',
     // titulo 3
-    'Título',
+    'Dicas de Vestibular',
     // texto 3
     'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar.'
 );
