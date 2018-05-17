@@ -39,7 +39,7 @@
 
 
 
-            <div class="container section">
+            <div class="container-fluid section">
 
                 <div class="row">
                     <h2 class="titulo text-center cor">Autor de Destaque</h2>
@@ -48,8 +48,8 @@
                     <div class="media">
                         <div class="media-left media-middle">
                             
-                            <img class="media-object" src="
-            img/simb/cruz-e-souza.jpg" alt="Autor de Destaque " width="500"  >
+                            <img class="media-object img" src="
+            img/simb/cruz-e-souza.jpg" alt="Autor de Destaque " width="450"  >
            
                         </div>
 
