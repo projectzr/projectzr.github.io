@@ -23,7 +23,7 @@ hr {
     position: relative;
     margin: 0 auto;
     height: 0.5rem;
-    background-color: darkred;
+    background-color: #b598ab ;
     width: 26%;
     bottom: 0.4rem;
     /* left: 0; */
@@ -37,23 +37,29 @@ hr {
     margin-left: auto;
 }
 
+.cor {
+    color:#5b4961;
+}
+
 
 
 aside p {
     font-family: 'Zilla Slab', serif;
     font-size: 2.2rem;
     line-height: 2.6rem;
+    color:#604134;  
 }
 
 article p {
     text-align: left;
     font-family: 'Zilla Slab', serif;
     line-height: 2em;
+    color:#604134;  
 }
 
 article p:first-of-type:first-letter {
     float: left;
-    color: darkred;
+    color: #5b4961;
     font-weight: 600;
     font-size: 8em;
     line-height: 6rem;
