@@ -42,19 +42,19 @@
             <div class="container section">
 
                 <div class="row">
-                    <h2 class="titulo text-center">Autor de Destaque</h2>
+                    <h2 class="titulo text-center cor">Autor de Destaque</h2>
                     <div class="SI divisor"></div>
                     <!-- <hr class="hidden-xs"> -->
                     <div class="media">
                         <div class="media-left media-middle">
                             
                             <img class="media-object" src="
-            img/simb/cruzesouza.jpg" alt="Autor de Destaque " width="500"  >
+            img/simb/cruz-e-souza.jpg" alt="Autor de Destaque " width="500"  >
            
                         </div>
 
                         <div class="media-body media-middle hidden-xs">
-                            <p class="titulo text-center">Cruz e Souza, o Cisne Negro, principal precursor do simbolismo no Brasil.</p>
+                            <p class="titulo text-center cor">Cruz e Souza, o Cisne Negro, principal precursor do simbolismo no Brasil.</p>
                             <p class="text-center">
 
                                 "Filho de negros alforriados, João da Cruz ficou sob tutela da família do militar Guilherme Xavier de Sousa. Recebeu boa educação e combateu arduamente a escravidão e o preconceito racial no jornal Tribuna Popular"</p>
@@ -62,7 +62,7 @@
                         <hr class="hidden-xs">
                         <div class="visible-xs lateral">
                             <hr>
-                            <p class="titulo text-center">Cruz e Souza, o Cisne Negro, principal precursor do simbolismo no Brasil.</p>
+                            <p class="titulo cor text-center">Cruz e Sousa, o cisne negro, principal precursor do simbolismo no Brasil.</p>
                             <p class="text-center">
 
                                 "Filho de negros alforriados, João da Cruz ficou sob tutela da família do militar Guilherme Xavier de Sousa. Recebeu boa educação e combateu arduamente a escravidão e o preconceito racial no jornal Tribuna Popular"</p>
@@ -72,12 +72,12 @@
             </div>
         </aside>
         <div class="container text-left">
-            <div class="col-xs-12">
+            <div class="col-xs-12 col-md-8 col-md-offset-2 col-lg-8 col-lg-offset-2">
                 <div class="row">
                     <article>
 
-                        <h2 class="titulo line">Biografia</h2>
-                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perspiciatis inventore ut veritatis consequuntur asperiores, amet, perferendis alias enim consectetur distinctio, maiores reprehenderit consequatur harum repellat! Quaerat illo, repellat id, nulla, consequatur expedita fuga quod temporibus reiciendis dolorum ullam. Harum accusamus debitis eligendi, nesciunt ad explicabo tenetur optio modi facilis magnam rem, temporibus molestiae perspiciatis error, nisi nobis quidem quos! Illum consequuntur nesciunt perspiciatis nostrum porro.
+                        <h2 class="titulo cor line">Biografia</h2>
+                        <p>  Perspiciatis inventore ut veritatis consequuntur asperiores, amet, perferendis alias enim consectetur distinctio, maiores reprehenderit consequatur harum repellat!Quaerat illo, repellat id, nulla, consequatur expedita fuga quod temporibus reiciendis dolorum ullam. Harum accusamus debitis eligendi, nesciunt ad explicabo tenetur optio modi facilis magnam rem, temporibus molestiae perspiciatis error, nisi nobis quidem quos! Illum consequuntur nesciunt perspiciatis nostrum porro.Lorem ipsum dolor sit, amet consectetur adipisicing elit.
                         </p>
                         <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perspiciatis inventore ut veritatis consequuntur asperiores, amet, perferendis alias enim consectetur distinctio, maiores reprehenderit consequatur harum repellat! Quaerat illo, repellat id, nulla, consequatur expedita fuga quod temporibus reiciendis dolorum ullam. Harum accusamus debitis eligendi, nesciunt ad explicabo tenetur optio modi facilis magnam rem, temporibus molestiae perspiciatis error, nisi nobis quidem quos! Illum consequuntur nesciunt perspiciatis nostrum porro.
                         </p>
@@ -86,7 +86,7 @@
                         <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perspiciatis inventore ut veritatis consequuntur asperiores, amet, perferendis alias enim consectetur distinctio, maiores reprehenderit consequatur harum repellat! Quaerat illo, repellat id, nulla, consequatur expedita fuga quod temporibus reiciendis dolorum ullam. Harum accusamus debitis eligendi, nesciunt ad explicabo tenetur optio modi facilis magnam rem, temporibus molestiae perspiciatis error, nisi nobis quidem quos! Illum consequuntur nesciunt perspiciatis nostrum porro.
                         </p>
 
-                        <h2 class="titulo line">Obras do Autor</h2>
+                        <h2 class="titulo cor line">Obras do Autor</h2>
                         <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perspiciatis inventore ut veritatis consequuntur asperiores, amet, perferendis alias enim consectetur distinctio, maiores reprehenderit consequatur harum repellat! Quaerat illo, repellat id, nulla, consequatur expedita fuga quod temporibus reiciendis dolorum ullam. Harum accusamus debitis eligendi, nesciunt ad explicabo tenetur optio modi facilis magnam rem, temporibus molestiae perspiciatis error, nisi nobis quidem quos! Illum consequuntur nesciunt perspiciatis nostrum porro.
                         </p>
                         <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perspiciatis inventore ut veritatis consequuntur asperiores, amet, perferendis alias enim consectetur distinctio, maiores reprehenderit consequatur harum repellat! Quaerat illo, repellat id, nulla, consequatur expedita fuga quod temporibus reiciendis dolorum ullam. Harum accusamus debitis eligendi, nesciunt ad explicabo tenetur optio modi facilis magnam rem, temporibus molestiae perspiciatis error, nisi nobis quidem quos! Illum consequuntur nesciunt perspiciatis nostrum porro.

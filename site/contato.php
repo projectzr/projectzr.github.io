@@ -30,7 +30,7 @@
 
         <!-- Escolas Literárias
         –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-        <div class="container section text-left">
+        <div class="container"><div class="section"> 
             <div class="row text-left">
                 <article class="col-xs-12 col-md-6 col-lg-6 ">
                     <h2 class="h1">Informações</h2>
@@ -74,7 +74,7 @@
                     </form>
                 </article>
             </div>
-        </div>
+</div></div>
 
     </main>
 
