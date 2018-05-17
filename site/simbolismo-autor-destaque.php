@@ -5,133 +5,107 @@
 
 <head>
 
-  <!-- Informações básicas
+    <!-- Informações básicas
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <meta charset="utf-8">
-  <title>Brasil Literário - Simbolismo: Autor de Destaque</title>
-  <?php include 'includes/estrutura/head.php'; ?>
-  <link rel="stylesheet" href="css/simbolismo.css">
-  <link href="https://fonts.googleapis.com/css?family=Sriracha" rel="stylesheet">
+    <meta charset="utf-8">
+    <title>Brasil Literário - Simbolismo: Autor de Destaque</title>
+    <?php include 'includes/estrutura/head.php'; ?>
+    <link rel="stylesheet" href="css/simbolismo.css">
+    <link href="https://fonts.googleapis.com/css?family=Domine" rel="stylesheet">
+
 
 </head>
 
 <body>
 
-  <!-- Menu de Navegação
+    <!-- Menu de Navegação
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <?php include 'includes/estrutura/navbar.php'; ?>
+    <?php include 'includes/estrutura/navbar.php'; ?>
 
-  <!-- Header
+    <!-- Header
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <?php $titulo='Simbolismo'; 
+    <?php $titulo='Simbolismo'; 
   // $subtitulo='Cruz e Souza';
    include 'includes/section-header.php'; ?>
 
-  <!-- Conteúdo
+    <!-- Conteúdo
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <main>
-    <h1 style="display: none">Conteúdo</h1>
+    <main>
+        <h1 style="display: none">Conteúdo</h1>
 
-    <!-- Escolas Literárias
+        <!-- Escolas Literárias
         –––––––––––––––––––––––––––––––––––––––––––––––––– -->
         <aside>
-    <div class="container">
-      <div class="row">
-        <h2 class="titulo text-center">Cruz e Souza</h2>
-        <hr class="hidden-xs">
-        <div class="media">
-          <div class="media-left media-middle">
-            <img class="media-object centro" src="
-            img/simb/cruz-e-souza.jpg" alt="Autor de Destaque ">
-          </div>
-          <div class="media-body media-middle hidden-xs">
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rem et necessitatibus, ea saepe quas optio perspiciatis
-              voluptas pariatur cupiditate, odio sapiente, aspernatur hic. Nulla aut vel sunt veniam autem quis nam ipsum
-              quasi molestias velit! ea saepe quas optio perspiciatis voluptas pariatur cupiditate, odio sapiente, aspernatur
-              hic. Nulla aut vel sunt veniam autem quis nam ipsum quasi molestias velit! ea saepe quas optio perspiciatis
-              voluptas pariatur cupiditate, odio sapiente, aspernatur hic. Nulla aut vel sunt veniam autem quis nam ipsum
-              quasi molestias velit!</p>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rem et necessitatibus, ea saepe quas optio perspiciatis
-              voluptas pariatur cupiditate, odio sapiente, aspernatur hic. Nulla aut vel sunt veniam autem quis nam ipsum
-              quasi molestias velit!</p>
-          </div>
-          <hr class="hidden-xs">
-          <div class="visible-xs">
-            <h2>Simbolismo XS</h2>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rem et necessitatibus, ea saepe quas optio perspiciatis
-              voluptas pariatur cupiditate, odio sapiente, aspernatur hic. Nulla aut vel sunt veniam autem quis nam ipsum
-              quasi molestias velit!</p>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rem et necessitatibus, ea saepe quas optio perspiciatis
-              voluptas pariatur cupiditate, odio sapiente, aspernatur hic. Nulla aut vel sunt veniam autem quis nam ipsum
-              quasi molestias velit!</p>
-          </div>
+
+
+
+            <div class="container section">
+
+                <div class="row">
+                    <h2 class="titulo text-center">Autor de Destaque</h2>
+                    <div class="SI divisor"></div>
+                    <!-- <hr class="hidden-xs"> -->
+                    <div class="media">
+                        <div class="media-left media-middle">
+                            
+                            <img class="media-object" src="
+            img/simb/cruzesouza.jpg" alt="Autor de Destaque " width="500"  >
+           
+                        </div>
+
+                        <div class="media-body media-middle hidden-xs">
+                            <p class="titulo text-center">Cruz e Souza, o Cisne Negro, principal precursor do simbolismo no Brasil.</p>
+                            <p class="text-center">
+
+                                "Filho de negros alforriados, João da Cruz ficou sob tutela da família do militar Guilherme Xavier de Sousa. Recebeu boa educação e combateu arduamente a escravidão e o preconceito racial no jornal Tribuna Popular"</p>
+                        </div>
+                        <hr class="hidden-xs">
+                        <div class="visible-xs lateral">
+                            <hr>
+                            <p class="titulo text-center">Cruz e Souza, o Cisne Negro, principal precursor do simbolismo no Brasil.</p>
+                            <p class="text-center">
+
+                                "Filho de negros alforriados, João da Cruz ficou sob tutela da família do militar Guilherme Xavier de Sousa. Recebeu boa educação e combateu arduamente a escravidão e o preconceito racial no jornal Tribuna Popular"</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </aside>
+        <div class="container text-left">
+            <div class="col-xs-12">
+                <div class="row">
+                    <article>
+
+                        <h2 class="titulo line">Biografia</h2>
+                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perspiciatis inventore ut veritatis consequuntur asperiores, amet, perferendis alias enim consectetur distinctio, maiores reprehenderit consequatur harum repellat! Quaerat illo, repellat id, nulla, consequatur expedita fuga quod temporibus reiciendis dolorum ullam. Harum accusamus debitis eligendi, nesciunt ad explicabo tenetur optio modi facilis magnam rem, temporibus molestiae perspiciatis error, nisi nobis quidem quos! Illum consequuntur nesciunt perspiciatis nostrum porro.
+                        </p>
+                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perspiciatis inventore ut veritatis consequuntur asperiores, amet, perferendis alias enim consectetur distinctio, maiores reprehenderit consequatur harum repellat! Quaerat illo, repellat id, nulla, consequatur expedita fuga quod temporibus reiciendis dolorum ullam. Harum accusamus debitis eligendi, nesciunt ad explicabo tenetur optio modi facilis magnam rem, temporibus molestiae perspiciatis error, nisi nobis quidem quos! Illum consequuntur nesciunt perspiciatis nostrum porro.
+                        </p>
+                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perspiciatis inventore ut veritatis consequuntur asperiores, amet, perferendis alias enim consectetur distinctio, maiores reprehenderit consequatur harum repellat! Quaerat illo, repellat id, nulla, consequatur expedita fuga quod temporibus reiciendis dolorum ullam. Harum accusamus debitis eligendi, nesciunt ad explicabo tenetur optio modi facilis magnam rem, temporibus molestiae perspiciatis error, nisi nobis quidem quos! Illum consequuntur nesciunt perspiciatis nostrum porro.
+                        </p>
+                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perspiciatis inventore ut veritatis consequuntur asperiores, amet, perferendis alias enim consectetur distinctio, maiores reprehenderit consequatur harum repellat! Quaerat illo, repellat id, nulla, consequatur expedita fuga quod temporibus reiciendis dolorum ullam. Harum accusamus debitis eligendi, nesciunt ad explicabo tenetur optio modi facilis magnam rem, temporibus molestiae perspiciatis error, nisi nobis quidem quos! Illum consequuntur nesciunt perspiciatis nostrum porro.
+                        </p>
+
+                        <h2 class="titulo line">Obras do Autor</h2>
+                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perspiciatis inventore ut veritatis consequuntur asperiores, amet, perferendis alias enim consectetur distinctio, maiores reprehenderit consequatur harum repellat! Quaerat illo, repellat id, nulla, consequatur expedita fuga quod temporibus reiciendis dolorum ullam. Harum accusamus debitis eligendi, nesciunt ad explicabo tenetur optio modi facilis magnam rem, temporibus molestiae perspiciatis error, nisi nobis quidem quos! Illum consequuntur nesciunt perspiciatis nostrum porro.
+                        </p>
+                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perspiciatis inventore ut veritatis consequuntur asperiores, amet, perferendis alias enim consectetur distinctio, maiores reprehenderit consequatur harum repellat! Quaerat illo, repellat id, nulla, consequatur expedita fuga quod temporibus reiciendis dolorum ullam. Harum accusamus debitis eligendi, nesciunt ad explicabo tenetur optio modi facilis magnam rem, temporibus molestiae perspiciatis error, nisi nobis quidem quos! Illum consequuntur nesciunt perspiciatis nostrum porro.
+                        </p>
+                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perspiciatis inventore ut veritatis consequuntur asperiores, amet, perferendis alias enim consectetur distinctio, maiores reprehenderit consequatur harum repellat! Quaerat illo, repellat id, nulla, consequatur expedita fuga quod temporibus reiciendis dolorum ullam. Harum accusamus debitis eligendi, nesciunt ad explicabo tenetur optio modi facilis magnam rem, temporibus molestiae perspiciatis error, nisi nobis quidem quos! Illum consequuntur nesciunt perspiciatis nostrum porro.
+                        </p>
+                    </article>
+                </div>
+            </div>
         </div>
-      </div>
-    </div>
-    </aside>
-    <div class="container text-left">
-      <div class="col-xs-12">
-        <div class="row">
-          <article>
-
-            <h2 class="titulo line">Biografia</h2>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perspiciatis inventore ut veritatis consequuntur asperiores,
-              amet, perferendis alias enim consectetur distinctio, maiores reprehenderit consequatur harum repellat! Quaerat
-              illo, repellat id, nulla, consequatur expedita fuga quod temporibus reiciendis dolorum ullam. Harum accusamus
-              debitis eligendi, nesciunt ad explicabo tenetur optio modi facilis magnam rem, temporibus molestiae perspiciatis
-              error, nisi nobis quidem quos! Illum consequuntur nesciunt perspiciatis nostrum porro.
-            </p>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perspiciatis inventore ut veritatis consequuntur asperiores,
-              amet, perferendis alias enim consectetur distinctio, maiores reprehenderit consequatur harum repellat! Quaerat
-              illo, repellat id, nulla, consequatur expedita fuga quod temporibus reiciendis dolorum ullam. Harum accusamus
-              debitis eligendi, nesciunt ad explicabo tenetur optio modi facilis magnam rem, temporibus molestiae perspiciatis
-              error, nisi nobis quidem quos! Illum consequuntur nesciunt perspiciatis nostrum porro.
-            </p>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perspiciatis inventore ut veritatis consequuntur asperiores,
-              amet, perferendis alias enim consectetur distinctio, maiores reprehenderit consequatur harum repellat! Quaerat
-              illo, repellat id, nulla, consequatur expedita fuga quod temporibus reiciendis dolorum ullam. Harum accusamus
-              debitis eligendi, nesciunt ad explicabo tenetur optio modi facilis magnam rem, temporibus molestiae perspiciatis
-              error, nisi nobis quidem quos! Illum consequuntur nesciunt perspiciatis nostrum porro.
-            </p>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perspiciatis inventore ut veritatis consequuntur asperiores,
-              amet, perferendis alias enim consectetur distinctio, maiores reprehenderit consequatur harum repellat! Quaerat
-              illo, repellat id, nulla, consequatur expedita fuga quod temporibus reiciendis dolorum ullam. Harum accusamus
-              debitis eligendi, nesciunt ad explicabo tenetur optio modi facilis magnam rem, temporibus molestiae perspiciatis
-              error, nisi nobis quidem quos! Illum consequuntur nesciunt perspiciatis nostrum porro.
-            </p>
-
-            <h2 class="titulo line">Obras do Autor</h2>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perspiciatis inventore ut veritatis consequuntur asperiores,
-              amet, perferendis alias enim consectetur distinctio, maiores reprehenderit consequatur harum repellat! Quaerat
-              illo, repellat id, nulla, consequatur expedita fuga quod temporibus reiciendis dolorum ullam. Harum accusamus
-              debitis eligendi, nesciunt ad explicabo tenetur optio modi facilis magnam rem, temporibus molestiae perspiciatis
-              error, nisi nobis quidem quos! Illum consequuntur nesciunt perspiciatis nostrum porro.
-            </p>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perspiciatis inventore ut veritatis consequuntur asperiores,
-              amet, perferendis alias enim consectetur distinctio, maiores reprehenderit consequatur harum repellat! Quaerat
-              illo, repellat id, nulla, consequatur expedita fuga quod temporibus reiciendis dolorum ullam. Harum accusamus
-              debitis eligendi, nesciunt ad explicabo tenetur optio modi facilis magnam rem, temporibus molestiae perspiciatis
-              error, nisi nobis quidem quos! Illum consequuntur nesciunt perspiciatis nostrum porro.
-            </p>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perspiciatis inventore ut veritatis consequuntur asperiores,
-              amet, perferendis alias enim consectetur distinctio, maiores reprehenderit consequatur harum repellat! Quaerat
-              illo, repellat id, nulla, consequatur expedita fuga quod temporibus reiciendis dolorum ullam. Harum accusamus
-              debitis eligendi, nesciunt ad explicabo tenetur optio modi facilis magnam rem, temporibus molestiae perspiciatis
-              error, nisi nobis quidem quos! Illum consequuntur nesciunt perspiciatis nostrum porro.
-            </p>
-          </article>
-        </div>
-      </div>
-    </div>
 
 
 
 
-  </main>
+    </main>
 
-  <!-- Rodapé
+    <!-- Rodapé
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <?php include 'includes/estrutura/footer.php'; ?>
+    <?php include 'includes/estrutura/footer.php'; ?>
 
 </body>
 
