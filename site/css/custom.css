@@ -12,7 +12,8 @@ body {
 }
 
 .section {
-    padding: 6rem 0;
+    padding-top: 6rem;
+    padding-bottom: 6rem;
     text-align: center;
 }
 
