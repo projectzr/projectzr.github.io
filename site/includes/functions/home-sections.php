@@ -9,14 +9,14 @@
                 –––––––––––––––––––––––––––––––––––––––––––––––––– -->
                 <div class="col-xs-12 col-md-5 col-md-push-7">
                     <div class="autor-destaque person">
-                        <div class="autor-descricao">
-                            <a href="<?= $nome ?>-autor-destaque.php">
-                            <div>
-                            <p class="autor-titulo"><?= $autor ?></p>
-                            <p class="autor-texto"><?= $frase ?></p>
+                        <a href="<?= $nome ?>-autor-destaque.php">
+                            <div class="autor-descricao">
+                                <div>
+                                    <p class="autor-titulo"><?= $autor ?></p>
+                                    <p class="autor-texto"><?= $frase ?></p>
+                                </div>
                             </div>
-                            </a>
-                        </div>
+                        </a>
                     </div>
                 </div>
                 
