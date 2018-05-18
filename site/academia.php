@@ -3,14 +3,15 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 
-<head> 
-   
+<head>
+
     <!-- Informações básicas
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <meta charset="utf-8">
     <title>Brasil Literário - Academia</title>
     <?php include 'includes/estrutura/head.php'; ?>
-    
+    <link rel="stylesheet" href="css/modernismo.css">
+
 </head>
 
 <body>
@@ -25,38 +26,35 @@
     $titulo="Portal Brasil Literário";
     $subtitulo="Academia"; 
     include 'includes/section-header.php'; 
-    ?>    
+    ?>
 
     <!-- Conteúdo
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <main>
-        <h1 style="display: none">Conteúdo</h1>
-        
-        <!-- Conteudo
-        OBS: O Section define o espaçamento padrão de uma SESSÃO, 
-        container se refere a classe usada pelo bootstrap
-        –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-        <article class="section container"> 
-            <h2>Em Produção</h2>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, iste molestias? Fugit quisquam corporis repellendus
-            eligendi inventore tempora vero sapiente minus quaerat magni magnam suscipit quia quod, assumenda saepe voluptatibus
-            totam nulla ducimus labore. Magni! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat cum
-            minima provident impedit mollitia nobis soluta debitis illo, ex iure ducimus, deserunt dolorum esse sed.</p>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, iste molestias? Fugit quisquam corporis repellendus
-            eligendi inventore tempora vero sapiente minus quaerat magni magnam suscipit quia quod, assumenda saepe voluptatibus
-            totam nulla ducimus labore. Magni! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat cum
-            minima provident impedit mollitia nobis soluta debitis illo, ex iure ducimus, deserunt dolorum esse sed.</p>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, iste molestias? Fugit quisquam corporis repellendus
-            eligendi inventore tempora vero sapiente minus quaerat magni magnam suscipit quia quod, assumenda saepe voluptatibus
-            totam nulla ducimus labore. Magni! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat cum
-            minima provident impedit mollitia nobis soluta debitis illo, ex iure ducimus, deserunt dolorum esse sed.</p>
-        </article>
-        
+        <h1 class="titulo no-space text-center">Academia Brasileira de Letras</h1>
+        <div class="divisor"></div>
+
+        <div class="container">
+            <div class="row">
+
+                <div class=" col-xs-12 col-md-12 paddingimg"> <img class="center-img" src="img/teste.jpg" alt="Descrição">
+                </div>
+                <div class="col-xs-12 col-md-6 ">
+
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est sunt eligendi molestiae nemo blanditiis, quisquam maiores aut quam ducimus nulla ullam magnam corporis sapiente in reiciendis. Officia, non, voluptate.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est sunt eligendi molestiae nemo blanditiis, quisquam maiores aut quam ducimus nulla ullam magnam corporis sapiente in reiciendis. Officia, non, voluptate.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est sunt eligendi molestiae nemo blanditiis, quisquam maiores aut quam ducimus nulla ullam magnam corporis sapiente in reiciendis. Officia, non, voluptate.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est sunt eligendi molestiae nemo blanditiis, quisquam maiores aut quam ducimus nulla ullam magnam corporis sapiente in reiciendis. Officia, non, voluptate.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est sunt eligendi molestiae nemo blanditiis, quisquam maiores aut quam ducimus nulla ullam magnam corporis sapiente in reiciendis. Officia, non, voluptate.Lorem ipsum dolor sit amet, consectetur </p>
+                </div>
+                <div class="col-xs-12 col-md-6">
+
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est sunt eligendi molestiae nemo blanditiis, quisquam maiores aut quam ducimus nulla ullam magnam corporis sapiente in reiciendis. Officia, non, voluptate.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est sunt eligendi molestiae nemo blanditiis, quisquam maiores aut quam ducimus nulla ullam magnam corporis sapiente in reiciendis. Officia, non, voluptate.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est sunt eligendi molestiae nemo blanditiis, quisquam maiores aut quam ducimus nulla ullam magnam corporis sapiente in reiciendis. Officia, non, voluptate.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est sunt eligendi molestiae nemo blanditiis, quisquam maiores aut quam ducimus nulla ullam magnam corporis sapiente in reiciendis. Officia, non, voluptate.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est sunt eligendi molestiae nemo blanditiis, quisquam maiores aut quam ducimus nulla ullam magnam corporis sapiente in reiciendis. Officia, non, voluptate.Lorem ipsum dolor sit amet, consectetur </p>
+
+                </div>
+            </div>
+        </div>
     </main>
 
     <!-- Rodapé
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <?php include 'includes/estrutura/footer.php'; ?>   
+    <?php include 'includes/estrutura/footer.php'; ?>
 
 </body>
 
