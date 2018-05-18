@@ -36,36 +36,39 @@
         <!-- Escolas Literárias
         –––––––––––––––––––––––––––––––––––––––––––––––––– -->
         <aside>
+            <div class="container">
+                <div class="section">
+                    <div class="row">
+                    
+                        <h2 class="titulo text-center cor">Autor de Destaque</h2>
+                        <div class="SI divisor"></div>
+                        <!-- <hr class="hidden-xs"> -->
+                        <div class="media">
+                            <div class="media-left media-middle text-center">
 
+                                <img class="media-object " src="
+            img/simb/cruz-e-souza.jpg" alt="Autor de Destaque " width="450">
 
+                            </div>
 
-            <div class="container-fluid section">
+                            <div class="media-body media-middle hidden-xs">
+                                <p class="titulo text-center cor">Cruz e Sousa, o cisne negro, principal precursor do simbolismo no Brasil.</p>
+                                <p class="text-center">
 
-                <div class="row">
-                    <h2 class="titulo text-center cor">Autor de Destaque</h2>
-                    <div class="SI divisor"></div>
-                    <!-- <hr class="hidden-xs"> -->
-                    <div class="media">
-                        <div class="media-left media-middle">
-                            
-                            <img class="media-object img" src="
-            img/simb/cruz-e-souza.jpg" alt="Autor de Destaque " width="450"  >
-           
-                        </div>
+                                    "Filho de negros alforriados, João da Cruz ficou sob tutela da família do militar Guilherme Xavier de Sousa. Recebeu boa
+                                    educação e combateu arduamente a escravidão e o preconceito racial no jornal Tribuna
+                                    Popular"</p>
+                            </div>
+                            <hr class="hidden-xs">
+                            <div class="visible-xs lateral">
+                                <hr>
+                                <p class="titulo cor text-center">Cruz e Sousa, o cisne negro, principal precursor do simbolismo no Brasil.</p>
+                                <p class="text-center">
 
-                        <div class="media-body media-middle hidden-xs">
-                            <p class="titulo text-center cor">Cruz e Souza, o Cisne Negro, principal precursor do simbolismo no Brasil.</p>
-                            <p class="text-center">
-
-                                "Filho de negros alforriados, João da Cruz ficou sob tutela da família do militar Guilherme Xavier de Sousa. Recebeu boa educação e combateu arduamente a escravidão e o preconceito racial no jornal Tribuna Popular"</p>
-                        </div>
-                        <hr class="hidden-xs">
-                        <div class="visible-xs lateral">
-                            <hr>
-                            <p class="titulo cor text-center">Cruz e Sousa, o cisne negro, principal precursor do simbolismo no Brasil.</p>
-                            <p class="text-center">
-
-                                "Filho de negros alforriados, João da Cruz ficou sob tutela da família do militar Guilherme Xavier de Sousa. Recebeu boa educação e combateu arduamente a escravidão e o preconceito racial no jornal Tribuna Popular"</p>
+                                    "Filho de negros alforriados, João da Cruz ficou sob tutela da família do militar Guilherme Xavier de Sousa. Recebeu boa
+                                    educação e combateu arduamente a escravidão e o preconceito racial no jornal Tribuna
+                                    Popular"</p>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -77,21 +80,56 @@
                     <article>
 
                         <h2 class="titulo cor line">Biografia</h2>
-                        <p>  Perspiciatis inventore ut veritatis consequuntur asperiores, amet, perferendis alias enim consectetur distinctio, maiores reprehenderit consequatur harum repellat!Quaerat illo, repellat id, nulla, consequatur expedita fuga quod temporibus reiciendis dolorum ullam. Harum accusamus debitis eligendi, nesciunt ad explicabo tenetur optio modi facilis magnam rem, temporibus molestiae perspiciatis error, nisi nobis quidem quos! Illum consequuntur nesciunt perspiciatis nostrum porro.Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+                        <p> Perspiciatis inventore ut veritatis consequuntur asperiores, amet, perferendis alias enim consectetur
+                            distinctio, maiores reprehenderit consequatur harum repellat!Quaerat illo, repellat id, nulla,
+                            consequatur expedita fuga quod temporibus reiciendis dolorum ullam. Harum accusamus debitis eligendi,
+                            nesciunt ad explicabo tenetur optio modi facilis magnam rem, temporibus molestiae perspiciatis
+                            error, nisi nobis quidem quos! Illum consequuntur nesciunt perspiciatis nostrum porro.Lorem ipsum
+                            dolor sit, amet consectetur adipisicing elit.
                         </p>
-                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perspiciatis inventore ut veritatis consequuntur asperiores, amet, perferendis alias enim consectetur distinctio, maiores reprehenderit consequatur harum repellat! Quaerat illo, repellat id, nulla, consequatur expedita fuga quod temporibus reiciendis dolorum ullam. Harum accusamus debitis eligendi, nesciunt ad explicabo tenetur optio modi facilis magnam rem, temporibus molestiae perspiciatis error, nisi nobis quidem quos! Illum consequuntur nesciunt perspiciatis nostrum porro.
+                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perspiciatis inventore ut veritatis consequuntur
+                            asperiores, amet, perferendis alias enim consectetur distinctio, maiores reprehenderit consequatur
+                            harum repellat! Quaerat illo, repellat id, nulla, consequatur expedita fuga quod temporibus reiciendis
+                            dolorum ullam. Harum accusamus debitis eligendi, nesciunt ad explicabo tenetur optio modi facilis
+                            magnam rem, temporibus molestiae perspiciatis error, nisi nobis quidem quos! Illum consequuntur
+                            nesciunt perspiciatis nostrum porro.
                         </p>
-                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perspiciatis inventore ut veritatis consequuntur asperiores, amet, perferendis alias enim consectetur distinctio, maiores reprehenderit consequatur harum repellat! Quaerat illo, repellat id, nulla, consequatur expedita fuga quod temporibus reiciendis dolorum ullam. Harum accusamus debitis eligendi, nesciunt ad explicabo tenetur optio modi facilis magnam rem, temporibus molestiae perspiciatis error, nisi nobis quidem quos! Illum consequuntur nesciunt perspiciatis nostrum porro.
+                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perspiciatis inventore ut veritatis consequuntur
+                            asperiores, amet, perferendis alias enim consectetur distinctio, maiores reprehenderit consequatur
+                            harum repellat! Quaerat illo, repellat id, nulla, consequatur expedita fuga quod temporibus reiciendis
+                            dolorum ullam. Harum accusamus debitis eligendi, nesciunt ad explicabo tenetur optio modi facilis
+                            magnam rem, temporibus molestiae perspiciatis error, nisi nobis quidem quos! Illum consequuntur
+                            nesciunt perspiciatis nostrum porro.
                         </p>
-                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perspiciatis inventore ut veritatis consequuntur asperiores, amet, perferendis alias enim consectetur distinctio, maiores reprehenderit consequatur harum repellat! Quaerat illo, repellat id, nulla, consequatur expedita fuga quod temporibus reiciendis dolorum ullam. Harum accusamus debitis eligendi, nesciunt ad explicabo tenetur optio modi facilis magnam rem, temporibus molestiae perspiciatis error, nisi nobis quidem quos! Illum consequuntur nesciunt perspiciatis nostrum porro.
+                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perspiciatis inventore ut veritatis consequuntur
+                            asperiores, amet, perferendis alias enim consectetur distinctio, maiores reprehenderit consequatur
+                            harum repellat! Quaerat illo, repellat id, nulla, consequatur expedita fuga quod temporibus reiciendis
+                            dolorum ullam. Harum accusamus debitis eligendi, nesciunt ad explicabo tenetur optio modi facilis
+                            magnam rem, temporibus molestiae perspiciatis error, nisi nobis quidem quos! Illum consequuntur
+                            nesciunt perspiciatis nostrum porro.
                         </p>
 
                         <h2 class="titulo cor line">Obras do Autor</h2>
-                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perspiciatis inventore ut veritatis consequuntur asperiores, amet, perferendis alias enim consectetur distinctio, maiores reprehenderit consequatur harum repellat! Quaerat illo, repellat id, nulla, consequatur expedita fuga quod temporibus reiciendis dolorum ullam. Harum accusamus debitis eligendi, nesciunt ad explicabo tenetur optio modi facilis magnam rem, temporibus molestiae perspiciatis error, nisi nobis quidem quos! Illum consequuntur nesciunt perspiciatis nostrum porro.
+                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perspiciatis inventore ut veritatis consequuntur
+                            asperiores, amet, perferendis alias enim consectetur distinctio, maiores reprehenderit consequatur
+                            harum repellat! Quaerat illo, repellat id, nulla, consequatur expedita fuga quod temporibus reiciendis
+                            dolorum ullam. Harum accusamus debitis eligendi, nesciunt ad explicabo tenetur optio modi facilis
+                            magnam rem, temporibus molestiae perspiciatis error, nisi nobis quidem quos! Illum consequuntur
+                            nesciunt perspiciatis nostrum porro.
                         </p>
-                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perspiciatis inventore ut veritatis consequuntur asperiores, amet, perferendis alias enim consectetur distinctio, maiores reprehenderit consequatur harum repellat! Quaerat illo, repellat id, nulla, consequatur expedita fuga quod temporibus reiciendis dolorum ullam. Harum accusamus debitis eligendi, nesciunt ad explicabo tenetur optio modi facilis magnam rem, temporibus molestiae perspiciatis error, nisi nobis quidem quos! Illum consequuntur nesciunt perspiciatis nostrum porro.
+                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perspiciatis inventore ut veritatis consequuntur
+                            asperiores, amet, perferendis alias enim consectetur distinctio, maiores reprehenderit consequatur
+                            harum repellat! Quaerat illo, repellat id, nulla, consequatur expedita fuga quod temporibus reiciendis
+                            dolorum ullam. Harum accusamus debitis eligendi, nesciunt ad explicabo tenetur optio modi facilis
+                            magnam rem, temporibus molestiae perspiciatis error, nisi nobis quidem quos! Illum consequuntur
+                            nesciunt perspiciatis nostrum porro.
                         </p>
-                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perspiciatis inventore ut veritatis consequuntur asperiores, amet, perferendis alias enim consectetur distinctio, maiores reprehenderit consequatur harum repellat! Quaerat illo, repellat id, nulla, consequatur expedita fuga quod temporibus reiciendis dolorum ullam. Harum accusamus debitis eligendi, nesciunt ad explicabo tenetur optio modi facilis magnam rem, temporibus molestiae perspiciatis error, nisi nobis quidem quos! Illum consequuntur nesciunt perspiciatis nostrum porro.
+                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perspiciatis inventore ut veritatis consequuntur
+                            asperiores, amet, perferendis alias enim consectetur distinctio, maiores reprehenderit consequatur
+                            harum repellat! Quaerat illo, repellat id, nulla, consequatur expedita fuga quod temporibus reiciendis
+                            dolorum ullam. Harum accusamus debitis eligendi, nesciunt ad explicabo tenetur optio modi facilis
+                            magnam rem, temporibus molestiae perspiciatis error, nisi nobis quidem quos! Illum consequuntur
+                            nesciunt perspiciatis nostrum porro.
                         </p>
                     </article>
                 </div>
