@@ -39,16 +39,15 @@
             <div class="container">
                 <div class="section">
                     <div class="row">
-                    
+
                         <h2 class="titulo text-center cor">Autor de Destaque</h2>
                         <div class="SI divisor"></div>
                         <!-- <hr class="hidden-xs"> -->
                         <div class="media">
-                            <div class="media-left media-middle text-center">
-
-                                <img class="media-object " src="
-            img/simb/cruz-e-souza.jpg" alt="Autor de Destaque " width="450">
-
+                            <div class="media-left media-middle">
+                                
+                                <img class="media-object " src="img/simb/cruz-e-souza.jpg" alt="Autor de Destaque">
+                                <cite><small>João Cruz e Sousa: Ilustração Digital relizado por Cleisson</small></cite>
                             </div>
 
                             <div class="media-body media-middle hidden-xs">
@@ -57,7 +56,8 @@
 
                                     "Filho de negros alforriados, João da Cruz ficou sob tutela da família do militar Guilherme Xavier de Sousa. Recebeu boa
                                     educação e combateu arduamente a escravidão e o preconceito racial no jornal Tribuna
-                                    Popular"</p>
+                                    Popular"
+                                </p>
                             </div>
                             <hr class="hidden-xs">
                             <div class="visible-xs lateral">
@@ -67,12 +67,15 @@
 
                                     "Filho de negros alforriados, João da Cruz ficou sob tutela da família do militar Guilherme Xavier de Sousa. Recebeu boa
                                     educação e combateu arduamente a escravidão e o preconceito racial no jornal Tribuna
-                                    Popular"</p>
+                                    Popular"
+                                </p>
+
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
+
         </aside>
         <div class="container text-left">
             <div class="col-xs-12 col-md-8 col-md-offset-2 col-lg-8 col-lg-offset-2">
@@ -131,7 +134,9 @@
                             magnam rem, temporibus molestiae perspiciatis error, nisi nobis quidem quos! Illum consequuntur
                             nesciunt perspiciatis nostrum porro.
                         </p>
+                        <div class="section"></div>
                     </article>
+
                 </div>
             </div>
         </div>

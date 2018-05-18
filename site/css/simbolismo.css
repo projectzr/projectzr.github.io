@@ -47,7 +47,10 @@ hr {
     color:#5b4961;
 }
 
-
+small {
+    font-family: 'Zilla Slab', serif;
+    color: #604134;
+}
 
 aside p {
     font-family: 'Zilla Slab', serif;
