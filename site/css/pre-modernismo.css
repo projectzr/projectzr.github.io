@@ -1,0 +1,60 @@
+.centralizar {
+margin: auto;
+}
+
+
+/*---Contexto*/
+.cor-contexto p {
+    color:#8c6650;
+    }
+.cor-titulo-contexto{
+    color:#765649;
+}
+
+
+/*--- Principais obras*/
+.cor-obras1{
+    color:#715c56;
+}
+
+.cor-sub-principais-obras1{
+    color:#a79083;
+}
+
+.cor-texto-obras1 {
+    color:#7e655f
+}
+
+.cor-obras2 {
+   color:#9e7b99; 
+}
+
+.cor-obras3 {
+    color:#ad6372;
+}
+
+
+
+
+
+
+
+
+
+
+
+.line:after {
+    content: "";
+    display: block;
+    margin-top: 0.2em;
+    height: 3px;
+    background-color: rgba(202, 169, 150, 0.44);
+    width: 5em;
+}
+
+
+
+
+.cor-sub-principais-obras3 {
+    color:gray;
+}

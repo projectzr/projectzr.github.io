@@ -30,10 +30,8 @@ $(document).ready(function () {
     $('li[data-type^="drop-escola"]').click(function() {
         
         $('.dropdown-menu').on("click.bs.dropdown", function (e) {
-            console.log($(window).width());
             if ($(window).width() < 768) {
                 e.stopPropagation();
-                e.preventDefault();   
             }
         });
         
