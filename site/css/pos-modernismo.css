@@ -1,0 +1,81 @@
+
+.little-space {
+    margin-bottom: 1rem !important;
+}
+.mid-space {
+    margin-bottom: 3rem !important;
+}
+.title-left:after {
+    content: "";
+    display: block;
+    height: 3px;
+    margin-top: 0.2em;
+    background-color: rgba(48, 48, 48, 0.14);
+    width: 5em;
+}
+.divisor {
+    height: 1px;
+    background-color: rgba(48, 48, 48, 0.14);
+    position: relative;
+    bottom: 15px;
+    margin-bottom: 3rem;
+    width: 100%;
+}
+.divisor::after {
+    content: "";
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    height: 0.5rem;
+    background-color: #9998b5 ;
+    width: 26%;
+    bottom: 0.4rem;
+    margin-top: 30px;
+}
+.ficha-tecnica {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+/* Autor
+-------------------------------------------*/
+.ficha-tecnica td, .ficha-tecnica th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+.ficha-tecnica tr:nth-child(even){
+    background-color: #f2f2f2;
+}
+.foto-autor {
+    width: 100%;
+}
+
+@media (max-width: 767px) {
+    .foto-autor, .ficha-tecnica {
+        max-width: 350px;
+    }
+    .ficha-tecnica {
+        margin: 0 auto;
+    }
+}
+
+/* Obras
+-------------------------------------------*/
+.foto-obras {
+    width: 100%;
+}
+.foto-livro {
+    max-width: 120px;
+    margin: 0 20px 0 0;
+}
+
+@media (min-width: 768px) {
+    .article-obras {
+        padding-right: 30px !important;
+    }
+}
+.aside-obras {
+    background-color: #9998b5;
+    padding: 10px;
+}
