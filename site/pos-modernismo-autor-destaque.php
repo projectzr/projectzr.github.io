@@ -37,7 +37,7 @@
         OBS: O Section define o espaçamento padrão de uma SESSÃO, 
         container se refere a classe usada pelo bootstrap
         –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-        <article class="section container"> 
+        <div class="section container"> 
             <div class="row text-left">
                 <aside class="col-md-4 col-md-push-8">
                     <h2 style="display: none">Dados do autor</h2>
@@ -81,7 +81,7 @@
                 <article class="col-md-8 col-md-pull-4">
                     <h2 class="titulo no-space text-center">Em Produção</h2>
                     <div class="divisor"></div>
-                    <p class="mid-space">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, iste molestias? Fugit quisquam corporis repellendus
+                    <p class="mid-space first-letter">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, iste molestias? Fugit quisquam corporis repellendus
                     eligendi inventore tempora vero sapiente minus quaerat magni magnam suscipit quia quod, assumenda saepe voluptatibus
                     totam nulla ducimus labore. Magni! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat cum
                     minima provident impedit mollitia nobis soluta debitis illo, ex iure ducimus, deserunt dolorum esse sed.</p>
@@ -107,7 +107,7 @@
                     minima provident impedit mollitia nobis soluta debitis illo, ex iure ducimus, deserunt dolorum esse sed.</p>
                 </article>
             </div>
-        </article>
+        </div>
         
     </main>
 

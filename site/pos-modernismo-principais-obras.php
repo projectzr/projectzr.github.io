@@ -31,7 +31,7 @@
     <!-- Conteúdo
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <main class="section container"> 
-        <h1 class="titulo no-space text-center">Em Produção</h2>
+        <h1 class="titulo no-space text-center">Em Produção</h1>
         <div class="divisor"></div>
 
         <article class="col-sm-7 text-justify article-obras">
@@ -46,14 +46,14 @@
 
         <aside class="col-sm-5 text-left aside-obras">
             <h2 class="titulo title-left text-left mid-space">Obras conhecidas</h2>
-            <img src="img/pre-mord/contexto_historico.jpg" class="foto-obras mid-space">
+            <img src="img/pre-mord/contexto_historico.jpg" alt="contexto histórico" class="foto-obras mid-space">
             <div>
-            <img src="img/inocencia.jpg" class="foto-livro" align="left">
+            <img src="img/inocencia.jpg" class="foto-livro" alt="primeira obra de destaque" style="float: left;">
             <p class="sub-titulo">Nome da Obra</p>
             <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, iste molestias? Fugit quisquam corporis repellendus eligendi inventore tempora vero sapiente minus quaerat magni magnam suscipit quia quod, assumenda saepe voluptatibus totam nulla ducimus labore. Magni! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat cum minima provident impedit mollitia nobis soluta debitis illo, ex iure ducimus, deserunt dolorum esse sed.</p>
             </div>
             <div>
-            <img src="img/inocencia.jpg" class="foto-livro" align="left">
+            <img src="img/inocencia.jpg" class="foto-livro" alt="segunda obra de destaque" style="float: left;">
             <p class="sub-titulo">Nome da Obra</p>
             <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, iste molestias? Fugit quisquam corporis repellendus eligendi inventore tempora vero sapiente minus quaerat magni magnam suscipit quia quod, assumenda saepe voluptatibus totam nulla ducimus labore. Magni! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat cum minima provident impedit mollitia nobis soluta debitis illo, ex iure ducimus, deserunt dolorum esse sed.</p>
             </div>

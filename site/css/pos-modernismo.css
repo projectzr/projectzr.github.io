@@ -5,6 +5,18 @@
 .mid-space {
     margin-bottom: 3rem !important;
 }
+article p {
+    font-family: 'Zilla Slab', serif;
+    line-height: 2em;
+}
+.first-letter:first-of-type:first-letter {
+    padding: 20px 10px 1px 0px;
+    font-weight: 600;
+    font-size: 8em;
+    line-height: 6rem;
+    color: #9998b5;
+    float: left;
+}
 .title-left:after {
     content: "";
     display: block;
@@ -32,14 +44,14 @@
     bottom: 0.4rem;
     margin-top: 30px;
 }
+
+/* Autor
+-------------------------------------------*/
 .ficha-tecnica {
     font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
     border-collapse: collapse;
     width: 100%;
 }
-
-/* Autor
--------------------------------------------*/
 .ficha-tecnica td, .ficha-tecnica th {
     border: 1px solid #ddd;
     padding: 8px;
