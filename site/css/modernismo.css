@@ -1,0 +1,139 @@
+
+img {  max-width: 100%; }
+   
+img:hover { opacity:0.8; }
+
+img.center-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+     padding-bottom: 50px;
+    padding-top: 20px;
+   }
+
+.li_principais_obras {
+  padding-left: 2px;
+  padding-right: 0px;
+  display:list-item;
+  font-family: 'Slabo 27px', serif;
+    }
+
+
+.little-space {
+    margin-bottom: 1rem !important;
+}
+.mid-space {
+    margin-bottom: 3rem !important;
+}
+article p {
+    font-family: 'Zilla Slab', serif;
+    line-height: 2em;
+}
+.first-letter:first-of-type:first-letter {
+    padding: 20px 10px 1px 0px;
+    font-weight: 600;
+    font-size: 8em;
+    line-height: 6rem;
+    color: #9998b5;
+    float: left;
+}
+.title-left:after {
+    content: "";
+    display: block;
+    height: 3px;
+    margin-top: 0.2em;
+    background-color: rgba(48, 48, 48, 0.14);
+    width: 5em;
+}
+.divisor {
+    height: 1px;
+    background-color: rgba(48, 48, 48, 0.14);
+    position: relative;
+    bottom: 15px;
+    margin-bottom: 3rem;
+    width: 100%;
+}
+.divisor::after {
+    content: "";
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    height: 0.5rem;
+    background-color: #9998b5 ;
+    width: 26%;
+    bottom: 0.4rem;
+    margin-top: 30px;
+}
+                    
+
+@media (min-width: 768px) {
+
+  .texto {
+    display: flex;
+    width: 100%;
+    height: 100vh;
+    flex-direction: column;
+    justify-content: center;
+    }
+  }
+
+h1, h2, h3 {text-align: center; }
+p { text-align: justify;
+   
+}
+
+@media (min-width: 992px) {
+
+  .texto {
+    display: flex;
+    width: 100%;
+    height: 100vh;
+    flex-direction: column;
+    justify-content: center;
+    }
+  }
+
+
+@media (min-width: 1200px) {
+
+.texto {
+  display: flex;
+  width: 100%;
+  height: 60vh;
+  flex-direction: column;
+  justify-content: center;
+    }
+}
+ flex-direction: column;
+    justify-content: center;
+    }
+  }
+
+h1, h2, h3 {text-align: center; }
+p { text-align: justify;
+   
+}
+
+@media (min-width: 992px) {
+
+  .texto {
+    display: flex;
+    width: 100%;
+    height: 100vh;
+    flex-direction: column;
+    justify-content: center;
+    }
+  }
+
+
+@media (min-width: 1200px) {
+
+.texto {
+  display: flex;
+  width: 100%;
+  height: 60vh;
+  flex-direction: column;
+  justify-content: center;
+    }
+}
+
