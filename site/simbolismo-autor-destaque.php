@@ -22,7 +22,7 @@
                         <div class="SI divisor"></div>
                         <div class="media">
                             <div class="media-left media-middle">
-                                <img class="media-object " src="img/simb/cruz-e-souza.jpg" alt="Autor de Destaque">
+                                <img class="media-object " src="img/simb/cruz-e-souza.jpg" alt="Autor de Destaque" class="imgcenter">
                                 <cite>
                                     <small>João Cruz e Sousa: Ilustração Digital relizado por Cleisson</small>
                                 </cite>
@@ -55,7 +55,7 @@
                 <div class="row">
                     <article>
                         <h2 class="titulo cor line">Biografia</h2>
-                        <p> Perspiciatis inventore ut veritatis consequuntur asperiores, amet, perferendis alias enim consectetur
+                        <p class="capitular"> Perspiciatis inventore ut veritatis consequuntur asperiores, amet, perferendis alias enim consectetur
                             distinctio, maiores reprehenderit consequatur harum repellat!Quaerat illo, repellat id, nulla,
                             consequatur expedita fuga quod temporibus reiciendis dolorum ullam. Harum accusamus debitis eligendi,
                             nesciunt ad explicabo tenetur optio modi facilis magnam rem, temporibus molestiae perspiciatis
