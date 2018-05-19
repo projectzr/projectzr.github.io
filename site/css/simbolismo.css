@@ -1,7 +1,9 @@
-html,body {
+html,
+body {
     max-width: 100%;
     overflow-x: hidden;
 }
+
 .titulo {
     margin-bottom: 3rem;
 }
@@ -27,7 +29,7 @@ hr {
     position: relative;
     margin: 0 auto;
     height: 0.5rem;
-    background-color: #b598ab ;
+    background-color: #b598ab;
     width: 26%;
     bottom: 0.4rem;
     /* left: 0; */
@@ -46,8 +48,14 @@ hr {
 }
 
 .cor {
-    color:#5b4961;
+    color: #5b4961;
 }
+
+
+h3 small {
+    font-family: 'Bitter', serif;
+}
+
 
 small {
     font-family: 'Zilla Slab', serif;
@@ -58,14 +66,14 @@ aside p {
     font-family: 'Zilla Slab', serif;
     font-size: 2.2rem;
     line-height: 2.6rem;
-    color:#604134;  
+    color: #604134;
 }
 
 article p {
     text-align: left;
     font-family: 'Zilla Slab', serif;
     line-height: 2em;
-    color:#604134;  
+    color: #604134;
 }
 
 /* article p:first-of-type:first-letter {
@@ -77,8 +85,7 @@ article p {
     padding: 20px 10px 1px 0px;
 } */
 
-
-.capitular::first-letter{
+.capitular::first-letter {
     float: left;
     color: #5b4961;
     font-weight: 600;
