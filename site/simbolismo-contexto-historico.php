@@ -1,7 +1,7 @@
 <?php include 'includes/estrutura/assinatura.php'; ?>
 
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="zxx">
 
 <head>
 
@@ -35,49 +35,114 @@
         –––––––––––––––––––––––––––––––––––––––––––––––––– -->
         <article class="section container">
 
-            <div class="col-md-10 col-md-offset-2">
+            <div class="col-md-12">
+
                 <div class="row">
+
+                    <h2 class="titulo text-center">Simbolismo </h2>
+                    <div class="SI divisor"></div>
                     <div class="col-md-6 text-left">
-                        <h2 class="titulo">Simbolismo </h2>
-                        <h3 class="sub-titulo">Origem</h3>
-                        <p class="capitular"> Aut, iste molestias? Fugit quisquam corporis
-                            repellendus eligendi inventore tempora vero sapiente minus quaerat magni magnam suscipit quia
-                            quod, assumenda saepe voluptatibus totam nulla ducimus labore. Magni! Lorem ipsum dolor sit amet,
-                            consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Placeat cum minima provident impedit mollitia nobis soluta debitis
-                            illo, ex iure ducimus, deserunt dolorum esse sed.</p>
+                        <h3 class="titulo line">Origem</h3>
+
+                        <p class="capitular"> Aut, iste molestias? Fugit quisquam corporis repellendus eligendi inventore tempora vero sapiente
+                            minus quaerat magni magnam suscipit quia quod, assumenda saepe voluptatibus totam nulla ducimus
+                            labore. Magni! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit
+                            amet consectetur, adipisicing elit. Placeat cum minima provident impedit mollitia nobis soluta
+                            debitis illo, ex iure ducimus, deserunt dolorum esse sed.</p>
                         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, iste molestias? Fugit quisquam corporis
                             repellendus eligendi inventore tempora vero sapiente minus quaerat magni magnam suscipit quia
                             quod, assumenda saepe voluptatibus totam nulla ducimus labore. Magni! Lorem ipsum dolor sit amet,
                             consectetur adipisicing elit. Placeat cum minima provident impedit mollitia nobis soluta debitis
                             illo, ex iure ducimus, deserunt dolorum esse sed.</p>
-                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, iste molestias? Fugit quisquam corporis
-                            repellendus eligendi inventore tempora vero sapiente minus quaerat magni magnam suscipit quia
-                            quod, assumenda saepe voluptatibus totam nulla ducimus labore. Magni! Lorem ipsum dolor sit amet,
-                            consectetur adipisicing elit. Placeat cum minima provident impedit mollitia nobis soluta debitis
-                            illo, ex iure ducimus, deserunt dolorum esse sed.</p>
+                      
                     </div>
                     <div class="col-md-4 col-md-offset-1 col-xs-10 col-xs-offset-2 text-center">
                         <img src='https://placehold.it/350x416?text=ContextoAqui' class="img-responsive" alt='' />
                         <cite>
-                            <small>Contexto Historico Aqui bem Legal</small>
+                            <small class="text-center">Contexto Historico Aqui bem Legal</small>
                         </cite>
-                                            </div>
-                                            
+                    </div>
                 </div>
-                <hr class="visible-xs">
-                <div class="row">
-                    <div class="col-md-6 text-left">
-                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, iste molestias? Fugit quisquam corporis
-                            repellendus eligendi inventore tempora vero sapiente minus quaerat magni magnam suscipit quia
-                            quod, assumenda saepe voluptatibus totam nulla ducimus labore. Magni! Lorem ipsum dolor sit amet,
-                            consectetur adipisicing elit. Placeat cum minima provident impedit mollitia nobis soluta debitis
-                            illo, ex iure ducimus, deserunt dolorum esse sed.</p>
-      <h3>Surgimento</h3>                  <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, iste molestias? Fugit quisquam corporis
-                            repellendus eligendi inventore tempora vero sapiente minus quaerat magni magnam suscipit quia
-                            quod, assumenda saepe voluptatibus totam nulla ducimus labore. Magni! Lorem ipsum dolor sit amet,
-                            consectetur adipisicing elit. Placeat cum minima provident impedit mollitia nobis soluta debitis
-                            illo, ex iure ducimus, deserunt dolorum esse sed.</p>
+            </div>
+            <hr class="visible-xs">
+            <div class="row">
+                <div class="col-md-6 text-left">
+                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, iste molestias? Fugit quisquam corporis
+                        repellendus eligendi inventore tempora vero sapiente minus quaerat magni magnam suscipit quia quod,
+                        assumenda saepe voluptatibus totam nulla ducimus labore. Magni! Lorem ipsum dolor sit amet, consectetur
+                        adipisicing elit. Placeat cum minima provident impedit mollitia nobis soluta debitis illo, ex iure
+                        ducimus, deserunt dolorum esse sed.</p>
+                    <h3 class="titulo line">Surgimento</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, iste molestias? Fugit quisquam corporis
+                        repellendus eligendi inventore tempora vero sapiente minus quaerat magni magnam suscipit quia quod,
+                        assumenda saepe voluptatibus totam nulla ducimus labore. Magni! Lorem ipsum dolor sit amet, consectetur
+                        adipisicing elit. Placeat cum minima provident impedit mollitia nobis soluta debitis illo, ex iure
+                        ducimus, deserunt dolorum esse sed.</p>
+                    <h3 class="titulo line">Simbolismo
+                        <small>e tédio da civilização Humana</small>
+                    </h3>
+                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, iste molestias? Fugit quisquam corporis
+                        repellendus eligendi inventore tempora vero sapiente minus quaerat magni magnam suscipit quia quod,
+                        assumenda saepe voluptatibus totam nulla ducimus labore. Magni! Lorem ipsum dolor sit amet, consectetur
+                        adipisicing elit. Placeat cum minima provident impedit mollitia nobis soluta debitis illo, ex iure
+                        ducimus, deserunt dolorum esse sed.</p>
+                </div>
 </div>
+
+                <div class="col-md-12">
+
+                    <div class="row">
+
+                        <h2 class="titulo text-center">Simbolismo no Brasil </h2>
+                        <div class="SI divisor"></div>
+                        <div class="col-md-6 text-left">
+                            <h3 class="titulo line">Contexto Cultural</h3>
+
+                            <p class="capitular">Magni! placeat cum minima provident impedit mollitia nobis soluta debitis illo, ex iure ducimus,
+                                deserunt dolorum esse sed.Aut, iste molestias? Fugit quisquam corporis repellendus eligendi
+                                inventore tempora vero sapiente minus quaerat magni magnam suscipit quia quod, assumenda
+                                saepe voluptatibus totam nulla ducimus labore. Magni! Lorem ipsum dolor sit amet, consectetur
+                                adipisicing elit. Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
+                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, iste molestias? Fugit quisquam
+                                corporis repellendus eligendi inventore tempora vero sapiente minus quaerat magni magnam
+                                suscipit quia quod, assumenda saepe voluptatibus totam nulla ducimus labore. Magni! Lorem
+                                ipsum dolor sit amet, consectetur adipisicing elit. Placeat cum minima provident impedit
+                                mollitia nobis soluta debitis illo, ex iure ducimus, deserunt dolorum esse sed.</p>
+                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, iste molestias? Fugit quisquam
+                                corporis repellendus eligendi inventore tempora vero sapiente minus quaerat magni magnam
+                                suscipit quia quod, assumenda saepe voluptatibus totam nulla ducimus labore. Magni! Lorem
+                                ipsum dolor sit amet, consectetur adipisicing elit. Placeat cum minima provident impedit
+                                mollitia nobis soluta debitis illo, ex iure ducimus, deserunt dolorum esse sed.</p>
+                        </div>
+                        <div class="col-md-4 col-md-offset-1 col-xs-10 col-xs-offset-2 text-center">
+                            <img src='https://placehold.it/350x416?text=ContextoAqui' class="img-responsive" alt='' />
+                            <cite>
+                                <small class="text-center">Contexto Historico Aqui bem Legal</small>
+                            </cite>
+                        </div>
+
+                    </div>
+                    <hr class="visible-xs">
+                    <div class="row">
+                        <div class="col-md-6 text-left">
+                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, iste molestias? Fugit quisquam
+                                corporis repellendus eligendi inventore tempora vero sapiente minus quaerat magni magnam
+                                suscipit quia quod, assumenda saepe voluptatibus totam nulla ducimus labore. Magni! Lorem
+                                ipsum dolor sit amet, consectetur adipisicing elit. Placeat cum minima provident impedit
+                                mollitia nobis soluta debitis illo, ex iure ducimus, deserunt dolorum esse sed.</p>
+                            <h3 class="titulo line">Contexto Histórico</h3>
+                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, iste molestias? Fugit quisquam
+                                corporis repellendus eligendi inventore tempora vero sapiente minus quaerat magni magnam
+                                suscipit quia quod, assumenda saepe voluptatibus totam nulla ducimus labore. Magni! Lorem
+                                ipsum dolor sit amet, consectetur adipisicing elit. Placeat cum minima provident impedit
+                                mollitia nobis soluta debitis illo, ex iure ducimus, deserunt dolorum esse sed.</p>
+                        </div>
+</div>
+
+</div>
+
+
+
         </article>
 
     </main>
