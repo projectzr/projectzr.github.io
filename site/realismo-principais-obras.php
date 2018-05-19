@@ -46,15 +46,15 @@
 
                    <h2 class="parameio titulo centro">Principais obras realistas</h2>
                        <section class="col-xs-12 col-md-4 col-lg-4">
-                   <div class="col-xs-8 col-md-8 col-lg-8 arrumarpimg"><img src="img/cortico.jpg" class="col-xs-12 col-md-12 text-center"  alt="Capa de O Cortiço de Aluísio de Azevedo  "></div>
+                   <div class="col-xs-8 col-md-8 col-lg-8 arrumarpimg"><img src="img/cortico.jpg" class="col-xs-12 col-md-12"  alt="Capa de O Cortiço de Aluísio de Azevedo  "></div>
                 <p class="pararealismo">Nunc sodales ornare eros. Praesent feugiat semper sollicitudin. Morbi egestas lorem leo, vitae feugiat nisl aliquam nec. Morbi dictum nisl neque. Donec pulvinar ullamcorper bibendum. Cras consequat lorem urna, id placerat risus feugiat at. Fusce vel libero non eros iaculis ultrices nec vitae nulla. Aliquam sollicitudin sem ac mi molestie, id pulvinar dui facilisis.</p>
                    </section>
                              <section class="col-xs-12 col-md-4 col-lg-4">
-                   <div class="col-xs-8 col-md-8 col-lg-8 arrumarpimg"><img src="img/ateneu.jpg" class="col-xs-12 col-md-12 text-center"  alt="Capa de O Ateneu de Raul Pompéia"></div>
+                   <div class="col-xs-8 col-md-8 col-lg-8 arrumarpimg"><img src="img/ateneu.jpg" class="col-xs-12 col-md-12"  alt="Capa de O Ateneu de Raul Pompéia"></div>
                 <p class="pararealismo">Nunc sodales ornare eros. Praesent feugiat semper sollicitudin. Morbi egestas lorem leo, vitae feugiat nisl aliquam nec. Morbi dictum nisl neque. Donec pulvinar ullamcorper bibendum. Cras consequat lorem urna, id placerat risus feugiat at. Fusce vel libero non eros iaculis ultrices nec vitae nulla. Aliquam sollicitudin sem ac mi molestie, id pulvinar dui facilisis.</p>
                    </section>
                              <section class="col-xs-12 col-md-4 col-lg-4">
-                   <div class="col-xs-8 col-md-8 col-lg-8 arrumarpimg"><img src="img/inocencia.jpg" class="col-xs-12 col-md-12 text-center"  alt="Capa de Inocência de Visconde de Taunay"></div>
+                   <div class="col-xs-8 col-md-8 col-lg-8 arrumarpimg"><img src="img/inocencia.jpg" class="col-xs-12 col-md-12"  alt="Capa de Inocência de Visconde de Taunay"></div>
                 <p class="pararealismo">Nunc sodales ornare eros. Praesent feugiat semper sollicitudin. Morbi egestas lorem leo, vitae feugiat nisl aliquam nec. Morbi dictum nisl neque. Donec pulvinar ullamcorper bibendum. Cras consequat lorem urna, id placerat risus feugiat at. Fusce vel libero non eros iaculis ultrices nec vitae nulla. Aliquam sollicitudin sem ac mi molestie, id pulvinar dui facilisis.</p>
                    </section>
             </div>
