@@ -34,7 +34,9 @@ hr {
     margin-top: 30px;
 }
 
-
+.imgcenter {
+    max-width: 100%;
+}
 
 .lateral {
     padding-right: 0.9em;
@@ -66,7 +68,17 @@ article p {
     color:#604134;  
 }
 
-article p:first-of-type:first-letter {
+/* article p:first-of-type:first-letter {
+    float: left;
+    color: #5b4961;
+    font-weight: 600;
+    font-size: 8em;
+    line-height: 6rem;
+    padding: 20px 10px 1px 0px;
+} */
+
+
+.capitular::first-letter{
     float: left;
     color: #5b4961;
     font-weight: 600;

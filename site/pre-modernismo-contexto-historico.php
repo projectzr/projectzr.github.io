@@ -9,8 +9,8 @@
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <meta charset="utf-8">
     <title>Brasil Literário - Pré-Modernismo: Contexto Histórico</title>
-    <link rel="stylesheet" href="css/pre-modernismo.css">
-    <?php include 'includes/estrutura/head.php'; ?>
+        <?php include 'includes/estrutura/head.php'; ?>
+        <link rel="stylesheet" href="css/pre-modernismo.css">
     
 </head>
 
@@ -40,11 +40,11 @@
         <article class="section container">
             
         <div class="col-md-12">
-                 <img src="img/pre-mord/contexto_historico.jpg" alt="">
+                 <img src="img/pre-mord/contexto_historico.jpg" alt="" class="imgcenter">   
             </div>
-           
+            <hr>
             <div class="text-left col-md-6 cor-contexto">
-            <h3 class="sub-titulo cor-titulo-contexto line">Pré-Modernismo no Brasil</h3>
+            <h3 class="titulo cor-titulo-contexto line">Pré-Modernismo no Brasil</h3>
             <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, iste molestias? Fugit quisquam corporis repellendus
             eligendi inventore tempora vero sapiente minus quaerat magni magnam suscipit quia quod, assumenda saepe voluptatibus
             totam nulla ducimus labore. Magni! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat cum
@@ -54,7 +54,7 @@
             totam nulla ducimus labore. Magni! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat cum
             minima provident impedit mollitia nobis soluta debitis illo, ex iure ducimus, deserunt dolorum esse sed.</p>
             
-            <h3 class="sub-titulo cor-titulo-contexto line">Final do Século XIX</h3>
+            <h3 class="titulo cor-titulo-contexto line">Final do Século XIX</h3>
             <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, iste molestias? Fugit quisquam corporis repellendus
             eligendi inventore tempora vero sapiente minus quaerat magni magnam suscipit quia quod, assumenda saepe voluptatibus
             totam nulla ducimus labore. Magni! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat cum
@@ -65,7 +65,7 @@
             minima provident impedit mollitia nobis soluta debitis illo, ex iure ducimus, deserunt dolorum esse sed.</p>
             </div>
             <div class="text-left col-md-6  cor-contexto">
-                <h3 class="sub-titulo cor-titulo-contexto line">Início do Século XX</h3>
+                <h3 class="titulo cor-titulo-contexto line">Início do Século XX</h3>
             <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, iste molestias? Fugit quisquam corporis repellendus
             eligendi inventore tempora vero sapiente minus quaerat magni magnam suscipit quia quod, assumenda saepe voluptatibus
             totam nulla ducimus labore. Magni! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat cum
