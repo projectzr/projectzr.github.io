@@ -39,9 +39,10 @@
         –––––––––––––––––––––––––––––––––––––––––––––––––– -->
         <article class="section container">
             
-        <div class="col-md-12">
+        <div class="col-md-12 section">
                  <img src="img/pre-mord/contexto_historico.jpg" alt="" class="imgcenter">   
             </div>
+            
             <hr>
             <div class="text-left col-md-6 cor-contexto">
             <h3 class="titulo cor-titulo-contexto line">Pré-Modernismo no Brasil</h3>
