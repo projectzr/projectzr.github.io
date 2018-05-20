@@ -129,22 +129,22 @@ a:hover {
     margin-right: 10px;
 }
 
-.mega-dropdown-menu>li>ul>li>ul>li {
+.mega-dropdown-menu > li > ul > li > ul > li {
     list-style: none;
 }
 
-.mega-dropdown-menu>li>ul>li>ul>li:first-child {
+.mega-dropdown-menu > li > ul > li > ul > li:first-child {
     margin-top: 8px;
 }
 
-.mega-dropdown-menu>li>ul>li>ul>li>a {
+.mega-dropdown-menu > li > ul > li > ul > li > a {
     display: block;
     line-height: 3.5rem;
     font-size: 1.38rem;
     white-space: normal;
 }
 
-.mega-dropdown-menu>li>ul>li>ul>li>a::before {
+.mega-dropdown-menu > li > ul > li > ul > li > a::before {
     content: '';
     display: inline-block;
     height: 4px;
@@ -168,15 +168,15 @@ a:hover {
     .mega-dropdown-menu .dropdown-header::before {
         margin-left: 10px;
     }
-    .mega-dropdown-menu>li>ul>li>ul>li>a {
+    .mega-dropdown-menu > li > ul > li > ul > li > a {
         line-height: 3.5rem;
         color: #222;
         padding-left: 10px;
     }
-    .mega-dropdown-menu>li>ul>li>ul>li>a::before {
+    .mega-dropdown-menu > li > ul > li > ul > li > a::before {
         background-color: #222;
     }
-    .mega-dropdown-menu>li>ul>li>ul>li:hover>a {
+    .mega-dropdown-menu > li > ul > li > ul > li:hover > a {
         color: #222;
         background-color: #eee;
     }
@@ -184,10 +184,10 @@ a:hover {
 
 @media (max-width: 768px) {
     /* mobile */
-    .mega-dropdown-menu>li>ul>li>ul>li>a {
+    .mega-dropdown-menu > li > ul > li > ul > li > a {
         line-height: 4.5rem;
     }
-    .mega-dropdown-menu>li>ul>li>ul>li>a::before {
+    .mega-dropdown-menu > li > ul > li > ul > li > a::before {
         background-color: #333;
     }
     .nav-hide {
@@ -196,7 +196,7 @@ a:hover {
     .mega-dropdown-menu .dropdown-header span {
         cursor: pointer;
     }
-    .basic-menu>li>a {
+    .basic-menu > li > a {
         padding: 8px 15px 8px 25px !important;
     }
 }
@@ -314,7 +314,7 @@ a:hover {
     margin: auto 0;
 }
 
-.autor-descricao>a {
+.autor-descricao > a {
     color: white;
 }
 
@@ -350,11 +350,11 @@ a:hover {
     text-align: left;
 }
 
-.materia>a {
+.materia > a {
     color: #333;
 }
 
-.materia>a:hover {
+.materia > a:hover {
     text-decoration: none;
 }
 
@@ -374,11 +374,11 @@ a:hover {
     width: 100%;
 }
 
-a>.materia-img>img {
+a > .materia-img > img {
     transition: all .3s;
 }
 
-a:hover>.materia-img>img {
+a:hover > .materia-img > img {
     -webkit-transform: scale(1.1);
     -moz-transform: scale(1.1);
     -ms-transform: scale(1.1);
@@ -430,7 +430,7 @@ a:hover>.materia-img>img {
 }
 
 .escola3 .person {
-    background-image: url('https://images.unsplash.com/photo-1485463969733-3b3853b9d1bc?fit=crop&h=800&q=80');
+    background-image: url('../img/home-materias/simbolismo-autor-destque.jpg');
 }
 
 .divisor.escola3 {
@@ -446,7 +446,7 @@ a:hover>.materia-img>img {
 }
 
 .escola4 .person {
-    background-image: url('https://images.unsplash.com/photo-1524109778675-a86c515079cb?fit=crop&h=800&q=80');
+    background-image: url('../img/home-materias/pre-modernismo-autor-destaque.JPG');
 }
 
 .divisor.escola4 {
@@ -485,6 +485,7 @@ a:hover>.materia-img>img {
 .divisor.escola6 {
     background-color: #125fdb;
 }
+
 .escola6 .materia-img {
     border-left: 4px solid #125fdb;
 }
@@ -501,8 +502,8 @@ footer {
     padding: 25px 0 10px 0;
 }
 
-footer p{
-    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+footer p {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: normal;
     font-size: 1.4rem;
     color: #727272;
@@ -519,7 +520,7 @@ footer .footer-logo div {
 }
 
 footer .footer-escolas p,
-footer .footer-sobre p{
+footer .footer-sobre p {
     line-height: normal;
 }
 
@@ -530,6 +531,7 @@ footer .footer-sobre p{
 }
 
 /* isso é só pra criar uma linha "divisoria" no footer */
+
 footer .footer-mapa:first-child::after {
     background: #555;
     content: '';
@@ -539,7 +541,7 @@ footer .footer-mapa:first-child::after {
     margin-bottom: 30px;
     position: relative;
     top: 15px;
-    width: 300px; 
+    width: 300px;
 }
 
 /* Pace Loading (API DE LOADING)
@@ -606,6 +608,7 @@ footer .footer-mapa:first-child::after {
     text-align: center;
     font-variant: small-caps;
 }
+
 .QM h1 small {
     font-size: 0.5em;
     color: #cbcbcb;
@@ -629,11 +632,12 @@ footer .footer-mapa:first-child::after {
     font-family: 'Zilla Slab', serif;
     /* line-height: 3.75rem; */
 }
+
 .caption p:nth-child(2n) {
-    padding: 0px;   
+    padding: 0px;
     margin: 0px;
-    color:gray;
-    text-decoration:line-through;
+    color: gray;
+    text-decoration: line-through;
 }
 
 .QM.thumbnail h1 {
@@ -694,6 +698,7 @@ footer .footer-mapa:first-child::after {
 
 /*Contato 
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
+
 .classecontato {
     margin-top: 34px;
 }
