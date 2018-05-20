@@ -1,8 +1,11 @@
-.centralizar {
-margin: auto;
+
+.imgcenter {
+    max-width: 100%;
 }
 
-
+hr{
+    color:#8c6650;
+}
 /*---Contexto*/
 .cor-contexto p {
     color:#8c6650;
@@ -32,15 +35,6 @@ margin: auto;
 .cor-obras3 {
     color:#ad6372;
 }
-
-
-
-
-
-
-
-
-
 
 
 .line:after {
