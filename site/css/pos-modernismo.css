@@ -73,6 +73,9 @@ article p {
         margin: 0 auto;
     }
 }
+.line-correction {
+    line-height: 1em;
+}
 
 /* Obras
 -------------------------------------------*/

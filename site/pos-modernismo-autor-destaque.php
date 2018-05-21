@@ -42,7 +42,7 @@
                 <aside class="col-md-4 col-md-push-8">
                     <h2 style="display: none">Dados do autor</h2>
                     <div class="col-md-12 col-sm-6 text-center">
-                        <img src="img/pos-mod/guimaraes-rosa.jpg" alt="foto do autor" class="foto-autor">
+                        <img src="img/pos-modernismo/guimaraes-rosa.jpg" alt="foto do autor" class="foto-autor">
                     </div>
                     
                     <div class="col-md-12 col-sm-6 text-center">
@@ -86,7 +86,7 @@
                     totam nulla ducimus labore. Magni! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat cum
                     minima provident impedit mollitia nobis soluta debitis illo, ex iure ducimus, deserunt dolorum esse sed.</p>
                     
-                    <p class="titulo title-left text-left mid-space">Sub-titulo</p>
+                    <p class="titulo title-left text-left mid-space line-correction">Sub-titulo</p>
                     <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, iste molestias? Fugit quisquam corporis repellendus
                     eligendi inventore tempora vero sapiente minus quaerat magni magnam suscipit quia quod, assumenda saepe voluptatibus
                     totam nulla ducimus labore. Magni! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat cum
@@ -96,7 +96,7 @@
                     totam nulla ducimus labore. Magni! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat cum
                     minima provident impedit mollitia nobis soluta debitis illo, ex iure ducimus, deserunt dolorum esse sed.</p>
                     
-                    <p class="titulo title-left text-left mid-space">Sub-titulo</p>
+                    <p class="titulo title-left text-left mid-space line-correction">Sub-titulo</p>
                     <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, iste molestias? Fugit quisquam corporis repellendus
                     eligendi inventore tempora vero sapiente minus quaerat magni magnam suscipit quia quod, assumenda saepe voluptatibus
                     totam nulla ducimus labore. Magni! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat cum
