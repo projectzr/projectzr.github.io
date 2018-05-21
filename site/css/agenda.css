@@ -1,0 +1,20 @@
+.tevento {
+    background-color: #817e7e;
+    padding: 10px;
+}
+.eventobranco{
+     background-color: #f0e3e3;
+}
+.eventopreto{
+     background-color: #171616;
+}
+.icoevento{
+    width: 75px;
+    height: 75px;
+}
+.titulo{
+    margin: 0;   
+}
+.ag-evento {
+    margin: 10px;
+}

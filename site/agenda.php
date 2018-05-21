@@ -3,14 +3,15 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 
-<head> 
-   
+<head>
+
     <!-- Informações básicas
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <meta charset="utf-8">
     <title>Brasil Literário - Agenda</title>
     <?php include 'includes/estrutura/head.php'; ?>
-    
+    <link rel="stylesheet" href="css/agenda.css">
+
 </head>
 
 <body>
@@ -25,38 +26,19 @@
     $titulo="Portal Brasil Literário";
     $subtitulo="Agenda"; 
     include 'includes/section-header.php'; 
-    ?>    
+    ?>
 
     <!-- Conteúdo
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <main>
         <h1 style="display: none">Conteúdo</h1>
         
-        <!-- Conteudo
-        OBS: O Section define o espaçamento padrão de uma SESSÃO, 
-        container se refere a classe usada pelo bootstrap
-        –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-        <article class="section container"> 
-            <h2>Em Produção</h2>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, iste molestias? Fugit quisquam corporis repellendus
-            eligendi inventore tempora vero sapiente minus quaerat magni magnam suscipit quia quod, assumenda saepe voluptatibus
-            totam nulla ducimus labore. Magni! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat cum
-            minima provident impedit mollitia nobis soluta debitis illo, ex iure ducimus, deserunt dolorum esse sed.</p>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, iste molestias? Fugit quisquam corporis repellendus
-            eligendi inventore tempora vero sapiente minus quaerat magni magnam suscipit quia quod, assumenda saepe voluptatibus
-            totam nulla ducimus labore. Magni! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat cum
-            minima provident impedit mollitia nobis soluta debitis illo, ex iure ducimus, deserunt dolorum esse sed.</p>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, iste molestias? Fugit quisquam corporis repellendus
-            eligendi inventore tempora vero sapiente minus quaerat magni magnam suscipit quia quod, assumenda saepe voluptatibus
-            totam nulla ducimus labore. Magni! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat cum
-            minima provident impedit mollitia nobis soluta debitis illo, ex iure ducimus, deserunt dolorum esse sed.</p>
-        </article>
-        
+        <?php include 'includes/agenda-content.php'; ?>
     </main>
 
     <!-- Rodapé
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <?php include 'includes/estrutura/footer.php'; ?>   
+    <?php include 'includes/estrutura/footer.php'; ?>
 
 </body>
 

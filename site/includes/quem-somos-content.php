@@ -27,7 +27,7 @@ quemSomos(
     // RA
     '000.0000.000.000.000',
     // Cargo
-    'Cargo teste',
+    'Analista de Conteúdo',
     // Descriçao pessoal
     'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar a manutenção das condições financeiras e administrativas exigidas.',
     
