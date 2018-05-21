@@ -414,7 +414,7 @@ a:hover > .materia-img > img {
 }
 
 .escola2 .person {
-    background-image: url('https://images.unsplash.com/photo-1485056850891-99e734b7083d?fit=crop&h=800&q=80');
+    background-image: url('../img/home-materias/realismo-autor-destaque.jpg');
 }
 
 .divisor.escola2 {
@@ -462,7 +462,7 @@ a:hover > .materia-img > img {
 }
 
 .escola5 .person {
-    background-image: url('https://images.unsplash.com/photo-1488862909749-5b4d9fea994c?fit=crop&h=800&q=80');
+    background-image: url('../img/home-materias/modernismo-autor-destaque.jpg');
 }
 
 .divisor.escola5 {
@@ -478,7 +478,7 @@ a:hover > .materia-img > img {
 }
 
 .escola6 .person {
-    background-image: url('https://images.unsplash.com/photo-1507809796103-09a999870b99?fit=crop&h=800&q=80');
+    background-image: url('../img/home-materias/pos-modernismo-autor-destaque.jpg');
 }
 
 

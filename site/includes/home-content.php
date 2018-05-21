@@ -57,25 +57,25 @@ criarSectionHome(
     //nome da escola
     'realismo',
     // autor
-    'Autor Teste',
+    'Nome do Autor',
     // frase do autor
-    'Neste sentido, a estrutura atual da organização possibilita uma melhor visão global dos modos de operação convencionais.',
+    '"O correr da vida embrulha tudo. A vida é assim: esquenta e esfria, aperta e daí afrouxa, sossega e depois desinquieta. O que ela quer da gente é coragem"',
     // imagem 1
-    'http://via.placeholder.com/125x125',
+    'img/home-materias/realismo-contexto-historico.jpg',
     // titulo 1
-    'Título teste',
+    'Contexto Histórico',
     // texto 1
     'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar.',
     // imagem 2
-    'http://via.placeholder.com/125x125',
+    'img/home-materias/realismo-principais-obras.jpg',
     // titulo 2
-    'Título',
+    'Principais Obras',
     // texto 2
     'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar.',
     // imagem 3
-    'http://via.placeholder.com/125x125',
+    'img/home-materias/realismo-dicas-vestibular.jpg',
     // titulo 3
-    'Título',
+    'Dicas de Vestibular',
     // texto 3
     'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar.'
 );
@@ -156,25 +156,25 @@ criarSectionHome(
     //nome da escola
     'modernismo',
     // autor
-    'Autor Teste',
+    'Nome do Autor',
     // frase do autor
-    'Neste sentido, a estrutura atual da organização possibilita uma melhor visão global dos modos de operação convencionais.',
+    '"O correr da vida embrulha tudo. A vida é assim: esquenta e esfria, aperta e daí afrouxa, sossega e depois desinquieta. O que ela quer da gente é coragem"',
     // imagem 1
-    'http://via.placeholder.com/125x125',
+    'img/home-materias/modernismo-contexto-historico.jpg',
     // titulo 1
-    'Título teste',
+    'Contexto Histórico',
     // texto 1
     'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar.',
     // imagem 2
-    'http://via.placeholder.com/125x125',
+    'img/home-materias/modernismo-principais-obras.jpg',
     // titulo 2
-    'Título',
+    'Principais Obras',
     // texto 2
     'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar.',
     // imagem 3
-    'http://via.placeholder.com/125x125',
+    'img/home-materias/modernismo-dicas-vestibular.jpg',
     // titulo 3
-    'Título',
+    'Dicas de Vestibular',
     // texto 3
     'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar.'
 );
@@ -189,27 +189,27 @@ criarSectionHome(
     //nome da escola
     'pos-modernismo',
     // autor
-    'Autor Teste',
+    'Guimarães Rosa',
     // frase do autor
-    'Neste sentido, a estrutura atual da organização possibilita uma melhor visão global dos modos de operação convencionais.',
+    '"O correr da vida embrulha tudo. A vida é assim: esquenta e esfria, aperta e daí afrouxa, sossega e depois desinquieta. O que ela quer da gente é coragem"',
     // imagem 1
-    'http://via.placeholder.com/125x125',
+    'img/home-materias/pos-modernismo-contexto-historico.jpg',
     // titulo 1
-    'Título teste',
+    'Contexto Histórico',
     // texto 1
-    'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar a manutenção das condições financeiras e administrativas exigidas.',
+    'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar.',
     // imagem 2
-    'http://via.placeholder.com/125x125',
+    'img/home-materias/pos-modernismo-principais-obras.jpg',
     // titulo 2
-    'Título',
+    'Principais Obras',
     // texto 2
-    'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar a manutenção das condições financeiras e administrativas exigidas.',
+    'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar.',
     // imagem 3
-    'http://via.placeholder.com/125x125',
+    'img/home-materias/pos-modernismo-dicas-vestibular.jpg',
     // titulo 3
-    'Título',
+    'Dicas de Vestibular',
     // texto 3
-    'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar a manutenção das condições financeiras e administrativas exigidas.'
+    'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar.'
 );
     
 ?>
