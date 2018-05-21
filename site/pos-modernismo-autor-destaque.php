@@ -42,38 +42,38 @@
                 <aside class="col-md-4 col-md-push-8">
                     <h2 style="display: none">Dados do autor</h2>
                     <div class="col-md-12 col-sm-6 text-center">
-                        <img src="img/simb/cruz-e-souza.jpg" alt="foto do autor" class="foto-autor">
+                        <img src="img/pos-mod/guimaraes-rosa.jpg" alt="foto do autor" class="foto-autor">
                     </div>
                     
                     <div class="col-md-12 col-sm-6 text-center">
                         <table class="ficha-tecnica">
                         <tr>
-                        <td>Nome completo</td>
-                        <td>Ariano Vilar Suassuna</td>
+                        <td>Nome</td>
+                        <td>João Guimarães Rosa</td>
                         </tr>
                         <tr>
                         <td>Nascimento</td>
-                        <td>16 de junho de 1927,<br>Cidade da Parahyba, Paraíba</td>
+                        <td>27 de junho de 1908</td>
                         </tr>
                         <tr>
                         <td>Morte</td>
-                        <td>23 de julho de 2014 (87 anos)<br>Recife, Pernambuco</td>
-                        </tr>
-                        <tr>
-                        <td>Alma mater</td>
-                        <td>Faculdade de Direito do Recife</td>
+                        <td>19 de nov. de 1967 (59 anos)</td>
                         </tr>
                         <tr>
                         <td>Ocupação</td>
-                        <td>Dramaturgo, romancista, ensaísta e poeta</td>
+                        <td>Escritor, médico, diplomata</td>
                         </tr>
                         <tr>
                         <td>Prêmios</td>
-                        <td>Prêmio Nacional de Ficção (1973)</td>
+                        <td>Prêmio Felippe d’Oliveira (1946)
+                        <br>Prêmio Carmem Dolores Barbosa (1957)
+                        <br>Prêmio Machado de Assis (1961)
+                        <br>Prémio Jabuti 1993
+                        <br>Ordem do Mérito Cultural (2008)</td>
                         </tr>
                         <tr>
                         <td>Magnum opus</td>
-                        <td>Auto da Compadecida (1955)<br>Romance d'A Pedra do Reino e o Príncipe do Sangue do Vai-e-Volta (1971)</td>
+                        <td>Grande Sertão: Veredas</td>
                         </tr>
                         </table>
                     </div>

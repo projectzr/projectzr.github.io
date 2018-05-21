@@ -51,10 +51,12 @@ article p {
     font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
     border-collapse: collapse;
     width: 100%;
+    margin-bottom: 3rem;
 }
 .ficha-tecnica td, .ficha-tecnica th {
     border: 1px solid #ddd;
-    padding: 8px;
+    padding: 5px;
+    font-size: 1.4rem;
 }
 .ficha-tecnica tr:nth-child(even){
     background-color: #f2f2f2;
