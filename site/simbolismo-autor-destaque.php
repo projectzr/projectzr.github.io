@@ -24,7 +24,7 @@
                         <div class="SI divisor"></div>
                         <div class="media">
                             <div class="media-right">
-                                <img class="media-object " src="img/simb/cruz-e-souza.jpg" alt="Autor de Destaque" class="imgcenter">
+                                <img class="media-object" src="img/simb/cruz-e-souza.jpg" alt="Autor de Destaque">
                                 <cite>
                                     <small>João Cruz e Sousa: Ilustração Digital relizado por Cleisson</small>
                                 </cite>
