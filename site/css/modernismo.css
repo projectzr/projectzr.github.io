@@ -77,7 +77,27 @@ article p {
     }
   }
 
-h1, h2, h3 {text-align: center; }
+@media (min-width: 992px) {
+
+  .texto {
+    display: flex;
+    width: 100%;
+    height: 100vh;
+    flex-direction: column;
+    justify-content: center;
+    }
+  }
+
+@media (min-width: 1200px) {
+
+.texto {
+  display: flex;
+  width: 100%;
+  height: 60vh;
+  flex-direction: column;
+  justify-content: center;
+    }
+}
 
 @media (min-width: 992px) {
 
@@ -101,36 +121,3 @@ h1, h2, h3 {text-align: center; }
   justify-content: center;
     }
 }
- flex-direction: column;
-    justify-content: center;
-    }
-  }
-
-h1, h2, h3 {text-align: center; 
-}
-
-
-@media (min-width: 992px) {
-
-  .texto {
-    display: flex;
-    width: 100%;
-    height: 100vh;
-    flex-direction: column;
-    justify-content: center;
-    }
-  }
-
-
-@media (min-width: 1200px) {
-
-.texto {
-  display: flex;
-  width: 100%;
-  height: 60vh;
-  flex-direction: column;
-  justify-content: center;
-    }
-}
-
-
