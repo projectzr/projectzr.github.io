@@ -1,7 +1,7 @@
 /* Espaço para o CSS da escola Realista */
 
 body {
-    margin-left: 14px;
+    background-color: #ebebeb;
 }
 
 /* Cor e definição dos H's */
@@ -12,6 +12,7 @@ body {
 .paddingh1 {
     margin-bottom: 40px;
     padding-left: 15px;
+    text-align: center;
 }
 
 /*Definição H1 página 2*/
@@ -20,7 +21,7 @@ body {
     font-size: 2.2em;
     margin-bottom: 40px;
     padding-left: 15px;
-    text-align: left;
+    text-align: center;
 }
 
 /*Parágrafo realismo */
@@ -42,8 +43,10 @@ body {
 
 /*Ajuste da descrição da imagem do contexto histórico*/
 #ajustecontexto {
+    color: #2f0f01;
     font-size: 1em;
-    font-weight: bolder;}
+    font-weight: bolder;
+margin-bottom: 3rem;}
 
 .paddingimg {
     padding: 0;
@@ -71,11 +74,47 @@ body {
 /*Definição das imagens capa de obras página 2*/
 
 .arrumarpimg {
-    margin-top: 7px;
-padding-left: 0px;
-    padding-right: 0px;
+    margin-top: 8px;
+    padding: 0px;
     width: 70%;
 }
+
+/* Letra captular início de parágrafo */
+
+.capitular::first-letter {
+    float: left;
+    color:  #2f0f01;
+    font-weight: 600;
+    font-size: 8em;
+    line-height: 6rem;
+    padding: 20px 10px 1px 0px;
+}
+
+/*Divisão de linha do H*/
+
+.realismodivisor {
+    height: 1px;
+    background-color: rgba(51, 51, 51, 0.14);
+    position: relative;
+    bottom: 15px;
+    margin-bottom: 3rem;
+    width: 100%;
+}
+
+.realismodivisor::after {
+    content: "";
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    height: 0.5rem;
+    background-color: #ffd5a6;
+    width: 26%;
+    bottom: 0.4rem;
+    margin-top: 30px;
+}
+
+hr {background-color: red;}
+
 
 /*Descktop*/
 
@@ -100,7 +139,7 @@ padding-left: 0px;
 @media (max-width: 993px) {
     .sombra {
         margin: .5rem 0;
-        background-color: #FFFFFF;
+        background-color: #ebebeb;
         box-shadow: 0 0 5px rgba(230, 182, 129, 0.0));
     }
     .memoriasimg {
