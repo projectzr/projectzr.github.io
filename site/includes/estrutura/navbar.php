@@ -84,7 +84,7 @@
                             <ul>
                                 <li class="dropdown-header escola2-navid" data-type="drop-escola" data-target="drop-escola2"><span>Realismo</span>
                                     <ul class="drop-escola nav-hide" id="drop-escola2">
-                                        <li><a href="realismo-contexto-historico.php">O Fim da Guerra Fria</a></li>
+                                        <li><a href="realismo-contexto-historico.php">O Fim Monarquia</a></li>
                                         <li><a href="realismo-principais-obras.php">O Realismo no Brasil</a></li>
                                         <li><a href="realismo-autor-destaque.php">Autor de destaque: Machado de Assis</a></li>
                                     </ul>
