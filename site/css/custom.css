@@ -248,6 +248,20 @@ a:hover {
 
 .divisor {
     height: 1px;
+    position: relative;
+}
+.text-divisor {
+    position: absolute;
+    top: -11px;
+    left: 40px;
+    padding: 0 10px;
+    font-size: 16px;
+    background-color: #ebebeb;
+    width: auto;
+    display: inline-block;
+    border-left: 1px dotted;
+    font-family: 'Bitter', serif;
+    font-variant: small-caps;
 }
 
 /* Escolas - PADRÕES
@@ -401,6 +415,17 @@ a:hover > .materia-img > img {
 /* Escolas - EXCLUSIVOS
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
+.divisor.escola1 {
+    background-color: #ff0e0e;
+    margin-top: 6rem;
+}
+
+.text-divisor.escola1 {
+    color: #ff0e0e;
+    border-color: #ff0e0e;
+    background-color: #F1A8A8;
+}
+
 .escola1 .person {
     background-image: url('../img/home-materias/romantismo-autor-destaque.jpg');
 }
@@ -421,6 +446,12 @@ a:hover > .materia-img > img {
     background-color: #ffa557;
 }
 
+.text-divisor.escola2 {
+    color: #ed8c37;
+    border-color: #ffa557;
+    background-color: #F1D6BE;
+}
+
 .escola2 .materia-img {
     border-left: 4px solid #ffa557;
 }
@@ -435,6 +466,12 @@ a:hover > .materia-img > img {
 
 .divisor.escola3 {
     background-color: #a100be;
+}
+
+.text-divisor.escola3 {
+    color: #a100be;
+    border-color: #a100be;
+    background-color: #D5A4DD;
 }
 
 .escola3 .materia-img {
@@ -453,6 +490,12 @@ a:hover > .materia-img > img {
     background-color: #6a4200;
 }
 
+.text-divisor.escola4 {
+    color: #6a4200;
+    border-color: #6a4200;
+    background-color: #C4B8A4;
+}
+
 .escola4 .materia-img {
     border-left: 4px solid #6a4200;
 }
@@ -467,6 +510,12 @@ a:hover > .materia-img > img {
 
 .divisor.escola5 {
     background-color: #f7df25;
+}
+
+.text-divisor.escola5 {
+    color: #a3941a;
+    border-color: #f7df25;
+    background-color: #EFE7AF;
 }
 
 .escola5 .materia-img {
@@ -484,6 +533,12 @@ a:hover > .materia-img > img {
 
 .divisor.escola6 {
     background-color: #125fdb;
+}
+
+.text-divisor.escola6 {
+    color: #125fdb;
+    border-color: #125fdb;
+    background-color: #A9C1E6;
 }
 
 .escola6 .materia-img {
