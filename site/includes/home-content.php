@@ -70,7 +70,7 @@ criarSectionHome(
     // imagem 2
     'img/home-materias/realismo-principais-obras.jpg',
     // titulo 2
-    'O Realismo no Brasil',
+    'Realismo no Brasil',
     // texto 2
     'Texto a definir',
     // imagem 3
