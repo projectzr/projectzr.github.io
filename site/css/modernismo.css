@@ -34,7 +34,7 @@ article p {
     font-weight: 600;
     font-size: 8em;
     line-height: 6rem;
-    color: #9998b5;
+    color: dimgray;
     float: left;
 }
 .title-left:after {
@@ -59,7 +59,7 @@ article p {
     position: relative;
     margin: 0 auto;
     height: 0.5rem;
-    background-color: #9998b5 ;
+    background-color: #f7df25 ;
     width: 26%;
     bottom: 0.4rem;
     margin-top: 30px;
@@ -132,4 +132,5 @@ h1, h2, h3 {text-align: center;
   justify-content: center;
     }
 }
+
 
