@@ -633,12 +633,12 @@ footer .footer-mapa:first-child::after {
     /* line-height: 3.75rem; */
 }
 
-.caption p:nth-child(2n) {
+/* .caption p:nth-child(2n) {
     padding: 0px;
     margin: 0px;
     color: gray;
     text-decoration: line-through;
-}
+} */
 
 .QM.thumbnail h1 {
     font-size: 2.7rem;
