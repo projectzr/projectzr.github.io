@@ -40,7 +40,8 @@
         <article class="section container">
             
             
-            <h2>Ultima Atualização - 14/05/2018</h2>
+            <h2 class="titulo">Ultima Atualização - 14/05/2018</h2>
+            <div class="QM divisor "></div>
             <div class="text-left">
             <h3>1.Aceitação</h3>
             <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, iste molestias? Fugit quisquam corporis repellendus

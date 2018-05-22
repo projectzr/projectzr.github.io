@@ -33,7 +33,9 @@
         <div class="container"><div class="section"> 
             <div class="row text-left">
                 <article class="col-xs-12 col-md-6 col-lg-6 ">
-                    <h2 class="h1">Informações</h2>
+                    <h2 class="titulo text-center no-space" style="padding-bottom: 1rem;">Informações</h2>
+                    <div class="QM divisor "></div>
+                    
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin imperdiet suscipit ante ac pulvinar. Cras
                         vel mi ullamcorper, bibendum mi nec, posuere neque. Integer tristique neque metus, ut dapibus est
                         tristique non. Sed eget magna tempor eros bibendum mollis ac nec ligula.</p>
@@ -42,9 +44,7 @@
                         in vulputate hendrerit.</p>
                     <p>Praesent gravida posuere ante, id molestie tellus sollicitudin in. Sed sit amet lacus porttitor, maximus
                         lacus nec, consectetur orci. Nam facilisis vulputate rutrum. Pellentesque non dui vitae lectus finibus
-                        porttitor. Donec id elit congue, euismod dolor a, auctor libero. Vestibulum tincidunt ligula et massa
-                        sollicitudin, id maximus turpis faucibus.Sed sit amet lacus porttitor, maximus lacus nec, consectetur
-                        orci. </p>
+                        porttitor. </p>
                 </article>
                 <article class="col-xs-12 col-md-6 col-lg-6 text-left">
                     <h2 style="display: none">OK</h2>
