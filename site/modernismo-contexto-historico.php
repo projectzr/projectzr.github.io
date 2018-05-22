@@ -75,8 +75,3 @@
 </body>
 
 </html>
-/estrutura/footer.php'; ?>
-
-</body>
-
-</html>

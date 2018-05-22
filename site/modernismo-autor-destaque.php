@@ -84,17 +84,3 @@
 </body>
 
 </html>
-
-html>
-
-er.php'; ?>
-
-</body>
-
-</html>
->
-p'; ?>
-
-</body>
-
-</html>
