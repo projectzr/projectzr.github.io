@@ -9,8 +9,8 @@
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <meta charset="utf-8">
     <title>Brasil Literário - Pré-Modernismo: Autor Destaque </title>
-    <link rel="stylesheet" href="css/pre-modernismo.css">
-    <?php include 'includes/estrutura/head.php'; ?>
+       <?php include 'includes/estrutura/head.php'; ?>
+        <link rel="stylesheet" href="css/pre-modernismo.css">
 
 </head>
 
@@ -41,17 +41,20 @@
 
 
 
-            <div class="text-left col-md-12">
+            <div class="text-left col-md-12 cor-contexto">
 
-
+    
                 <div class="col-md-4">
                     <img src="img/pre-mord/euclides.jpg" alt="">
                 </div>
-                <h3 class="titulo">Biografia</h3>
+                          
+                
+                <h3 class="titulo cor-autor-destaque" >Biografia</h3>
+            
                 <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, iste molestias? Fugit quisquam corporis repellendus eligendi inventore tempora vero sapiente minus quaerat magni magnam suscipit quia quod, assumenda saepe voluptatibus totam nulla ducimus labore. Magni! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat cum minima provident impedit mollitia nobis soluta debitis illo, ex iure ducimus, deserunt dolorum esse sedLorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, iste molestias? Fugit quisquam corporis repellendus eligendi inventore tempora vero sapiente minus quaerat magni magnam suscipit quia quod, assumenda saepe voluptatibus totam nulla ducimus labore. Magni! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat cum minima provident impedit mollitia nobis soluta debitis illo, ex iure ducimus, deserunt dolorum esse setotam nulla ducimus labore. Magni! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat cum minima provident impedit mollitia nobis soluta debitis illo, ex iure ducimus, deserunt dolorum esse sedLorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, iste molestias? Fugit quisquam corporis repellendus eligendi inventore tempora vero sapiente minus quaerat magni magnam suscipit quia quod, assumenda saepe voluptatibus totam nulla ducimus labore. Magni! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat cum minima provident impedit mollitia nobis soluta debitis illo, ex iure ducimus, deserunt dolorum esse sed.d.</p>
                 <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, iste molestias? Fugit quisquam corporis repellendus eligendi inventore tempora vero sapiente minus quaerat magni magnam suscipit quia quod, assumenda saepe voluptatibus totam nulla ducimus labore. Magni! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat cum minima provident impedit mollitia nobis soluta debitis illo, ex iure ducimus, deserunt dolorum esse sed.</p>
 
-                <h3 class="titulo">Principais Obras</h3>
+                <h3 class="titulo cor-autor-destaque" >Principais Obras</h3>
                 <ul>
                     <li>
                         <p>Lorem ipsum dolor sit;</p>

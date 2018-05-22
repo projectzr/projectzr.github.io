@@ -8,11 +8,18 @@ hr{
 }
 /*---Contexto*/
 .cor-contexto p {
-    color:#8c6650;
-    }
-.cor-titulo-contexto{
+    color:#5f4537;
+        }
+.cor-titulo-contexto {
     color:#765649;
 }
+
+/*---Autor destaque*/
+
+.cor-autor-destaque {
+    color:#56473e;
+}
+
 
 
 /*--- Principais obras*/
@@ -28,13 +35,10 @@ hr{
     color:#7e655f
 }
 
-.cor-obras2 {
-   color:#9e7b99; 
+.lima {
+    text-align: left;
 }
 
-.cor-obras3 {
-    color:#ad6372;
-}
 
 
 .line:after {
@@ -45,7 +49,6 @@ hr{
     background-color: rgba(202, 169, 150, 0.44);
     width: 5em;
 }
-
 
 
 

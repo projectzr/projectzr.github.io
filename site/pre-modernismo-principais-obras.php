@@ -41,9 +41,9 @@
             <div class="row extra-space">
                 <div class="col-md-6 col-lg-6 text-justify">
 
-                    <h1 class="titulo cor-obras1">Os Sertões</h1>
+                    <h1 class="titulo cor-obras1 line">Os Sertões</h1>
                     <h3 class="sub-titulo cor-sub-principais-obras1">Euclides da Cunha</h3>
-                    <div class="cor-texto-obras1">
+                    <div class="cor-contexto">
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium incidunt ducimus natus culpa
                             cum dolorum quia similique, iste ullam, molestias, consequatur delectus? Nam ut, perferendis
                             repellendus cum quo quas omnis tenetur excepturi laborum est saepe!</p>
@@ -53,8 +53,7 @@
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium incidunt ducimus natus culpa
                             cum dolorum quia similique, iste ullam, molestias, consequatur delectus? Nam ut, perferendis
                             repellendus cum quo quas omnis tenetur excepturi laborum est saepe!</p>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium incidunt ducimus natus culpa
-                            cum dolorum quia similique, iste ullam, molestias.</p>
+                       
                     </div>
 
                 </div>
@@ -68,9 +67,9 @@
                     <img src="img/pre-mord/2eu.jpg" alt="Capa de Livro">
                 </div>
                 <div class="col-md-6 col-lg-6 text-justify">
-                    <h1 class="titulo cor-obras2">Eu e Outras Poesias</h1>
-                    <h3 class="sub-titulo">Augusto dos Anjos</h3>
-                    <div class="cor-texto-obras1">
+                    <h1 class="titulo cor-obras1 line">Eu e Outras Poesias</h1>
+                    <h3 class="sub-titulo cor-sub-principais-obras1">Augusto dos Anjos</h3>
+                    <div class="cor-contexto">
 
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium incidunt ducimus natus culpa
                             cum dolorum quia similique, iste ullam, molestias, consequatur delectus? Nam ut, perferendis
@@ -81,8 +80,7 @@
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium incidunt ducimus natus culpa
                             cum dolorum quia similique, iste ullam, molestias, consequatur delectus? Nam ut, perferendis
                             repellendus cum quo quas omnis tenetur excepturi laborum est saepe!</p>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium incidunt ducimus natus culpa
-                            cum dolorum quia similique, iste ullam, molestias.</p>
+                   
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-6 hidden-lg hidden-md">
@@ -92,9 +90,9 @@
             <div class="row extra-space">
                 <div class="col-md-6 col-lg-6  text-justify">
 
-                    <h1 class="titulo cor-obras3">Triste Fim de Policarpo Quaresma</h1>
-                    <h3 class="sub-titulo cor-sub-principais-obras3">Lima Barreto</h3>
-                    <div class="cor-texto-obras1">
+                    <h1 class="titulo cor-obras1 line lima">Triste Fim de Policarpo Quaresma</h1>
+                    <h3 class="sub-titulo cor-sub-principais-obras1">Lima Barreto</h3>
+                    <div class="cor-contexto">
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium incidunt ducimus natus culpa
                             cum dolorum quia similique, iste ullam, molestias, consequatur delectus? Nam ut, perferendis
                             repellendus cum quo quas omnis tenetur excepturi laborum est saepe!</p>
@@ -104,8 +102,7 @@
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium incidunt ducimus natus culpa
                             cum dolorum quia similique, iste ullam, molestias, consequatur delectus? Nam ut, perferendis
                             repellendus cum quo quas omnis tenetur excepturi laborum est saepe!</p>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium incidunt ducimus natus culpa
-                            cum dolorum quia similique, iste ullam, molestias.</p>
+                     
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-6">
@@ -117,9 +114,9 @@
                     <img src="img/pre-mord/4urupes.jpg" alt="Capa de Livro">
                 </div>
                 <div class="col-md-6 col-lg-6 text-justify">
-                    <h1 class="titulo">Urupês</h1>
-                    <h3 class="sub-titulo">Monteiro Lobato</h3>
-                    <div class="cor-texto-obras1">
+                    <h1 class="titulo cor-obras1 line">Urupês</h1>
+                    <h3 class="sub-titulo cor-sub-principais-obras1">Monteiro Lobato</h3>
+                    <div class="cor-contexto">
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium incidunt ducimus natus culpa
                             cum dolorum quia similique, iste ullam, molestias, consequatur delectus? Nam ut, perferendis
                             repellendus cum quo quas omnis tenetur excepturi laborum est saepe!</p>
@@ -129,8 +126,7 @@
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium incidunt ducimus natus culpa
                             cum dolorum quia similique, iste ullam, molestias, consequatur delectus? Nam ut, perferendis
                             repellendus cum quo quas omnis tenetur excepturi laborum est saepe!</p>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium incidunt ducimus natus culpa
-                            cum dolorum quia similique, iste ullam, molestias.</p>
+                   
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-6 hidden-md hidden-lg">
