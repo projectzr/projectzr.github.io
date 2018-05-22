@@ -96,7 +96,7 @@ criarSectionHome(
     // imagem 1
     'img/home-materias/simbolismo-contexto-historico.jpg',
     // titulo 1
-    'O Início da Bell Epoque',
+    'O Início da Belle Époque',
     // texto 1
     '"Inimiga do ensinamento, da declamação, da falsa sensibilidade, a poesia simbolista procura vestir a Idéia de uma forma sensível."',
     // imagem 2

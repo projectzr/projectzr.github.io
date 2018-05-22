@@ -96,7 +96,7 @@
                             <ul>
                                 <li class="dropdown-header escola3-navid" data-type="drop-escola" data-target="drop-escola3"><span>Simbolismo</span>
                                     <ul class="drop-escola nav-hide" id="drop-escola3">
-                                        <li><a href="simbolismo-contexto-historico.php">O Início da Bell Epoque</a></li>
+                                        <li><a href="simbolismo-contexto-historico.php">O Início da Belle Époque</a></li>
                                         <li><a href="simbolismo-principais-obras.php">Obras da Época</a></li>
                                         <li><a href="simbolismo-autor-destaque.php">Autor de destaque: Cruz e Sousa</a></li>
                                     </ul>
