@@ -37,7 +37,7 @@
         <div class="container">
             <div class="row">
 
-                <div class=" col-xs-12 col-md-12 paddingimg"> <img class="center-img" src="img/teste.jpg" alt="Descrição">
+                <div class=" col-xs-12 col-md-12 paddingimg"> <img class="center-img" src="img/modernismo/academia.JPG" alt="Descrição">
                 </div>
                 <div class="col-xs-12 col-md-6 ">
 
