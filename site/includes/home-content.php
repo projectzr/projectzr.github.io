@@ -63,7 +63,7 @@ criarSectionHome(
     // imagem 1
     'img/home-materias/realismo-contexto-historico.jpg',
     // titulo 1
-    'O Fim da Guerra Fria',
+    'O Fim da Monarquia',
     // texto 1
     'Texto a definir',
     // imagem 2

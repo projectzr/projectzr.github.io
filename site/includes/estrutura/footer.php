@@ -11,7 +11,7 @@
                 <div class="footer-sobre col-xs-12 col-sm-3">
                     <p class="sub-titulo">Sobre o Portal</p>
                     <p>- <a href="quem-somos.php">Quem Somos</a></p>
-                    <p>- <a href="contato.php">Contato</a></p>
+                    <p>- <a href="mapa.php">Mapa do Site</a></p>
                     <p>- <a href="normas.php">Normas de Utilização</a></p>
                 </div>
                 

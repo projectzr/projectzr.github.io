@@ -56,6 +56,7 @@
                             "quem-somos.php", 
                             "dicas-de-vestibular.php", 
                             "academia.php",
+                            "mapa.php",
                             "normas.php"
                         ); 
                         if (in_array($page, $institucional)) { echo 'active'; }
@@ -69,9 +70,9 @@
                         <li class="col-sm-6 col-lg-4">
                             <ul>
                                 <li class="dropdown-header escola1-navid" data-type="drop-escola" data-target="drop-escola1"><span>Romantismo</span>
-                                    <ul class="drop-escola nav-hide" id="drop-escola1">
+                                    <ul class="drop-escola nav-hide" id="drop-escola1"> 
                                         <li><a href="romantismo-contexto-historico.php">Contexto Histórico da época</a></li>
-                                        <li><a href="romantismo-autor-destaque.php">Autor de destaque: Nome Sobrenome</a></li>
+                                        <li><a href="romantismo-autor-destaque.php">Autor de destaque: José de Alencar</a></li>
                                         <li><a href="romantismo-principais-obras.php">Obras mais importantes</a></li>
                                     </ul>
                                 </li>
@@ -83,9 +84,9 @@
                             <ul>
                                 <li class="dropdown-header escola2-navid" data-type="drop-escola" data-target="drop-escola2"><span>Realismo</span>
                                     <ul class="drop-escola nav-hide" id="drop-escola2">
-                                        <li><a href="realismo-contexto-historico.php">Contexto Histórico da época</a></li>
-                                        <li><a href="realismo-autor-destaque.php">Autor de destaque: Nome Sobrenome</a></li>
-                                        <li><a href="realismo-principais-obras.php">Obras mais importantes</a></li>
+                                        <li><a href="realismo-contexto-historico.php">O Fim da Guerra Fria</a></li>
+                                        <li><a href="realismo-principais-obras.php">O Realismo no Brasil</a></li>
+                                        <li><a href="realismo-autor-destaque.php">Autor de destaque: Machado de Assis</a></li>
                                     </ul>
                                 </li>
                                 <li class="divider"></li>
@@ -95,9 +96,9 @@
                             <ul>
                                 <li class="dropdown-header escola3-navid" data-type="drop-escola" data-target="drop-escola3"><span>Simbolismo</span>
                                     <ul class="drop-escola nav-hide" id="drop-escola3">
-                                        <li><a href="simbolismo-contexto-historico.php">Contexto Histórico da época</a></li>
-                                        <li><a href="simbolismo-autor-destaque.php">Autor de destaque: Nome Sobrenome</a></li>
-                                        <li><a href="simbolismo-principais-obras.php">Obras mais importantes</a></li>
+                                        <li><a href="simbolismo-contexto-historico.php">O Início da Bell Epoque</a></li>
+                                        <li><a href="simbolismo-principais-obras.php">Obras da Época</a></li>
+                                        <li><a href="simbolismo-autor-destaque.php">Autor de destaque: Cruz e Sousa</a></li>
                                     </ul>
                                 </li>
                                 <li class="divider"></li>
@@ -107,9 +108,9 @@
                             <ul>
                                 <li class="dropdown-header escola4-navid" data-type="drop-escola" data-target="drop-escola4"><span>Pré-Modernismo</span>
                                     <ul class="drop-escola nav-hide" id="drop-escola4">
-                                        <li><a href="pre-modernismo-contexto-historico.php">Contexto Histórico da época</a></li>
-                                        <li><a href="pre-modernismo-autor-destaque.php">Autor de destaque: Nome Sobrenome</a></li>
-                                        <li><a href="pre-modernismo-principais-obras.php">Obras mais importantes</a></li>
+                                        <li><a href="pre-modernismo-contexto-historico.php">Proclamação da República</a></li>
+                                        <li><a href="pre-modernismo-principais-obras.php">Manifestação dos Autores</a></li>
+                                        <li><a href="pre-modernismo-autor-destaque.php">Autor de destaque: Euclides da Cunha</a></li>
                                     </ul>
                                 </li>
                                 <li class="divider"></li>
@@ -119,9 +120,9 @@
                             <ul>
                                 <li class="dropdown-header escola5-navid" data-type="drop-escola" data-target="drop-escola5"><span>Modernismo</span>
                                     <ul class="drop-escola nav-hide" id="drop-escola5">
-                                        <li><a href="modernismo-contexto-historico.php">Contexto Histórico da época</a></li>
-                                        <li><a href="modernismo-autor-destaque.php">Autor de destaque: Nome Sobrenome</a></li>
-                                        <li><a href="modernismo-principais-obras.php">Obras mais importantes</a></li>
+                                        <li><a href="modernismo-contexto-historico.php">Semana da Arte Moderna</a></li>
+                                        <li><a href="modernismo-principais-obras.php">Principais Obras</a></li>
+                                        <li><a href="modernismo-autor-destaque.php">Autor de destaque: Mario de Andrade</a></li>
                                     </ul>
                                 </li>
                                 <li class="divider"></li>
@@ -131,9 +132,9 @@
                             <ul>
                                 <li class="dropdown-header escola6-navid" data-type="drop-escola" data-target="drop-escola6"><span>Pós-Modernismo</span>
                                     <ul class="drop-escola nav-hide" id="drop-escola6">
-                                        <li><a href="pos-modernismo-contexto-historico.php">Contexto Histórico da época</a></li>
-                                        <li><a href="pos-modernismo-autor-destaque.php">Autor de destaque: Nome Sobrenome</a></li>
-                                        <li><a href="pos-modernismo-principais-obras.php">Obras mais importantes</a></li>
+                                        <li><a href="pos-modernismo-contexto-historico.php">A Guerra, A História</a></li>
+                                        <li><a href="pos-modernismo-principais-obras.php">Obras que Marcaram</a></li>
+                                        <li><a href="pos-modernismo-autor-destaque.php">Autor de destaque: Guimarães Rosa</a></li>
                                     </ul>
                                 </li>
                                 <li class="divider"></li>
@@ -142,8 +143,8 @@
                     </ul>
                 </li>
                    
-                <li class="<?php checkURL('contato.php');?>"><a href="contato.php">Contato</a></li>
                 <li class="<?php checkURL('agenda.php');?>"><a href="agenda.php">Agenda</a></li>
+                <li class="<?php checkURL('contato.php');?>"><a href="contato.php">Contato</a></li>
                 <li class="dropdown <?php checkURL('institucional.php');?>">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
                     Institucional<span class="caret"></span></a>
@@ -152,6 +153,7 @@
                         <li><a href="dicas-de-vestibular.php">Dicas de Vestibular</a></li>
                         <li><a href="academia.php">Academia Brasileira de Letras</a></li>
                         <li role="separator" class="divider"></li>
+                        <li><a href="mapa.php">Mapa do Site</a></li>
                         <li><a href="normas.php">Normas de utilização</a></li>
                     </ul>
                 </li>
