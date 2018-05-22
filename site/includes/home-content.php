@@ -25,27 +25,27 @@ criarSectionHome(
     //nome da escola
     'romantismo',
     // autor
-    'Autor Teste',
+    'José de Alencar',
     // frase do autor
-    'Neste sentido, a estrutura atual da organização possibilita uma melhor visão global dos modos de operação convencionais.',
+    '"Todo discurso deve ser como o vestido das mulheres; não tão curto, que nos escandalizem, nem tão comprido, que nos entristeçam."',
     // imagem 1
     'img/home-materias/romantismo-contexto-historico.jpg',
     // titulo 1
-    'Contexto Histórico',
+    'Título a definir',
     // texto 1
-    'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar.',
+    'Texto a definir',
     // imagem 2
     'img/home-materias/romantismo-principais-obras.jpg',
     // titulo 2
-    'Principais Obras',
+    'Título a definir',
     // texto 2
-    'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar.',
+    'Texto a definir',
     // imagem 3
     'img/home-materias/romantismo-dicas-de-vestibular.jpg',
     // titulo 3
     'Dicas de Vestibular',
     // texto 3
-    'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar.'
+    'Veja nossa dica para se preparar para o vestibular referente a obras do romantismo!'
 );
 
 // ESCOLA 2
@@ -57,27 +57,27 @@ criarSectionHome(
     //nome da escola
     'realismo',
     // autor
-    'Nome do Autor',
+    'Machado de Assis',
     // frase do autor
-    '"O correr da vida embrulha tudo. A vida é assim: esquenta e esfria, aperta e daí afrouxa, sossega e depois desinquieta. O que ela quer da gente é coragem"',
+    '"Há pessoas que choram por saber que rosas têm espinhos. Há outras que sorriem por saber que os espinhos têm as rosas!"',
     // imagem 1
     'img/home-materias/realismo-contexto-historico.jpg',
     // titulo 1
-    'Contexto Histórico',
+    'O Fim da Guerra Fria',
     // texto 1
-    'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar.',
+    'Texto a definir',
     // imagem 2
     'img/home-materias/realismo-principais-obras.jpg',
     // titulo 2
-    'Principais Obras',
+    'O Realismo no Brasil',
     // texto 2
-    'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar.',
+    'Texto a definir',
     // imagem 3
     'img/home-materias/realismo-dicas-vestibular.jpg',
     // titulo 3
     'Dicas de Vestibular',
     // texto 3
-    'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar.'
+    'Veja nossa dica para se preparar para o vestibular referente a obras do realismo!'
 );
 
 
@@ -96,21 +96,21 @@ criarSectionHome(
     // imagem 1
     'img/home-materias/simbolismo-contexto-historico.jpg',
     // titulo 1
-    'Contexto Histórico',
+    'O Início da Bell Epoque',
     // texto 1
-    '"Inimiga do ensinamento, da declamação, da falsa sensibilidade, da descrição objetiva, a poesia simbolista procura vestir a Idéia de uma forma sensível."',
+    '"Inimiga do ensinamento, da declamação, da falsa sensibilidade, a poesia simbolista procura vestir a Idéia de uma forma sensível."',
     // imagem 2
     'img/home-materias/simbolismo-principais-obras.jpg',
     // titulo 2
-    'Principais Obras',
+    'Obras da Época',
     // texto 2
-    'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar.',
+    'Os textos que verdadeiramente inauguram o Simbolismo pertencem a Cruz e Souza que, em 1893, lança obras renovadoras.',
     // imagem 3
     'img/home-materias/simbolismo-dicas-vestibular.jpg',
     // titulo 3
     'Dicas Vestibular',
     // texto 3
-    'Os textos que verdadeiramente inauguram o Simbolismo pertencem a Cruz e Souza que, em 1893, lança obras renovadoras: Broquéis e Missal. '
+    'Veja nossa dica para se preparar para o vestibular referente a obras do Simbolismo!'
 );
 
 
@@ -123,27 +123,27 @@ criarSectionHome(
     //nome da escola
     'pre-modernismo',
     // autor
-    'Autor Teste',
+    'Euclides da Cunha',
     // frase do autor
-    'Neste sentido, a estrutura atual da organização possibilita uma melhor visão global dos modos de operação convencionais.',
+    '"Estamos condenados a civilização, ou progredimos ou desaparecemos."',
     // imagem 1
     'img/home-materias/pre-modernismo-contexto-historico.jpg',
     // titulo 1
-    'Contexto Histórico',
+    'Proclamação da República',
     // texto 1
-    'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar.',
+    'A expectativa de um novo Berasil, mais justo e moderno, com o advento do regime republicano, porém foi uma tentativa frustrada.',
     // imagem 2
     'img/home-materias/pre-modernismo-principais-obras.jpg',
     // titulo 2
-    'Principais Obras',
+    'Manifestação dos Autores',
     // texto 2
-    'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar.',
+    'Abordagem de problemas sociais brasileiros (desigualdade, pobreza, conflitos), estes temas serão retratado em algumas obras',
     // imagem 3
     'img/home-materias/pre-modernismo-dicas-vestibular.jpg',
     // titulo 3
     'Dicas de Vestibular',
     // texto 3
-    'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar.'
+    'Veja nossa dica para se preparar para o vestibular referente a obras do pré-modernismo!'
 );
 
 
@@ -156,27 +156,27 @@ criarSectionHome(
     //nome da escola
     'modernismo',
     // autor
-    'Nome do Autor',
+    'Mario de Andrade',
     // frase do autor
-    '"O correr da vida embrulha tudo. A vida é assim: esquenta e esfria, aperta e daí afrouxa, sossega e depois desinquieta. O que ela quer da gente é coragem"',
+    '"Ninguém escreve para si mesmo, a não ser um monstro de orgulho. A gente escreve pra ser amado, pra atrair, encantar, etc."',
     // imagem 1
     'img/home-materias/modernismo-contexto-historico.jpg',
     // titulo 1
-    'Contexto Histórico',
+    'Semana da Arte Moderna',
     // texto 1
-    'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar.',
+    'Tendências culturais e artísticas lançadas pelas vanguardas europeias, Cubismo, Futurismo, entenda como surgiu o Modernismo.',
     // imagem 2
     'img/home-materias/modernismo-principais-obras.jpg',
     // titulo 2
     'Principais Obras',
     // texto 2
-    'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar.',
+    'Alguma Poesia, A Festa das Letras, A Cinza das Horas, A Hora da Estrela, obras e autores que se destacaram durante esse período da história.',
     // imagem 3
     'img/home-materias/modernismo-dicas-vestibular.jpg',
     // titulo 3
     'Dicas de Vestibular',
     // texto 3
-    'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar.'
+    'Veja nossa dica para se preparar para o vestibular referente a obras do modernismo!'
 );
 
 
@@ -195,21 +195,21 @@ criarSectionHome(
     // imagem 1
     'img/home-materias/pos-modernismo-contexto-historico.jpg',
     // titulo 1
-    'Contexto Histórico',
+    'A Guerra, A História',
     // texto 1
-    'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar.',
+    'O fim da segunda guerra, a guerra fria, individualismo, liberdade de expressão, entenda o contexto no qual surgiu o pós-modernismo.',
     // imagem 2
     'img/home-materias/pos-modernismo-principais-obras.jpg',
     // titulo 2
-    'Principais Obras',
+    'Obras que Marcaram',
     // texto 2
-    'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar.',
+    'Grande sertão: veredas, Auto da compadecida, conheça as principais obras que representam e modelam a escola literária no Brasil.',
     // imagem 3
     'img/home-materias/pos-modernismo-dicas-vestibular.jpg',
     // titulo 3
     'Dicas de Vestibular',
     // texto 3
-    'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar.'
+    'Veja nossa dica para se preparar para o vestibular referente a obras do pós-modernismo!'
 );
     
 ?>
