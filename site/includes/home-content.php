@@ -19,6 +19,7 @@ include 'includes/functions/home-sections.php';
 
 // ESCOLA 1
 //----------------------------------------------------//
+divisaoHome('escola1', 'Romantismo');
 criarSectionHome(
     // escola
     'escola1',
@@ -50,7 +51,7 @@ criarSectionHome(
 
 // ESCOLA 2
 //----------------------------------------------------//
-divisaoHome('escola2');
+divisaoHome('escola2', 'Realismo');
 criarSectionHome(
     // escola
     'escola2',
@@ -83,7 +84,7 @@ criarSectionHome(
 
 // ESCOLA 3
 //----------------------------------------------------//
-divisaoHome('escola3');
+divisaoHome('escola3', 'Simbolismo');
 criarSectionHome(
     // escola
     'escola3',
@@ -119,7 +120,7 @@ criarSectionHome(
 
 // ESCOLA 4
 //----------------------------------------------------//
-divisaoHome('escola4');
+divisaoHome('escola4', 'Pré-Modernismo');
 criarSectionHome(
      // escola
     'escola4',
@@ -152,7 +153,7 @@ criarSectionHome(
 
 // ESCOLA 5
 //----------------------------------------------------//
-divisaoHome('escola5');
+divisaoHome('escola5', 'Modernismo');
 criarSectionHome(
     // escola
     'escola5',
@@ -185,7 +186,7 @@ criarSectionHome(
 
 // ESCOLA 6
 //----------------------------------------------------//
-divisaoHome('escola6');
+divisaoHome('escola6', 'Pós-Modernismo');
 criarSectionHome(
     // escola
     'escola6',
