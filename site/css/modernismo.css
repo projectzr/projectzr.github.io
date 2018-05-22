@@ -78,9 +78,6 @@ article p {
   }
 
 h1, h2, h3 {text-align: center; }
-p { text-align: justify;
-   
-}
 
 @media (min-width: 992px) {
 
@@ -109,10 +106,9 @@ p { text-align: justify;
     }
   }
 
-h1, h2, h3 {text-align: center; }
-p { text-align: justify;
-   
+h1, h2, h3 {text-align: center; 
 }
+
 
 @media (min-width: 992px) {
 
