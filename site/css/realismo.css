@@ -5,6 +5,7 @@ body {
 }
 
 /* Cor e definição dos H's */
+
 .titulo {
     color: #2f0f01;
 }
@@ -41,12 +42,18 @@ body {
     width: 100%;
 }
 
+.descricaoimg:hover {
+    opacity: 0.8;
+}
+
 /*Ajuste da descrição da imagem do contexto histórico*/
+
 #ajustecontexto {
     color: #2f0f01;
     font-size: 1em;
     font-weight: bolder;
-margin-bottom: 3rem;}
+    margin-bottom: 3rem;
+}
 
 .paddingimg {
     padding: 0;
@@ -62,6 +69,10 @@ margin-bottom: 3rem;}
     width: 50%
 }
 
+.descricaoimg2:hover {
+    opacity: 0.8;
+}
+
 /*Sombra no aside página autor*/
 
 .sombra {
@@ -75,15 +86,21 @@ margin-bottom: 3rem;}
 
 .arrumarpimg {
     margin-top: 8px;
-    padding: 0px;
-    width: 70%;
+    padding-left: 0px;
+    padding-right: 10px;
+    width: 60%;
+
+}
+
+.arrumarpimg:hover {
+    opacity: 0.8;
 }
 
 /* Letra captular início de parágrafo */
 
 .capitular::first-letter {
     float: left;
-    color:  #2f0f01;
+    color: #2f0f01;
     font-weight: 600;
     font-size: 8em;
     line-height: 6rem;
@@ -113,8 +130,25 @@ margin-bottom: 3rem;}
     margin-top: 30px;
 }
 
+/* H4 da página realismo no Brasil */
+.h4realismobr {
+    text-align: left;
+    font-family: 'Zilla Slab', serif;
+    font-weight: bold;
+    line-height: 2em;
+    color: #2f0f01;
+}
 
-/*Descktop*/
+/*Linha de H*/
+.divisorrealismo {
+    height: 1px;
+    background-color: rgba(48, 48, 48, 0.14);
+    position: relative;
+    bottom: 15px;
+    width: 50%;
+}
+
+/*Descktop
 
 @media (min-width: 1200px) {
     .sombra {
@@ -130,6 +164,9 @@ margin-bottom: 3rem;}
     width: 50%;
 }
 
+memoriasimg:hover {
+    opacity: 0.8;
+}
 
 
 /*Tablet*/
@@ -143,16 +180,21 @@ margin-bottom: 3rem;}
     .memoriasimg {
         width: 50%
     }
+    .memoriasimg:hover {
+        opacity: 0.8;
+    }
+
     .descricaoimg {
         width: 100%;
     }
-
+    .descricaoimg:hover {
+        opacity: 0.8;
+    }
 }
 
 }
 
 
-@media (min-width: 768px) {
-}
+@media (min-width: 768px) {}
 
 
