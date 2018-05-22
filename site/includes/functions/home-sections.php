@@ -61,8 +61,10 @@
 
 <?php } ?>
 
-<?php function divisaoHome($escola) { ?>
+<?php function divisaoHome($escola, $nome) { ?>
 
-    <div class="container divisor <?= $escola ?>"></div>
+    <div class="container divisor <?= $escola ?>">
+        <div class="container text-divisor <?= $escola ?>"> <?= $nome ?> </div>
+    </div>
 
 <?php } ?>
