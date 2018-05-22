@@ -92,7 +92,10 @@ criarSectionHome(
     // autor
     'Cruz e Sousa',
     // frase do autor
-    '"Se caminhares para a direita, baterás e esbarrarás ansioso, aflito, numa parede horrendamente incomensurável de Egoísmos e Preconceitos!"',
+    '"Gargalha, ri, num riso de tormenta,
+    como um palhaço, que desengonçado,
+    nervoso, ri, num riso absurdo, inflado
+    de uma ironia e de uma dor violenta[...]"',
     // imagem 1
     'img/home-materias/simbolismo-contexto-historico.jpg',
     // titulo 1

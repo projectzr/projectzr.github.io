@@ -32,7 +32,7 @@ quemSomos(
     'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar a manutenção das condições financeiras e administrativas exigidas.',
     
     // Responsabilidades
-    'Foram feitas as paginas x e y.'
+    '<a href="pre-modernismo-contexto-historico.php">Pré-Modernismo</a> e <a href="normas.php"> Normas de Utilização </a>'
 );
 
 // Integrante 2
@@ -51,7 +51,7 @@ quemSomos(
     // Descriçao pessoal
     'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar a manutenção das condições financeiras e administrativas exigidas.',
     // Responsabilidades
-    'Foram feitas as paginas x e y.'
+    '<a href="simbolismo-contexto-historico.php">Simbolismo</a> e <a href="quem-somos.php">Quem Somos </a>'
 );
 
 // Integrante 3
@@ -70,7 +70,7 @@ quemSomos(
     // Descriçao pessoal
     'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar a manutenção das condições financeiras e administrativas exigidas.',
     // Responsabilidades
-    'Foram feitas as paginas x e y.'
+    '<a href="pos-modernismo-contexto-historico.php">Pós-Modernismo</a> e <a href="index.php">Home</a>'
 );
 
 // Integrante 4
@@ -89,7 +89,7 @@ quemSomos(
     // Descriçao pessoal
     'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar a manutenção das condições financeiras e administrativas exigidas.',
     // Responsabilidades
-    'Foram feitas as paginas x e y.'
+    '<a href="realismo-contexto-historico.php">Realismo</a> e <br><a href="contato.php"> Contato</a>'
 );
 
 // Integrante 5
@@ -108,7 +108,7 @@ quemSomos(
     // Descriçao pessoal
     'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar a manutenção das condições financeiras e administrativas exigidas.',
     // Responsabilidades
-    'Foram feitas as paginas x e y.'
+    '<a href="modernismo-contexto-historico.php">Modernismo</a> e <a href="academia.php"> Academia</a>'
 );
 // Integrante 6
 //----------------------------------------------------//
@@ -126,7 +126,7 @@ quemSomos(
     // Descriçao pessoal
     'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar a manutenção das condições financeiras e administrativas exigidas.',
     // Responsabilidades
-    'Foram feitas as paginas x e y.'
+    '<a href="romantismo-contexto-historico.php">Romantismo</a> e <a href="agenda.php"> Agenda </a>'
 );
 
 footerQuemSomos ();
