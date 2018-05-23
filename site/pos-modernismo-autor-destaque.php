@@ -88,7 +88,6 @@
                         <small>Guimarães Rosa</small>
                     </blockquote>
                     
-                    <p class="titulo title-left text-left mid-space line-correction">Biografia</p>
                     <p class="text-justify">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, iste molestias? Fugit quisquam corporis repellendus
                     eligendi inventore tempora vero sapiente minus quaerat magni magnam suscipit quia quod, assumenda saepe voluptatibus
                     totam nulla ducimus labore. Magni!</p>
