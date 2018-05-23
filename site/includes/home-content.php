@@ -102,7 +102,7 @@ criarSectionHome(
     // titulo 1
     'O Início da Belle Époque',
     // texto 1
-    '"Inimiga do ensinamento, da declamação, da falsa sensibilidade, a poesia simbolista procura vestir a Idéia de uma forma sensível."',
+    'Simbolismo surge como uma recusa a todos os valores ideológicos e existenciais da burguesia em vez do capitalismo financeiro e industrial',
     // imagem 2
     'img/home-materias/simbolismo-principais-obras.jpg',
     // titulo 2
