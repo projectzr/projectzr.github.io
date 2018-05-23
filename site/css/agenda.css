@@ -1,20 +1,57 @@
-.tevento {
+.ag-teventoa {
     background-color: #817e7e;
     padding: 10px;
+    border-left-style: solid;
+    border-left-color: #3a3a8b;
+    border-left-width: 20px;
 }
-.eventobranco{
-     background-color: #f0e3e3;
+
+.ag-eventoa {
+    background-color: #d0c6c6;
+
 }
-.eventopreto{
-     background-color: #171616;
+
+.ag-teventob {
+    background-color: #d0c6c6;
+    padding: 10px;
+    border-left-style: solid;
+    border-left-color: #604134;
+    border-left-width: 20px;
 }
-.icoevento{
-    width: 75px;
-    height: 75px;
+
+.ag-eventob {
+    background-color: #817e7e;
 }
-.titulo{
-    margin: 0;   
+
+.ag-titulo {
+    margin: 0;
+    height: 40px;
+    text-align: left;
+    letter-spacing: normal;
+    font-size: 1.9em;
 }
+
 .ag-evento {
     margin: 10px;
+}
+
+.ag-pevento1 {
+    padding-top: 12px;
+    height: 60px;
+    border-bottom-style: solid;
+    border-bottom-color: #9a9a9a;
+    border-bottom-width: 0.5px;
+}
+
+.ag-pevento2 {
+    padding-top: 5px;
+    height: 60px;
+    border-bottom-style: solid;
+    border-bottom-color: #9a9a9a;
+    border-bottom-width: 0.5px;
+}
+
+.ag-pevento3 {
+    padding-top: 10px;
+    height: 70px;
 }
