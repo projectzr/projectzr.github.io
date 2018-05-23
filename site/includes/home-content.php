@@ -32,15 +32,15 @@ criarSectionHome(
     // imagem 1
     'img/home-materias/romantismo-contexto-historico.jpg',
     // titulo 1
-    'Título a definir',
+    'Romantismo e a Independência',
     // texto 1
-    'Texto a definir',
+    'Período histórico marcado por um sentimento nacionalista, em especial pelo fato marcante que foi a Independência.',
     // imagem 2
     'img/home-materias/romantismo-principais-obras.jpg',
     // titulo 2
-    'Título a definir',
+    'As Grandes Obras',
     // texto 2
-    'Texto a definir',
+    'Uma apresentação das principais obras dos maiores autores do romantismo no Brasil.',
     // imagem 3
     'img/home-materias/romantismo-dicas-de-vestibular.jpg',
     // titulo 3
