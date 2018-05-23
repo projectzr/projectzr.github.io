@@ -43,9 +43,9 @@
 Vestibulum vulputate turpis nec suscipit interdum. Donec a nunc sodales, gravida lorem sed, vestibulum sem. Duis ligula nisl, commodo rhoncus tempor quis, euismod et arcu. Cras non  non commodo.</p>
                     </div>
                 </article>
-                            <aside class="col-xs-12 col-md-4 sombra">
+     <aside class="col-xs-12 col-md-4 sombra">
                                         <h3 class="sub-titulo">Memórias Póstumas de Brás Cubas, o marco do realismo brasileiro</h3>
-        <img src="img/obra.JPG" alt="Capa do Livro Memórias Póstumas de Brás Cubas" class="col-xs-4 col-md-12 memoriasimg">
+        <img src="img/obra.JPG" alt="Capa do Livro Memórias Póstumas de Brás Cubas" class="col-xs-4 col-md-8 memoriasimg">
             <p class="pararealismo">Fusce purus tortor, porta vel ornare ac, rutrum et sem. Cras fermentum urna sed euismod ultrices. Vivamus eleifend nisl eget nulla tempor tristique id id urna. Praesent dapibus orci velit, sit amet feugiat tellus pulvinar sed. Etiam viverra leo malesuada, porta neque eu, consequat nunc. Proin justo mi, laoreet eget efficitur vel, aliquet ut metus. Sed erat tortor, lobortis a viverra a, iaculis ac lorem. Morbi condimentum, nulla nec fringilla ornare, erat massa interdum quam, at lobortis neque velit vel nibh. Vivamus mattis pharetra erat, id malesuada lacus sodales quis. Proin id elit et leo fringilla dictum sit amet non quam. Cras fringilla in justo sed placerat. Interdum et malesuada fames ac ante ipsum primis in faucibus. </p>
             <p class="pararealismo">Ut fermentum urna at elit sagittis viverra. Duis quis felis euismod elit aliquet semper nec a elit. Suspendisse convallis blandit aliquam.Vivamus mattis pharetra erat, id malesuada lacus sodales quis.At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum  </p>
                         
