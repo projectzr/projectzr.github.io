@@ -79,29 +79,26 @@
                     </div>
                 </aside>
                 <article class="col-md-8 col-md-pull-4">
-                    <h2 class="titulo no-space text-center">Em Produção</h2>
+                    <h2 class="titulo no-space text-center">Gimarães Rosa</h2>
                     <div class="divisor"></div>
-                    <p class="mid-space first-letter">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, iste molestias? Fugit quisquam corporis repellendus
+                    <p class="mid-space text-justify first-letter">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, iste molestias? Fugit quisquam corporis repellendus eligendi inventore tempora vero sapiente minus quaerat magni magnam suscipit quia quod, assumenda saepe voluptatibus totam nulla ducimus labore. Magni! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat cum minima provident impedit mollitia nobis soluta debitis illo, ex iure ducimus, deserunt dolorum esse sed.</p>
+                    
+                    <blockquote class="mid-space">
+                        <p class="text-justify">"Eu falo: português, alemão, francês, inglês, espanhol, italiano, esperanto, um pouco de russo; leio: sueco, holandês, latim e grego (mas com o dicionário agarrado); entendo alguns dialetos alemães; estudei a gramática: do húngaro, do árabe, do sânscrito, do lituano, do polonês, do tupi, do hebraico, do japonês, do checo, do finlandês, do dinamarquês; bisbilhotei um pouco a respeito de outras. Mas tudo mal. E acho que estudar o espírito e o mecanismo de outras línguas ajuda muito à compreensão mais profunda do idioma nacional. Principalmente, porém, estudando-se por divertimento, gosto e distração."</p>
+                        <small>Guimarães Rosa</small>
+                    </blockquote>
+                    
+                    <p class="titulo title-left text-left mid-space line-correction">Biografia</p>
+                    <p class="text-justify">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, iste molestias? Fugit quisquam corporis repellendus
+                    eligendi inventore tempora vero sapiente minus quaerat magni magnam suscipit quia quod, assumenda saepe voluptatibus
+                    totam nulla ducimus labore. Magni!</p>
+                    <p class="mid-space text-justify">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, iste molestias? Fugit quisquam corporis repellendus
                     eligendi inventore tempora vero sapiente minus quaerat magni magnam suscipit quia quod, assumenda saepe voluptatibus
                     totam nulla ducimus labore. Magni! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat cum
                     minima provident impedit mollitia nobis soluta debitis illo, ex iure ducimus, deserunt dolorum esse sed.</p>
                     
-                    <p class="titulo title-left text-left mid-space line-correction">Sub-titulo</p>
-                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, iste molestias? Fugit quisquam corporis repellendus
-                    eligendi inventore tempora vero sapiente minus quaerat magni magnam suscipit quia quod, assumenda saepe voluptatibus
-                    totam nulla ducimus labore. Magni! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat cum
-                    minima provident impedit mollitia nobis soluta debitis illo, ex iure ducimus, deserunt dolorum esse sed.</p>
-                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, iste molestias? Fugit quisquam corporis repellendus
-                    eligendi inventore tempora vero sapiente minus quaerat magni magnam suscipit quia quod, assumenda saepe voluptatibus
-                    totam nulla ducimus labore. Magni! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat cum
-                    minima provident impedit mollitia nobis soluta debitis illo, ex iure ducimus, deserunt dolorum esse sed.</p>
-                    
-                    <p class="titulo title-left text-left mid-space line-correction">Sub-titulo</p>
-                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, iste molestias? Fugit quisquam corporis repellendus
-                    eligendi inventore tempora vero sapiente minus quaerat magni magnam suscipit quia quod, assumenda saepe voluptatibus
-                    totam nulla ducimus labore. Magni! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat cum
-                    minima provident impedit mollitia nobis soluta debitis illo, ex iure ducimus, deserunt dolorum esse sed.</p>
-                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, iste molestias? Fugit quisquam corporis repellendus
+                    <p class="titulo title-left text-justify mid-space line-correction">O Envolvimento com a Academia</p>
+                    <p class="text-justify">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, iste molestias? Fugit quisquam corporis repellendus
                     eligendi inventore tempora vero sapiente minus quaerat magni magnam suscipit quia quod, assumenda saepe voluptatibus
                     totam nulla ducimus labore. Magni! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat cum
                     minima provident impedit mollitia nobis soluta debitis illo, ex iure ducimus, deserunt dolorum esse sed.</p>
