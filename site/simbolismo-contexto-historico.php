@@ -34,11 +34,11 @@
         container se refere a classe usada pelo bootstrap
         –––––––––––––––––––––––––––––––––––––––––––––––––– -->
         <article class="section container">
-
+        <h2 class="titulo text-center cor">Simbolismo </h2>
+                    <div class="SI divisor"></div>
             <div class="col-md-11 col-md-offset-1 ">
                 <div class="row">
-                    <h2 class="titulo text-center cor">Simbolismo </h2>
-                    <div class="SI divisor"></div>
+                    
                     <div class="col-md-8 text-left">
                         <h3 class="titulo line cor">Origem</h3>
                         <p class="capitular"> Aut, iste molestias? Fugit quisquam corporis repellendus eligendi inventore tempora vero sapiente minus quaerat magni magnam suscipit quia quod, assumenda saepe voluptatibus totam nulla ducimus labore. Magni! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Placeat cum minima provident impedit mollitia nobis soluta debitis illo, ex iure ducimus, deserunt dolorum esse sed.</p>
@@ -71,12 +71,11 @@
                     </div>
                 </div>
             </div>
-
+            <h2 class="titulo text-center cor">Simbolismo no Brasil </h2>
+                    <div class="SI divisor"></div>
             <div class="col-md-11 col-md-offset-1 ">
                 <div class="row">
-                    <h2 class="titulo text-center cor">Simbolismo no Brasil </h2>
-                    <div class="SI divisor"></div>
-                    <div class="col-md-8 text-left">
+                                       <div class="col-md-8 text-left">
                         <h3 class="titulo line cor">Contexto Cultural</h3>
                         <p class="capitular">Ex iure ducimus, Aut, iste molestias? Fugit quisquam corporis repellendus eligendi inventore tempora vero sapiente minus quaerat magni magnam suscipit quia quod, assumenda saepe voluptatibus totam nulla ducimus labore. Magni! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Placeat cum minima provident impedit mollitia nobis soluta debitis illo, deserunt dolorum esse sed.</p>
                         <p> Aut, iste molestias? Fugit quisquam corporis repellendus eligendi inventore tempora vero sapiente minus quaerat magni magnam suscipit quia quod, assumenda saepe voluptatibus totam nulla ducimus labore. Magni! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat cum minima provident impedit mollitia nobis soluta debitis illo.Lorem ipsum dolor sit amet consectetur, adipisicing elit. ex iure ducimus, deserunt dolorum esse sed. Lorem ipsum dolor sit amet, consectetur adipisicing elit. provident impedit mollitia nobis soluta debitis illo.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestiae ullam eius accusamus voluptatibus recusandae dolor voluptates.</p>
