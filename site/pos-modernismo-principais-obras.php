@@ -38,7 +38,7 @@
             <h2 class="titulo title-left text-left mid-space line-correction">Guimarães Rosa</h2>
             <p class="mid-space">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, iste molestias? Fugit quisquam corporis repellendus eligendi inventore tempora vero sapiente minus quaerat magni magnam suscipit quia quod, assumenda saepe voluptatibus totam nulla ducimus labore. Magni!</p>
             
-            <p class="titulo title-left text-left mid-space line-correction">Clarice Linspector</p>
+            <p class="titulo title-left text-left mid-space line-correction">Clarice Lispector</p>
             <p class="mid-space">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, iste molestias? Fugit quisquam corporis repellendus eligendi inventore tempora vero sapiente minus quaerat magni magnam suscipit quia quod, assumenda saepe voluptatibus totam nulla ducimus labore. Magni!</p>
             
             <p class="titulo title-left text-left mid-space line-correction">Dalton Trevisan</p>
