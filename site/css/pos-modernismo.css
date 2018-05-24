@@ -45,6 +45,11 @@ article p {
     margin-top: 30px;
 }
 
+blockquote{
+    background-color: #e2e2e2;
+    border-left-color: #ccc !important;
+}
+
 /* Autor
 -------------------------------------------*/
 .ficha-tecnica {

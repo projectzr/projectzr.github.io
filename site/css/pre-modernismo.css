@@ -20,7 +20,14 @@ hr{
     color:#56473e;
 }
 
-
+.capitular::first-letter {
+    float: left;
+    color: #5b4961;
+    font-weight: 600;
+    font-size: 8em;
+    line-height: 6rem;
+    padding: 20px 10px 8px 10px;
+}
 
 /*--- Principais obras*/
 .cor-obras1{
