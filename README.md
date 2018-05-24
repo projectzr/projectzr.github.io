@@ -5,13 +5,19 @@ GRUPO [ Bruna – Cleisson – Filipe - Luiza - Priscila – Roberto ]
 
 ## Páginas
 
-* [AGENDA!](../master/AGENDA.md)
-* [Arquitetura da Informação](../master/ARQUITETURA.md)
-* [Como editar arquivos ".md"](../master/DICAS.md)
-* [Informações de cada "Escola"](../master/INFOS.md)
-* [Wireframes](https://github.com/projectzr/projectzr.github.io/tree/master/wireframe)
+* [Site Hospedado (WebHost)](https://brasil-literario.000webhostapp.com/)
+* [Diretório do Site](https://github.com/projectzr/projectzr.github.io/tree/master/site)
 
-## Divisão
+#### Produção
+* [AGENDA!](https://github.com/projectzr/projectzr.github.io/tree/master/documentation/AGENDA.md)
+* [Wireframes](https://github.com/projectzr/projectzr.github.io/tree/master/producao/wireframe)
+* [Mockups](https://github.com/projectzr/projectzr.github.io/tree/master/producao/mockup)
+
+#### Extras
+* [Como editar arquivos ".md"](https://github.com/projectzr/projectzr.github.io/tree/master/documentation/DICAS.md)
+* [Informações de cada "Escola"](https://github.com/projectzr/projectzr.github.io/tree/master/documentation/INFOS.md)
+
+## Informações para a Equipe
 
 > OBS: a tabela com Escolas, Características e Autores e Obras está no documento enviado por email
 
@@ -38,26 +44,24 @@ Pós-Modernismo (1950 - até hoje)                 | (Filipe)
 --------
 ## Observações adicionais:
 
-* O "tema" do portal será alguma forma de arte a ser definida livremente
-* pelo grupo;
-* Cada aluno será responsável por uma "área" dentro do portal;
-* O cálculo da nota será feito com a média entre a nota individual do aluno e a nota geral do grupo;
-* A áreas &quot;comuns&quot; são responsabilidade de todos os membros do projeto;
-* Recomendamos que o grupo eleja um gerente para coordenar as atividades de todos;
-* Recomendamos o uso da plataforma GIT;
-* Os texto podem ser &quot;lorem ipsum...&quot;, mas os menus, headings, alts, legendas e etc, devem todos ser textos verdadeiros. (Opcionalmente o texto pode ser real também, mas neste caso deve obrigatoriamente ser
-de domínio público e conter um link para a fonte original sempre que não for produção original do grupo);
-* São obrigatórias as páginas:
-  * Home;
-  * Quem Somos;
-  * Contato;
-  * Normas de Utilização
-  * Mais 4 páginas gerais definidas pelo grupo.
-    * Dicas de Vestibular
-    * Mapa do Site
-    * Academia Brasileira de Letras
-    * Agenda
-* A página "quem somos" é obrigatória e deve conter:
+- [x] O "tema" do portal será alguma forma de arte a ser definida livremente pelo grupo;
+- [x] Cada aluno será responsável por uma "área" dentro do portal;
+- [ ] O cálculo da nota será feito com a média entre a nota individual do aluno e a nota geral do grupo;
+- [x] A áreas &quot;comuns&quot; são responsabilidade de todos os membros do projeto;
+- [x] Recomendamos que o grupo eleja um gerente para coordenar as atividades de todos;
+- [x] Recomendamos o uso da plataforma GIT;
+- [x] Os textos podem ser &quot;lorem ipsum...&quot;, mas os menus, headings, alts, legendas e etc, devem todos ser textos verdadeiros. (Opcionalmente o texto pode ser real também, mas neste caso deve obrigatoriamente ser de domínio público e conter um link para a fonte original sempre que não for produção original do grupo);
+- [x] São obrigatórias as páginas:
+  - [x] Home;
+  - [x] Quem Somos;
+  - [x] Contato;
+  - [x] Normas de Utilização
+  - [x] Mais 4 páginas gerais definidas pelo grupo.
+    - [x] Dicas de Vestibular
+    - [x] Mapa do Site
+    - [x] Academia Brasileira de Letras
+    - [x] Agenda
+- [x] A página "quem somos" é obrigatória e deve conter:
   1. Foto do aluno;
   2. Mini-biografia (144 caracteres);
   3. Nome;
@@ -70,6 +74,6 @@ de domínio público e conter um link para a fonte original sempre que não for 
 > OBS: A visualização das imagens só é possível diretamente pelo diretório do github.
 > Você pode acessá-lo [clicando aqui](https://github.com/projectzr/projectzr.github.io) 
 
-![projeto01](https://github.com/projectzr/projectzr.github.io/blob/master/imagens/foto-projeto-01.jpg)
+![projeto01](https://github.com/projectzr/projectzr.github.io/blob/master/documentation/imagens/foto-projeto-01.jpg)
 
-![projeto01](https://github.com/projectzr/projectzr.github.io/blob/master/imagens/foto-projeto-02.jpg)
+![projeto01](https://github.com/projectzr/projectzr.github.io/blob/master/documentation/imagens/foto-projeto-02.jpg)
