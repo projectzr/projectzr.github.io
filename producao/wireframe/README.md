@@ -13,25 +13,31 @@
 ## Áreas Individuais
 
 ### Bruna
-- [ ] Não listada
-- [ ] Não listada
+- [x] Contexto Histórico
+- [x] Autor Destaque
+- [x] Obras Destaque
 
 ### Cleisson
-- [ ] Não listada
-- [ ] Não listada
+- [x] Contexto Histórico
+- [x] Autor Destaque
+- [x] Obras Destaque
 
 ### Filipe
-- [ ] Não listada
-- [ ] Não listada
+- [x] Contexto Histórico
+- [x] Autor Destaque
+- [x] Obras Destaque
 
 ### Luiza
-- [ ] Não listada
-- [ ] Não listada
+- [x] Contexto Histórico
+- [x] Autor Destaque
+- [x] Obras Destaque
 
 ### Priscila
-- [ ] Não listada
-- [ ] Não listada
+- [x] Contexto Histórico
+- [x] Autor Destaque
+- [x] Obras Destaque
 
 ### Roberto
-- [ ] Não listada
-- [ ] Não listada
+- [x] Contexto Histórico
+- [x] Autor Destaque
+- [x] Obras Destaque
