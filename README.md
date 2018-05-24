@@ -6,6 +6,7 @@ GRUPO [ Bruna – Cleisson – Filipe - Luiza - Priscila – Roberto ]
 ## Páginas
 
 * [Site Hospedado (WebHost)](https://brasil-literario.000webhostapp.com/)
+* [Diretório do Site](https://github.com/projectzr/projectzr.github.io/tree/master/site)
 
 * [AGENDA!](https://github.com/projectzr/projectzr.github.io/tree/master/documentation/AGENDA.md)
 * [Wireframes](https://github.com/projectzr/projectzr.github.io/tree/master/producao/wireframe)
