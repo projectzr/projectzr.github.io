@@ -148,7 +148,7 @@ body {
     width: 50%;
 }
 
-Descktop
+/*Descktop*/
 
 @media (min-width: 1200px) {
     .sombra {
@@ -169,7 +169,7 @@ memoriasimg:hover {
 }
 
 
-/*Tablet
+/*Tablet*/
 
 @media (max-width: 993px) {
     .sombra {
