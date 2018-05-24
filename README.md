@@ -5,11 +5,14 @@ GRUPO [ Bruna – Cleisson – Filipe - Luiza - Priscila – Roberto ]
 
 ## Páginas
 
-* [AGENDA!](../master/AGENDA.md)
-* [Arquitetura da Informação](../master/ARQUITETURA.md)
-* [Como editar arquivos ".md"](../master/DICAS.md)
-* [Informações de cada "Escola"](../master/INFOS.md)
-* [Wireframes](https://github.com/projectzr/projectzr.github.io/tree/master/wireframe)
+* [Site Hospedado (WebHost)](https://brasil-literario.000webhostapp.com/)
+
+* [AGENDA!](https://github.com/projectzr/projectzr.github.io/tree/master/documentation/AGENDA.md)
+* [Wireframes](https://github.com/projectzr/projectzr.github.io/tree/master/producao/wireframe)
+* [Mockups](https://github.com/projectzr/projectzr.github.io/tree/master/producao/mockup)
+
+* [Como editar arquivos ".md"](https://github.com/projectzr/projectzr.github.io/tree/master/documentation/DICAS.md)
+* [Informações de cada "Escola"](https://github.com/projectzr/projectzr.github.io/tree/master/documentation/INFOS.md)
 
 ## Divisão
 
@@ -70,6 +73,6 @@ de domínio público e conter um link para a fonte original sempre que não for 
 > OBS: A visualização das imagens só é possível diretamente pelo diretório do github.
 > Você pode acessá-lo [clicando aqui](https://github.com/projectzr/projectzr.github.io) 
 
-![projeto01](https://github.com/projectzr/projectzr.github.io/blob/master/imagens/foto-projeto-01.jpg)
+![projeto01](https://github.com/projectzr/projectzr.github.io/blob/master/documentation/imagens/foto-projeto-01.jpg)
 
-![projeto01](https://github.com/projectzr/projectzr.github.io/blob/master/imagens/foto-projeto-02.jpg)
+![projeto01](https://github.com/projectzr/projectzr.github.io/blob/master/documentation/imagens/foto-projeto-02.jpg)

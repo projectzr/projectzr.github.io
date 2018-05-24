@@ -1,25 +1,7 @@
 ## Design
-- [ ] Cores Tema
-- [ ] Cores Sessão
-- [ ] Logo
-
-## Arquitetura da Informação
-> Essa informação deve estar em apenas UM DOCUMENTO, porém
-> as páginas individuais devem ser feitas por cada um e
-> encaminhadas ao responsável geral
-- [ ] Home
-- [ ] Quem Somos
-- [ ] Contato
-- [ ] Academia
-- [ ] Dicas de Vestibular
-- [ ] Termos de Uso
-- [ ] Agenda
-- [ ] Romantismo - Roberto
-- [ ] Realismo - Luiza
-- [ ] Simbolismo - Cleisson
-- [ ] Pré-Modernismo - Bruna
-- [ ] Modernismo - Priscila
-- [ ] Pós-Modernismo - Filipe
+- [x] Cores Tema
+- [x] Cores Sessão
+- [x] Logo
 
 ## Wireframe (10/05)
 
@@ -33,13 +15,13 @@
 - [x] Agenda
 
 ### Wireframes Medio
-- [ ] Home
+- [x] Home
 - [x] Quem Somos
-- [ ] Contato
-- [ ] Academia
-- [ ] Dicas de Vestibular
-- [ ] Termos de Uso
-- [ ] Agenda
+- [x] Contato
+- [x] Academia
+- [x] Dicas de Vestibular
+- [x] Termos de Uso
+- [x] Agenda
 
 ### Wireframes Grande
 - [x] Home
@@ -47,25 +29,25 @@
 - [x] Contato
 - [x] Academia
 - [x] Dicas de Vestibular
-- [ ] Termos de Uso
-- [ ] Agenda
+- [x] Termos de Uso
+- [x] Agenda
 
 ### Wireframes Areas Individuais (Todos)
-- [ ] Romantismo - Roberto
-- [ ] Realismo - Luiza
-- [ ] Simbolismo - Cleisson
-- [ ] Pré-Modernismo - Bruna
-- [ ] Modernismo - Priscila
-- [ ] Pós-Modernismo - Filipe
+- [x] Romantismo - Roberto
+- [x] Realismo - Luiza
+- [x] Simbolismo - Cleisson
+- [x] Pré-Modernismo - Bruna
+- [x] Modernismo - Priscila
+- [x] Pós-Modernismo - Filipe
 
 ## Mockup (24/05)
 
 ### Mockups Pequeno
-- [ ] Home - Filipe
+- [x] Home - Filipe
 - [ ] Quem Somos - Cleisson
 - [ ] Contato - Luiza
 - [ ] Academia - Priscila
-- [ ] Dicas de Vestibular - Filipe
+- [x] Dicas de Vestibular - Filipe
 - [ ] Termos de Uso - Bruna
 - [ ] Agenda - Roberto
 
@@ -74,14 +56,15 @@
 ### HTML/CSS Primeira Versão (14/06)
 - [x] Navbar Padrao - Filipe
 - [x] Header Padrao - Filipe
-- [ ] Footer Padrao - Filipe
+- [x] Footer Padrao - Filipe
 - [x] Home - Filipe
 - [x] Quem Somos - Cleisson
-- [ ] Contato - Luiza
-- [ ] Academia - Priscila
+- [x] Contato - Luiza
+- [x] Academia - Priscila
 - [ ] Dicas de Vestibular - Filipe
-- [ ] Termos de Uso - Bruna
-- [ ] Agenda - Roberto
+- [x] Termos de Uso - Bruna
+- [x] Agenda - Roberto
+- [ ] Mapa do Site - Roberto
 
 ### HTML/CSS Versão Final (21/06)
 - [ ] Navbar Padrao - Filipe
@@ -94,6 +77,7 @@
 - [ ] Dicas de Vestibular - Filipe
 - [ ] Termos de Uso - Bruna
 - [ ] Agenda - Roberto
+- [ ] Mapa do Site - Roberto
 
 ## Validação
 
@@ -108,6 +92,7 @@
 - [ ] Simbolismo - Cleisson
 - [ ] Pré-Modernismo - Bruna
 - [ ] Modernismo - Priscila
+- [ ] Pós-Modernismo - Filipe
 
 ### Versão Final (21/06)
 - [ ] Romantismo - Roberto
