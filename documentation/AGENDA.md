@@ -44,12 +44,13 @@
 
 ### Mockups Pequeno
 - [x] Home - Filipe
-- [ ] Quem Somos - Cleisson
-- [ ] Contato - Luiza
-- [ ] Academia - Priscila
+- [x] Quem Somos - Cleisson
+- [x] Contato - Luiza
+- [x] Academia - Priscila
 - [x] Dicas de Vestibular - Filipe
-- [ ] Termos de Uso - Bruna
-- [ ] Agenda - Roberto
+- [x] Termos de Uso - Bruna
+- [x] Agenda - Roberto
+- [x] Mapa - Roberto
 
 ## Código
 
@@ -57,14 +58,14 @@
 - [x] Navbar Padrao - Filipe
 - [x] Header Padrao - Filipe
 - [x] Footer Padrao - Filipe
-- [x] Home - Filipe
+- [ ] Home - Filipe
 - [x] Quem Somos - Cleisson
 - [x] Contato - Luiza
 - [x] Academia - Priscila
 - [ ] Dicas de Vestibular - Filipe
 - [x] Termos de Uso - Bruna
 - [x] Agenda - Roberto
-- [ ] Mapa do Site - Roberto
+- [x] Mapa do Site - Roberto
 
 ### HTML/CSS Versão Final (21/06)
 - [ ] Navbar Padrao - Filipe
@@ -88,10 +89,10 @@
 
 ### Primeira Versão (14/06)
 - [ ] Romantismo - Roberto
-- [ ] Realismo - Luiza
-- [ ] Simbolismo - Cleisson
-- [ ] Pré-Modernismo - Bruna
-- [ ] Modernismo - Priscila
+- [x] Realismo - Luiza
+- [x] Simbolismo - Cleisson
+- [x] Pré-Modernismo - Bruna
+- [x] Modernismo - Priscila
 - [ ] Pós-Modernismo - Filipe
 
 ### Versão Final (21/06)
