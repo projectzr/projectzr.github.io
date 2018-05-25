@@ -10,7 +10,7 @@
 
                     <div class="row">
                         <div class="col-xs-12 col-md-6 col-lg-4 mp-escola ">
-                            <h4> Romantismo <span class="caret"></span></h4>
+                            <h4> Romantismo(1836 - 1881) <span class="caret"></span></h4>
                             <ul>
                                 <li><a class="mp-link" href="romantismo-contexto-historico.php">Romantismo e a Independência</a></li>
                                 <li><a class="mp-link" href="romantismo-principais-obras.php">As obras mais importantes</a></li>
@@ -20,7 +20,7 @@
                         </div>
 
                         <div class="col-xs-12 col-md-6 col-lg-4 mp-escola">
-                            <h4> Realismo <span class="caret"></span></h4>
+                            <h4> Realismo(1881 - 1893) <span class="caret"></span></h4>
 
 
                             <ul>
@@ -34,7 +34,7 @@
                         </div>
 
                         <div class="col-xs-12 col-md-6 col-lg-4 mp-escola">
-                            <h4> Simbolismo <span class="caret"></span></h4>
+                            <h4> Simbolismo(1893 - 1910) <span class="caret"></span></h4>
                             <ul>
                                 <li><a class="mp-link" href="realismo-contexto-historico.php">O Início da Bell Epoque</a></li>
                                 <li><a class="mp-link" href="realismo-principais-obras.php">Obras da Época</a></li>
@@ -44,7 +44,7 @@
                         </div>
 
                         <div class="col-xs-12 col-md-6 col-lg-4 mp-escola">
-                            <h4> Pré-Modernismo <span class="caret"></span></h4>
+                            <h4> Pré-Modernismo(1910 - 1922) <span class="caret"></span></h4>
                             <ul>
                                 <li><a class="mp-link" href="pre-modernismo-contexto-historico.php">Proclamação da República</a></li>
                                 <li><a class="mp-link" href="pre-modernismo-principais-obras.php">Manifestação dos Autores</li>
@@ -53,7 +53,7 @@
 
                         </div>
                         <div class="col-xs-12 col-md-6 col-lg-4 mp-escola">
-                            <h4> Modernismo <span class="caret"></span></h4>
+                            <h4> Modernismo(1922 - 1950) <span class="caret"></span></h4>
                             <ul>
                                 <li><a class="mp-link" href="modernismo-contexto-historico.php">Semana da Arte Moderna</a></li>
                                 <li><a class="mp-link" href="modernismo-principais-obras.php">Principais Obras</a></li>
@@ -62,7 +62,7 @@
 
                         </div>
                         <div class="col-xs-12 col-md-6 col-lg-4 mp-escola">
-                            <h4> Pós-Modernismo <span class="caret"></span></h4>
+                            <h4> Pós-Modernismo(1950 - à atual) <span class="caret"></span></h4>
                             <ul>
                                 <li><a class="mp-link" href="pos-modernismo-contexto-historico.php">A Guerra, A História</a></li>
                                 <li><a class="mp-link" href="pos-modernismo-principais-obras.php">Obras que Marcaram</a></li>
