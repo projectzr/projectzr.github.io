@@ -108,7 +108,7 @@
                             <ul>
                                 <li class="dropdown-header escola4-navid" data-type="drop-escola" data-target="drop-escola4"><span>Pré-Modernismo</span>
                                     <ul class="drop-escola nav-hide" id="drop-escola4">
-                                        <li><a href="pre-modernismo-contexto-historico.php">Proclamação da República</a></li>
+                                        <li><a href="pre-modernismo-contexto-historico.php">Consolidação da República</a></li>
                                         <li><a href="pre-modernismo-principais-obras.php">Manifestação dos Autores</a></li>
                                         <li><a href="pre-modernismo-autor-destaque.php">Autor de destaque: Euclides da Cunha</a></li>
                                     </ul>
