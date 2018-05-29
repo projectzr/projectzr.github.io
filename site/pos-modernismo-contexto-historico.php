@@ -8,7 +8,7 @@
     <!-- Informações básicas
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <meta charset="utf-8">
-    <title>Brasil Literário - Pós-Modernismo: Autor de Destaque</title>
+    <title>Brasil Literário - Pós-Modernismo: Contexto Histórico</title>
     <link rel="stylesheet" href="css/pos-modernismo.css">
     <?php include 'includes/estrutura/head.php'; ?>
     

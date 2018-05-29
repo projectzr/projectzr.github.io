@@ -71,9 +71,9 @@
                             <ul>
                                 <li class="dropdown-header escola1-navid" data-type="drop-escola" data-target="drop-escola1"><span>Romantismo</span>
                                     <ul class="drop-escola nav-hide" id="drop-escola1"> 
-                                        <li><a href="romantismo-contexto-historico.php">Contexto Histórico da época</a></li>
+                                        <li><a href="romantismo-contexto-historico.php">Romantismo e a Independência</a></li>
+                                        <li><a href="romantismo-principais-obras.php">As Grandes Obras</a></li>
                                         <li><a href="romantismo-autor-destaque.php">Autor de destaque: José de Alencar</a></li>
-                                        <li><a href="romantismo-principais-obras.php">Obras mais importantes</a></li>
                                     </ul>
                                 </li>
                                 <li class="divider"></li>

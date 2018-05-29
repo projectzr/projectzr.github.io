@@ -133,7 +133,7 @@ criarSectionHome(
     // imagem 1
     'img/home-materias/pre-modernismo-contexto-historico.jpg',
     // titulo 1
-    'Proclamação da República',
+    'Consolidação da República',
     // texto 1
     'A expectativa de um novo Berasil, mais justo e moderno, com o advento do regime republicano, porém foi uma tentativa frustrada.',
     // imagem 2
