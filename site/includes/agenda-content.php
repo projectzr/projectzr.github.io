@@ -5,8 +5,8 @@
         <div class="col-xs-12 col-md-6 col-lg-4">
             <div class="ag-evento">
                 <div class="row ag-teventoa">
-                    <div class="col-xs-4 ">
-                        <img src="img/agenda/BIENAL.jpg" alt="" width="80" height="80">
+                    <div class="col-xs-4 ag-icone ">
+                        <img class="" src="img/agenda/2018bienal.png" alt="">
                     </div>
                     <div class="col-xs-8 ">
                         <h1 class="ag-titulo"> 25° Bienal do Livro SP</h1>
@@ -25,8 +25,8 @@
         <div class="col-xs-12 col-md-6 col-lg-4">
             <div class="ag-evento">
                 <div class="row ag-teventob">
-                    <div class="col-xs-4 ">
-                        <img src="img/agenda/CartazhistoriaUEG.jpg" alt="" width="80" height="80">
+                    <div class="col-xs-4 ag-icone">
+                        <img src="img/agenda/ueg.png" alt="">
 
                     </div>
                     <div class="col-xs-8 ">
@@ -46,8 +46,8 @@
         <div class="col-xs-12 col-md-6 col-lg-4">
             <div class="ag-evento">
                 <div class="row ag-teventoa">
-                    <div class="col-xs-4 ">
-                        <img src="img/agenda/codex.jpg" alt="" width="80" height="80">
+                    <div class="col-xs-4 ag-icone">
+                        <img src="img/agenda/codex.png" alt="">
                     </div>
                     <div class="col-xs-8 ">
                         <h1 class="ag-titulo">I WITLI- Dourados MS</h1>
@@ -69,8 +69,8 @@
         <div class="col-xs-12 col-md-6 col-lg-4">
             <div class="ag-evento">
                 <div class="row ag-teventob">
-                    <div class="col-xs-4 ">
-                        <img src="img/agenda/ESTUDOSGENEROS.jpg" alt="" width="80" height="80">
+                    <div class="col-xs-4 ag-icone">
+                        <img src="img/agenda/eneged.png" alt="">
                     </div>
                     <div class="col-xs-8 ">
                         <h1 class="ag-titulo">Eneged – Brasília DF</h1>
@@ -89,8 +89,8 @@
         <div class="col-xs-12 col-md-6 col-lg-4">
             <div class="ag-evento">
                 <div class="row ag-teventoa">
-                    <div class="col-xs-4 ">
-                        <img src="img/agenda/SIMPOSIO.jpg" alt="" width="80" height="80">
+                    <div class="col-xs-4 ag-icone">
+                        <img src="img/agenda/simposio.png" alt="">
                     </div>
                     <div class="col-xs-8 ">
                         <h1 class="ag-titulo">Simpósio regional IFCE</h1>
@@ -109,8 +109,8 @@
         <div class="col-xs-12 col-md-6 col-lg-4">
             <div class="ag-evento">
                 <div class="row ag-teventob">
-                    <div class="col-xs-4 ">
-                        <img src="img/agenda/jornadasdeartesdauems.jpg" alt="" width="80" height="80">
+                   <div class="col-xs-4 ag-icone">
+                        <img src="img/agenda/jornadasdeartesdauems.png" alt="">
                     </div>
                     <div class="col-xs-8 ">
                         <h1 class="ag-titulo">Jornada de Artes da UEMS</h1>
@@ -131,8 +131,8 @@
         <div class="col-xs-12 col-md-6 col-lg-4">
             <div class="ag-evento">
                 <div class="row ag-teventoa">
-                    <div class="col-xs-4 ">
-                        <img src="img/agenda/prazerdaleitura.jpg" alt="" width="80" height="80">
+                    <div class="col-xs-4 ag-icone">
+                        <img src="img/agenda/prazerdaleitura.png" alt="">
                     </div>
                     <div class="col-xs-8 ">
                         <h1 class="ag-titulo">Exposição O prazer da leitura</h1>
@@ -151,8 +151,8 @@
         <div class="col-xs-12 col-md-6 col-lg-4">
             <div class="ag-evento">
                 <div class="row ag-teventob">
-                    <div class="col-xs-4 ">
-                        <img src="img/agenda/semanaritmoeSom.jpg" alt="" width="80" height="80">
+                    <div class="col-xs-4 ag-icone">
+                        <img src="img/agenda/ritmoesom.png" alt="">
                     </div>
                     <div class="col-xs-8 ">
                         <h1 class="ag-titulo">1ª Semana de Ritmo e Som</h1>
@@ -171,8 +171,8 @@
         <div class="col-xs-12 col-md-6 col-lg-4">
             <div class="ag-evento">
                 <div class="row ag-teventoa">
-                    <div class="col-xs-4 ">
-                        <img src="img/agenda/seminarioLUSObradecomunicacao.jpg" alt="" width="80" height="80">
+                    <div class="col-xs-4 ag-icone">
+                        <img src="img/agenda/seminarioluso.png" alt="">
                     </div>
                     <div class="col-xs-8 ">
                         <h1 class="ag-titulo">Seminário Luso-Brasileiro</h1>
