@@ -757,3 +757,15 @@ footer .footer-mapa:first-child::after {
 .classecontato {
     margin-top: 34px;
 }
+
+/* Dicas de Vestibular 
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.dv-space {
+    height: 6rem;
+}
+.dv-space.dv-recuo {
+    margin-top: -6rem;
+}
+.dv-space:target+.dv-destaque {
+    background-color: #ffa2a2;
+}
