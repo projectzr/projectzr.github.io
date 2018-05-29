@@ -36,7 +36,7 @@
         <div class="section container"> 
             
             <article class="col-xs-12">
-                <img src="img/pos-modernismo/contexto-banner.old.jpg" style="width: 100%;" alt="zona de guerra decada de 40">
+                <img src="img/pos-modernismo/contexto-banner-2.jpg" class="contexto-img" alt="zona de guerra decada de 40">
                 
                 <h2 class="titulo no-space text-center">A Guerra, A História</h2>
                 <div class="divisor"></div>
