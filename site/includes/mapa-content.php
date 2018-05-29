@@ -1,9 +1,9 @@
 <article class="container section">
     <div class="row text-left">
         <div class="col-xs-12 mp-mapa">
-
             <div class="col-xs-12 mp-home">
                 <h2>Navegue no Brasil literário</h2>
+                <div class="QM divisor"></div>
             </div>
             <div class="col-xs-12 mp-escolasgeral">
                 <h3 class="mp-molduraescola">Escolas <span class="caret"></span>
@@ -36,7 +36,7 @@
                         <div class="col-xs-12 col-md-6 col-lg-4 mp-escola">
                             <h4> Simbolismo(1893 - 1910) <span class="caret"></span></h4>
                             <ul>
-                                <li><a class="mp-link" href="realismo-contexto-historico.php">O Início da Bell Epoque</a></li>
+                                <li><a class="mp-link" href="realismo-contexto-historico.php">O Início da Belle Époque</a></li>
                                 <li><a class="mp-link" href="realismo-principais-obras.php">Obras da Época</a></li>
                                 <li><a class="mp-link" href="simbolismo-autor-destaque.php">Autor de destaque: Cruz e Sousa</a></li>
                             </ul>
@@ -46,7 +46,7 @@
                         <div class="col-xs-12 col-md-6 col-lg-4 mp-escola">
                             <h4> Pré-Modernismo(1910 - 1922) <span class="caret"></span></h4>
                             <ul>
-                                <li><a class="mp-link" href="pre-modernismo-contexto-historico.php">Proclamação da República</a></li>
+                                <li><a class="mp-link" href="pre-modernismo-contexto-historico.php">Consolidação da República</a></li>
                                 <li><a class="mp-link" href="pre-modernismo-principais-obras.php">Manifestação dos Autores</li>
                                 <li><a class="mp-link" href="pre-modernismo-autor-destaque.php">Autor de destaque: Euclides da Cunha</a></li>
                             </ul>
