@@ -70,7 +70,7 @@ quemSomos(
     // Descriçao pessoal
     'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar a manutenção das condições financeiras e administrativas exigidas.',
     // Responsabilidades
-    '<a href="pos-modernismo-contexto-historico.php">Pós-Modernismo</a> e <a href="index.php">Home</a>'
+    '<a href="pos-modernismo-contexto-historico.php">Pós-Modernismo</a>, <a href="index.php">Home</a> e <a href="dicas-de-vestibular.php">Dicas de Vestibular</a>'
 );
 
 // Integrante 4
@@ -126,7 +126,7 @@ quemSomos(
     // Descriçao pessoal
     'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar a manutenção das condições financeiras e administrativas exigidas.',
     // Responsabilidades
-    '<a href="romantismo-contexto-historico.php">Romantismo</a> e <a href="agenda.php"> Agenda </a>'
+    '<a href="romantismo-contexto-historico.php">Romantismo</a>, <a href="agenda.php"> Agenda</a> e <a href="mapa.php">Mapa do Site</a>'
 );
 
 footerQuemSomos ();
