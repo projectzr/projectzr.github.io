@@ -1,3 +1,19 @@
+# AGENDA PORTAL
+
+**ATÉ DIA 30(quarta-feira) – Todas as páginas finalizadas**
+- Com  as paginas finalizadas elas serão submetidas as correções dos responsáveis por:
+- Revisão de conteúdo( títulos, subtítulos, datas, alt's, etc);
+- Revisão de design( imagens, layouts quebrados,  imagens,  etc);
+- Validação dos códigos( erros de links,  validação no w3c, etc);
+
+**ATÉ DIA  06(quarta-feira) – Apontamentos de falhas**
+- Até essa data serão feitos todos os apontamentos das correções necessárias nos pontos acima descritos.
+
+**ATÉ DIA 14/06(quinta-feira) Entrega da primeira versão HTML/CSS**
+- Todas as páginas serão submetidas a primeira avaliação dos professores
+
+---------
+
 ## Design
 - [x] Cores Tema
 - [x] Cores Sessão
