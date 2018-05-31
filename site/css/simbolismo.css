@@ -1,9 +1,3 @@
-html,
-body {
-    max-width: 100%;
-    overflow-x: hidden;
-}
-
 .titulo {
     margin-bottom: 3rem;
 }
@@ -29,7 +23,8 @@ hr {
     position: relative;
     margin: 0 auto;
     height: 0.5rem;
-    background-color: #b598ab;
+    /*    background-color: #b598ab;*/
+    background-color: #af89bc;
     width: 26%;
     bottom: 0.4rem;
     /* left: 0; */
@@ -50,12 +45,15 @@ hr {
 }
 
 .cor {
-    color: #5b4961;
+    /*    color: #5b4961;*/
+    color: #4c2d57;
+    /*    color: #432b8e;*/
 }
 
 
 h3 small {
     font-family: 'Bitter', serif;
+    color: #796780;
 }
 
 
@@ -75,7 +73,13 @@ article p {
     text-align: left;
     font-family: 'Zilla Slab', serif;
     line-height: 2em;
-    color: #604134;
+    font-weight: 500;
+    /*    color: #604134;*/
+    color: #5a514d;
+}
+
+.font {
+    font-family: 'Zilla Slab', serif;
 }
 
 /* article p:first-of-type:first-letter {
@@ -89,7 +93,8 @@ article p {
 
 .capitular::first-letter {
     float: left;
-    color: #5b4961;
+    /*    color: #5b4961;*/
+    color: #4c2d57;
     font-weight: 600;
     font-size: 8em;
     line-height: 6rem;
@@ -102,9 +107,27 @@ article p {
     display: block;
     margin-top: 0.2em;
     height: 3px;
-    background-color: rgba(51, 51, 51, 0.14);
+    /*    background-color: rgba(51, 51, 51, 0.14);*/
+    background-color: rgba(67, 43, 142, 0.22);
     width: 5em;
 }
+
+
+.pace .pace-progress {
+    /* COR DA PARRA DE LOADING */
+    background: #654bd7;
+    height: 2px;
+    position: fixed;
+    right: 100%;
+    top: 0;
+    width: 100%;
+    z-index: 2000;
+}
+
+
+
+
+
 
 
 @media (min-width:992px) {

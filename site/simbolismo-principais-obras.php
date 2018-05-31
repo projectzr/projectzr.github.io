@@ -9,6 +9,8 @@
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <meta charset="utf-8">
     <title>Brasil Literário - Simbolismo: Principais Obras</title>
+    <meta name="theme-color" content="#654bb7" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <?php include 'includes/estrutura/head.php'; ?>
     <link rel="stylesheet" href="css/simbolismo.css">
 
@@ -53,7 +55,7 @@
                             <div class="row section">
                                 <figure>
                                     <img src="img/simb/obra1.jpg" alt="" class="">
-                                    <figcaption><cite>Primeira edição de Faróis,<br> de Cruz e Sousa </cite></figcaption>
+                                    <figcaption><cite class="cor font">Primeira edição de Faróis,<br> de Cruz e Sousa </cite></figcaption>
                                 </figure>
                             </div>
                             <hr class="visible-sm visible-xs">
@@ -71,9 +73,9 @@
                         <div class="col-md-6 col-xs-11 col-md-push-6">
 
                             <div class="row section">
-                                <h2 class="sub-titulo">Impsum Lorem</h2>
+                                <h2 class="sub-titulo cor">Impsum Lorem</h2>
                                 <br>
-                                <p class="text-center">Lorem ipsum dolor sit amet,<br> consectetur adipisicing elit Quis adipisci,<br> corporis ipsum maiores nulla hic?<br> Aut ipsam provident, hic rem <br> voluptatem id amet Quis adipisci,<br> corporis ipsum maiores nulla hic?<br> Aut ipsam provident, hic rem voluptatem id amet.</p>
+                                <p class="text-center">Ipsum Lorem! dolor sit amet,<br> consectetur adipisicing elit ... Quis adipisci<br> corporis ipsum maiores nulla hic?<br> Aut ipsam provident, hic rem <br> voluptatem id amet Quis adipisci,<br> corporis ipsum maiores nulla hic?<br> Aut ipsam provident, hic rem voluptatem id amet.</p>
                             </div>
                             <hr class="visible-xs visible-sm">
                         </div>
@@ -90,7 +92,7 @@
                             <div class="row section">
                                 <figure>
                                     <img src="img/simb/obra1.jpg" alt="" class="">
-                                    <figcaption><cite>Primeira edição de Faróis,<br> de Cruz e Sousa </cite></figcaption>
+                                    <figcaption><cite class="font">Primeira edição de Faróis,<br> de Cruz e Sousa </cite></figcaption>
                                 </figure>
                             </div>
                             <hr class="visible-sm visible-xs">
@@ -108,7 +110,7 @@
                         <div class="col-md-6 col-xs-11 col-md-push-6">
 
                             <div class="row section">
-                                <h2 class="sub-titulo">Lorem</h2>
+                                <h2 class="sub-titulo cor">Lorem</h2>
                                 <br>
                                 <p class="text-center"> Voluptatem id amet <br>Quis adipisci,<br>Consectetur adipisicing elit Quis adipisci,<br> Vorporis ipsum maiores nulla hic?<br> Aut ipsam provident, hic rem <br> Eorporis ipsum maiores nulla hic?<br> Aut ipsam provident, <br> hic rem voluptatem</p>
                             </div>

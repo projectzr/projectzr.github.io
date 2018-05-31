@@ -1,46 +1,46 @@
-    <meta name="description" content="Descrição que aparecerá no google e ao compartilhar o link no face e wpp">
-    <meta name="author" content="Fatec SR - Sistemas para Internet - 2o Sem. de 2017">
+<meta name="description" content="Descrição que aparecerá no google e ao compartilhar o link no face e wpp">
+<meta name="author" content="Fatec SR - Sistemas para Internet - 2o Sem. de 2017">
 
-    <!-- Mobile Specific Metas
+<!-- Mobile Specific Metas
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <!-- JavaScript
+<!-- JavaScript
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <!-- jQuery -->
-    <script src="js/jquery.min.js"></script>
-    <!-- api de efeito parallax -->
-    <script src="js/parallax.min.js"></script>
-    <!-- api de loading do site -->
-    <script src="js/pace.min.js"></script>
-    <!-- script nosso -->
-    <script src="js/script.js"></script>
-    
-    <!-- FontAwesome
-    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.10/css/all.css" integrity="sha384-+d0P83n9kaQMCwj8F4RJB66tzIwOKmrdb46+porD/OvrJ+37WqIM7UoBtwHO6Nlg" crossorigin="anonymous">
+<!-- jQuery -->
+<script src="js/jquery.min.js"></script>
+<!-- api de efeito parallax -->
+<script src="js/parallax.min.js"></script>
+<!-- api de loading do site -->
+<script src="js/pace.min.js"></script>
+<!-- script nosso -->
+<script src="js/script.js"></script>
 
-    <!-- Bootstrap
+<!-- FontAwesome
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <link rel="stylesheet" href="css/bootstrap.min.css">
-    <script src="js/bootstrap.min.js"></script>
-    
-    <!-- FONT
-    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <!-- titulos -->
-    <link href="https://fonts.googleapis.com/css?family=Bitter" rel="stylesheet">
-    <!-- textos -->
-    <link href="https://fonts.googleapis.com/css?family=Slabo+27px" rel="stylesheet">
-    <!-- textos -->
-    <link href="https://fonts.googleapis.com/css?family=Zilla+Slab" rel="stylesheet">
-    
-    <!-- CSS
-    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <link rel="stylesheet" href="css/custom.css">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.10/css/all.css" integrity="sha384-+d0P83n9kaQMCwj8F4RJB66tzIwOKmrdb46+porD/OvrJ+37WqIM7UoBtwHO6Nlg" crossorigin="anonymous">
 
-    <!-- Favicon
+<!-- Bootstrap
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <!-- <link rel="icon" type="image/png" href="img/favicon.png">   -->
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<script src="js/bootstrap.min.js"></script>
+
+<!-- FONT
+    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+<!-- titulos -->
+<link href="https://fonts.googleapis.com/css?family=Bitter" rel="stylesheet">
+<!-- textos -->
+<link href="https://fonts.googleapis.com/css?family=Slabo+27px" rel="stylesheet">
+<!-- textos -->
+<link href="https://fonts.googleapis.com/css?family=Zilla+Slab:400,500" rel="stylesheet">
+
+<!-- CSS
+    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+<link rel="stylesheet" href="css/custom.css">
+
+<!-- Favicon
+    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+<!-- <link rel="icon" type="image/png" href="img/favicon.png">   -->
 
 <link rel="apple-touch-icon" sizes="57x57" href="img/favicon/apple-icon-57x57.png">
 <link rel="apple-touch-icon" sizes="60x60" href="img/favicon/apple-icon-60x60.png">
@@ -51,7 +51,7 @@
 <link rel="apple-touch-icon" sizes="144x144" href="img/favicon/apple-icon-144x144.png">
 <link rel="apple-touch-icon" sizes="152x152" href="img/favicon/apple-icon-152x152.png">
 <link rel="apple-touch-icon" sizes="180x180" href="img/favicon/apple-icon-180x180.png">
-<link rel="icon" type="image/png" sizes="192x192"  href="img/favicon/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="192x192" href="img/favicon/android-icon-192x192.png">
 <link rel="icon" type="image/png" sizes="32x32" href="img/favicon/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="96x96" href="img/favicon/favicon-96x96.png">
 <link rel="icon" type="image/png" sizes="16x16" href="img/favicon/favicon-16x16.png">
@@ -60,6 +60,6 @@
 <meta name="msapplication-TileImage" content="img/favicon/ms-icon-144x144.png">
 <meta name="theme-color" content="#ffffff">
 
-    <!-- Logo SVG adaptável
+<!-- Logo SVG adaptável
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <?php include 'includes/functions/logo.php'; ?>
+<?php include 'includes/functions/logo.php'; ?>

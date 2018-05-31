@@ -9,6 +9,8 @@
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <meta charset="utf-8">
     <title>Brasil Literário - Simbolismo: Contexto Histórico</title>
+    <meta name="theme-color" content="#654bb7" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <?php include 'includes/estrutura/head.php'; ?>
     <link rel="stylesheet" href="css/simbolismo.css">
 
@@ -34,11 +36,11 @@
         container se refere a classe usada pelo bootstrap
         –––––––––––––––––––––––––––––––––––––––––––––––––– -->
         <article class="section container">
-        <h2 class="titulo text-center cor">Simbolismo </h2>
-                    <div class="SI divisor"></div>
+            <h2 class="titulo text-center cor">Simbolismo </h2>
+            <div class="SI divisor"></div>
             <div class="col-md-11 col-md-offset-1 ">
                 <div class="row">
-                    
+
                     <div class="col-md-8 text-left">
                         <h3 class="titulo line cor">Origem</h3>
                         <p class="capitular"> Aut, iste molestias? Fugit quisquam corporis repellendus eligendi inventore tempora vero sapiente minus quaerat magni magnam suscipit quia quod, assumenda saepe voluptatibus totam nulla ducimus labore. Magni! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Placeat cum minima provident impedit mollitia nobis soluta debitis illo, ex iure ducimus, deserunt dolorum esse sed.</p>
@@ -65,17 +67,17 @@
                         <h3 class="titulo line cor">Surgimento</h3>
                         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, iste molestias? Fugit quisquam corporis repellendus eligendi inventore tempora vero sapiente minus quaerat magni magnam suscipit quia quod, assumenda saepe voluptatibus totam nulla ducimus labore. Magni! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat cum minima provident impedit mollitia nobis soluta debitis illo, ex iure ducimus, deserunt dolorum esse sed.</p>
                         <h3 class="titulo line cor">Simbolismo
-                            <small>e o tédio da civilização Humana</small>
+                            <small>e o tédio da civilização humana</small>
                         </h3>
                         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, iste molestias? Fugit quisquam corporis repellendus eligendi inventore tempora vero sapiente minus quaerat magni magnam suscipit quia quod, assumenda saepe voluptatibus totam nulla ducimus labore. Magni! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat cum minima provident impedit mollitia nobis soluta debitis illo, ex iure ducimus, deserunt dolorum esse sed.</p>
                     </div>
                 </div>
             </div>
             <h2 class="titulo text-center cor">Simbolismo no Brasil </h2>
-                    <div class="SI divisor"></div>
+            <div class="SI divisor"></div>
             <div class="col-md-11 col-md-offset-1 ">
                 <div class="row">
-                                       <div class="col-md-8 text-left">
+                    <div class="col-md-8 text-left">
                         <h3 class="titulo line cor">Contexto Cultural</h3>
                         <p class="capitular">Ex iure ducimus, Aut, iste molestias? Fugit quisquam corporis repellendus eligendi inventore tempora vero sapiente minus quaerat magni magnam suscipit quia quod, assumenda saepe voluptatibus totam nulla ducimus labore. Magni! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Placeat cum minima provident impedit mollitia nobis soluta debitis illo, deserunt dolorum esse sed.</p>
                         <p> Aut, iste molestias? Fugit quisquam corporis repellendus eligendi inventore tempora vero sapiente minus quaerat magni magnam suscipit quia quod, assumenda saepe voluptatibus totam nulla ducimus labore. Magni! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat cum minima provident impedit mollitia nobis soluta debitis illo.Lorem ipsum dolor sit amet consectetur, adipisicing elit. ex iure ducimus, deserunt dolorum esse sed. Lorem ipsum dolor sit amet, consectetur adipisicing elit. provident impedit mollitia nobis soluta debitis illo.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestiae ullam eius accusamus voluptatibus recusandae dolor voluptates.</p>
@@ -88,7 +90,7 @@
                             Jean Baptiste Debret: Dia de Entrudo
                              
                                 <small class="visible-lg">"A obra de Simbolista do Brasil mostra-se uma tentativa de formas de expressão prestigiadas na Europa e o drama espiritual de um homem atormentado social e filosoficamente, Cruz e Souza, filho de escravos libertos"</small></cite>
-                                <cite class="text-center hidden-lg"><br> O Brasil vivia o final da Escravidão, além disso os anos finais do Império e os primeiros anos da República, quando iniciou-se o Simbolismo Brasileiro"</cite>
+                                <cite class="text-center hidden-lg cor"><br> O Brasil vivia o final da Escravidão, além disso os anos finais do Império e os primeiros anos da República, quando iniciou-se o Simbolismo Brasileiro"</cite>
                                 <hr class="hidden-lg">
                             </figcaption>
 

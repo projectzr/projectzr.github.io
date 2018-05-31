@@ -5,6 +5,8 @@
 <head>
     <meta charset="utf-8">
     <title>Brasil Literário - Simbolismo: Autor de Destaque</title>
+    <meta name="theme-color" content="#654bb7" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <?php include 'includes/estrutura/head.php'; ?>
     <link rel="stylesheet" href="css/simbolismo.css">
 </head>
@@ -26,7 +28,7 @@
                             <div class="media-right">
                                 <img class="media-object" src="img/simb/cruz-e-souza.jpg" alt="Autor de Destaque">
                                 <cite>
-                                    <small>João Cruz e Sousa: Ilustração Digital relizado por Cleisson</small>
+                                    <small>Pintura Digital pelo autor:João Cruz e Sousa</small>
                                 </cite>
                             </div>
                             <div class="media-body media-middle hidden-xs">
