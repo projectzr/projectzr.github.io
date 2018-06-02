@@ -26,7 +26,7 @@
                         <div class="SI divisor"></div>
                         <div class="media">
                             <div class="media-right">
-                                <img class="media-object" src="img/simb/cruz-e-souza.jpg" alt="Autor de Destaque">
+                                <img class="media-object img" src="img/simb/cruz-e-souza.jpg" alt="Autor de Destaque">
                                 <cite>
                                     <small>Pintura Digital pelo autor:João Cruz e Sousa</small>
                                 </cite>
@@ -51,7 +51,7 @@
             </div>
         </aside>
         <div class="container text-left">
-            <div class="col-xs-12 col-md-8 col-md-offset-2 col-lg-8 col-lg-offset-2">
+            <div class="col-md-12 col-lg-9 col-lg-offset-2">
                 <div class="row">
                     <article>
                         <h2 class="titulo cor line">Biografia</h2>

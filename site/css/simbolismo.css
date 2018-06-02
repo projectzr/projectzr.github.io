@@ -37,6 +37,7 @@ hr {
     object-fit: scale-down;
 }
 
+
 .lateral {
     padding-right: 0.9em;
     padding-left: 0.9em;
@@ -125,7 +126,11 @@ article p {
 }
 
 
-
+@media (max-width:766px) {
+    .img {
+        max-width: 100%;
+    }
+}
 
 
 
