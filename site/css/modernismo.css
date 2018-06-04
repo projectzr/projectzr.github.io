@@ -29,7 +29,7 @@ article p {
     font-family: 'Zilla Slab', serif;
     line-height: 2em;
 }
-.first-letter {
+.first-letter::first-letter {
     padding: 20px 10px 1px 0px;
     font-weight: 600;
     font-size: 8em;
@@ -120,5 +120,7 @@ article p {
   height: 60vh;
   flex-direction: column;
   justify-content: center;
+    }
+}er;
     }
 }
