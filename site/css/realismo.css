@@ -171,26 +171,41 @@ memoriasimg:hover {
 
 /*Tablet*/
 
-@media (max-width: 993px) {
-    .sombra {
+@media (max-width: 993px) 
+{
+    .sombra 
+    {
         margin: .5rem 0;
         background-color: #ebebeb;
         box-shadow: 0 0 5px rgba(230, 182, 129, 0.0));
     }
-    .memoriasimg {
+    .memoriasimg 
+    {
         width: 50%
     }
+    
+    .arrumarpimg
+    {
+        width: 150px;
+            height: 200px;
+    }
 
-
-    .descricaoimg {
+    .descricaoimg 
+    {
         width: 100%;
     }
-    .descricaoimg:hover {
+    .descricaoimg:hover 
+    {
         opacity: 0.8;
     }
-}
+    .pararealismo 
+    {
+    margin-top: 2px;    
+    } 
 
 }
+
+
 
 
 @media (min-width: 768px) {}
