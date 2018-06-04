@@ -36,6 +36,7 @@
 <h1 class="paddingh1 titulo">O Brasil Liberal que aguarda o fim da monarquia</h1>
                     <div class="realismodivisor"></div>
                     <article class="col-xs-12 col-md-6 ">
+                    <h2 style="display: none">Contexto Histórico</h2>
  <div class=" col-xs-12 col-md-12 paddingimg">  <img src="img/realismo/obrarealista.jpg" alt="Pintura do Baile da Ilha de Fiscal" class="descricaoimg">
    <p id="ajustecontexto">"Pintura do Baile da Ilha Fiscal, o último da monarquia brasileira." - Livro 1889 de Laurentino Gomes.</p>
    </div> 
