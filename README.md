@@ -14,6 +14,7 @@ GRUPO [ Bruna – Cleisson – Filipe - Luiza - Priscila – Roberto ]
 * [Wireframes](producao/wireframe)
 * [Mockups](producao/mockup)
 * [Relatorio de Validação](validacao.pdf)
+* [Relatorio de Links](links.pdf)
 
 #### Extras
 * [Como editar arquivos ".md"](documentation/DICAS.md)
