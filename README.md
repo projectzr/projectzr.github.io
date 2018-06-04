@@ -16,6 +16,7 @@ GRUPO [ Bruna – Cleisson – Filipe - Luiza - Priscila – Roberto ]
 #### Extras
 * [Como editar arquivos ".md"](https://github.com/projectzr/projectzr.github.io/tree/master/documentation/DICAS.md)
 * [Informações de cada "Escola"](https://github.com/projectzr/projectzr.github.io/tree/master/documentation/INFOS.md)
+* [Links de Validação](documentation/VALIDACAO.md)
 
 ## Informações para a Equipe
 
