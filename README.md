@@ -73,8 +73,8 @@ Pós-Modernismo (1950 - até hoje)                 | (Filipe)
   
 --------
 ## Fotos Adicionais:
-> Essa página pode ser visualizada através do endereço <projectzr.github.io>.
-> Caso esteja acessando por ela, você pode acessar o repositório [clicando aqui](https://github.com/projectzr/projectzr.github.io) 
+> Essa página pode ser visualizada através do endereço projectzr.github.io.<br>
+> Caso esteja acessando por ela, você pode acessar o repositório [clicando aqui](https://github.com/projectzr/projectzr.github.io).
 
 ![projeto01](documentation/imagens/foto-projeto-01.jpg)
 
