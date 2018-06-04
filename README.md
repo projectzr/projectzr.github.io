@@ -64,12 +64,12 @@ Pós-Modernismo (1950 - até hoje)                 | (Filipe)
     - [x] Academia Brasileira de Letras
     - [x] Agenda
 - [x] A página "quem somos" é obrigatória e deve conter:
-  [x] Foto do aluno;
-  [ ] *Mini-biografia (144 caracteres);*
-  [x] Nome;
-  [ ] *R.A.;*
-  [x] Função no grupo (coder, gerente, designer, etc);
-  [x] Área pela qual é responsável, com link para a mesma.
+  - [x] Foto do aluno;
+  - [ ] *Mini-biografia (144 caracteres);*
+  - [x] Nome;
+  - [ ] *R.A.;*
+  - [x] Função no grupo (coder, gerente, designer, etc);
+  - [x] Área pela qual é responsável, com link para a mesma.
   
 --------
 ## Fotos Adicionais:
