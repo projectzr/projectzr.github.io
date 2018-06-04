@@ -64,15 +64,15 @@ criarSectionHome(
     // imagem 1
     'img/home-materias/realismo-contexto-historico.jpg',
     // titulo 1
-    'O Fim da Monarquia',
+    'O Brasil das ideias liberais',
     // texto 1
-    'Texto a definir',
+    'O Brasil dessa época é um país com ideias mais liberais e republicanas, por outro lado, ainda é agrário, latifundiário e coronelista.',
     // imagem 2
     'img/home-materias/realismo-principais-obras.jpg',
     // titulo 2
     'Realismo no Brasil',
     // texto 2
-    'Texto a definir',
+    'A adesão do movimento no Brasil juntamente com suas obras mais relevantes.',
     // imagem 3
     'img/home-materias/realismo-dicas-vestibular.jpg',
     // titulo 3
