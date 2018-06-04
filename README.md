@@ -6,16 +6,16 @@ GRUPO [ Bruna – Cleisson – Filipe - Luiza - Priscila – Roberto ]
 ## Páginas
 
 * [Site Hospedado (WebHost)](https://brasil-literario.000webhostapp.com/)
-* [Diretório do Site](https://github.com/projectzr/projectzr.github.io/tree/master/site)
+* [Diretório do Site](site)
 
 #### Produção
-* [AGENDA!](https://github.com/projectzr/projectzr.github.io/tree/master/documentation/AGENDA.md)
-* [Wireframes](https://github.com/projectzr/projectzr.github.io/tree/master/producao/wireframe)
-* [Mockups](https://github.com/projectzr/projectzr.github.io/tree/master/producao/mockup)
+* [AGENDA!](documentation/AGENDA.md)
+* [Wireframes](producao/wireframe)
+* [Mockups](producao/mockup)
 
 #### Extras
-* [Como editar arquivos ".md"](https://github.com/projectzr/projectzr.github.io/tree/master/documentation/DICAS.md)
-* [Informações de cada "Escola"](https://github.com/projectzr/projectzr.github.io/tree/master/documentation/INFOS.md)
+* [Como editar arquivos ".md"](documentation/DICAS.md)
+* [Informações de cada "Escola"](documentation/INFOS.md)
 * [Links de Validação](documentation/VALIDACAO.md)
 
 ## Informações para a Equipe
@@ -75,6 +75,6 @@ Pós-Modernismo (1950 - até hoje)                 | (Filipe)
 > OBS: A visualização das imagens só é possível diretamente pelo diretório do github.
 > Você pode acessá-lo [clicando aqui](https://github.com/projectzr/projectzr.github.io) 
 
-![projeto01](https://github.com/projectzr/projectzr.github.io/blob/master/documentation/imagens/foto-projeto-01.jpg)
+![projeto01](documentation/imagens/foto-projeto-01.jpg)
 
-![projeto01](https://github.com/projectzr/projectzr.github.io/blob/master/documentation/imagens/foto-projeto-02.jpg)
+![projeto01](documentation/imagens/foto-projeto-02.jpg)
