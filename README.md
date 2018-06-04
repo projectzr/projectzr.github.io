@@ -7,6 +7,7 @@ GRUPO [ Bruna – Cleisson – Filipe - Luiza - Priscila – Roberto ]
 
 * [Site Hospedado (WebHost)](https://brasil-literario.000webhostapp.com/)
 * [Diretório do Site](site)
+* [Links de Validação](documentation/VALIDACAO.md)
 
 #### Produção
 * [AGENDA!](documentation/AGENDA.md)
@@ -17,7 +18,6 @@ GRUPO [ Bruna – Cleisson – Filipe - Luiza - Priscila – Roberto ]
 #### Extras
 * [Como editar arquivos ".md"](documentation/DICAS.md)
 * [Informações de cada "Escola"](documentation/INFOS.md)
-* [Links de Validação](documentation/VALIDACAO.md)
 
 ## Informações para a Equipe
 
@@ -64,17 +64,17 @@ Pós-Modernismo (1950 - até hoje)                 | (Filipe)
     - [x] Academia Brasileira de Letras
     - [x] Agenda
 - [x] A página "quem somos" é obrigatória e deve conter:
-  1. Foto do aluno;
-  2. Mini-biografia (144 caracteres);
-  3. Nome;
-  4. R.A.;
-  5. Função no grupo (coder, gerente, designer, etc);
-  6. Área pela qual é responsável, com link para a mesma.
+  [x] Foto do aluno;
+  [ ] *Mini-biografia (144 caracteres);*
+  [x] Nome;
+  [ ] *R.A.;*
+  [x] Função no grupo (coder, gerente, designer, etc);
+  [x] Área pela qual é responsável, com link para a mesma.
   
 --------
 ## Fotos Adicionais:
-> OBS: A visualização das imagens só é possível diretamente pelo diretório do github.
-> Você pode acessá-lo [clicando aqui](https://github.com/projectzr/projectzr.github.io) 
+> Essa página pode ser visualizada através do endereço <projectzr.github.io>.
+> Caso esteja acessando por ela, você pode acessar o repositório [clicando aqui](https://github.com/projectzr/projectzr.github.io) 
 
 ![projeto01](documentation/imagens/foto-projeto-01.jpg)
 
