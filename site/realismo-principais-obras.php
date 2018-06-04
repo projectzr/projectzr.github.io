@@ -1,7 +1,7 @@
 <?php include 'includes/estrutura/assinatura.php'; ?>
 
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="ca">
 
 <head>
 
