@@ -1,7 +1,7 @@
 <?php include 'includes/estrutura/assinatura.php'; ?>
 
 <!DOCTYPE html>
-<html lang="zxx">
+<html lang="pt-br">
 
 <head>
 
@@ -46,17 +46,37 @@
                 
                 <div class="col-xs-12 col-md-6 ">
                     <h3 class="titulo text-center mid-space">Alguma Poesia</h3>
-                    <div class=" col-xs-12 col-md-12 paddingimg"> <img class="center-img" src="img/modernismo/AlgumaPoesia.jpg" alt="Descrição">
-
-                    </div>
-                    <p class="mid-space first-letter text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est sunt eligendi molestiae nemo blanditiis, quisquam maiores aut quam ducimus nulla ullam magnam corporis sapiente in reiciendis. Officia, non, voluptate.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est sunt eligendi molestiae nemo blanditiis, quisquam maiores aut quam ducimus nullaullam magnam corporis sapiente in reiciendis. Officia, non, voluptate.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est sunt eligendi molestiae nemo blanditiis, quisquam maiores aut quam ducimus nulla ullam magnam corporis sapiente in reiciendis. Officia, non, voluptate.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est sunt eligendi molestiae nemo blanditiis, quisquam maiores.
+                    <div class=" col-xs-12 col-md-12 paddingimg"> <img class="center-img" src="img/modernismo/AlgumaPoesia.jpg" alt="Descrição"></div>
+                    
+                    <p class="first-letter text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est sunt eligendi 
+                        molestiae nemo blanditiis, quisquam maiores aut quam ducimus nulla ullam magnam corporis sapiente in reiciendis. Officia,
+                        non, voluptate.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est sunt eligendi molestiae nemo 
+                        blanditiis, quisquam maiores aut quam ducimus nullaullam magnam corporis sapiente in reiciendis. Officia, non, voluptate.
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est sunt eligendi molestiae nemo blanditiis, 
+                        quisquam maiores aut quam ducimus nulla ullam magnam corporis sapiente in reiciendis. Officia, non, voluptate.
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est sunt eligendi molestiae nemo blanditiis, 
+                        quisquam maiores.</p>
                 </div>
                 <div class="col-xs-12 col-md-6">
 
-                    <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est sunt eligendi molestiae nemo blanditiis, quisquam maiores aut quam ducimus nulla ullam magnam corporis sapiente in reiciendis. Officia, non, voluptate.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est sunt eligendi molestiae nemo blanditiis, quisquam maiores aut quam ducimus nulla ullam magnam corporis sapiente in reiciendis. Officia, non, voluptate.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est sunt eligendi molestiae nemo blanditiis, quisquam maiores aut quam ducimus nulla ullam magnam corporis sapiente in reiciendis. Officia, non, voluptate.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est sunt eligendi molestiae nemo blanditiis, quisquam maiores aut quam ducimus nulla ullam magnam corporis sapiente in reiciendis. Officia, non, voluptate.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est sunt eligendi molestiae nemo blanditiis, quisquam maiores aut quam ducimus nulla ullam magnam corporis sapiente in reiciendis. Officia, non, voluptate.Lorem ipsum dolor sit amet, consectetur
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est sunt eligendi molestiae nemo blanditiis, quisquam maiores aut quam ducimus nulla ullam magnam corporis sapiente in reiciendis. Officia, non, voluptate.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est sunt eligendi molestiae nemo blanditiis, quisquam maiores aut quam ducimus nulla ullam magnam corporis sapiente in reiciendis. Officia, non, voluptate.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est sunt eligendi molestiae nemo blanditiis, quisquam maiores aut quam ducimus nulla ullam magnam corporis sapiente in reiciendis. Officia, non, voluptate.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est sunt eligendi molestiae nemo blanditiis, quisquam maiores.
-
-                        </p>
+                    <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est sunt eligendi molestiae nemo 
+                        blanditiis, quisquam maiores aut quam ducimus nulla ullam magnam corporis sapiente in reiciendis. Officia, non, 
+                        voluptate.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est sunt eligendi molestiae nemo blanditiis, 
+                        quisquam maiores aut quam ducimus nulla ullam magnam corporis sapiente in reiciendis. Officia, non, voluptate.Lorem 
+                        ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est sunt eligendi molestiae nemo blanditiis, quisquam maiores 
+                        aut quam ducimus nulla ullam magnam corporis sapiente in reiciendis. Officia, non, voluptate.Lorem ipsum dolor sit amet, 
+                        consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est sunt eligendi molestiae 
+                        nemo blanditiis, quisquam maiores aut quam ducimus nulla ullam magnam corporis sapiente in reiciendis. Officia, non, 
+                        voluptate.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est sunt eligendi molestiae nemo blanditiis,
+                        quisquam maiores aut quam ducimus nulla ullam magnam corporis sapiente in reiciendis. Officia, non, voluptate.Lorem 
+                        ipsum dolor sit amet, consectetur
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est sunt eligendi molestiae nemo blanditiis, quisquam maiores
+                        aut quam ducimus nulla ullam magnam corporis sapiente in reiciendis. Officia, non, voluptate.Lorem ipsum dolor sit amet, c
+                        onsectetur adipisicing elit. Dolorum est sunt eligendi molestiae nemo blanditiis, quisquam maiores aut quam ducimus nulla 
+                        ullam magnam corporis sapiente in reiciendis. Officia, non, voluptate.Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                        Dolorum est sunt eligendi molestiae nemo blanditiis, quisquam maiores aut quam ducimus nulla ullam magnam corporis sapiente 
+                       in reiciendis. Officia, non, voluptate.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est sunt eligendi 
+                       molestiae nemo blanditiis, quisquam maiores.</p>
                 </div>
             </div>
             <div class="row">
