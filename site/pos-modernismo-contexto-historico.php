@@ -24,9 +24,22 @@
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <?php 
     $titulo="Pós-Modernismo";
-    $subtitulo="Autor de Destaque"; 
+    $subtitulo="Contexto Histórico"; 
     include 'includes/section-header.php'; 
     ?>    
+    
+    <!-- $nome-extra-a: nome do primeiro link extra -->
+    <!-- $link-extra-a: link do primeiro link extra -->
+    <!-- $nome-extra-b: nome do primeiro link extra -->
+    <!-- $link-extra-b: link do primeiro link extra -->
+    
+    <?php 
+    $nomea="Obras que Marcaram";
+    $linka="pos-modernismo-principais-obras.php";
+    $nomeb="Autor de destaque";
+    $linkb="pos-modernismo-autor-destaque.php";
+    include 'includes/breadcrumb.php'; 
+    ?>  
 
     <!-- Conteúdo
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
