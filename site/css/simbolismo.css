@@ -1,3 +1,8 @@
+.breadcrumb li a {
+    color: #7b36d9;
+    /* color:#207e36; */
+}
+
 .titulo {
     margin-bottom: 3rem;
 }
