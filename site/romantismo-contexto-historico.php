@@ -31,9 +31,9 @@
     <!-- Conteúdo
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
 	<article class="section container"> 
-	   <h1 style="display: none">Romantismo e a Independência</h1>
+	   <h2 style="display: none">Romantismo e a Independência</h2>
 	   <div class="col-md-12">
-			<p class="sub-titulo titulo-ch">Precedentes: Período de Transição (1808-1836)</p>
+			<p class="sub-titulo titulo-ch line">Precedentes: Período de Transição (1808-1836)</p>
 		 <p class="text-left">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, iste molestias? Fugit quisquam corporis repellendus eligendi inventore tempora vero sapiente minus quaerat magni magnam suscipit quia quod, assumenda saepe voluptatibus totam nulla ducimus labore. Magni! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat cum minima provident impedit mollitia nobis soluta debitis illo, ex iure ducimus, deserunt dolorum esse sedLorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, iste molestias? Fugit quisquam corporis repellendus eligendi inventore tempora vero sapiente minus quaerat magni magnam suscipit quia quod, assumenda saepe voluptatibus totam nulla ducimus labore. Magni! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat cum minima provident impedit mollitia nobis soluta debitis illo, ex iure ducimus, deserunt dolorum esse setotam nulla ducimus labore. Magni!
 			</p>
 			
@@ -68,7 +68,7 @@
 	   
 	   <div class="col-md-12 r-no-brasil">
 
-				<p class="sub-titulo titulo-c-europa">Contexto Histórico na Europa</p>
+				<p class="sub-titulo titulo-c-europa line-center">Contexto Histórico na Europa</p>
 			   <p class="text-left">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, iste molestias? Fugit quisquam corporis repellendus eligendi inventore tempora vero sapiente minus quaerat magni magnam suscipit quia quod, assumenda saepe voluptatibus totam nulla ducimus labore. Magni! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat cum minima provident impedit mollitia nobis soluta debitis illo, ex iure ducimus, deserunt dolorum esse sedLorem ipsum dolor sit amet consectetur.
 			</p>
 			

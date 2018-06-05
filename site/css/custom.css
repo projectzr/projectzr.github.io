@@ -54,11 +54,13 @@ p {
 
 a {
     color: #00b1ff;
+    /* color: #e5ff00; */
     text-decoration: none;
 }
 
 a:hover {
     color: #52caff;
+    /* color: #fcff52; */
     text-decoration: underline;
 }
 
@@ -258,6 +260,7 @@ a:hover {
 }
 .breadcrumb li a {
     color: #36a7d9;
+    /* color:#207e36; */
 }
 .breadcrumb .dropdown-toggle {
     color: #777;
@@ -290,9 +293,9 @@ a:hover {
 /* Escolas - PADRÕES
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
-.escolas {
-    /*background-color: #ebebeb;*/
-}
+/* .escolas {
+    background-color: #ebebeb;
+} */
 
 .autor-destaque {
     margin: .5rem 0;
@@ -779,6 +782,10 @@ footer .footer-mapa:first-child::after {
 
 .classecontato {
     margin-top: 34px;
+}
+
+.font p {
+    font-family: 'Zilla Slab', serif;
 }
 
 /* Dicas de Vestibular 

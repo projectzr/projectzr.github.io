@@ -1,4 +1,9 @@
 
+article p {
+    font-family: 'Zilla Slab', serif;
+}
+
+
 .imgcenter {
     max-width: 100%;
 }
@@ -22,7 +27,7 @@ hr{
 
 .capitular::first-letter {
     float: left;
-    color: #5b4961;
+    color: #56473e;
     font-weight: 600;
     font-size: 8em;
     line-height: 6rem;

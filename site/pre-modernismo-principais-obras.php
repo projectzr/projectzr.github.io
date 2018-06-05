@@ -41,7 +41,7 @@
             <div class="row extra-space">
                 <div class="col-md-6 col-lg-6 text-justify">
 
-                    <h1 class="titulo cor-obras1 line">Os Sertões</h1>
+                    <h2 class="titulo cor-obras1 line">Os Sertões</h2>
                     <h3 class="sub-titulo cor-sub-principais-obras1">Euclides da Cunha</h3>
                     <div class="cor-contexto">
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium incidunt ducimus natus culpa
@@ -67,7 +67,7 @@
                     <img src="img/pre-mord/2eu.jpg" alt="Capa de Livro">
                 </div>
                 <div class="col-md-6 col-lg-6 text-justify">
-                    <h1 class="titulo cor-obras1 line">Eu e Outras Poesias</h1>
+                    <h2 class="titulo cor-obras1 line">Eu e Outras Poesias</h2>
                     <h3 class="sub-titulo cor-sub-principais-obras1">Augusto dos Anjos</h3>
                     <div class="cor-contexto">
 
@@ -90,7 +90,7 @@
             <div class="row extra-space">
                 <div class="col-md-6 col-lg-6  text-justify">
 
-                    <h1 class="titulo cor-obras1 line lima">Triste Fim de Policarpo Quaresma</h1>
+                    <h2 class="titulo cor-obras1 line lima">Triste Fim de Policarpo Quaresma</h2>
                     <h3 class="sub-titulo cor-sub-principais-obras1">Lima Barreto</h3>
                     <div class="cor-contexto">
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium incidunt ducimus natus culpa
@@ -114,7 +114,7 @@
                     <img src="img/pre-mord/4urupes.jpg" alt="Capa de Livro">
                 </div>
                 <div class="col-md-6 col-lg-6 text-justify">
-                    <h1 class="titulo cor-obras1 line">Urupês</h1>
+                    <h2 class="titulo cor-obras1 line">Urupês</h2>
                     <h3 class="sub-titulo cor-sub-principais-obras1">Monteiro Lobato</h3>
                     <div class="cor-contexto">
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium incidunt ducimus natus culpa

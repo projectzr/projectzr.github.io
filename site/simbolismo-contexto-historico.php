@@ -26,6 +26,14 @@
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <?php $titulo='Simbolismo'; $subtitulo='Contexto Histórico'; include 'includes/section-header.php'; ?>
 
+    <?php 
+    $nomea="Principais Obras";
+    $linka="simbolismo-principais-obras.php";
+    $nomeb="Autor de destaque";
+    $linkb="simbolismo-autor-destaque.php";
+    include 'includes/breadcrumb.php'; 
+    ?>  
+
     <!-- Conteúdo
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <main>
