@@ -7,18 +7,18 @@
 
 .mp-escolasgeral {
 
-    padding: 50px 0px 50px 0px;
+    padding: 50px 0px 0px 0px;
     border-bottom-style: solid;
     border-bottom-color: #a9a9a9;
 }
 
 .mp-escola {
-    padding: 40px 0px 0px 30px;
+    padding: 0px 0px 0px 30px;
     height: 150px;
 }
 
 .mp-escola li {
-    padding: 20px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
     height: 30px;
     /*font-size: 0.6em;*/
 
@@ -28,27 +28,29 @@
     text-decoration: none;
     color: #3c3c3c;
 }
-.mplink:hover {
-     text-decoration: underline;
-    
+.mp-link:hover {
+    text-decoration: underline;    
     font-size: 1.2em;
 }
-
+.mp-linkac {
+    text-decoration: none;
+    color: #3c3c3c;
+}
 .mp-separador {
     border-bottom-style: solid;
     border-bottom-color: blue;
 }
 
 .mp-agendaecontato {
-    padding: 40px 0px 10px 35px;
-    height: 30px;
+    padding: 40px 0px 0px 35px;
+   
     font-size: 1.2em;
 
 }
 
 
 .mp-institucional {
-    padding: 40px 0px 0px 30px;
+    padding: 0px 0px 0px 30px;
     height: 150px;
 }
 

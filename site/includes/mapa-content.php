@@ -79,12 +79,12 @@
 
                 <div class="col-xs-4 mp-agendaecontato">
                     <ul>
-                        <li><a class="mp-link" href="agenda.php">Agenda</a></li>
+                        <li><a class="mp-linkac" href="agenda.php">Agenda</a></li>
                     </ul>
                 </div>
                 <div class="col-xs-4 mp-agendaecontato">
                     <ul>
-                        <li><a class="mp-link" href="contato.php">Contato</a></li>
+                        <li><a class="mp-linkac" href="contato.php">Contato</a></li>
                     </ul>
                 </div>
             </div>
