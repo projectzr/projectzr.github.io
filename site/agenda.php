@@ -30,11 +30,7 @@
 
     <!-- Conteúdo
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <main>
-        <h1 style="display: none">Conteúdo</h1>
-        
-        <?php include 'includes/agenda-content.php'; ?>
-    </main>
+    <?php include 'includes/agenda-content.php'; ?>
 
     <!-- Rodapé
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->

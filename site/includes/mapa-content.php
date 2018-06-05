@@ -6,7 +6,7 @@
                 <div class="QM divisor"></div>
             </div>
             <div class="col-xs-12 mp-escolasgeral">
-                <h3 class="mp-molduraescola">Escolas <span class="caret"></span>
+                <h3 class="mp-molduraescola">Escolas <span class="caret"></span></h3>
 
                     <div class="row">
                         <div class="col-xs-12 col-md-6 col-lg-4 mp-escola ">
@@ -36,8 +36,8 @@
                         <div class="col-xs-12 col-md-6 col-lg-4 mp-escola">
                             <h4> Simbolismo(1893 - 1910) <span class="caret"></span></h4>
                             <ul>
-                                <li><a class="mp-link" href="realismo-contexto-historico.php">O Início da Belle Époque</a></li>
-                                <li><a class="mp-link" href="realismo-principais-obras.php">Obras da Época</a></li>
+                                <li><a class="mp-link" href="simbolismo-contexto-historico.php">O Início da Belle Époque</a></li>
+                                <li><a class="mp-link" href="simbolismo-principais-obras.php">Obras da Época</a></li>
                                 <li><a class="mp-link" href="simbolismo-autor-destaque.php">Autor de destaque: Cruz e Sousa</a></li>
                             </ul>
 
@@ -47,7 +47,7 @@
                             <h4> Pré-Modernismo(1910 - 1922) <span class="caret"></span></h4>
                             <ul>
                                 <li><a class="mp-link" href="pre-modernismo-contexto-historico.php">Consolidação da República</a></li>
-                                <li><a class="mp-link" href="pre-modernismo-principais-obras.php">Manifestação dos Autores</li>
+                                <li><a class="mp-link" href="pre-modernismo-principais-obras.php">Manifestação dos Autores</a></li>
                                 <li><a class="mp-link" href="pre-modernismo-autor-destaque.php">Autor de destaque: Euclides da Cunha</a></li>
                             </ul>
 
@@ -72,7 +72,6 @@
                         </div>
                     </div>
 
-                    </li>
             </div>
 
 
@@ -98,7 +97,7 @@
                 </ul>
             </div>
             <div class="col-xs-12 col-md-6 col-lg-4 mp-institucional">
-                <h4> <span class="caret"></span></h4>
+                <p> <span class="caret"></span></p>
 
                 <ul>
 
@@ -108,7 +107,5 @@
                 </ul>
             </div>
         </div>
-        </h3>
-    </div>
     </div>
 </article>

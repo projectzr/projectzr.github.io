@@ -1,16 +1,17 @@
-<article class="container section">
+<main class="container section">
+    <h1 style="display: none;">Agenda</h1>
     <div class="row ">
         <!-- Divisao
 		–––––––––––––––––––––––––––––––––––––––––––––––––– -->
 
-        <div class="col-xs-12 col-md-6 col-lg-4">
+        <article class="col-xs-12 col-md-6 col-lg-4">
             <div class="ag-evento">
                 <div class="row ag-teventoa">
                     <div class="col-xs-4 ag-icone ">
                         <img class="" src="img/agenda/2018bienal.png" alt="">
                     </div>
                     <div class="col-xs-8 ">
-                        <h1 class="ag-titulo"> 25° Bienal do Livro SP</h1>
+                        <h2 class="ag-titulo"> 25° Bienal do Livro SP</h2>
                     </div>
                 </div>
                 <div class="row ag-eventoa">
@@ -21,9 +22,9 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </article>
 
-        <div class="col-xs-12 col-md-6 col-lg-4">
+        <article class="col-xs-12 col-md-6 col-lg-4">
             <div class="ag-evento">
                 <div class="row ag-teventob">
                     <div class="col-xs-4 ag-icone">
@@ -31,7 +32,7 @@
 
                     </div>
                     <div class="col-xs-8 ">
-                        <h1 class="ag-titulo">Semana de História da UEG</h1>
+                        <h2 class="ag-titulo">Semana de História da UEG</h2>
                     </div>
                 </div>
                 <div class="row ag-eventob">
@@ -42,16 +43,16 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </article>
 
-        <div class="col-xs-12 col-md-6 col-lg-4">
+        <article class="col-xs-12 col-md-6 col-lg-4">
             <div class="ag-evento">
                 <div class="row ag-teventoa">
                     <div class="col-xs-4 ag-icone">
                         <img src="img/agenda/codex.png" alt="">
                     </div>
                     <div class="col-xs-8 ">
-                        <h1 class="ag-titulo">I WITLI- Dourados MS</h1>
+                        <h2 class="ag-titulo">I WITLI- Dourados MS</h2>
                     </div>
                 </div>
                 <div class="row ag-eventoa">
@@ -63,19 +64,19 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </article>
 
         <!-- Divisao
 		–––––––––––––––––––––––––––––––––––––––––––––––––– -->
 
-        <div class="col-xs-12 col-md-6 col-lg-4">
+        <article class="col-xs-12 col-md-6 col-lg-4">
             <div class="ag-evento">
                 <div class="row ag-teventob">
                     <div class="col-xs-4 ag-icone">
                         <img src="img/agenda/eneged.png" alt="">
                     </div>
                     <div class="col-xs-8 ">
-                        <h1 class="ag-titulo">Eneged – Brasília DF</h1>
+                        <h2 class="ag-titulo">Eneged – Brasília DF</h2>
                     </div>
                 </div>
                 <div class="row ag-eventob">
@@ -86,16 +87,16 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </article>
 
-        <div class="col-xs-12 col-md-6 col-lg-4">
+        <article class="col-xs-12 col-md-6 col-lg-4">
             <div class="ag-evento">
                 <div class="row ag-teventoa">
                     <div class="col-xs-4 ag-icone">
                         <img src="img/agenda/simposio.png" alt="">
                     </div>
                     <div class="col-xs-8 ">
-                        <h1 class="ag-titulo">Simpósio regional IFCE</h1>
+                        <h2 class="ag-titulo">Simpósio regional IFCE</h2>
                     </div>
                 </div>
                 <div class="row ag-eventoa">
@@ -106,16 +107,16 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </article>
 
-        <div class="col-xs-12 col-md-6 col-lg-4">
+        <article class="col-xs-12 col-md-6 col-lg-4">
             <div class="ag-evento">
                 <div class="row ag-teventob">
                    <div class="col-xs-4 ag-icone">
                         <img src="img/agenda/jornadasdeartesdauems.png" alt="">
                     </div>
                     <div class="col-xs-8 ">
-                        <h1 class="ag-titulo">Jornada de Artes da UEMS</h1>
+                        <h2 class="ag-titulo">Jornada de Artes da UEMS</h2>
                     </div>
                 </div>
                 <div class="row ag-eventob">
@@ -126,19 +127,19 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </article>
 
         <!-- Divisao
 		–––––––––––––––––––––––––––––––––––––––––––––––––– -->
 
-        <div class="col-xs-12 col-md-6 col-lg-4">
+        <article class="col-xs-12 col-md-6 col-lg-4">
             <div class="ag-evento">
                 <div class="row ag-teventoa">
                     <div class="col-xs-4 ag-icone">
                         <img src="img/agenda/prazerdaleitura.png" alt="">
                     </div>
                     <div class="col-xs-8 ">
-                        <h1 class="ag-titulo">Exposição O prazer da leitura</h1>
+                        <h2 class="ag-titulo">Exposição O prazer da leitura</h2>
                     </div>
                 </div>
                 <div class="row ag-eventoa">
@@ -149,16 +150,16 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </article>
 
-        <div class="col-xs-12 col-md-6 col-lg-4">
+        <article class="col-xs-12 col-md-6 col-lg-4">
             <div class="ag-evento">
                 <div class="row ag-teventob">
                     <div class="col-xs-4 ag-icone">
                         <img src="img/agenda/ritmoesom.png" alt="">
                     </div>
                     <div class="col-xs-8 ">
-                        <h1 class="ag-titulo">1ª Semana de Ritmo e Som</h1>
+                        <h2 class="ag-titulo">1ª Semana de Ritmo e Som</h2>
                     </div>
                 </div>
                 <div class="row ag-eventob">
@@ -169,16 +170,16 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </article>
 
-        <div class="col-xs-12 col-md-6 col-lg-4">
+        <article class="col-xs-12 col-md-6 col-lg-4">
             <div class="ag-evento">
                 <div class="row ag-teventoa">
                     <div class="col-xs-4 ag-icone">
                         <img src="img/agenda/seminarioluso.png" alt="">
                     </div>
                     <div class="col-xs-8 ">
-                        <h1 class="ag-titulo">Seminário Luso-Brasileiro</h1>
+                        <h2 class="ag-titulo">Seminário Luso-Brasileiro</h2>
                     </div>
                 </div>
                 <div class="row ag-eventoa">
@@ -190,9 +191,9 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </article>
 
         <!-- Divisao
 		–––––––––––––––––––––––––––––––––––––––––––––––––– -->
     </div>
-</article>
+</main>

@@ -8,7 +8,7 @@
     <!-- Informações básicas
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <meta charset="utf-8">
-    <title>Brasil Literário - Contato</title>
+    <title>Brasil Literário - Mapa do Site</title>
     <?php include 'includes/estrutura/head.php'; ?>
     <link rel="stylesheet" href="css/mapa.css">
 </head>
