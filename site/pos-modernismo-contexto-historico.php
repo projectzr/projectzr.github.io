@@ -49,7 +49,7 @@
         <div class="section container"> 
             
             <article class="col-xs-12">
-                <img src="img/pos-modernismo/contexto-banner-2.jpg" class="contexto-img" alt="zona de guerra decada de 40">
+                <img src="img/pos-modernismo/contexto-banner-2.jpg" class="contexto-img" alt="Destruição nas ruas de Berlim, em 1945, logo após o fim do conflito.">
                 
                 <h2 class="titulo no-space text-center">A Guerra, A História</h2>
                 <div class="divisor"></div>

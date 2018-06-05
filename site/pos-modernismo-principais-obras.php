@@ -68,15 +68,15 @@
 
         <aside class="col-sm-5 text-left aside-obras">
             <h2 class="titulo title-left text-left mid-space">Obras de Destaque</h2>
-            <img src="img/pos-modernismo/contexto-banner.jpg" alt="contexto histórico" class="foto-obras mid-space">
+            <img src="img/pos-modernismo/contexto-banner.jpg" alt="Posse de Guimarães Rosa na ABL, 1967" class="foto-obras mid-space">
             <div>
-            <img src="img/pos-modernismo/principais-obras-primeira.jpg" class="foto-livro" alt="primeira obra de destaque" style="float: left;">
+            <img src="img/pos-modernismo/principais-obras-primeira.jpg" class="foto-livro" alt="Capa do livro Grande Sertão: Veredas" style="float: left;">
             <p class="sub-titulo no-space">Grande Sertão: Veredas</p>
             <p><strong>Guimarães Rosa</strong></p>
             <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, iste molestias? Fugit quisquam corporis repellendus eligendi inventore tempora vero sapiente minus quaerat magni magnam suscipit quia quod, assumenda saepe voluptatibus totam nulla ducimus labore. Magni! Lorem ipsum dolor sit amet.</p>
             </div>
             <div>
-            <img src="img/pos-modernismo/principais-obras-segunda.jpg" class="foto-livro" alt="segunda obra de destaque" style="float: left;">
+            <img src="img/pos-modernismo/principais-obras-segunda.jpg" class="foto-livro" alt="Capa do livro Abismo de rosas" style="float: left;">
             <p class="sub-titulo no-space">Abismo de rosas</p>
             <p><strong>Dalton Trevisan</strong></p>
             <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, iste molestias? Fugit quisquam corporis repellendus eligendi inventore tempora vero sapiente minus quaerat magni magnam suscipit quia quod, assumenda saepe voluptatibus totam nulla ducimus labore. Magni! Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
