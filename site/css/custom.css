@@ -243,6 +243,29 @@ a:hover {
     display: flex;
 }
 
+/* Breadcrumb
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+.breadcrumb>li+li:before {
+    padding: 0 5px;
+    color: #ccc;
+    content: "/\00a0";
+}
+
+.breadcrumb {
+    background-color: transparent;
+    border-bottom: 1px solid #ccc;
+}
+.breadcrumb li a {
+    color: #36a7d9;
+}
+.breadcrumb .dropdown-toggle {
+    color: #777;
+}
+.breadcrumb .dropdown-menu>li>a {
+    padding: 10px 20px;
+}
+
 /* Divisores
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
