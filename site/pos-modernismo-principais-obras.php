@@ -44,7 +44,7 @@
     <!-- Conteúdo
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <main class="section container"> 
-        <h1 class="titulo no-space text-center">Em Produção</h1>
+        <h1 class="titulo no-space text-center">Obras e Autores que marcaram</h1>
         <div class="divisor"></div>
 
         <article class="col-sm-7 text-justify article-obras">
