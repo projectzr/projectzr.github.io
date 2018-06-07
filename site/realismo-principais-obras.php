@@ -22,7 +22,13 @@
     <!-- Header
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <?php $titulo='Realismo'; $subtitulo='Principais Obras'; include 'includes/section-header.php'; ?>
-
+ <?php
+    $nomea="Contexto Histórico";
+    $linka="realismo-contexto-historico.php";
+    $nomeb="Autor de destaque";
+    $linkb="realismo-autor-destaque.php";
+    include 'includes/breadcrumb.php'; 
+    ?>
     <!-- Conteúdo
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <main>

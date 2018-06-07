@@ -221,4 +221,8 @@ memoriasimg:hover {
 
 @media (min-width: 768px) {}
 
-
+/* Menu indidividual*/
+.breadcrumb li a {
+    color: #ffd5a6;
+    /* color:#207e36; */
+}
