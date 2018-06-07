@@ -139,7 +139,17 @@ body {
     color: #2f0f01;
 }
 
-/*Linha de H*/
+.line:after {
+    content: "";
+    display: block;
+    margin-top: 0.2em;
+    height: 3px;
+    background-color: #ffd5a6;
+    width: 6em;
+}
+
+/*
+Linha de H
 .divisorrealismo {
     height: 1px;
     background-color: rgba(48, 48, 48, 0.14);
@@ -147,6 +157,7 @@ body {
     bottom: 15px;
     width: 50%;
 }
+*/
 
 /*Descktop*/
 
