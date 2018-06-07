@@ -35,8 +35,9 @@
         <h1 style="display: none">Conteúdo</h1>
         
         <!-- Escolas Literárias
-        –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-
+        ––––––––––––––––––––––––––––––
+       –––––––––––––––––––– -->
+       
  <div class="container section">
     <div class="row text-left">
         <h1 class="paddingh1 titulo">Machado de Assis <br><small>o maior autor brasileiro</small></h1>
@@ -57,9 +58,6 @@ Vestibulum vulputate turpis nec suscipit interdum. Donec a nunc sodales, gravida
          <p class="pararealismo"> Interdum et malesuada fames ac ante ipsum primis in faucibus. Proin justo mi, laoreet eget efficitur vel, aliquet ut metus. Sed erat tortor, lobortis a viverra a, iaculis ac lorem. Morbi condimentum, nulla nec fringilla ornare, erat massa interdum quam, at lobortis neque velit vel nibh. Vivamus mattis pharetra erat, id malesuada lacus sodales quis. Proin id elit et leo fringilla dictum sit amet non quam. </p>
              <p class="pararealismo">Cras fringilla in justo sed placerat.Fusce purus tortor, porta vel ornare ac, rutrum et sem. Cras fermentum urna sed euismod ultrices. Vivamus eleifend nisl eget nulla tempor tristique id id urna. Praesent dapibus orci velit, sit amet feugiat tellus pulvinar sed. Etiam viverra leo malesuada, porta neque eu, consequat nunc. </p>
             <p class="pararealismo">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum.Ut fermentum urna at elit sagittis viverra. Duis quis felis euismod elit aliquet semper nec a elit. Suspendisse convallis blandit aliquam.Vivamus mattis pharetra erat, id malesuada lacus sodales quis.  </p>
-                        
-                    
-    
                             </aside>
     </div>
 </div>
