@@ -24,7 +24,7 @@
 
 
                             <ul>
-                                <li><a class="mp-link" href="realismo-contexto-historico.php">O fim da Monarquia</a></li>
+                                <li><a class="mp-link" href="realismo-contexto-historico.php">O Brasil das ideias liberais</a></li>
                                 <li><a class="mp-link" href="realismo-principais-obras.php">O Realismo no Brasil</a></li>
                                 <li><a class="mp-link" href="realismo-autor-destaque.php">Autor de destaque: Machado de Assis</a></li>
                             </ul>
