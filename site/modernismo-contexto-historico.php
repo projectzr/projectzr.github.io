@@ -9,8 +9,9 @@
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <meta charset="utf-8">
     <title>Brasil Literário - Modernismo: Contexto Histórico</title>
-    <link rel="stylesheet" href="css/modernismo.css">
+   
     <?php include 'includes/estrutura/head.php'; ?>
+     <link rel="stylesheet" href="css/modernismo.css">
 
 </head>
 
@@ -24,9 +25,22 @@
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <?php 
     $titulo="Modernismo";
-    $subtitulo="Contexto Histórico"; 
+    $subtitulo="Semana da Arte Moderna"; 
     include 'includes/section-header.php'; 
-    ?>
+    ?>    
+    
+    <!-- $nome-extra-a: nome do primeiro link extra -->
+    <!-- $link-extra-a: link do primeiro link extra -->
+    <!-- $nome-extra-b: nome do segundo link extra -->
+    <!-- $link-extra-b: link do segundo link extra -->
+    
+    <?php 
+    $nomea="Autor de Destaque";
+    $linka="modernismo-autor-destaque.php";
+    $nomeb="Principais Obras";
+    $linkb="modernismo-principais-obras.php";
+    include 'includes/breadcrumb.php'; 
+    ?> 
 
     <!-- Conteúdo
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
