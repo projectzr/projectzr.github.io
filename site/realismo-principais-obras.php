@@ -69,7 +69,7 @@
                     <section class="col-xs-12 col-md-4 col-lg-4">
                         <h4 class="h4realismobr line">Inocência</h4>
                         <img src="img/realismo/inocencia.jpg" class="col-xs-12 col-lg-6 arrumarpimg" alt="Capa de Inocência de  Visconde de Taunay">
-                        <p class="pararealismo">Praesent feugiat semper sollicitudin. Nunc sodales ornare eros. Morbi egestas lorem leo, vitae feugiat nisl aliquam nec. Morbi dictum nisl neque. Donec pulvinar ullamcorper bibendum. Cras consequat lorem urna, id placerat risus feugiat at. Fusce vel libero non eros iaculis ultrices nec vitae nulla. Aliquam sollicitudin sem ac mi molestie, id pulvinar dui facilisis. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus.</p>
+                        <p class="pararealismo">Vitae feugiat nisl aliquam nec, lorem leo morbi egestas. Morbi dictum nisl neque. Donec pulvinar ullamcorper bibendum. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus.Cras consequat lorem urna, id placerat risus feugiat at. Fusce vel libero non eros iaculis ultrices nec vitae nulla.Id pulvinar dui facilisis.Nunc sodales ornare eros. Praesent feugiat semper sollicitudin. Aliquam sollicitudin sem ac mi molestie.</p>
                     </section>
                 </div>
             </div>
