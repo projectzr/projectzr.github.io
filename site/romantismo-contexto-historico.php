@@ -45,7 +45,7 @@
 	   </div>
 	   <div class="col-md-12 r-no-brasil">
 		   <div class=" img-c-hist">
-			   <img class="img-c-hist" src="img/romantismo/romantismoindependencia.png" alt="">
+			   <img class="img-c-hist" src="img/romantismo/romantismoindependencia.png" alt=" Pintura de François-René Moreaux da Proclamação da Independência.">
 			   
 		   </div>
 

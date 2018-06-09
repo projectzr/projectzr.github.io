@@ -8,7 +8,7 @@
             <div class="ag-evento">
                 <div class="row ag-teventoa">
                     <div class="col-xs-4 ag-icone ">
-                        <img class="" src="img/agenda/2018bienal.png" alt="">
+                        <img class="" src="img/agenda/2018bienal.png" alt="logo da bienal do livro de SP">
                     </div>
                     <div class="col-xs-8 ">
                         <h2 class="ag-titulo"> 25° Bienal do Livro SP</h2>
@@ -28,7 +28,7 @@
             <div class="ag-evento">
                 <div class="row ag-teventob">
                     <div class="col-xs-4 ag-icone">
-                        <img src="img/agenda/ueg.png" alt="">
+                        <img src="img/agenda/ueg.png" alt="Logo da semana de historia da UEG">
 
                     </div>
                     <div class="col-xs-8 ">
@@ -49,7 +49,7 @@
             <div class="ag-evento">
                 <div class="row ag-teventoa">
                     <div class="col-xs-4 ag-icone">
-                        <img src="img/agenda/codex.png" alt="">
+                        <img src="img/agenda/codex.png" alt="Logo do Workshop em Inovações e Tecnologias em Linguagens.">
                     </div>
                     <div class="col-xs-8 ">
                         <h2 class="ag-titulo">I WITLI- Dourados MS</h2>
@@ -73,7 +73,8 @@
             <div class="ag-evento">
                 <div class="row ag-teventob">
                     <div class="col-xs-4 ag-icone">
-                        <img src="img/agenda/eneged.png" alt="">
+                        <img src="img/agenda/eneged.png" alt="logo do 
+Encontro Nacional de Estudos de Gêneros do Discurso.">
                     </div>
                     <div class="col-xs-8 ">
                         <h2 class="ag-titulo">Eneged – Brasília DF</h2>
@@ -93,7 +94,7 @@
             <div class="ag-evento">
                 <div class="row ag-teventoa">
                     <div class="col-xs-4 ag-icone">
-                        <img src="img/agenda/simposio.png" alt="">
+                        <img src="img/agenda/simposio.png" alt="Logo do Simpósio Regional de Literatura Portuguesa.">
                     </div>
                     <div class="col-xs-8 ">
                         <h2 class="ag-titulo">Simpósio regional IFCE</h2>
@@ -136,7 +137,7 @@
             <div class="ag-evento">
                 <div class="row ag-teventoa">
                     <div class="col-xs-4 ag-icone">
-                        <img src="img/agenda/prazerdaleitura.png" alt="">
+                        <img src="img/agenda/prazerdaleitura.png" alt="Logo da Exposição O prazer da leitura.">
                     </div>
                     <div class="col-xs-8 ">
                         <h2 class="ag-titulo">Exposição O prazer da leitura</h2>
@@ -156,7 +157,7 @@
             <div class="ag-evento">
                 <div class="row ag-teventob">
                     <div class="col-xs-4 ag-icone">
-                        <img src="img/agenda/ritmoesom.png" alt="">
+                        <img src="img/agenda/ritmoesom.png" alt="Logo da 1ª Semana de Ritmo e Som">
                     </div>
                     <div class="col-xs-8 ">
                         <h2 class="ag-titulo">1ª Semana de Ritmo e Som</h2>
@@ -176,7 +177,7 @@
             <div class="ag-evento">
                 <div class="row ag-teventoa">
                     <div class="col-xs-4 ag-icone">
-                        <img src="img/agenda/seminarioluso.png" alt="">
+                        <img src="img/agenda/seminarioluso.png" alt="Logo do Seminário Luso-Brasileiro">
                     </div>
                     <div class="col-xs-8 ">
                         <h2 class="ag-titulo">Seminário Luso-Brasileiro</h2>

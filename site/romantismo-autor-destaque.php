@@ -44,7 +44,7 @@
                 <h2 class="titulo">José de Alencar</h2>
              </div>
               <div class=" col-md-6 col-sm-6">
-                <img class="img-autor" src="img/romantismo/Jose_de_Alencar.png" alt="">
+                <img class="img-autor" src="img/romantismo/Jose_de_Alencar.png" alt="Imagem do Busto do Autor José de Alencar.">
              </div>
 
                 <h3 class="sub-titulo line">Biografia</h3>
@@ -64,16 +64,16 @@
                 
                 <h3 class="titulo titulo2">Principais obras</h3>
                 <div class="col-md-12 col-sm-12 tres-obras">
-                    <div class="img-obra"><img src="img/romantismo/oguarani.png" alt="" ></div>
+                    <div class="img-obra"><img src="img/romantismo/oguarani.png" alt="Imagem da capa da obra O Guarani de José de alencar." ></div>
                 <p class="txt-obra">O GUARANI: Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, iste molestias? Fugit quisquam corporis repellendus eligendi inventore tempora Placeat cum minima provident impedit mollitia nobis soluta debitis illo, ex iure ducimus, deserunt dolorum esse sed.d.
                 </p>
                 </div>
                 <div class="col-md-12 col-sm-12 tres-obras">
-                    <div class="img-obra"><img src="img/romantismo/iracema.png" alt="" ></div>
+                    <div class="img-obra"><img src="img/romantismo/iracema.png" alt"Imagem da capa da obra Iracema de José de alencar." ></div>
                 <p class="txt-obra">IRACEMA: Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, iste molestias? Fugit quisquam corporis repellendus eligendi inventore tempora Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, iste molestias? Fugit quisquam corporis repellendus eligendi inventore tempora  </p>
                 </div>
                 <div class="col-md-12 col-sm-12 tres-obras">
-                    <div class="img-obra"><img src="img/romantismo/minasdeprata.png" alt="" ></div>
+                    <div class="img-obra"><img src="img/romantismo/minasdeprata.png" alt="Imagem da capa da obra As minas de prata de José de alencar." ></div>
                 <p class="txt-obra">AS MINAS DE PRATA: Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, iste molestias? Fugit quisquam corporis repellendus eligendi inventore tempora Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, iste molestias? Fugit quisquam corporis repellendus eligendi inventore tempora</p>
                 </div>
                </div>
