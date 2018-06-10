@@ -13,7 +13,6 @@ GRUPO [ Bruna – Cleisson – Filipe - Luiza - Priscila – Roberto ]
 * [AGENDA!](documentation/AGENDA.md)
 * [Wireframes](producao/wireframe)
 * [Mockups](producao/mockup)
-* [Relatorio de Links](links.pdf)
 
 #### Extras
 * [Como editar arquivos ".md"](documentation/DICAS.md)
