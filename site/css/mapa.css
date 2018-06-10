@@ -25,15 +25,15 @@
 }
 
 .mp-link {
-    text-decoration: none;
+    text-decoration: underline;
     color: #3c3c3c;
 }
 .mp-link:hover {
-    text-decoration: underline;    
-    font-size: 1.2em;
+    /*text-decoration: none; */   
+    /*font-size: 1.2em;*/
 }
 .mp-linkac {
-    text-decoration: none;
+    text-decoration: underline;
     color: #3c3c3c;
 }
 .mp-separador {
