@@ -33,7 +33,7 @@
         <div class="container">
             <div class="section">
                 <div class="row text-left">
-                    <article class="col-xs-12 col-md-6 col-lg-6 font ">
+                    <article class="col-xs-12 col-md-6 col-lg-6">
                         <h2 class="titulo text-center no-space" style="padding-bottom: 1rem;">Informações</h2>
                         <div class="QM divisor "></div>
 

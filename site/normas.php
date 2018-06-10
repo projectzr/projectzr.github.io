@@ -37,7 +37,7 @@
         OBS: O Section define o espaçamento padrão de uma SESSÃO, 
         container se refere a classe usada pelo bootstrap
         –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-        <article class="section container">
+        <article class="section container font">
             
             
             <h2 class="titulo">Ultima Atualização - 14/05/2018</h2>

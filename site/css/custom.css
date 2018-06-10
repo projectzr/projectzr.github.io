@@ -658,7 +658,7 @@ footer .footer-mapa:first-child::after {
 
 .QM p {
     text-align: left;
-    font-family: 'Zilla Slab', serif;
+    /* font-family: 'Zilla Slab', serif; */
     line-height: 3rem;
     padding-bottom: 20px;
 }
@@ -776,6 +776,15 @@ footer .footer-mapa:first-child::after {
     border-left: 4px solid #125fdb;
     ;
 }
+
+/*Academia 
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.font p{
+    font-size: 1.7rem;
+    line-height: 2.95rem;
+    font-family: 'Slabo 27px', serif;
+}
+
 
 /*Contato 
 –––––––––––––––––––––––––––––––––––––––––––––––––– */

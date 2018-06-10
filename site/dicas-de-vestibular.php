@@ -9,7 +9,7 @@
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <meta charset="utf-8">
     <title>Brasil Literário - Dicas de Vestibular</title>
-    <link rel="stylesheet" href="css/pos-modernismo.css">
+    <!-- <link rel="stylesheet" href="css/pos-modernismo.css"> -->
     <?php include 'includes/estrutura/head.php'; ?>
     
 </head>
