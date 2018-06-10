@@ -709,7 +709,7 @@ footer .footer-mapa:first-child::after {
 }
 
 .caption p {
-    text-align: justify;
+    text-align: center;
     font-family: 'Zilla Slab', serif;
     /* line-height: 3.75rem; */
 }

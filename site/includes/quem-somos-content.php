@@ -68,7 +68,7 @@ quemSomos(
     // Cargo
     'Full Stack Developer',
     // Descriçao pessoal
-    'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar a manutenção das condições financeiras e administrativas exigidas.',
+    'Apaixonado por programação, analista de infraestrutura, Graduando em Sistemas para Internet (IoT) e responsável pela estruturação do portal.',
     // Responsabilidades
     '<a href="pos-modernismo-contexto-historico.php">Pós-Modernismo</a>, <a href="index.php">Home</a> e <a href="dicas-de-vestibular.php">Dicas de Vestibular</a>'
 );
