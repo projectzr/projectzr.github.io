@@ -5,7 +5,7 @@
 .mid-space {
     margin-bottom: 3rem !important;
 }
-article p, aside p, section p {
+article p, aside p, section p, article small {
     font-family: 'Zilla Slab', serif;
     line-height: 2em;
     font-weight: 500;
