@@ -49,7 +49,7 @@ quemSomos(
     // Cargo
     'Designer Gráfico',
     // Descriçao pessoal
-    'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar a manutenção das condições financeiras e administrativas exigidas.',
+    'Fascinado por D.I.Y (ou também Do-It-Yourself ), Técnico em Eletrônica na horas vagas, Formado Redes de Computadores e responsável pela escolha Tipográfica.',
     // Responsabilidades
     '<a href="simbolismo-contexto-historico.php">Simbolismo</a> e <a href="quem-somos.php">Quem Somos </a>'
 );
