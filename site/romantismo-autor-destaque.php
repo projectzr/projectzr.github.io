@@ -82,7 +82,7 @@
                 </p>
                 </div>
                 <div class="col-md-12 col-sm-12 tres-obras">
-                    <div class="img-obra"><img src="img/romantismo/iracema.png" alt"Imagem da capa da obra Iracema de José de alencar." ></div>
+                    <div class="img-obra"><img src="img/romantismo/iracema.png" alt="Imagem da capa da obra Iracema de José de alencar." ></div>
                 <p class="txt-obra">IRACEMA: Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, iste molestias? Fugit quisquam corporis repellendus eligendi inventore tempora Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, iste molestias? Fugit quisquam corporis repellendus eligendi inventore tempora  </p>
                 </div>
                 <div class="col-md-12 col-sm-12 tres-obras">
