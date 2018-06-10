@@ -25,7 +25,7 @@ quemSomos(
     // Nome
     'Bruna',
     // RA
-    '000.0000.000.000.000',
+    '000.000.000.0000',
     // Cargo
     'Analista de Conteúdo',
     // Descriçao pessoal
@@ -45,7 +45,7 @@ quemSomos(
     // Nome
     'Cleisson',
     // RA
-    '000.0000.000.000.000',
+    '000.000.000.0000',
     // Cargo
     'Designer Gráfico',
     // Descriçao pessoal
@@ -64,7 +64,7 @@ quemSomos(
     // Nome
     'Filipe',
     // RA
-    '000.0000.000.000.000',
+    '265.083.172.3010',
     // Cargo
     'Full Stack Developer',
     // Descriçao pessoal
@@ -83,7 +83,7 @@ quemSomos(
     // Nome
     'Luiza',
     // RA
-    '000.0000.000.000.000',
+    '000.000.000.0000',
     // Cargo
     'Gerencia de conteúdo',
     // Descriçao pessoal
@@ -102,7 +102,7 @@ quemSomos(
     // Nome
     'Priscila',
     // RA
-    '000.0000.000.000.000',
+    '000.000.000.0000',
     // Cargo
     'Designer Gráfico',
     // Descriçao pessoal
@@ -120,7 +120,7 @@ quemSomos(
     // Nome
     'Roberto',
     // RA
-    '000.0000.000.000.000',
+    '000.000.000.0000',
     // Cargo
     'Gerente',
     // Descriçao pessoal
