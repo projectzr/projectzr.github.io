@@ -39,7 +39,7 @@
     $nomeb="Obras que Marcaram";
     $linkb="pos-modernismo-principais-obras.php";
     include 'includes/breadcrumb.php'; 
-    ?>  
+    ?>   
     
     <!-- Conteúdo
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->

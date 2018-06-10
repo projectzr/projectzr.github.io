@@ -39,7 +39,7 @@
     $nomeb="Autor de destaque";
     $linkb="pos-modernismo-autor-destaque.php";
     include 'includes/breadcrumb.php'; 
-    ?>  
+    ?>   
 
     <!-- Conteúdo
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->

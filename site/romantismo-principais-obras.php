@@ -27,6 +27,19 @@
     $subtitulo="Principais Obras"; 
     include 'includes/section-header.php'; 
     ?>
+    
+    <!-- $nome-extra-a: nome do primeiro link extra -->
+    <!-- $link-extra-a: link do primeiro link extra -->
+    <!-- $nome-extra-b: nome do primeiro link extra -->
+    <!-- $link-extra-b: link do primeiro link extra -->
+    
+    <?php 
+    $nomea="Romantismo e a Independência";
+    $linka="romantismo-contexto-historico.php";
+    $nomeb="Autor de destaque";
+    $linkb="romantismo-autor-destaque.php";
+    include 'includes/breadcrumb.php'; 
+    ?>  
 
     <!-- Conteúdo
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
