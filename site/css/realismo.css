@@ -226,3 +226,7 @@ memoriasimg:hover {
     color: #2f0f01;
     /* color:#207e36; */
 }
+
+p {
+    font-family: 'Zilla Slab', serif;
+}
