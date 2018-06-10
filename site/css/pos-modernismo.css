@@ -5,9 +5,10 @@
 .mid-space {
     margin-bottom: 3rem !important;
 }
-article p {
+article p, aside p, section p {
     font-family: 'Zilla Slab', serif;
     line-height: 2em;
+    font-weight: 500;
 }
 .first-letter:first-of-type:first-letter {
     padding: 20px 10px 1px 0px;

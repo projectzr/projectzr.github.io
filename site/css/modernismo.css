@@ -42,6 +42,7 @@ img.center-img {
 article p {
     font-family: 'Zilla Slab', serif;
     line-height: 2em;
+    font-weight: 500;
 }
 .first-letter::first-letter {
     padding: 20px 10px 0px 0px;

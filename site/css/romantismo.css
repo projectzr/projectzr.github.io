@@ -1,5 +1,7 @@
 article p {
     font-family: 'Zilla Slab', serif;
+    line-height: 2em;
+    font-weight: 500;
 }
 
 /*inicio autor destaque*/

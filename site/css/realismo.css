@@ -4,6 +4,11 @@ body {
     background-color: #ebebeb;
 }
 
+article p, aside p, section p {
+    font-family: 'Zilla Slab', serif;
+    line-height: 2em;
+    font-weight: 500;
+}
 /* Cor e definição dos H's */
 
 .titulo {
