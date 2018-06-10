@@ -47,7 +47,7 @@
     <article>
         <h1 style="display: none">Conteúdo</h1>
 
-        <div class="container">
+        <div class="container section">
             <div class="col-xs-12">
                 <div class="row">
                     

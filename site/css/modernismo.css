@@ -1,3 +1,15 @@
+/* Breadcrumb
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.breadcrumb li a {
+/*    color: #d7c319;*/
+/*    color: #7a8338;*/
+    color: #377c13;
+   }
+
+.row {
+    margin-bottom: 40px;
+    margin-bottom: 40px;
+}
 
 img {  max-width: 100%; }
    
@@ -11,11 +23,13 @@ img.center-img {
     padding-top: 20px;
    }
 
-.li_principais_obras {
+.li_modernismo {
   padding-left: 2px;
   padding-right: 0px;
   display:list-item;
-  font-family: 'Slabo 27px', serif;
+  font-family: 'Zilla Slab', serif;
+  text-align: left;
+ 
     }
 
 
@@ -30,11 +44,20 @@ article p {
     line-height: 2em;
 }
 .first-letter::first-letter {
-    padding: 20px 10px 1px 0px;
+    padding: 20px 10px 0px 0px;
     font-weight: 600;
     font-size: 8em;
-    line-height: 6rem;
-    color: dimgray;
+    line-height: 7rem;
+    color: #1C400A;
+    float: left;
+}
+
+.first-letter-obras::first-letter {
+    padding: 30px 10px 0px 0px;
+    font-weight: 600;
+    font-size: 8em;
+    line-height: 7rem;
+    color: #1C400A;
     float: left;
 }
 
@@ -60,7 +83,8 @@ article p {
     position: relative;
     margin: 0 auto;
     height: 0.5rem;
-    background-color: #f7df25 ;
+     background-color: #397F14 ;
+/*    background-color: #757F2A ;*/
     width: 26%;
     bottom: 0.4rem;
     margin-top: 30px;
@@ -120,7 +144,5 @@ article p {
   height: 60vh;
   flex-direction: column;
   justify-content: center;
-    }
-}er;
     }
 }

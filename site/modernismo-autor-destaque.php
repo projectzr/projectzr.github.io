@@ -47,7 +47,7 @@
         <h1 style="display: none">Conteúdo</h1>
 
        
-        <div class="container">
+        <div class="container section">
            
                 <div class="row">
                     <h1 class="titulo no-space text-center" >Mario de Andrade</h1>

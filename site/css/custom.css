@@ -535,21 +535,21 @@ a:hover > .materia-img > img {
 }
 
 .divisor.escola5 {
-    background-color: #f7df25;
+    background-color: #377c13;
 }
 
 .text-divisor.escola5 {
-    color: #a3941a;
-    border-color: #f7df25;
-    background-color: #EFE7AF;
+    color: #377c13;
+    border-color: #377c13;
+    background-color: rgba(199, 211, 119, 0.96);
 }
 
 .escola5 .materia-img {
-    border-left: 4px solid #f7df25;
+    border-left: 4px solid #377c13;
 }
 
 .escola5-navid::before {
-    background-color: #f7df25;
+    background-color: #377c13;
 }
 
 .escola6 .person {
@@ -769,7 +769,7 @@ footer .footer-mapa:first-child::after {
 }
 
 .QM.thumbnail.escola5 {
-    border-left: 4px solid #f7df25;
+    border-left: 4px solid #377c13;
 }
 
 .QM.thumbnail.escola6 {
