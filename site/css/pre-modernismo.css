@@ -1,10 +1,8 @@
-
 article p, aside p, section p {
     font-family: 'Zilla Slab', serif;
     line-height: 2em;
     font-weight: 500;
 }
-
 
 .imgcenter {
     max-width: 100%;
@@ -68,4 +66,10 @@ hr{
 
 .cor-sub-principais-obras3 {
     color:gray;
+}
+
+
+.breadcrumb li a {
+    color: #8c6650;
+    /* color:#207e36; */
 }

@@ -27,6 +27,14 @@
     $subtitulo="Contexto Histórico"; 
     include 'includes/section-header.php'; 
     ?>    
+    
+    <?php 
+    $nomea="Autor destaque";
+    $linka="pre-modernismo-autor-destaque.php";
+    $nomeb="Principais obras";
+    $linkb="pre-modernismo-principais-obras.php";
+    include 'includes/breadcrumb.php'; 
+    ?> 
 
     <!-- Conteúdo
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->

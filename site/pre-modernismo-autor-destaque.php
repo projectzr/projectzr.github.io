@@ -27,6 +27,14 @@
     $subtitulo="Autor de destaque: Euclides da Cunha"; 
     include 'includes/section-header.php'; 
     ?>
+    
+    <?php 
+    $nomea="Contexto";
+    $linka="pre-modernismo-contexto-historico.php";
+    $nomeb="Principais obras";
+    $linkb="pre-modernismo-principais-obras.php";
+    include 'includes/breadcrumb.php'; 
+    ?> 
 
     <!-- Conteúdo
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->

@@ -9,8 +9,8 @@
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <meta charset="utf-8">
     <title>Brasil Literário - Pré-Modernismo: Principais Obras</title>
-    <link rel="stylesheet" href="css/pre-modernismo.css">
-    <?php include 'includes/estrutura/head.php'; ?>
+        <?php include 'includes/estrutura/head.php'; ?>
+        <link rel="stylesheet" href="css/pre-modernismo.css">
 
 </head>
 
@@ -27,7 +27,13 @@
     $subtitulo="Principais Obras"; 
     include 'includes/section-header.php'; 
     ?>
-
+ <?php 
+    $nomea="Contexto";
+    $linka="pre-modernismo-contexto-historico.php";
+    $nomeb="Autor de destaque";
+    $linkb="pre-modernismo-autor-destaque.php";
+    include 'includes/breadcrumb.php'; 
+    ?> 
     <!-- Conteúdo
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <main>
