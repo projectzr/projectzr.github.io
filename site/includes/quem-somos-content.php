@@ -25,14 +25,14 @@ quemSomos(
     // Nome
     'Bruna',
     // RA
-    '000.000.000.0000',
+    '265.083.172.3001',
     // Cargo
     'Analista de Conteúdo',
     // Descriçao pessoal
-    'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar a manutenção das condições financeiras e administrativas exigidas.',
+    'Bacharel em Adm., ênfase em Sistemas de Informação, amante de séries de ficção/terror, responsável pela análise do conteúdo do portal',
     
     // Responsabilidades
-    '<a href="pre-modernismo-contexto-historico.php">Pré-Modernismo</a> e <a href="normas.php"> Normas de Utilização </a>'
+    '<a href="pre-modernismo-contexto-historico.php">Pré-Modernismo</a> e <a href="normas.php"> Normas</a>'
 );
 
 // Integrante 2
@@ -45,11 +45,11 @@ quemSomos(
     // Nome
     'Cleisson',
     // RA
-    '000.000.000.0000',
+    '265.083.172.3025',
     // Cargo
     'Designer Gráfico',
     // Descriçao pessoal
-    'Fascinado por D.I.Y (ou também Do-It-Yourself ), Técnico em Eletrônica na horas vagas, Formado Redes de Computadores e responsável pela escolha Tipográfica.',
+    'Fascinado por D.I.Y, Técnico em Eletrônica nas horas vagas, Formado Redes de Computadores e responsável pela escolha Tipográfica do portal',
     // Responsabilidades
     '<a href="simbolismo-contexto-historico.php">Simbolismo</a> e <a href="quem-somos.php">Quem Somos </a>'
 );
@@ -68,7 +68,7 @@ quemSomos(
     // Cargo
     'Full Stack Developer',
     // Descriçao pessoal
-    'Apaixonado por programação, analista de infraestrutura, Graduando em Sistemas para Internet (IoT) e responsável pela estruturação do portal.',
+    'Apaixonado por programação, analista de infraestrutura, graduando em Sistemas para Internet (IoT) e responsável pela estrutura do portal',
     // Responsabilidades
     '<a href="pos-modernismo-contexto-historico.php">Pós-Modernismo</a>, <a href="index.php">Home</a> e <a href="dicas-de-vestibular.php">Dicas de Vestibular</a>'
 );
@@ -83,11 +83,11 @@ quemSomos(
     // Nome
     'Luiza',
     // RA
-    '000.000.000.0000',
+    '265.083.172.3004',
     // Cargo
     'Gerencia de conteúdo',
     // Descriçao pessoal
-    'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar a manutenção das condições financeiras e administrativas exigidas.',
+    'Estagiária de Design, amante de literatura, apaixonada por matemática e responsável pela revisão de conteúdo e esquema de cores do portal',
     // Responsabilidades
     '<a href="realismo-contexto-historico.php">Realismo</a> e <br><a href="contato.php"> Contato</a>'
 );
@@ -102,11 +102,11 @@ quemSomos(
     // Nome
     'Priscila',
     // RA
-    '000.000.000.0000',
+    '265.083.172.3017',
     // Cargo
     'Designer Gráfico',
     // Descriçao pessoal
-    'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar a manutenção das condições financeiras e administrativas exigidas.',
+    'Analista de TI, mãe da Alice, usuária de Manjaro e Android, ama livros de ficção/fantasia, cinema e tecnologia e responsável pela identidade visual',
     // Responsabilidades
     '<a href="modernismo-contexto-historico.php">Modernismo</a> e <a href="academia.php"> Academia</a>'
 );
@@ -120,13 +120,13 @@ quemSomos(
     // Nome
     'Roberto',
     // RA
-    '000.000.000.0000',
+    '265.083.172.3037',
     // Cargo
     'Gerente',
     // Descriçao pessoal
-    'Evidentemente, o início da atividade geral de formação de atitudes apresenta tendências no sentido de aprovar a manutenção das condições financeiras e administrativas exigidas.',
+    'Analista de TI na IBM Brasil, formado tecnólogo em redes de computadores, graduando em Sistemas para Internet e responsável pela gerência do portal',
     // Responsabilidades
-    '<a href="romantismo-contexto-historico.php">Romantismo</a>, <a href="agenda.php"> Agenda</a> e <a href="mapa.php">Mapa do Site</a>'
+    '<a href="romantismo-contexto-historico.php">Romantismo</a>, <a href="agenda.php"> Agenda</a> e <a href="mapa.php">Mapa</a>'
 );
 
 footerQuemSomos ();
