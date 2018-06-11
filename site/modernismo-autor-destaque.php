@@ -50,7 +50,7 @@
         <div class="container section">
            
                 <div class="row">
-                    <h1 class="titulo no-space text-center" >Mario de Andrade</h1>
+                    <h1 class="titulo no-space text-center" >Mário de Andrade</h1>
                     <div class="divisor"></div>
                    
                     <div class="col-xs-12 col-md-9 ">
