@@ -37,7 +37,7 @@
             </div>
                             
             <div class="row text-center">
-                <p class="footer-atribuição col-xs-12"><a href="#inicio">Brasil Literário</a> &copy; 2018 - Todos os direitos reservados.</p>
+                <p class="footer-atribuição col-xs-12"><a href="index.php">Brasil Literário</a> &copy; 2018 - Todos os direitos reservados.</p>
             </div>
         </div>
     </footer>
