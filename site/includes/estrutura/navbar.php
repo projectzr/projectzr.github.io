@@ -56,7 +56,6 @@
                             "quem-somos.php", 
                             "dicas-de-vestibular.php", 
                             "academia.php",
-                            "mapa.php",
                             "normas.php"
                         ); 
                         if (in_array($page, $institucional)) { echo 'active'; }
@@ -122,7 +121,7 @@
                                     <ul class="drop-escola nav-hide" id="drop-escola5">
                                         <li><a href="modernismo-contexto-historico.php">Semana da Arte Moderna</a></li>
                                         <li><a href="modernismo-principais-obras.php">Principais Obras</a></li>
-                                        <li><a href="modernismo-autor-destaque.php">Autor de destaque: Mario de Andrade</a></li>
+                                        <li><a href="modernismo-autor-destaque.php">Autor de destaque: Mário de Andrade</a></li>
                                     </ul>
                                 </li>
                                 <li class="divider"></li>
@@ -147,16 +146,16 @@
                 <li class="<?php checkURL('contato.php');?>"><a href="contato.php">Contato</a></li>
                 <li class="dropdown <?php checkURL('institucional.php');?>">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-                    Institucional<span class="caret"></span></a>
+                    O Portal<span class="caret"></span></a>
                     <ul class="dropdown-menu basic-menu">
-                        <li><a href="quem-somos.php">Quem somos</a></li>
                         <li><a href="dicas-de-vestibular.php">Dicas de Vestibular</a></li>
                         <li><a href="academia.php">Academia Brasileira de Letras</a></li>
                         <li role="separator" class="divider"></li>
-                        <li><a href="mapa.php">Mapa do Site</a></li>
+                        <li><a href="quem-somos.php">Quem somos</a></li>
                         <li><a href="normas.php">Normas de utilização</a></li>
                     </ul>
                 </li>
+                <li class="<?php checkURL('mapa.php');?>"><a href="mapa.php">Mapa</a></li>
             </ul>
             <span class="navbar-text dia-nav" id="data-atual"></span>
         </div>
