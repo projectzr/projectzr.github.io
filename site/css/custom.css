@@ -685,6 +685,15 @@ footer .footer-mapa:first-child::after {
     margin-top: 30px;
 }
 
+.QM.flex {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+}
+.QM.noflex {
+    flex: none;
+}
+
 .QM h1 {
     text-align: center;
     font-variant: small-caps;
