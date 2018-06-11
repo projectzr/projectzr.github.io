@@ -21,38 +21,40 @@
                 <div class="row QM">
                     <h1 class="titulo">A Equipe</h1>
                     <div class="QM divisor "></div>
-                    <?php } ?>
-                    <?php function quemSomos ($escola, $perfilImagem, $nome, $RA, $cargo, $descPessoal, $responsabilidade) { ?>
-                    <!-- Segunda  linha
-–––––––––––––––––––––––––––––––––––––––––––––––––– -->
-                    <!--Integrantes -->
-                    <div class="col-xs-12 col-md-6 col-lg-4 extra-space">
-                        <div class="QM thumbnail materia <?= $escola ?>">
-                            <img src="<?= $perfilImagem ?> " alt="..." class="img-circle">
-                            <div class="caption">
-                                <h1 class="sub-titulo">
-                                    <?= $nome ?>
-                                        <br>
-                                        <small>RA:
-                                            <?= $RA ?>
-                                        </small>
-                                </h1>
-                                <h2 class="sub-titulo">
-                                    <?= $cargo ?>
-                                </h2>
-                                <p>
-                                    <?= $descPessoal ?>
-                                </p>
-                                <p>
-                                    <strong>Área Responsável:</strong>
-                                    <?= $responsabilidade ?>
-                                </p>
+                    <div class="QM flex">
+                        <?php } ?>
+                        <?php function quemSomos ($escola, $perfilImagem, $nome, $RA, $cargo, $descPessoal, $responsabilidade) { ?>
+                        <!-- Segunda  linha
+                        –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+                        <!--Integrantes -->
+                        <div class="col-xs-12 col-md-6 col-lg-4 extra-space QM noflex">
+                            <div class="QM thumbnail materia <?= $escola ?>">
+                                <img src="<?= $perfilImagem ?> " alt="..." class="img-circle">
+                                <div class="caption">
+                                    <h1 class="sub-titulo">
+                                        <?= $nome ?>
+                                            <br>
+                                            <small>RA:
+                                                <?= $RA ?>
+                                            </small>
+                                    </h1>
+                                    <h2 class="sub-titulo">
+                                        <?= $cargo ?>
+                                    </h2>
+                                    <p>
+                                        <?= $descPessoal ?>
+                                    </p>
+                                    <p>
+                                        <strong>Área Responsável:</strong>
+                                        <?= $responsabilidade ?>
+                                    </p>
+                                </div>
                             </div>
                         </div>
-                    </div>
-                    <?php } ?>
+                        <?php } ?>
 
-                    <?php function footerQuemSomos () { ?>
+                        <?php function footerQuemSomos () { ?>
+                    </div>
                 </div>
             </div>
         </div>
