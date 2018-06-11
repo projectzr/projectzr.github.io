@@ -108,7 +108,7 @@ criarSectionHome(
     // titulo 2
     'Obras da Época',
     // texto 2
-    'Os textos que verdadeiramente inauguram o Simbolismo pertencem a Cruz e Souza que, em 1893, lança obras renovadoras.',
+    'Os textos que verdadeiramente inauguram o Simbolismo pertencem a Cruz e Souza que, em 1893, lança obras inovadoras.',
     // imagem 3
     'img/home-materias/simbolismo-dicas-vestibular.jpg',
     // titulo 3
@@ -135,7 +135,7 @@ criarSectionHome(
     // titulo 1
     'Consolidação da República',
     // texto 1
-    'A expectativa de um novo Berasil, mais justo e moderno, com o advento do regime republicano, porém foi uma tentativa frustrada.',
+    'A expectativa de um novo Brasil, mais justo e moderno, com o advento do regime republicano, porém foi uma tentativa frustrada.',
     // imagem 2
     'img/home-materias/pre-modernismo-principais-obras.jpg',
     // titulo 2
@@ -160,7 +160,7 @@ criarSectionHome(
     //nome da escola
     'modernismo',
     // autor
-    'Mario de Andrade',
+    'Mário de Andrade',
     // frase do autor
     '"Ninguém escreve para si mesmo, a não ser um monstro de orgulho. A gente escreve pra ser amado, pra atrair, encantar, etc."',
     // imagem 1
@@ -207,7 +207,7 @@ criarSectionHome(
     // titulo 2
     'Obras que Marcaram',
     // texto 2
-    'Grande sertão: veredas, Auto da compadecida, conheça as principais obras que representam e modelam a escola literária no Brasil.',
+    'Grande sertão: Veredas, Auto da compadecida, conheça as principais obras que representam e modelam a escola literária no Brasil.',
     // imagem 3
     'img/home-materias/pos-modernismo-dicas-vestibular.jpg',
     // titulo 3
