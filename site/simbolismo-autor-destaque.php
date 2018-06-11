@@ -41,7 +41,7 @@
                                 </cite>
                             </div>
                             <div class="media-body media-middle hidden-xs">
-                                <p class="titulo text-center cor">Também conhecido como o cisne negro, o autor foi o principal precursor do simbolismo no Brasil.</p>
+                                <p class="titulo text-center cor">Também conhecido como cisne negro, o autor foi o principal precursor do simbolismo no Brasil.</p>
                                 <p class="text-center">
                                     "Filho de negros alforriados, João da Cruz e Sousa, ficou sob tutela da família do militar Guilherme Xavier de Sousa. Recebeu boa educação e combateu arduamente a escravidão e o preconceito racial no jornal Tribuna Popular"
                                 </p>
@@ -49,7 +49,7 @@
                             <hr class="hidden-xs">
                             <div class="visible-xs lateral">
                                 <hr>
-                                <p class="titulo cor text-center">Também conhecido como o cisne negro, o autor foi o principal precursor do simbolismo no Brasil.</p>
+                                <p class="titulo cor text-center">Também conhecido como cisne negro, o autor foi o principal precursor do simbolismo no Brasil.</p>
                                 <p class="text-center">
                                     "Filho de negros alforriados, João da Cruz e Sousa, ficou sob tutela da família do militar Guilherme Xavier de Sousa. Recebeu boa educação e combateu arduamente a escravidão e o preconceito racial no jornal Tribuna Popular"
                                 </p>
