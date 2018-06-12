@@ -9,7 +9,7 @@
             </button>
             <a class="navbar-brand logo-brand" href="index.php">
                 <!-- sombra, corpo, verde, amarelo, width, height -->
-                <?php logoGenerate('light', '40px', 'auto'); ?>
+                <?php logoGenerate('light', '40px', '100%'); ?>
             </a>
 <!--
             <a class="navbar-brand text-brand" href="index.php">
