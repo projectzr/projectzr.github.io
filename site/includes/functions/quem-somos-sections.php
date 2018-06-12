@@ -12,9 +12,8 @@
                 <div class="row QM extra-space ">
                     <h1 class="titulo">Sobre o Portal</h1>
                     <div class="QM divisor "></div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum repellat repudiandae voluptates adipisci fugiat perspiciatis impedit consequatur nisi reiciendis eumsunt eligendi et commodi expedita, explicabosoluta, corporis quis ipsa, illo, incidunt vero!
-                     <p>Debitisex iste eos? Vero ipsam minus,sed neque cupiditate expedita. Pariatur officia, accusamus nemoarchitecto at quia ex, totamlaboriosam sunt quasi impedit, corporis dolor labore.Lorem ipsum dolor sit amet, consectetur adipisicing lit. </p>
-                     <p>Pariatur officia, accusamus nemoarchitecto at quia ex, totamlaboriosam sunt quasi impedit, corporis dolor labore.Lorem ipsum dolor sit amet, consectetur adipisicing lit. Debitisex iste eos? Vero ipsam minus,sed neque cupiditate expedita. </p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum repellat repudiandae voluptates adipisci fugiat perspiciatis impedit consequatur nisi reiciendis eumsunt eligendi et commodi expedita, explicabosoluta, corporis quis ipsa, illo, incidunt vero! Debitisex iste eos? Vero ipsam minus,sed neque cupiditate expedita. Pariatur officia, accusamus nemoarchitecto at quia ex, totamlaboriosam sunt quasi impedit, corporis dolor labore.Lorem ipsum dolor sit amet, consectetur adipisicing lit. </p>
+                    <p>Pariatur officia, accusamus nemoarchitecto at quia ex, totamlaboriosam sunt quasi impedit, corporis dolor labore.Lorem ipsum dolor sit amet, consectetur adipisicing lit. Debitisex iste eos? Vero ipsam minus,sed neque cupiditate expedita. </p>
                 </div>
             </div>
             <div class="col-xs-12 col-md-12">
