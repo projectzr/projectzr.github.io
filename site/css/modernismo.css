@@ -55,9 +55,9 @@ article p, aside p, section p {
 }
 
 .first-letter-obras::first-letter {
-    padding: 30px 10px 0px 0px;
+    padding: 14px 10px 0px 0px;
     font-weight: 600;
-    font-size: 8em;
+    font-size: 7.0em;
     line-height: 7rem;
     color: #1C400A;
     float: left;
@@ -147,4 +147,7 @@ article p, aside p, section p {
   flex-direction: column;
   justify-content: center;
     }
+}
+footer .row {
+    margin: 0;
 }
