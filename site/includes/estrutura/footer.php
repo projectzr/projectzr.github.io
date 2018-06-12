@@ -3,7 +3,7 @@
             <div class="row footer-mapa">
                 <div class="footer-logo col-sm-3 desktop-only">
                     <div class="text-center">
-                        <?php logoGenerate('light', 'auto', 'auto'); ?>
+                        <?php logoGenerate('light', '100%', '100%'); ?>
                         <p>Portal Brasil Literário</p>
                     </div>
                 </div>
