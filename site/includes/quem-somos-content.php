@@ -49,7 +49,7 @@ quemSomos(
     // Cargo
     'Designer Gráfico',
     // Descriçao pessoal
-    'Fascinado por D.I.Y, Técnico em Eletrônica nas horas vagas, Formado Redes de Computadores e responsável pela escolha Tipográfica do portal',
+    'Fascinado por D.I.Y, técnico em eletrônica nas horas vagas, formado em Redes de Computadores e responsável pela escolha tipográfica do portal',
     // Responsabilidades
     '<a href="simbolismo-contexto-historico.php">Simbolismo</a> e <a href="quem-somos.php">Quem Somos </a>'
 );
