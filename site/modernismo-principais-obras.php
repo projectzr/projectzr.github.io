@@ -51,16 +51,15 @@
         OBS: O Section define o espaçamento padrão de uma SESSÃO, 
         container se refere a classe usada pelo bootstrap
         –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-        <article> <h2 style="display: none">Modernismo</h2>
         <div class="container section">
-            <div class="row">
+            <article class="row">
 
 
-                <h1 class="titulo no-space text-center">Carlos Drummond de Andrade - (1902-1987)</h1>
+                <h2 class="titulo no-space text-center">Carlos Drummond de Andrade - (1902-1987)</h2>
                 <div class="divisor"></div>
 
                 <div class="col-xs-12 col-md-6 ">
-                    <h3 class="titulo text-center mid-space">Alguma poesia</h3>
+                    <p class="titulo text-center mid-space">Alguma poesia</p>
 
 
                     <div class="col-lg-12 text-center">
@@ -79,14 +78,14 @@
 
                     <p class="first-letter-obras text-justify">Consectetur ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est sunt eligendi molestiae nemo blanditiis, quisquam maiores aut quam ducimus nulla ullam magnam corporis sapiente in reiciendis. Officia, non, voluptate.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est sunt eligendi molestiae nemo blanditiis, quisquam maiores aut quam ducimus nulla ullam magnam corporis sapiente in reiciendis. Officia, non, voluptate.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est sunt eligendi molestiae nemo blanditiis, quisquam maiores aut quam ducimus nulla ullam magnam corporis sapiente in reiciendis. Officia, non, voluptate.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est sunt eligendi molestiae nemo blanditiis, quisquam maiores aut quam ducimus nulla ullam magnam corporis sapiente in reiciendis. Officia, non, voluptate.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est sunt eligendi molestiae nemo blanditiis, quisquam maiores aut quam ducimus nulla ullam magnam corporis sapiente in reiciendis. Officia, non, voluptate.Lorem ipsum dolor sit amet, consectetur Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est sunt eligendi molestiae nemo blanditiis, quisquam maiores aut quam ducimus nulla ullam magnam corporis sapiente in reiciendis. Officia, non, voluptate.Lorem ipsum dolor sit amet, c onsectetur adipisicing elit. </p>
                 </div>
-            </div>
-            <div class="row">
+            </article>
+            <article class="row">
 
-                <h1 class="titulo no-space text-center">Cecília Meireles (1901-1964)</h1>
+                <h2 class="titulo no-space text-center">Cecília Meireles (1901-1964)</h2>
                 <div class="divisor"></div>
 
                 <div class="col-xs-12 col-md-6 ">
-                    <h3 class="titulo text-center mid-space">A Festa das Letras</h3>
+                    <p class="titulo text-center mid-space">A Festa das Letras</p>
                     
                     <div class="col-lg-12 text-center"> 
                          <figure>
@@ -107,15 +106,15 @@
 
                     <p class="mid-space text-justify first-letter-obras">Dolorum est sunt eligendi molestiae nemo blanditiis, quisquam maiores aut quam ducimus nulla ullam magnam corporis sapiente in reiciendis. Officia, non, voluptate.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est sunt eligendi molestiae nemo blanditiis, quisquam maiores aut quam ducimus nulla ullam magnam corporis sapiente in reiciendis. Officia, non, voluptate.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est sunt eligendi molestiae nemo blanditiis, quisquam maiores aut quam ducimus nulla ullam magnam corporis sapiente in reiciendis. Officia, non, voluptate.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est sunt eligendi molestiae nemo blanditiis, quisquam maiores aut quam ducimus nulla ullam magnam corporis sapiente in reiciendis. Officia, non, voluptate.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est sunt eligendi molestiae nemo blanditiis, quisquam maiores aut quam ducimus nulla ullam magnam corporis sapiente in reiciendis. Officia, non, voluptate.Lorem ipsum dolor sit amet, consectetur Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est sunt eligendi molestiae nemo blanditiis, quisquam maiores aut quam ducimus nulla ullam magnam corporis sapiente in reiciendis. Officia, non, voluptate.Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
                 </div>
-            </div>
-            <div class="row">
+            </article>
+            <article class="row">
 
-                <h1 class="titulo no-space text-center">Manuel Bandeira (1886-1968)</h1>
+                <h2 class="titulo no-space text-center">Manuel Bandeira (1886-1968)</h2>
                 <div class="divisor"></div>
 
 
                <div class="col-xs-12 col-md-6 ">
-                    <h3 class="titulo text-center mid-space">A Cinza das Horas</h3>
+                    <p class="titulo text-center mid-space">A Cinza das Horas</p>
                     
                     <div class="col-lg-12 text-center"> 
                          <figure>
@@ -135,14 +134,14 @@
                     <p class="text-justify first-letter-obras">Officia, non, voluptate.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est sunt eligendi molestiae nemo blanditiis, quisquam maiores aut quam ducimus nulla ullam magnam corporis sapiente in reiciendis. Officia, non, voluptate.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est sunt eligendi molestiae nemo blanditiis, quisquam maiores aut quam ducimus nulla ullam magnam corporis sapiente in reiciendis. Officia, non, voluptate.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est sunt eligendi molestiae nemo blanditiis, quisquam maiores aut quam ducimus nulla ullam magnam corporis sapiente in reiciendis. Officia, non, voluptate.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est sunt eligendi molestiae nemo blanditiis, quisquam maiores aut quam ducimus nulla ullam magnam corporis sapiente in reiciendis. Officia, non, voluptate.Lorem ipsum dolor sit amet, consectetur Lorem ipsum dolor sit amet, consectetur adipisicing elit.  
                     </p>
                 </div>
-            </div>
-            <div class="row">
+            </article>
+            <article class="row">
 
-                <h1 class="titulo no-space text-center">Clarice Lispector (1920-1077)</h1>
+                <h2 class="titulo no-space text-center">Clarice Lispector (1920-1077)</h2>
                 <div class="divisor"></div>
 
                                <div class="col-xs-12 col-md-6 ">
-                    <h3 class="titulo text-center mid-space">A Hora da Estrela</h3>
+                    <p class="titulo text-center mid-space">A Hora da Estrela</p>
                     
                     <div class="col-lg-12 text-center"> 
                          <figure>
@@ -161,10 +160,9 @@
 
                     <p class="text-justify first-letter-obras">Reiciendis ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est sunt eligendi molestiae nemo blanditiis, quisquam maiores aut quam ducimus nulla ullam magnam corporis sapiente in reiciendis. Officia, non, voluptate.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est sunt eligendi molestiae nemo blanditiis, quisquam maiores aut quam ducimus nulla ullam magnam corporis sapiente in reiciendis. Officia, non, voluptate.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est sunt eligendi molestiae nemo blanditiis, quisquam maiores aut quam ducimus nulla ullam magnam corporis sapiente in reiciendis. Officia, non, voluptate.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est sunt eligendi molestiae nemo blanditiis, quisquam maiores aut quam ducimus nulla ullam magnam corporis sapiente in reiciendis. Officia, non, voluptate.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est sunt eligendi molestiae nemo blanditiis, quisquam maiores aut quam ducimus nulla ullam magnam corporis sapiente in reiciendis. Officia, non, voluptate.Lorem ipsum dolor sit amet, consectetur Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est sunt eligendi molestiae nemo blanditiis, quisquam maiores aut quam ducimus nulla ullam magnam corporis sapiente in reiciendis. Officia, non, voluptate.Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>
                 </div>
-            </div>
+            </article>
 
         </div>
-        </article>
 
 
     </main>
