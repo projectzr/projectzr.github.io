@@ -45,6 +45,17 @@ body {
     margin-bottom: 0;
 }
 
+.special-no-space {
+    /* usado pra casos específicos onde não se quer o espaçamento padrao */
+    margin-bottom: 0 !important;
+    padding-bottom: 0 !important;
+}
+
+.special-mid-space {
+    /* usado pra casos específicos onde se QUER aplicar um espaçamento padrao */
+    margin-bottom: 3rem;
+}
+
 p {
     font-size: 1.7rem;
     line-height: 2.95rem;
