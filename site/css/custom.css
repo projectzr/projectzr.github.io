@@ -705,12 +705,12 @@ footer .footer-mapa:first-child::after {
     flex: none;
 }
 
-.QM h1 {
+.QM h2 {
     text-align: center;
     font-variant: small-caps;
 }
 
-.QM h1 small {
+.QM h2 small {
     font-size: 0.5em;
     color: #cbcbcb;
 }
@@ -741,14 +741,14 @@ footer .footer-mapa:first-child::after {
     text-decoration: line-through;
 } */
 
-.QM.thumbnail h1 {
+.QM.thumbnail h2 {
     font-size: 2.7rem;
     font-weight: bold;
     font-family: 'Bitter', serif;
     font-variant: small-caps;
 }
 
-.QM.thumbnail h1:after {
+.QM.thumbnail h2:after {
     content: "";
     display: block;
     margin: 0 auto;
@@ -760,7 +760,7 @@ footer .footer-mapa:first-child::after {
     margin-top: 30px;
 }
 
-.QM.thumbnail h2:after {
+.QM.thumbnail h3:after {
     content: "";
     display: block;
     margin: 0 auto;

@@ -22,24 +22,26 @@
                     <div class="QM divisor "></div>
                     <div class="QM flex">
                         <?php } ?>
-                        <?php function quemSomos ($escola, $perfilImagem, $nome, $RA, $cargo, $descPessoal, $responsabilidade) { ?>
+                        <?php function quemSomos ($escola, $perfilImagem, $altImagem,  $nome, $RA, $cargo, $descPessoal, $responsabilidade) { ?>
                         <!-- Segunda  linha
                         –––––––––––––––––––––––––––––––––––––––––––––––––– -->
                         <!--Integrantes -->
-                        <div class="col-xs-12 col-md-6 col-lg-4 extra-space QM noflex">
+                        
+                        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4 extra-space QM noflex">
+                        <section>
                             <div class="QM thumbnail materia <?= $escola ?>">
-                                <img src="<?= $perfilImagem ?> " alt="..." class="img-circle">
+                                <img src="<?= $perfilImagem ?> " alt=<?=$altImagem?> class="img-circle">
                                 <div class="caption">
-                                    <h1 class="sub-titulo">
+                                    <h2 class="sub-titulo">
                                         <?= $nome ?>
                                             <br>
                                             <small>RA:
                                                 <?= $RA ?>
                                             </small>
-                                    </h1>
-                                    <h2 class="sub-titulo">
-                                        <?= $cargo ?>
                                     </h2>
+                                    <h3 class="sub-titulo">
+                                        <?= $cargo ?>
+                                    </h3>
                                     <p>
                                         <?= $descPessoal ?>
                                     </p>
@@ -49,7 +51,9 @@
                                     </p>
                                 </div>
                             </div>
+                            </section>
                         </div>
+                        
                         <?php } ?>
 
                         <?php function footerQuemSomos () { ?>

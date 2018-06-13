@@ -37,7 +37,7 @@
                             <div class="media-right">
                                 <img class="media-object img" src="img/simb/cruz-e-souza.jpg" alt="Autor de Destaque">
                                 <cite>
-                                    <small>Pintura Digital pelo autor:João Cruz e Sousa</small>
+                                    <small>Pintura Digital pelo autor: João Cruz e Sousa</small>
                                 </cite>
                             </div>
                             <div class="media-body media-middle hidden-xs">

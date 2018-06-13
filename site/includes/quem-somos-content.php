@@ -22,6 +22,8 @@ quemSomos(
     'escola4',
     // Imagem Perfil
     'img/QM/bruna.min.jpg',
+        // Descrição imagem
+        '"Foto da Bruna"',
     // Nome
     'Bruna',
     // RA
@@ -42,6 +44,8 @@ quemSomos(
     'escola3',
     // Imagem Perfil
     'img/QM/cleisson.min.jpg',
+    // Descrição imagem
+    '"Foto do Cleisson"',
     // Nome
     'Cleisson',
     // RA
@@ -61,6 +65,8 @@ quemSomos(
     'escola6',
     // Imagem Perfil
     'img/QM/filipe.min.jpg',
+        // Descrição imagem
+        '"Foto do Filipe"',
     // Nome
     'Filipe',
     // RA
@@ -80,6 +86,8 @@ quemSomos(
     'escola2',
     // Imagem Perfil
     'img/QM/luiza.min.jpg',
+        // Descrição imagem
+        '"Foto da Luiza"',
     // Nome
     'Luiza',
     // RA
@@ -99,6 +107,8 @@ quemSomos(
     'escola5',
     // Imagem Perfil
     'img/QM/priscila.min.jpg',
+        // Descrição imagem
+        '"Foto da Priscila"',
     // Nome
     'Priscila',
     // RA
@@ -117,6 +127,8 @@ quemSomos(
     'escola1',
     // Imagem Perfil
     'img/QM/roberto.min.jpg',
+        // Descrição imagem
+        '"Foto do Roberto"',
     // Nome
     'Roberto',
     // RA

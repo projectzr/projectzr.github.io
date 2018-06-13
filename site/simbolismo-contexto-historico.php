@@ -90,7 +90,7 @@
                     </div>
                     <div class="col-lg-4 text-center">
                         <figure>
-                            <img src='img/simb/dia_entrudo.jpg' alt='escravos pintam rosto de branco no carbaval' class="imgcenter" />
+                            <img src='img/simb/dia_entrudo.jpg' alt='escravos pintam rosto de branco no carnaval' class="imgcenter" />
                             <figcaption>
                                 <cite class="cor">
                             Jean Baptiste Debret: Dia de Entrudo
