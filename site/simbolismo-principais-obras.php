@@ -58,11 +58,11 @@
 
                 <article>
                     <div class="row section">
-                        <h2 class="titulo text-left line cor">obras destaque</h2>
+                        <h2 class="titulo text-left line cor">Faróis <small>Cruz e Souza</small></h2>
                         <div class="col-md-6 ">
                             <div class="row section">
                                 <figure>
-                                    <img src="img/simb/obra1.jpg" alt="" class="">
+                                    <img src="img/simb/obra1.jpg" alt="capa do livros Faróis" >
                                     <figcaption><cite class="cor font">Primeira edição de Faróis,<br> de Cruz e Sousa </cite></figcaption>
                                 </figure>
                             </div>
@@ -74,7 +74,7 @@
                     </div>
                 </article>
 
-                <svg width=20em height=3em x="0px" y="0px" viewBox="0 0 140 25.1" style="enable-background:new 0 0 140 25.1;">
+<svg width=20em height=3em x="0px" y="0px" viewBox="0 0 140 25.1" style="enable-background:new 0 0 140 25.1;">
 <style type="text/css">
 	.st0{fill:#c6c1d7;}
 </style>
@@ -153,7 +153,7 @@
 
                 <article>
                     <div class="row section">
-                        <h2 class="titulo text-left line cor">obras destaque</h2>
+                        <h2 class="titulo text-left line cor">Broqueis <small>Cruz e Souza</small></h2>
 
                         <div class="col-md-6 col-xs-11 col-md-push-6">
 
@@ -247,7 +247,7 @@
 
                 <article>
                     <div class="row section">
-                        <h2 class="titulo text-left line cor">obras destaque</h2>
+                        <h2 class="titulo text-left line cor">Poesia <small>Alphonsus de Guimaraens</small></h2>
                         <div class="col-md-6 ">
                             <div class="row section">
 
@@ -348,7 +348,7 @@
 
                 <article>
                     <div class="row section">
-                        <h2 class="titulo text-left line cor">obras destaque</h2>
+                        <h2 class="titulo text-left line cor">Dona Mística <small>Alphonsus de Guimaraens</small></h2>
 
                         <div class="col-md-6 col-xs-11 col-md-push-6">
 

@@ -2,7 +2,7 @@
     <div class="row text-left">
         <div class="col-xs-12 mp-mapa">
             <div class="col-xs-12 mp-home">
-                <h2>Navegue no Brasil literário</h2>
+                <h2 class="titulo">Navegue no Brasil literário</h2>
                 <div class="QM divisor"></div>
             </div>
             <div class="col-xs-12 mp-escolasgeral">

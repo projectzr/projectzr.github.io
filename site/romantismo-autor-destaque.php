@@ -12,6 +12,7 @@
     <link rel="stylesheet" href="css/romantismo.css">
     <?php include 'includes/estrutura/head.php'; ?>
     
+    
 </head>
 
 <body>

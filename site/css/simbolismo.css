@@ -62,6 +62,11 @@ h3 small {
     color: #796780;
 }
 
+h2 small {
+    font-family: 'Bitter', serif !important;
+  
+}
+
 
 small {
     font-family: 'Zilla Slab', serif;

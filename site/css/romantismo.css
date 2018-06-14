@@ -1,3 +1,6 @@
+.breadcrumb li a {
+    color:darkred ! important;
+ }
 
 article p, aside p, section p {
     font-family: 'Zilla Slab', serif;
@@ -278,3 +281,4 @@ article p, aside p, section p {
     }
 
 }
+
