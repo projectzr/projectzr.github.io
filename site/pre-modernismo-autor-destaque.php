@@ -51,7 +51,7 @@
 
             <div class="text-left col-md-12 cor-contexto">
                 <div class="col-md-4">
-                    <img src="img/pre-mord/euclides.jpg" alt="Foto do Autor" class="center-block">
+                    <img src="img/pre-mord/euclides.jpg" alt="Euclides da Cunha." class="center-block">
                 </div>
              <div class="col-md-8">
                 
