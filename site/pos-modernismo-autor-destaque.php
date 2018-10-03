@@ -55,7 +55,7 @@
                 <aside class="col-md-4 col-md-push-8">
                     <h2 style="display: none">Dados do autor</h2>
                     <div class="col-md-12 col-sm-6 text-center">
-                        <img src="img/pos-modernismo/guimaraes-rosa.jpg" alt="foto de perfil, Guimarães Rosa" class="foto-autor">
+                        <img src="img/pos-modernismo/guimaraes-rosa.jpg" alt="foto de perfil, Guimarães Rosa." class="foto-autor">
                     </div>
                     
                     <div class="col-md-12 col-sm-6 text-center">
