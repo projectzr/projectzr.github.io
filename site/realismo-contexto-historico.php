@@ -43,7 +43,7 @@
                 <div class="realismodivisor"></div>
                 <article class="col-xs-12 col-md-6 ">
                     <h2 style="display: none">Contexto Histórico</h2>
-                    <div class=" col-xs-12 col-md-12 paddingimg"> <img src="img/realismo/obrarealista.jpg" alt="Pintura do Baile da Ilha de Fiscal" class="descricaoimg">
+                    <div class=" col-xs-12 col-md-12 paddingimg"> <img src="img/realismo/obrarealista.jpg" alt="Pintura do Baile da Ilha de Fiscal." class="descricaoimg">
                         <p id="ajustecontexto">"Pintura do Baile da Ilha Fiscal, o último da monarquia brasileira." - Livro 1889 de Laurentino Gomes.</p>
                     </div>
                     <p class="pararealismo capitular">Dolorum est sunt eligendi molestiae nemo blanditiis, quisquam maiores aut quam ducimus nulla ullam magnam corporis sapiente in reiciendis. Officia, non, voluptate.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est sunt eligendi molestiae nemo blanditiis, quisquam maiores aut quam ducimus nulla ullam magnam corporis sapiente in reiciendis.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est sunt eligendi molestiae nemo blanditiis, quisquam maiores aut quam ducimus nulla ullam magnam corporis sapiente in reiciendis. Officia, non, voluptate.Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>
