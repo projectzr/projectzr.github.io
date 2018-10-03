@@ -12,7 +12,7 @@
         <li><a href="index.php">Home</a></li>
         <li class="active"><?= $titulo ?></li>
         <li class="dropdown">
-            <a class="active dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            <a href="#" class="active dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
             <?= $subtitulo ?> <span class="caret"></span></a>
             <ul class="dropdown-menu basic-menu">
                 <li><a href="<?= $linka ?>"><?= $nomea ?></a></li>
