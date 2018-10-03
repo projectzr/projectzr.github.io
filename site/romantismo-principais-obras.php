@@ -54,7 +54,7 @@
             <div class="col-md-12 principais-obras">
                 <h3 class="sub-titulo titulo-pag-obra">Conheça a seguir um pouco mais a respeito das principais obras literárias do Romantismo Brasileiro.</h3>
                 <div class="col-md-12 obra-esquerda">
-                    <div class="img-obra-esquerda1"></div>
+                    <div class="img-obra-esquerda1" alt="O Guarani."></div>
                     <div class="col-md-10">
                         <h3 class="sub-titulo titulo-obra">O GUARANI</h3>
                         <p class="txt-obra">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, iste molestias? Fugit quisquam corporis repellendus eligendi inventore tempora Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, iste molestias? Fugit quisquam corporis repellendus eligendi inventore tempora </p>
@@ -64,7 +64,7 @@
 
                 </div>
                 <div class="col-md-12 obra-esquerda">
-                    <div class="img-obra-esquerda2"></div>
+                    <div class="img-obra-esquerda2" alt="A Escrava Isaura."></div>
                     <div class="col-md-10">
                         <h3 class="sub-titulo titulo-obra">A ESCRAVA ISAURA</h3>
                         <p class="txt-obra">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, iste molestias? Fugit quisquam corporis repellendus eligendi inventore tempora Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, iste molestias? Fugit quisquam corporis repellendus eligendi inventore tempora </p>
@@ -74,7 +74,7 @@
 
                 </div>
                <div class="col-md-12 obra-direita">
-                    <div class="img-obra-direita1"></div>
+                    <div class="img-obra-direita1" alt="Memórias de um Sargento de Milícias."></div>
                     <div class="col-md-10">
                         <h3 class="sub-titulo titulo-obra-direita">MEMÓRIAS DE UM SARGENTO DE MILÍCIAS</h3>
                         <p class="txt-obra-direita">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, iste molestias? Fugit quisquam corporis repellendus eligendi inventore tempora Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, iste molestias? Fugit quisquam corporis repellendus eligendi inventore tempora </p>
@@ -84,9 +84,9 @@
 
                 </div>
                 <div class="col-md-12 obra-direita">
-                    <div class="img-obra-direita2"></div>
+                    <div class="img-obra-direita2" alt="Os Timbiras"></div>
                     <div class="col-md-10">
-                        <h3 class="sub-titulo titulo-obra-direita">OS TIBIRAS</h3>
+                        <h3 class="sub-titulo titulo-obra-direita">OS TIMBIRAS</h3>
                         <p class="txt-obra-direita">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, iste molestias? Fugit quisquam corporis repellendus eligendi inventore tempora Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, iste molestias? Fugit quisquam corporis repellendus eligendi inventore tempora </p>
                         <p class="sitacao-obra-direita"><em>"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, iste molestias? Fugit quisquam corporis repellendus eligendi inventore tempora vero. " 
                  </em></p>
