@@ -80,6 +80,11 @@ a.active.dropdown-toggle:focus {
     outline-offset: -2px;
 }
 
+a:focus div {
+    outline: 25px auto -webkit-focus-ring-color;
+    outline-offset: 2px;
+}
+
 /* Desktop Only */
 
 @media (max-width: 768px) {
