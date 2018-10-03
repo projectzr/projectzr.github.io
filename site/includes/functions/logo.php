@@ -1,6 +1,6 @@
 <?php function logoGenerate($estilo, $width, $height) { ?>
 
-<svg width="<?= $width ?>" height="<?= $height ?>" viewBox="0 0 500 210" class="<?= $estilo ?>">
+<svg width="<?= $width ?>" height="<?= $height ?>" viewBox="0 0 500 210" class="<?= $estilo ?>" aria-hidden="true">
 <style type="text/css">
 	.dark .st0{fill:#BEBEBE ;}
 	.dark .st1{fill:#111111 ;}
