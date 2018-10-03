@@ -62,7 +62,7 @@
                         <div class="col-md-6 ">
                             <div class="row section">
                                 <figure>
-                                    <img src="img/simb/obra1.jpg" alt="capa do livros Faróis" >
+                                    <img src="img/simb/obra1.jpg" alt="capa do livros Faróis." >
                                     <figcaption><cite class="cor font">Primeira edição de Faróis,<br> de Cruz e Sousa </cite></figcaption>
                                 </figure>
                             </div>
