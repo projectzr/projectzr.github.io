@@ -48,7 +48,7 @@
         <article class="section container">
             
         <div class="col-md-12 section">
-                 <img src="img/pre-mord/contexto_historico.jpg" alt="" class="imgcenter">   
+                 <img src="img/pre-mord/contexto_historico.jpg" alt="Proclamação da República, 1893, tela de Benedito Calixto." class="imgcenter">   
             </div>
             
             <hr>
