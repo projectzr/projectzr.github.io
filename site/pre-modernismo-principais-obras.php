@@ -65,12 +65,12 @@
                 </div>
                 <div class="col-md-6 col-lg-6">
 
-                    <img src="img/pre-mord/1sertoes.jpg" alt="Capa de Livro" class="centralizar">
+                    <img src="img/pre-mord/1sertoes.jpg" alt="Os Sertões." class="centralizar">
                 </div>
             </div>
             <div class="row extra-space">
                 <div class="col-md-6 col-lg-6 hidden-xs hidden-sm">
-                    <img src="img/pre-mord/2eu.jpg" alt="Capa de Livro">
+                    <img src="img/pre-mord/2eu.jpg" alt="Eu e Outras Poesias.">
                 </div>
                 <div class="col-md-6 col-lg-6 text-justify">
                     <h2 class="titulo cor-obras1 line">Eu e Outras Poesias</h2>
@@ -90,7 +90,7 @@
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-6 hidden-lg hidden-md">
-                    <img src="img/pre-mord/2eu.jpg" alt="Capa de Livro">
+                    <img src="img/pre-mord/2eu.jpg" alt="Eu e Outras Poesias.">
                 </div>
             </div>
             <div class="row extra-space">
@@ -112,12 +112,12 @@
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-6">
-                    <img src="img/pre-mord/3tristefim.jpg" alt="Capa de Livro">
+                    <img src="img/pre-mord/3tristefim.jpg" alt="Triste Fim de Policarpo Quaresma.">
                 </div>
             </div>
             <div class="row">
                 <div class="col-md-6 col-lg-6 hidden-xs hidden-sm">
-                    <img src="img/pre-mord/4urupes.jpg" alt="Capa de Livro">
+                    <img src="img/pre-mord/4urupes.jpg" alt="Urupês.">
                 </div>
                 <div class="col-md-6 col-lg-6 text-justify">
                     <h2 class="titulo cor-obras1 line">Urupês</h2>
@@ -136,7 +136,7 @@
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-6 hidden-md hidden-lg">
-                    <img src="img/pre-mord/4urupes.jpg" alt="Capa de Livro">
+                    <img src="img/pre-mord/4urupes.jpg" alt="Urupês.">
                 </div>
             </div>
         </article>
