@@ -64,7 +64,7 @@
 
                     <div class="col-lg-12 text-center">
                         <figure>
-                            <img class="center-img" src="img/modernismo/AlgumaPoesia.jpg" alt="Alguma Poesia">
+                            <img class="center-img" src="img/modernismo/AlgumaPoesia.jpg" alt="Alguma Poesia.">
                             <figcaption>
                                 <cite>Primeira obra poética de Drummond, foi publicado em 1930.<br>
                               Reuni produções de 1925 a 1930 , tem sido considerado como elo de ligação entre a primeira e a segunda geração do Modernismo, representando a síntese mais perfeita entre elas.</cite>
@@ -89,7 +89,7 @@
                     
                     <div class="col-lg-12 text-center"> 
                          <figure>
-                        <img class="center-img" src="img/modernismo/AFestaDasLetras.jpg" alt="A Festa da Letras">
+                        <img class="center-img" src="img/modernismo/AFestaDasLetras.jpg" alt="A Festa da Letras.">
                               <figcaption>
                                 <cite>Lorem ipsum dolor sit amet, consectetur adipisicing elit.<br>
                              Dolorum est sunt eligendi molestiae nemo blanditiis, quisquam maiores aut quam ducimus nulla ullam manam cDpois sapiente in reiciendis. Officia, non, voluptate.Lorem ipsum dolor sit amet.</cite>
@@ -118,7 +118,7 @@
                     
                     <div class="col-lg-12 text-center"> 
                          <figure>
-                        <img class="center-img" src="img/modernismo/ACinzaDasHoras.jpg" alt="A Cinza das Horas">
+                        <img class="center-img" src="img/modernismo/ACinzaDasHoras.jpg" alt="A Cinza das Horas.">
                               <figcaption>
                                 <cite>Lorem ipsum dolor sit amet, consectetur adipisicing elit.<br>
                              Dolorum est sunt eligendi molestiae nemo blanditiis, quisquam maiores aut quam ducimus nulla ullam manam cDpois sapiente in reiciendis. Officia, non, voluptate.Lorem ipsum dolor sit amet.</cite>
