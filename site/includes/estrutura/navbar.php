@@ -7,7 +7,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand logo-brand" href="index.php">
+            <a class="navbar-brand logo-brand" href="index.php" aria-label="Página Inicial">
                 <!-- sombra, corpo, verde, amarelo, width, height -->
                 <?php logoGenerate('light', '40px', '100%'); ?>
             </a>
