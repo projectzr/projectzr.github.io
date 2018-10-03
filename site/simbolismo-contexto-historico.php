@@ -55,7 +55,7 @@
                     </div>
                     <div class="col-lg-4 text-center">
                         <figure>
-                            <img src='img/simb/belle-epoque.jpg' alt='Molin Rouge França' class="imgcenter" />
+                            <img src='img/simb/belle-epoque.jpg' alt='Molin Rouge França.' class="imgcenter" />
                             <!--                        <img src='https://upload.wikimedia.org/wikipedia/commons/1/18/Henri_de_Toulouse-Lautrec_005.jpg' alt='' class="imgcenter" />-->
                             <figcaption>
                                 <cite class="cor">
@@ -90,7 +90,7 @@
                     </div>
                     <div class="col-lg-4 text-center">
                         <figure>
-                            <img src='img/simb/dia_entrudo.jpg' alt='escravos pintam rosto de branco no carnaval' class="imgcenter" />
+                            <img src='img/simb/dia_entrudo.jpg' alt='escravos pintam rosto de branco no carnaval.' class="imgcenter" />
                             <figcaption>
                                 <cite class="cor">
                             Jean Baptiste Debret: Dia de Entrudo
