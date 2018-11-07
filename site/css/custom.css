@@ -140,7 +140,7 @@ a:focus div {
     padding: 10px 0px !important;
     margin: 0;
     line-height: 2.5rem;
-    font-size: font-size: 1.43em;
+    font-size: 1.43em;
     font-weight: bold;
     font-family: 'Bitter', serif;
 }
@@ -858,4 +858,3 @@ footer .footer-mapa:first-child::after {
     bottom: 0.4rem;
     margin-top: 30px;
 }
-
