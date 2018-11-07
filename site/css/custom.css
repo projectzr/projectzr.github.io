@@ -245,7 +245,7 @@ a:focus div {
 }
 
 .inicio p:first-child {
-    font-size: 20pt; /********************************************************************/
+    font-size: 1.9em;
     letter-spacing: 3pt;
 }
 
@@ -255,7 +255,7 @@ a:focus div {
 }
 
 .inicio .subtitle {
-    font-size: 2rem !important; /********************************************************************/
+    font-size: 1.43em !important;
     margin-top: -18px;
 }
 
@@ -753,7 +753,7 @@ footer .footer-mapa:first-child::after {
 } */
 
 .QM.thumbnail h2 {
-    font-size: 2.7rem; /**************************************************************************/
+    font-size: 1.21em;
     font-weight: bold;
     font-family: 'Bitter', serif;
     font-variant: small-caps;
@@ -811,7 +811,7 @@ footer .footer-mapa:first-child::after {
 /*Academia 
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .font p{
-    font-size: 1.7rem; /*************************************************************************/
+    font-size: 1.22em;
     line-height: 2.95rem;
     font-family: 'Slabo 27px', serif;
 }
