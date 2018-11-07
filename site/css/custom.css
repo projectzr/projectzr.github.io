@@ -9,6 +9,7 @@
 
 body {
     background-color: #ebebeb;
+    font-size: 1.4em;
 }
 
 .section {
@@ -18,7 +19,7 @@ body {
 }
 
 .titulo {
-    font-size: 3rem;
+    font-size: 2.13em;   /*  3rem  */
     font-weight: bold;
     margin-bottom: 6rem;
     font-family: 'Bitter', serif;
@@ -30,7 +31,7 @@ body {
 }
 
 .sub-titulo {
-    font-size: 1.7rem;
+    font-size: 1.22em;
     font-weight: bold;
     font-family: 'Bitter', serif;
 }
@@ -57,7 +58,7 @@ body {
 }
 
 p {
-    font-size: 1.7rem;
+    font-size: 1.21em;   /* 1.7rem */
     line-height: 2.95rem;
     font-family: 'Slabo 27px', serif;
     /* font-family: 'Zilla Slab', serif; */
@@ -139,7 +140,7 @@ a:focus div {
     padding: 10px 0px !important;
     margin: 0;
     line-height: 2.5rem;
-    font-size: 1.7rem;
+    font-size: font-size: 1.43em;
     font-weight: bold;
     font-family: 'Bitter', serif;
 }
@@ -163,7 +164,7 @@ a:focus div {
 .mega-dropdown-menu > li > ul > li > ul > li > a {
     display: block;
     line-height: 3.5rem;
-    font-size: 1.38rem;
+    font-size: 1.18em;
     white-space: normal;
 }
 
@@ -240,11 +241,11 @@ a:focus div {
 }
 
 .inicio p:last-child {
-    font-size: 12pt;
+    font-size: 1.14em;
 }
 
 .inicio p:first-child {
-    font-size: 20pt;
+    font-size: 20pt; /********************************************************************/
     letter-spacing: 3pt;
 }
 
@@ -254,7 +255,7 @@ a:focus div {
 }
 
 .inicio .subtitle {
-    font-size: 2rem !important;
+    font-size: 2rem !important; /********************************************************************/
     margin-top: -18px;
 }
 
@@ -302,7 +303,7 @@ a:focus div {
     top: -11px;
     left: 40px;
     padding: 0 10px;
-    font-size: 16px;
+    font-size: 1.12em;
     background-color: #ebebeb;
     width: auto;
     display: inline-block;
@@ -385,7 +386,7 @@ a:focus div {
     font-variant: small-caps;
     /* -moz-font-feature-settings: "smcp" 1; */
     /* font-feature-settings: "smcp" 1; */
-    font-size: 27pt;
+    font-size: 2.55em;
     margin-bottom: 20px;
 }
 
@@ -400,7 +401,7 @@ a:focus div {
 }
 
 .autor-texto {
-    font-size: 14pt;
+    font-size: 1.33em;
 }
 
 .materia {
@@ -607,7 +608,7 @@ footer {
 footer p {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: normal;
-    font-size: 1.4rem;
+    font-size: 1.0em;   /* 1.4rem */
     color: #727272;
 }
 
@@ -752,7 +753,7 @@ footer .footer-mapa:first-child::after {
 } */
 
 .QM.thumbnail h2 {
-    font-size: 2.7rem;
+    font-size: 2.7rem; /**************************************************************************/
     font-weight: bold;
     font-family: 'Bitter', serif;
     font-variant: small-caps;
@@ -810,7 +811,7 @@ footer .footer-mapa:first-child::after {
 /*Academia 
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .font p{
-    font-size: 1.7rem;
+    font-size: 1.7rem; /*************************************************************************/
     line-height: 2.95rem;
     font-family: 'Slabo 27px', serif;
 }
