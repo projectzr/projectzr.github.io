@@ -47,7 +47,7 @@ Pós-Modernismo (1950 - até hoje)                 | (Filipe)
 
 - [x] O "tema" do portal será alguma forma de arte a ser definida livremente pelo grupo;
 - [x] Cada aluno será responsável por uma "área" dentro do portal;
-- [ ] O cálculo da nota será feito com a média entre a nota individual do aluno e a nota geral do grupo;
+- [x] O cálculo da nota será feito com a média entre a nota individual do aluno e a nota geral do grupo;
 - [x] A áreas &quot;comuns&quot; são responsabilidade de todos os membros do projeto;
 - [x] Recomendamos que o grupo eleja um gerente para coordenar as atividades de todos;
 - [x] Recomendamos o uso da plataforma GIT;
@@ -64,9 +64,9 @@ Pós-Modernismo (1950 - até hoje)                 | (Filipe)
     - [x] Agenda
 - [x] A página "quem somos" é obrigatória e deve conter:
   - [x] Foto do aluno;
-  - [ ] *Mini-biografia (144 caracteres);*
+  - [x] *Mini-biografia (144 caracteres);*
   - [x] Nome;
-  - [ ] *R.A.;*
+  - [x] *R.A.;*
   - [x] Função no grupo (coder, gerente, designer, etc);
   - [x] Área pela qual é responsável, com link para a mesma.
   
