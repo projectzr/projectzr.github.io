@@ -241,15 +241,6 @@ a:focus div {
     .basic-menu > li > a:first-child {
         border-bottom: 1px solid #ddd;
     }
-    .navbar-custom a {
-        padding-top: 13px !important;
-        padding-bottom: 13px !important;
-        line-height: 20px !important;
-        border-bottom: 1px solid #080808;
-    }
-    .navbar-custom a:last:child {
-        border: none;
-    }
 }
 
 @media (max-width: 991px) {
@@ -884,4 +875,9 @@ footer .footer-mapa:first-child::after {
     width: 26%;
     bottom: 0.4rem;
     margin-top: 30px;
+}
+
+/* Formulário em em */
+.form-control{
+font-size: 1em !important; 
 }
