@@ -48,7 +48,7 @@ article p, aside p, section p {
 .first-letter::first-letter {
     padding: 20px 10px 0px 0px;
     font-weight: 600;
-    font-size: 8em;
+    font-size: 138px;
     line-height: 7rem;
     color: #1C400A;
     float: left;
@@ -57,7 +57,7 @@ article p, aside p, section p {
 .first-letter-obras::first-letter {
     padding: 14px 10px 0px 0px;
     font-weight: 600;
-    font-size: 7.0em;
+    font-size: 138px;
     line-height: 7rem;
     color: #1C400A;
     float: left;
