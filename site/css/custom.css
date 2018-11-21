@@ -105,8 +105,23 @@ a:focus div {
 /* Navbar
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
+.nav-button {
+    filter: alpha(opacity=90);
+    background-image: -webkit-linear-gradient(transparent,rgba(0,0,0,.3) 0%,rgba(0,0,0,.5));
+    background-image: linear-gradient(transparent,rgba(0,0,0,.3) 0%,rgba(0,0,0,.5));
+    padding: .5em 1em;
+    border: 1px solid rgba(0,0,0,.5);
+}
+.nav-button:hover {
+    filter: alpha(opacity=90);
+    background-image: -webkit-linear-gradient(transparent,rgba(200,200,200,.3) 40%,rgba(200,200,200,.5));
+    background-image: linear-gradient(transparent,rgba(200,200,200,.3) 40%,rgba(200,200,200,.5));
+    padding: .5em 1em;
+    border: 1px solid rgba(0,0,0,.5);
+}
+
 .navbar-custom a {
-    color: #ddd;
+    color: #BFBFBF !important;
     text-decoration: none;
 }
 
