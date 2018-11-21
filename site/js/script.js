@@ -42,3 +42,14 @@ $(document).ready(function () {
         }
     });
 });
+
+function fontMinus() {
+    var $body = $('body'); //Cache this for performance
+    var fontSize = 1;
+    $('body').css('font-size', '1.5em'); // 2em grande - 1.5em normal
+}
+function fontMax() {
+    var $body = $('body'); //Cache this for performance
+    var fontSize = 1;
+    $('body').css('font-size', '2em'); // 2em grande - 1.5em normal
+}
