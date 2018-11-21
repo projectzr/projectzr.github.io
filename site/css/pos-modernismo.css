@@ -62,7 +62,7 @@ blockquote{
 .ficha-tecnica td, .ficha-tecnica th {
     border: 1px solid #ddd;
     padding: 5px;
-    font-size: 1.4rem;
+    font-size: 1em;
 }
 .ficha-tecnica tr:nth-child(even){
     background-color: #f2f2f2;
