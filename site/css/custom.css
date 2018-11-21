@@ -241,6 +241,15 @@ a:focus div {
     .basic-menu > li > a:first-child {
         border-bottom: 1px solid #ddd;
     }
+    navbar-custom a {
+        padding-top: 15px;
+        padding-bottom: 15px;
+        line-height: 20px;
+        border-bottom: 1px solid #080808;
+    }
+    navbar-custom a:last-child {
+        border-bottom: none;
+    }
 }
 
 @media (max-width: 991px) {
