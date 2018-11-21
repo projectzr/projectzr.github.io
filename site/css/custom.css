@@ -236,7 +236,10 @@ a:focus div {
         cursor: pointer;
     }
     .basic-menu > li > a {
-        padding: 8px 15px 8px 25px !important;
+        padding: 13px 19px 13px 25px !important;
+    }
+    .basic-menu > li > a:first-child {
+        border-bottom: 1px solid #ddd;
     }
 }
 
