@@ -157,7 +157,10 @@
                 </li>
                 <li class="<?php checkURL('mapa.php');?>"><a href="mapa.php">Mapa</a></li>
             </ul>
-            <span class="navbar-text dia-nav" id="data-atual"></span>
+            <div class="navbar-text dia-nav">
+                <a href="#" class="nav-button" id="font-minus" onclick="fontMinus()">-a</a>
+                <a href="#" class="nav-button" id="font-max" onclick="fontMax()">+A</a>
+            </div>
         </div>
         <!-- /.nav-collapse -->
         </div>
