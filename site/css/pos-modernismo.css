@@ -13,7 +13,7 @@ article p, aside p, section p, article small {
 .first-letter:first-of-type:first-letter {
     padding: 20px 10px 1px 0px;
     font-weight: 600;
-    font-size: 8em;
+    font-size: 138px;
     line-height: 6rem;
     color: #9998b5;
     float: left;
