@@ -121,8 +121,11 @@ a:focus div {
 }
 
 .navbar-custom a {
-    color: #BFBFBF !important;
     text-decoration: none;
+}
+
+#font-minus, #font-max {
+    color: #BFBFBF;
 }
 
 .navbar-custom a:hover {
@@ -181,6 +184,10 @@ a:focus div {
     line-height: 3.5rem;
     font-size: 1.18em;
     white-space: normal;
+}
+
+.zoom .mega-dropdown-menu > li > ul > li > ul > li > a {
+    font-size: 1.48em;
 }
 
 .mega-dropdown-menu > li > ul > li > ul > li > a::before {
@@ -316,6 +323,10 @@ a:focus div {
 }
 .breadcrumb .dropdown-menu>li>a {
     padding: 10px 20px;
+}
+
+.zoom .breadcrumb .dropdown-menu>li>a {
+    font-size: 1.8em;
 }
 
 /* Divisores
