@@ -124,7 +124,7 @@ a:focus div {
     text-decoration: none;
 }
 
-#font-minus, #font-max {
+#font-minus, #font-max, #addContrast, #remontrast {
     color: #BFBFBF;
 }
 
