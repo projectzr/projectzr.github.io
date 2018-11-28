@@ -55,3 +55,17 @@ function fontMax() {
     $('body').css('font-size', '2em'); // 2em grande - 1.5em normal
     $('body').addClass('zoom');
 }
+
+
+function addContrast() {
+    var $head = $('head'); //Cache this for performance
+    $('head').append('<link rel="stylesheet" type="text/css" href="css/contraste.css">');
+    $('#addContrast').css('display', 'none');
+    $('#remContrast').css('display', 'inline');
+}
+function remContrast() {
+    var $head = $('head'); //Cache this for performance
+    $('link[href="css/contraste.css"]').remove();
+    $('#remContrast').css('display', 'none');
+    $('#addContrast').css('display', 'inline');
+}
