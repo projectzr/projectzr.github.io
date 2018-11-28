@@ -259,7 +259,7 @@ a:focus div {
     }
 }
 
-@media (max-width: 991px) {
+@media (max-width: 768px) {
     .dia-nav {
         display: none;
     }
