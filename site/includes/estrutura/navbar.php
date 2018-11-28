@@ -158,6 +158,8 @@
                 <li class="<?php checkURL('mapa.php');?>"><a href="mapa.php">Mapa</a></li>
             </ul>
             <div class="navbar-text dia-nav">
+                <a href="#" class="nav-button" id="addContrast" onclick="addContrast()">C</a>
+                <a href="#" class="nav-button" id="remContrast" onclick="remContrast()" style="display:none;">C</a>
                 <a href="#" class="nav-button" id="font-minus" onclick="fontMinus()">-a</a>
                 <a href="#" class="nav-button" id="font-max" onclick="fontMax()">+A</a>
             </div>
