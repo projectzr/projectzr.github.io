@@ -35,7 +35,7 @@
                                         <h2 class="sub-titulo">
                                             <?= $nome ?>
                                                 <br>
-                                                <small>RA:
+                                                <small>R A:
                                                 <?= $RA ?>
                                             </small>
                                         </h2>
