@@ -166,13 +166,14 @@ a:focus div {
     width: 100%;
 }
 
-.mega-dropdown-menu .dropdown-header span {
+.mega-dropdown-menu .dropdown-header span h2 {
     padding: 10px 0px !important;
     margin: 0;
     line-height: 2.5rem;
     font-size: 1.43em;
     font-weight: bold;
     font-family: 'Bitter', serif;
+    display: inline;
 }
 
 .mega-dropdown-menu .dropdown-header::before {

@@ -34,7 +34,7 @@
                     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
                 <div class="row materia">
                     <a href="<?= $nome ?>-contexto-historico.php">
-                        <div class="materia-img"><img src="<?= $imagem1 ?>" alt=" <?= $titulo1  ?>"></div>
+                        <div class="materia-img"><img src="<?= $imagem1 ?>" alt="Capa da matéria <?= $titulo1  ?>"></div>
                         <h3 class="titulo">
                             <?= $titulo1  ?>
                         </h3>
@@ -48,7 +48,7 @@
                     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
                 <div class="row materia right">
                     <a href="<?= $nome ?>-principais-obras.php">
-                        <div class="materia-img right"><img src="<?= $imagem2 ?>" alt=" <?= $titulo2  ?>"></div>
+                        <div class="materia-img right"><img src="<?= $imagem2 ?>" alt="Capa da matéria <?= $titulo2  ?>"></div>
                         <h3 class="titulo">
                             <?= $titulo2  ?>
                         </h3>
@@ -62,7 +62,7 @@
                     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
                 <div class="row materia">
                     <a href="dicas-de-vestibular.php#<?= $nome ?>">
-                        <div class="materia-img"><img src="<?= $imagem3 ?>" alt=" <?= $titulo3  ?>"></div>
+                        <div class="materia-img"><img src="<?= $imagem3 ?>" alt="Capa da matéria <?= $titulo3  ?>"></div>
                         <h3 class="titulo">
                             <?= $titulo3 ?>
                         </h3>

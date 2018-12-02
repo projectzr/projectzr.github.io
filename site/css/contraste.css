@@ -10,7 +10,7 @@
   aside,
   article,
   body {
-      background: black !important;
+      background-color: black !important;
       color: white !important;
   }
 
@@ -37,11 +37,19 @@
       color: yellow !important;
   }
 
+  .mega-dropdown-menu > li > ul > li > ul > li:hover > a,
+  .dropdown-menu > li > a:focus,
+  .dropdown-menu > li > a:hover {
+      color: black !important;
+      background-color: yellow;
+
+  }
+
   button,
   input[type=button],
   input[type=reset],
   input[type=submit] {
-      background: black !important;
+      background-color: black !important;
       color: yellow !important;
       border: none !important;
   }
@@ -59,7 +67,7 @@
   input[type=datetime-local],
   textarea,
   input[type=number] {
-      background: black !important;
+      background-color: black !important;
       border: 1px solid white !important;
       color: white !important;
   }

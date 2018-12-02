@@ -71,7 +71,7 @@
                     <ul class="dropdown-menu mega-dropdown-menu">
                         <li class="col-sm-6 col-lg-4">
                             <ul>
-                                <li class="dropdown-header escola1-navid" data-type="drop-escola" data-target="drop-escola1"><span>Romantismo</span>
+                                <li class="dropdown-header escola1-navid" data-type="drop-escola" data-target="drop-escola1"><span><h2 tabindex="0">Romantismo</h2></span>
                                     <ul class="drop-escola nav-hide" id="drop-escola1">
                                         <li><a href="romantismo-contexto-historico.php">Romantismo e a Independência</a></li>
                                         <li><a href="romantismo-principais-obras.php">As Grandes Obras</a></li>
@@ -84,7 +84,7 @@
 
                         <li class="col-sm-6 col-lg-4">
                             <ul>
-                                <li class="dropdown-header escola2-navid" data-type="drop-escola" data-target="drop-escola2"><span>Realismo</span>
+                                <li class="dropdown-header escola2-navid" data-type="drop-escola" data-target="drop-escola2"><span><h2 tabindex="0">Realismo</h2></span>
                                     <ul class="drop-escola nav-hide" id="drop-escola2">
                                         <li><a href="realismo-contexto-historico.php">O Brasil das ideias liberais</a></li>
                                         <li><a href="realismo-principais-obras.php">Realismo no Brasil</a></li>
@@ -96,7 +96,7 @@
                         </li>
                         <li class="col-sm-6 col-lg-4">
                             <ul>
-                                <li class="dropdown-header escola3-navid" data-type="drop-escola" data-target="drop-escola3"><span>Simbolismo</span>
+                                <li class="dropdown-header escola3-navid" data-type="drop-escola" data-target="drop-escola3"><span><h2 tabindex="0">Simbolismo</h2></span>
                                     <ul class="drop-escola nav-hide" id="drop-escola3">
                                         <li><a href="simbolismo-contexto-historico.php">O Início da Belle Époque</a></li>
                                         <li><a href="simbolismo-principais-obras.php">Obras da Época</a></li>
@@ -108,7 +108,7 @@
                         </li>
                         <li class="col-sm-6 col-lg-4">
                             <ul>
-                                <li class="dropdown-header escola4-navid" data-type="drop-escola" data-target="drop-escola4"><span>Pré-Modernismo</span>
+                                <li class="dropdown-header escola4-navid" data-type="drop-escola" data-target="drop-escola4"><span><h2 tabindex="0">Pré-Modernismo</h2></span>
                                     <ul class="drop-escola nav-hide" id="drop-escola4">
                                         <li><a href="pre-modernismo-contexto-historico.php">Consolidação da República</a></li>
                                         <li><a href="pre-modernismo-principais-obras.php">Manifestação dos Autores</a></li>
@@ -120,7 +120,7 @@
                         </li>
                         <li class="col-sm-6 col-lg-4">
                             <ul>
-                                <li class="dropdown-header escola5-navid" data-type="drop-escola" data-target="drop-escola5"><span>Modernismo</span>
+                                <li class="dropdown-header escola5-navid" data-type="drop-escola" data-target="drop-escola5"><span><h2 tabindex="0">Modernismo</h2></span>
                                     <ul class="drop-escola nav-hide" id="drop-escola5">
                                         <li><a href="modernismo-contexto-historico.php">Semana da Arte Moderna</a></li>
                                         <li><a href="modernismo-principais-obras.php">Principais Obras</a></li>
@@ -132,7 +132,7 @@
                         </li>
                         <li class="col-sm-6 col-lg-4">
                             <ul>
-                                <li class="dropdown-header escola6-navid" data-type="drop-escola" data-target="drop-escola6"><span>Pós-Modernismo</span>
+                                <li class="dropdown-header escola6-navid" data-type="drop-escola" data-target="drop-escola6"><span><h2 tabindex="0">Pós-Modernismo</h2></span>
                                     <ul class="drop-escola nav-hide" id="drop-escola6">
                                         <li><a href="pos-modernismo-contexto-historico.php">A Guerra, A História</a></li>
                                         <li><a href="pos-modernismo-principais-obras.php">Obras que Marcaram</a></li>
