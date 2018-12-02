@@ -7,6 +7,12 @@
 /* Padrões
 –––-–––––––––––––––––––––––––––––––––––––––––––––– */
 
+*:focus,
+.autor-destaque.person:hover {
+    outline: 4px dotted red
+}
+
+
 body {
     background-color: #ebebeb;
     font-size: 1.4em;
@@ -19,7 +25,8 @@ body {
 }
 
 .titulo {
-    font-size: 2.13em;   /*  3rem  */
+    font-size: 2.13em;
+    /*  3rem  */
     font-weight: bold;
     margin-bottom: 6rem;
     font-family: 'Bitter', serif;
@@ -58,7 +65,8 @@ body {
 }
 
 p {
-    font-size: 1.21em;   /* 1.7rem */
+    font-size: 1.21em;
+    /* 1.7rem */
     line-height: 2.95rem;
     font-family: 'Slabo 27px', serif;
     /* font-family: 'Zilla Slab', serif; */
@@ -107,24 +115,28 @@ a:focus div {
 
 .nav-button {
     filter: alpha(opacity=90);
-    background-image: -webkit-linear-gradient(transparent,rgba(0,0,0,.3) 0%,rgba(0,0,0,.5));
-    background-image: linear-gradient(transparent,rgba(0,0,0,.3) 0%,rgba(0,0,0,.5));
+    background-image: -webkit-linear-gradient(transparent, rgba(0, 0, 0, .3) 0%, rgba(0, 0, 0, .5));
+    background-image: linear-gradient(transparent, rgba(0, 0, 0, .3) 0%, rgba(0, 0, 0, .5));
     padding: .5em 1em;
-    border: 1px solid rgba(0,0,0,.5);
+    border: 1px solid rgba(0, 0, 0, .5);
 }
+
 .nav-button:hover {
     filter: alpha(opacity=90);
-    background-image: -webkit-linear-gradient(transparent,rgba(200,200,200,.3) 40%,rgba(200,200,200,.5));
-    background-image: linear-gradient(transparent,rgba(200,200,200,.3) 40%,rgba(200,200,200,.5));
+    background-image: -webkit-linear-gradient(transparent, rgba(200, 200, 200, .3) 40%, rgba(200, 200, 200, .5));
+    background-image: linear-gradient(transparent, rgba(200, 200, 200, .3) 40%, rgba(200, 200, 200, .5));
     padding: .5em 1em;
-    border: 1px solid rgba(0,0,0,.5);
+    border: 1px solid rgba(0, 0, 0, .5);
 }
 
 .navbar-custom a {
     text-decoration: none;
 }
 
-#font-minus, #font-max, #addContrast, #remontrast {
+#font-minus,
+#font-max,
+#addContrast,
+#remontrast {
     color: #BFBFBF;
 }
 
@@ -304,7 +316,7 @@ a:focus div {
 /* Breadcrumb
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
-.breadcrumb>li+li:before {
+.breadcrumb > li + li:before {
     padding: 0 5px;
     color: #ccc;
     content: "/\00a0";
@@ -314,18 +326,21 @@ a:focus div {
     background-color: transparent;
     border-bottom: 1px solid #ccc;
 }
+
 .breadcrumb li a {
     color: #36a7d9;
     /* color:#207e36; */
 }
+
 .breadcrumb .dropdown-toggle {
     color: #777;
 }
-.breadcrumb .dropdown-menu>li>a {
+
+.breadcrumb .dropdown-menu > li > a {
     padding: 10px 20px;
 }
 
-.zoom .breadcrumb .dropdown-menu>li>a {
+.zoom .breadcrumb .dropdown-menu > li > a {
     font-size: 1.8em;
 }
 
@@ -336,6 +351,7 @@ a:focus div {
     height: 1px;
     position: relative;
 }
+
 .text-divisor {
     position: absolute;
     top: -11px;
@@ -646,7 +662,8 @@ footer {
 footer p {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: normal;
-    font-size: 1.0em;   /* 1.4rem */
+    font-size: 1.0em;
+    /* 1.4rem */
     color: #727272;
 }
 
@@ -750,6 +767,7 @@ footer .footer-mapa:first-child::after {
     flex-wrap: wrap;
     align-items: stretch;
 }
+
 .QM.noflex {
     flex: none;
 }
@@ -848,7 +866,8 @@ footer .footer-mapa:first-child::after {
 
 /*Academia 
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-.font p{
+
+.font p {
     font-size: 1.22em;
     line-height: 2.95rem;
     font-family: 'Slabo 27px', serif;
@@ -864,19 +883,24 @@ footer .footer-mapa:first-child::after {
 
 /* Dicas de Vestibular 
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
+
 .dv-space {
     height: 6rem;
 }
+
 .dv-space.dv-recuo {
     margin-top: -6rem;
 }
-.dv-space:target+.dv-destaque {
-    border-left: 8px solid rgba(48, 48, 48, 0.14);;
+
+.dv-space:target + .dv-destaque {
+    border-left: 8px solid rgba(48, 48, 48, 0.14);
+    ;
     padding-left: 20px;
 }
 
 /* Academeia de Letras  
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
+
 .AC.divisor {
     height: 1px;
     background-color: rgba(48, 48, 48, 0.14);
@@ -885,19 +909,21 @@ footer .footer-mapa:first-child::after {
     margin-bottom: 3rem;
     width: 100%;
 }
+
 .AC.divisor::after {
     content: "";
     display: block;
     position: relative;
     margin: 0 auto;
     height: 0.5rem;
-    background-color:gray ;
+    background-color: gray;
     width: 26%;
     bottom: 0.4rem;
     margin-top: 30px;
 }
 
 /* Formulário em em */
-.form-control{
-font-size: 1em !important; 
+
+.form-control {
+    font-size: 1em !important;
 }

@@ -9,8 +9,8 @@
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <meta charset="utf-8">
     <title>Brasil Literário - Pré-Modernismo: Principais Obras</title>
-        <?php include 'includes/estrutura/head.php'; ?>
-        <link rel="stylesheet" href="css/pre-modernismo.css">
+    <?php include 'includes/estrutura/head.php'; ?>
+    <link rel="stylesheet" href="css/pre-modernismo.css">
 
 </head>
 
@@ -27,13 +27,13 @@
     $subtitulo="Principais Obras"; 
     include 'includes/section-header.php'; 
     ?>
- <?php 
+    <?php 
     $nomea="Contexto";
     $linka="pre-modernismo-contexto-historico.php";
     $nomeb="Autor de destaque";
     $linkb="pre-modernismo-autor-destaque.php";
     include 'includes/breadcrumb.php'; 
-    ?> 
+    ?>
     <!-- Conteúdo
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <main>
@@ -43,23 +43,17 @@
         OBS: O Section define o espaçamento padrão de uma SESSÃO, 
         container se refere a classe usada pelo bootstrap
         –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-        <article class="section container">
+        <article class="section container" id="conteudo">
             <div class="row extra-space">
                 <div class="col-md-6 col-lg-6 text-justify">
 
                     <h2 class="titulo cor-obras1 line">Os Sertões</h2>
                     <h3 class="sub-titulo cor-sub-principais-obras1">Euclides da Cunha</h3>
                     <div class="cor-contexto">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium incidunt ducimus natus culpa
-                            cum dolorum quia similique, iste ullam, molestias, consequatur delectus? Nam ut, perferendis
-                            repellendus cum quo quas omnis tenetur excepturi laborum est saepe!</p>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium incidunt ducimus natus culpa
-                            cum dolorum quia similique, iste ullam, molestias, consequatur delectus? Nam ut, perferendis
-                            repellendus cum quo quas omnis tenetur excepturi laborum est saepe!</p>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium incidunt ducimus natus culpa
-                            cum dolorum quia similique, iste ullam, molestias, consequatur delectus? Nam ut, perferendis
-                            repellendus cum quo quas omnis tenetur excepturi laborum est saepe!</p>
-                       
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium incidunt ducimus natus culpa cum dolorum quia similique, iste ullam, molestias, consequatur delectus? Nam ut, perferendis repellendus cum quo quas omnis tenetur excepturi laborum est saepe!</p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium incidunt ducimus natus culpa cum dolorum quia similique, iste ullam, molestias, consequatur delectus? Nam ut, perferendis repellendus cum quo quas omnis tenetur excepturi laborum est saepe!</p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium incidunt ducimus natus culpa cum dolorum quia similique, iste ullam, molestias, consequatur delectus? Nam ut, perferendis repellendus cum quo quas omnis tenetur excepturi laborum est saepe!</p>
+
                     </div>
 
                 </div>
@@ -77,16 +71,10 @@
                     <h3 class="sub-titulo cor-sub-principais-obras1">Augusto dos Anjos</h3>
                     <div class="cor-contexto">
 
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium incidunt ducimus natus culpa
-                            cum dolorum quia similique, iste ullam, molestias, consequatur delectus? Nam ut, perferendis
-                            repellendus cum quo quas omnis tenetur excepturi laborum est saepe!</p>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium incidunt ducimus natus culpa
-                            cum dolorum quia similique, iste ullam, molestias, consequatur delectus? Nam ut, perferendis
-                            repellendus cum quo quas omnis tenetur excepturi laborum est saepe!</p>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium incidunt ducimus natus culpa
-                            cum dolorum quia similique, iste ullam, molestias, consequatur delectus? Nam ut, perferendis
-                            repellendus cum quo quas omnis tenetur excepturi laborum est saepe!</p>
-                   
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium incidunt ducimus natus culpa cum dolorum quia similique, iste ullam, molestias, consequatur delectus? Nam ut, perferendis repellendus cum quo quas omnis tenetur excepturi laborum est saepe!</p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium incidunt ducimus natus culpa cum dolorum quia similique, iste ullam, molestias, consequatur delectus? Nam ut, perferendis repellendus cum quo quas omnis tenetur excepturi laborum est saepe!</p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium incidunt ducimus natus culpa cum dolorum quia similique, iste ullam, molestias, consequatur delectus? Nam ut, perferendis repellendus cum quo quas omnis tenetur excepturi laborum est saepe!</p>
+
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-6 hidden-lg hidden-md">
@@ -99,16 +87,10 @@
                     <h2 class="titulo cor-obras1 line lima">Triste Fim de Policarpo Quaresma</h2>
                     <h3 class="sub-titulo cor-sub-principais-obras1">Lima Barreto</h3>
                     <div class="cor-contexto">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium incidunt ducimus natus culpa
-                            cum dolorum quia similique, iste ullam, molestias, consequatur delectus? Nam ut, perferendis
-                            repellendus cum quo quas omnis tenetur excepturi laborum est saepe!</p>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium incidunt ducimus natus culpa
-                            cum dolorum quia similique, iste ullam, molestias, consequatur delectus? Nam ut, perferendis
-                            repellendus cum quo quas omnis tenetur excepturi laborum est saepe!</p>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium incidunt ducimus natus culpa
-                            cum dolorum quia similique, iste ullam, molestias, consequatur delectus? Nam ut, perferendis
-                            repellendus cum quo quas omnis tenetur excepturi laborum est saepe!</p>
-                     
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium incidunt ducimus natus culpa cum dolorum quia similique, iste ullam, molestias, consequatur delectus? Nam ut, perferendis repellendus cum quo quas omnis tenetur excepturi laborum est saepe!</p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium incidunt ducimus natus culpa cum dolorum quia similique, iste ullam, molestias, consequatur delectus? Nam ut, perferendis repellendus cum quo quas omnis tenetur excepturi laborum est saepe!</p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium incidunt ducimus natus culpa cum dolorum quia similique, iste ullam, molestias, consequatur delectus? Nam ut, perferendis repellendus cum quo quas omnis tenetur excepturi laborum est saepe!</p>
+
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-6">
@@ -123,16 +105,10 @@
                     <h2 class="titulo cor-obras1 line">Urupês</h2>
                     <h3 class="sub-titulo cor-sub-principais-obras1">Monteiro Lobato</h3>
                     <div class="cor-contexto">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium incidunt ducimus natus culpa
-                            cum dolorum quia similique, iste ullam, molestias, consequatur delectus? Nam ut, perferendis
-                            repellendus cum quo quas omnis tenetur excepturi laborum est saepe!</p>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium incidunt ducimus natus culpa
-                            cum dolorum quia similique, iste ullam, molestias, consequatur delectus? Nam ut, perferendis
-                            repellendus cum quo quas omnis tenetur excepturi laborum est saepe!</p>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium incidunt ducimus natus culpa
-                            cum dolorum quia similique, iste ullam, molestias, consequatur delectus? Nam ut, perferendis
-                            repellendus cum quo quas omnis tenetur excepturi laborum est saepe!</p>
-                   
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium incidunt ducimus natus culpa cum dolorum quia similique, iste ullam, molestias, consequatur delectus? Nam ut, perferendis repellendus cum quo quas omnis tenetur excepturi laborum est saepe!</p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium incidunt ducimus natus culpa cum dolorum quia similique, iste ullam, molestias, consequatur delectus? Nam ut, perferendis repellendus cum quo quas omnis tenetur excepturi laborum est saepe!</p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium incidunt ducimus natus culpa cum dolorum quia similique, iste ullam, molestias, consequatur delectus? Nam ut, perferendis repellendus cum quo quas omnis tenetur excepturi laborum est saepe!</p>
+
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-6 hidden-md hidden-lg">

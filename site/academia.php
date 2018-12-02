@@ -30,7 +30,7 @@
 
     <!-- Conteúdo
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <article class="section">
+    <article class="section" id="conteudo">
         <h1 class="titulo no-space text-center">Academia Brasileira de Letras</h1>
         <div class=" AC divisor"></div>
 

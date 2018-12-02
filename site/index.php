@@ -3,14 +3,14 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 
-<head> 
-   
+<head>
+
     <!-- Informações básicas
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <meta charset="utf-8">
     <title>Portal Brasil Literário</title>
     <?php include 'includes/estrutura/head.php'; ?>
-    
+
 </head>
 
 <body>
@@ -21,22 +21,22 @@
 
     <!-- Header
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <?php include 'includes/home-header.php'; ?>    
+    <?php include 'includes/home-header.php'; ?>
 
     <!-- Conteúdo
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <main>
+    <main id="conteudo">
         <h1 style="display: none">Conteúdo</h1>
-        
+
         <!-- Escolas Literárias
         –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-        <?php include 'includes/home-content.php'; ?>    
-        
+        <?php include 'includes/home-content.php'; ?>
+
     </main>
 
     <!-- Rodapé
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <?php include 'includes/estrutura/footer.php'; ?>   
+    <?php include 'includes/estrutura/footer.php'; ?>
 
 </body>
 

@@ -27,19 +27,19 @@
     $subtitulo="Principais Obras"; 
     include 'includes/section-header.php'; 
     ?>
-    
+
     <!-- $nome-extra-a: nome do primeiro link extra -->
     <!-- $link-extra-a: link do primeiro link extra -->
     <!-- $nome-extra-b: nome do primeiro link extra -->
     <!-- $link-extra-b: link do primeiro link extra -->
-    
+
     <?php 
     $nomea="Romantismo e a Independência";
     $linka="romantismo-contexto-historico.php";
     $nomeb="Autor de destaque";
     $linkb="romantismo-autor-destaque.php";
     include 'includes/breadcrumb.php'; 
-    ?>  
+    ?>
 
     <!-- Conteúdo
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
@@ -50,7 +50,7 @@
         OBS: O Section define o espaçamento padrão de uma SESSÃO, 
         container se refere a classe usada pelo bootstrap
         –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-        <article class="section container">
+        <article class="section container" id="conteudo">
             <div class="col-md-12 principais-obras">
                 <h3 class="sub-titulo titulo-pag-obra">Conheça a seguir um pouco mais a respeito das principais obras literárias do Romantismo Brasileiro.</h3>
                 <div class="col-md-12 obra-esquerda">
@@ -73,7 +73,7 @@
                     </div>
 
                 </div>
-               <div class="col-md-12 obra-direita">
+                <div class="col-md-12 obra-direita">
                     <div class="img-obra-direita1" alt="Memórias de um Sargento de Milícias."></div>
                     <div class="col-md-10">
                         <h3 class="sub-titulo titulo-obra-direita">MEMÓRIAS DE UM SARGENTO DE MILÍCIAS</h3>

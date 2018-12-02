@@ -1,6 +1,9 @@
-    <nav id="menu" class="navbar navbar-custom navbar-fixed-top navbar-inverse">
-        <div class="container">
+<nav id="menu" class="navbar navbar-custom navbar-fixed-top navbar-inverse">
+    <a href="#conteudo" class="sr-only sr-only-focusable" tabindex="0">Pular para o Conteúdo </a>
+    <div class="container">
+
         <div class="navbar-header">
+
             <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".js-navbar-collapse">
                 <span class="sr-only">Toggle navigation</span>
                 <span class="icon-bar"></span>
@@ -11,7 +14,7 @@
                 <!-- sombra, corpo, verde, amarelo, width, height -->
                 <?php logoGenerate('light', '40px', '100%'); ?>
             </a>
-<!--
+            <!--
             <a class="navbar-brand text-brand" href="index.php">
                 Brasil Literário
             </a>
@@ -20,7 +23,7 @@
 
         <div class="collapse navbar-collapse js-navbar-collapse">
             <ul class="nav navbar-nav">
-                
+
                 <?php 
                 function checkURL($pagina){
                     $page = basename($_SERVER['PHP_SELF']);  
@@ -62,14 +65,14 @@
                     }
                 }
                 ?>
-                
+
                 <li class="dropdown mega-dropdown <?php checkURL('escolas.php');?>">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">Escolas Literárias <span class="caret"></span></a>
                     <ul class="dropdown-menu mega-dropdown-menu">
                         <li class="col-sm-6 col-lg-4">
                             <ul>
                                 <li class="dropdown-header escola1-navid" data-type="drop-escola" data-target="drop-escola1"><span>Romantismo</span>
-                                    <ul class="drop-escola nav-hide" id="drop-escola1"> 
+                                    <ul class="drop-escola nav-hide" id="drop-escola1">
                                         <li><a href="romantismo-contexto-historico.php">Romantismo e a Independência</a></li>
                                         <li><a href="romantismo-principais-obras.php">As Grandes Obras</a></li>
                                         <li><a href="romantismo-autor-destaque.php">Autor de destaque: José de Alencar</a></li>
@@ -77,8 +80,8 @@
                                 </li>
                                 <li class="divider"></li>
                             </ul>
-                        </li>     
-                        
+                        </li>
+
                         <li class="col-sm-6 col-lg-4">
                             <ul>
                                 <li class="dropdown-header escola2-navid" data-type="drop-escola" data-target="drop-escola2"><span>Realismo</span>
@@ -141,7 +144,7 @@
                         </li>
                     </ul>
                 </li>
-                   
+
                 <li class="<?php checkURL('agenda.php');?>"><a href="agenda.php">Agenda</a></li>
                 <li class="<?php checkURL('contato.php');?>"><a href="contato.php">Contato</a></li>
                 <li class="dropdown <?php checkURL('institucional.php');?>">
@@ -165,5 +168,5 @@
             </div>
         </div>
         <!-- /.nav-collapse -->
-        </div>
-    </nav>
+    </div>
+</nav>

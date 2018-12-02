@@ -3,10 +3,10 @@
     <h1 style="display: none">Conteúdo</h1>
     <!-- Alunos -->
     <div class="container">
-        <div class="section">
+        <div class="section" id="conteudo">
             <!-- Coluna 1
         –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-            <div class="col-xs-12 col-md-12">
+            <div class="col-xs-12 col-md-12" tabindex="0">
                 <!-- Primeira linha
             –––––––––––––––––––––––––––––––––––––––––––––––––– -->
                 <div class="row QM special-mid-space">
@@ -16,9 +16,9 @@
                     <p class="special-no-space">Pariatur officia, accusamus nemoarchitecto at quia ex, totamlaboriosam sunt quasi impedit, corporis dolor labore.Lorem ipsum dolor sit amet, consectetur adipisicing lit. Debitisex iste eos? Vero ipsam minus,sed neque cupiditate expedita. </p>
                 </div>
             </div>
-            <div class="col-xs-12 col-md-12">
+            <div class="col-xs-12 col-md-12" tabindex="0">
                 <div class="row QM">
-                    <h1 class="titulo">A Equipe</h1>
+                    <h1 class="titulo" tabindex="0">A Equipe</h1>
                     <div class="QM divisor "></div>
                     <div class="QM flex">
                         <?php } ?>
@@ -26,34 +26,34 @@
                         <!-- Segunda  linha
                         –––––––––––––––––––––––––––––––––––––––––––––––––– -->
                         <!--Integrantes -->
-                        
+
                         <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4 extra-space QM noflex">
-                        <section>
-                            <div class="QM thumbnail materia <?= $escola ?>">
-                                <img src="<?= $perfilImagem ?> " alt=<?=$altImagem?> class="img-circle">
-                                <div class="caption">
-                                    <h2 class="sub-titulo">
-                                        <?= $nome ?>
-                                            <br>
-                                            <small>RA:
+                            <section tabindex="0">
+                                <div class="QM thumbnail materia <?= $escola ?>">
+                                    <img src="<?= $perfilImagem ?> " alt=<?=$altImagem?> class="img-circle">
+                                    <div class="caption">
+                                        <h2 class="sub-titulo">
+                                            <?= $nome ?>
+                                                <br>
+                                                <small>RA:
                                                 <?= $RA ?>
                                             </small>
-                                    </h2>
-                                    <h3 class="sub-titulo">
-                                        <?= $cargo ?>
-                                    </h3>
-                                    <p>
-                                        <?= $descPessoal ?>
-                                    </p>
-                                    <p>
-                                        <strong>Área Responsável:</strong>
-                                        <?= $responsabilidade ?>
-                                    </p>
+                                        </h2>
+                                        <h3 class="sub-titulo">
+                                            <?= $cargo ?>
+                                        </h3>
+                                        <p>
+                                            <?= $descPessoal ?>
+                                        </p>
+                                        <p>
+                                            <strong>Área Responsável:</strong>
+                                            <?= $responsabilidade ?>
+                                        </p>
+                                    </div>
                                 </div>
-                            </div>
                             </section>
                         </div>
-                        
+
                         <?php } ?>
 
                         <?php function footerQuemSomos () { ?>

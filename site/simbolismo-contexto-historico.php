@@ -32,7 +32,7 @@
     $nomeb="Autor de destaque";
     $linkb="simbolismo-autor-destaque.php";
     include 'includes/breadcrumb.php'; 
-    ?>  
+    ?>
 
     <!-- Conteúdo
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
@@ -43,7 +43,7 @@
         OBS: O Section define o espaçamento padrão de uma SESSÃO, 
         container se refere a classe usada pelo bootstrap
         –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-        <article class="section container">
+        <article class="section container" id="conteudo" tabindex="0">
             <h2 class="titulo text-center cor">Simbolismo </h2>
             <div class="SI divisor"></div>
             <div class="col-lg-11 col-lg-offset-1 ">
@@ -110,7 +110,7 @@
                 </div>
                 <div class="row">
                     <div class="col-lg-8 text-left">
-                      <p>Fugit lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, iste molestias? quisquam corporis repellendus eligendi inventore tempora vero sapiente minus quaerat magni magnam suscipit quia quod, assumenda saepe voluptatibus totam nulla ducimus labore. Magni! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat cum minima provident impedit mollitia nobis soluta debitis illo, ex iure ducimus, deserunt dolorum esse sed.</p>
+                        <p>Fugit lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, iste molestias? quisquam corporis repellendus eligendi inventore tempora vero sapiente minus quaerat magni magnam suscipit quia quod, assumenda saepe voluptatibus totam nulla ducimus labore. Magni! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat cum minima provident impedit mollitia nobis soluta debitis illo, ex iure ducimus, deserunt dolorum esse sed.</p>
                         <h3 class="titulo line cor">Surgimento</h3>
                         <p>Suscipit, lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, iste molestias? Fugit quisquam corporis repellendus eligendi inventore tempora vero sapiente minus quaerat magni magnam quia quod, assumenda saepe voluptatibus totam nulla ducimus labore. Magni! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat cum minima provident impedit mollitia nobis soluta debitis illo, ex iure ducimus, deserunt dolorum esse sed.</p>
                     </div>

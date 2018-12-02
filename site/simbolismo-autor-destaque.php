@@ -27,10 +27,10 @@
 
     <main>
         <h1 style="display: none">Conteúdo</h1>
-        <aside>
+        <aside tabindex="0">
             <div class="container">
                 <div class="section">
-                    <div class="row">
+                    <div class="row" id="conteudo">
                         <h2 class="titulo text-center cor">Cruz e Sousa</h2>
                         <div class="SI divisor"></div>
                         <div class="media">
@@ -137,7 +137,7 @@
         <div class="container text-left">
             <div class="col-md-12 col-lg-9 col-lg-offset-2">
                 <div class="row">
-                    <article>
+                    <article tabindex="0">
                         <h2 class="titulo cor line">Biografia</h2>
                         <p class="capitular"> Perspiciatis inventore ut veritatis consequuntur asperiores, amet, perferendis alias enim consectetur distinctio, maiores reprehenderit consequatur harum repellat!Quaerat illo, repellat id, nulla, consequatur expedita fuga quod temporibus reiciendis dolorum ullam. Harum accusamus debitis eligendi, nesciunt ad explicabo tenetur optio modi facilis magnam rem, temporibus molestiae perspiciatis error, nisi nobis quidem quos! Illum consequuntur nesciunt perspiciatis nostrum porro.Lorem ipsum dolor sit, amet consectetur adipisicing elit.
                         </p>

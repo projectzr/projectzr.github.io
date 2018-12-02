@@ -34,47 +34,47 @@
     include 'includes/breadcrumb.php'; 
     ?>
 
-    <!-- Conteúdo
+        <!-- Conteúdo
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <main>
-        <h1 style="display: none">Conteúdo</h1>
+        <main>
+            <h1 style="display: none">Conteúdo</h1>
 
-        <!-- Conteudo
+            <!-- Conteudo
         OBS: O Section define o espaçamento padrão de uma SESSÃO, 
         container se refere a classe usada pelo bootstrap
         –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-        <div class="section container">
+            <div class="section container" id="conteudo">
 
-            <div class="col-md-10 col-md-offset-1">
+                <div class="col-md-10 col-md-offset-1">
 
-                <article>
-                    <div class="row">
-                        <h2 class="titulo cor">Principais Obras</h2>
-                        <div class="SI divisor"></div>
-                        <p class="capitular"> Temporibus aspernatur eaque numquam aliquid fugiat eum illo sequi? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore magnam at, qui voluptates assumenda repellat odit, eveniet veritatis sunt accusamus aperiam corporis eum rerum, neque nulla. Nesciunt earum, doloribus. Id aliquid quae aspernatur tenetur temporibus sapiente voluptatem porro, impedit commodi soluta hic, corrupti incidunt culpa molestias quaerat autem beatae dolorem earum, laudantium mollitia consectetur cupiditate.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores debitis provident placeat consequuntur sed, odio fugit.dolor sit amet, consectetur adipisicing elit. Asperiores debitis provident.</p>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore magnam at, qui voluptates assumenda repellat odit, eveniet veritatis sunt accusamus aperiam corporis eum rerum, neque nulla. Nesciunt earum, doloribus. Id aliquid quae aspernatur tenetur temporibus sapiente voluptatem porro, impedit commodi soluta hic, corrupti incidunt culpa molestias quaerat autem beatae dolorem earum, laudantium mollitia consectetur cupiditate.</p>
-                    </div>
-                </article>
+                    <article tabindex="0">
+                        <div class="row">
+                            <h2 class="titulo cor">Principais Obras</h2>
+                            <div class="SI divisor"></div>
+                            <p class="capitular"> Temporibus aspernatur eaque numquam aliquid fugiat eum illo sequi? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore magnam at, qui voluptates assumenda repellat odit, eveniet veritatis sunt accusamus aperiam corporis eum rerum, neque nulla. Nesciunt earum, doloribus. Id aliquid quae aspernatur tenetur temporibus sapiente voluptatem porro, impedit commodi soluta hic, corrupti incidunt culpa molestias quaerat autem beatae dolorem earum, laudantium mollitia consectetur cupiditate.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores debitis provident placeat consequuntur sed, odio fugit.dolor sit amet, consectetur adipisicing elit. Asperiores debitis provident.</p>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore magnam at, qui voluptates assumenda repellat odit, eveniet veritatis sunt accusamus aperiam corporis eum rerum, neque nulla. Nesciunt earum, doloribus. Id aliquid quae aspernatur tenetur temporibus sapiente voluptatem porro, impedit commodi soluta hic, corrupti incidunt culpa molestias quaerat autem beatae dolorem earum, laudantium mollitia consectetur cupiditate.</p>
+                        </div>
+                    </article>
 
-                <article>
-                    <div class="row section">
-                        <h2 class="titulo text-left line cor">Faróis <small>Cruz e Souza</small></h2>
-                        <div class="col-md-6 ">
-                            <div class="row section">
-                                <figure>
-                                    <img src="img/simb/obra1.jpg" alt="capa do livros Faróis." >
-                                    <figcaption><cite class="cor font">Primeira edição de Faróis,<br> de Cruz e Sousa </cite></figcaption>
-                                </figure>
+                    <article tabindex="0">
+                        <div class="row section">
+                            <h2 class="titulo text-left line cor">Faróis <small>Cruz e Souza</small></h2>
+                            <div class="col-md-6 ">
+                                <div class="row section">
+                                    <figure>
+                                        <img src="img/simb/obra1.jpg" alt="capa do livros Faróis.">
+                                        <figcaption><cite class="cor font">Primeira edição de Faróis,<br> de Cruz e Sousa </cite></figcaption>
+                                    </figure>
+                                </div>
+                                <hr class="visible-sm visible-xs">
                             </div>
-                            <hr class="visible-sm visible-xs">
+                            <div class="col-md-6 col-xs-12">
+                                <p class="lineVertical-left">Debitis iste nostrum quasi odio dicta, dignissimos libero nam adipisci suscipit alias? Nobis ullam eligendi et iste quidem a esse amet error animi voluptate! Doloremque hic, sit consequuntur blanditiis eligendi, similique aut nesciunt ratione sunt omnis quam, explicabo nobis inventore quas sequi rem optio harum non quidem alias tenetur, velit? Cumque sint autem quod animi vitae ut, accusantium dignissimos rem nihil unde impedit minus molestias dolorem totam quo! Accusantium sit ipsum omnis quibusdam, velit at magni itaque temporibus impedit non mollitia pariatur rem eveniet quasi, odio beatae rerum fugit in molestiae!Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                            </div>
                         </div>
-                        <div class="col-md-6 col-xs-12">
-                            <p class="lineVertical-left">Debitis iste nostrum quasi odio dicta, dignissimos libero nam adipisci suscipit alias? Nobis ullam eligendi et iste quidem a esse amet error animi voluptate! Doloremque hic, sit consequuntur blanditiis eligendi, similique aut nesciunt ratione sunt omnis quam, explicabo nobis inventore quas sequi rem optio harum non quidem alias tenetur, velit? Cumque sint autem quod animi vitae ut, accusantium dignissimos rem nihil unde impedit minus molestias dolorem totam quo! Accusantium sit ipsum omnis quibusdam, velit at magni itaque temporibus impedit non mollitia pariatur rem eveniet quasi, odio beatae rerum fugit in molestiae!Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                        </div>
-                    </div>
-                </article>
+                    </article>
 
-<svg width=20em height=3em x="0px" y="0px" viewBox="0 0 140 25.1" style="enable-background:new 0 0 140 25.1;">
+                    <svg width=20em height=3em x="0px" y="0px" viewBox="0 0 140 25.1" style="enable-background:new 0 0 140 25.1;">
 <style type="text/css">
 	.st0{fill:#c6c1d7;}
 </style>
@@ -151,25 +151,25 @@
 </svg>
 
 
-                <article>
-                    <div class="row section">
-                        <h2 class="titulo text-left line cor">Broqueis <small>Cruz e Souza</small></h2>
+                    <article tabindex="0">
+                        <div class="row section">
+                            <h2 class="titulo text-left line cor">Broqueis <small>Cruz e Souza</small></h2>
 
-                        <div class="col-md-6 col-xs-11 col-md-push-6">
+                            <div class="col-md-6 col-xs-11 col-md-push-6">
 
-                            <div class="row section">
-                                <h2 class="sub-titulo cor">Impsum Lorem</h2>
-                                <br>
-                                <p class="text-center">Ipsum Lorem! dolor sit amet,<br> consectetur adipisicing elit ... Quis adipisci<br> corporis ipsum maiores nulla hic?<br> Aut ipsam provident, hic rem <br> voluptatem id amet Quis adipisci,<br> corporis ipsum maiores nulla hic?<br> Aut ipsam provident, hic rem voluptatem id amet.</p>
+                                <div class="row section">
+                                    <h2 class="sub-titulo cor">Impsum Lorem</h2>
+                                    <br>
+                                    <p class="text-center">Ipsum Lorem! dolor sit amet,<br> consectetur adipisicing elit ... Quis adipisci<br> corporis ipsum maiores nulla hic?<br> Aut ipsam provident, hic rem <br> voluptatem id amet Quis adipisci,<br> corporis ipsum maiores nulla hic?<br> Aut ipsam provident, hic rem voluptatem id amet.</p>
+                                </div>
+                                <hr class="visible-xs visible-sm">
                             </div>
-                            <hr class="visible-xs visible-sm">
+                            <div class="col-md-6 col-xs-12 col-md-pull-6">
+                                <p class="lineVertical-right"> Nobis ullam eligendi et iste quidem a esse amet error animi voluptate! Doloremque hic, sit consequuntur blanditiis eligendi, similique aut nesciunt ratione sunt omnis quam, explicabo nobis inventore quas sequi rem optio harum non quidem alias tenetur, velit? Cumque sint autem quod animi vitae ut, accusantium dignissimos rem nihil unde impedit minus molestias dolorem totam quo! Accusantium sit ipsum omnis quibusdam, velit at magni itaque temporibus impedit non mollitia pariatur rem eveniet quasi, odio beatae rerum fugit in molestiae!Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis iste nostrum quasi odio dicta, dignissimos libero nam adipisci suscipit alias?</p>
+                            </div>
                         </div>
-                        <div class="col-md-6 col-xs-12 col-md-pull-6">
-                            <p class="lineVertical-right"> Nobis ullam eligendi et iste quidem a esse amet error animi voluptate! Doloremque hic, sit consequuntur blanditiis eligendi, similique aut nesciunt ratione sunt omnis quam, explicabo nobis inventore quas sequi rem optio harum non quidem alias tenetur, velit? Cumque sint autem quod animi vitae ut, accusantium dignissimos rem nihil unde impedit minus molestias dolorem totam quo! Accusantium sit ipsum omnis quibusdam, velit at magni itaque temporibus impedit non mollitia pariatur rem eveniet quasi, odio beatae rerum fugit in molestiae!Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis iste nostrum quasi odio dicta, dignissimos libero nam adipisci suscipit alias?</p>
-                        </div>
-                    </div>
-                </article>
-                <svg width=20em height=3em x="0px" y="0px" viewBox="0 0 140 25.1" style="enable-background:new 0 0 140 25.1;">
+                    </article>
+                    <svg width=20em height=3em x="0px" y="0px" viewBox="0 0 140 25.1" style="enable-background:new 0 0 140 25.1;">
 <style type="text/css">
 	.st0{fill:#c6c1d7;}
 </style>
@@ -245,32 +245,32 @@
 </g>
 </svg>
 
-                <article>
-                    <div class="row section">
-                        <h2 class="titulo text-left line cor">Poesia <small>Alphonsus de Guimaraens</small></h2>
-                        <div class="col-md-6 ">
-                            <div class="row section">
+                    <article tabindex="0">
+                        <div class="row section">
+                            <h2 class="titulo text-left line cor">Poesia <small>Alphonsus de Guimaraens</small></h2>
+                            <div class="col-md-6 ">
+                                <div class="row section">
 
-                                <h2 class="sub-titulo cor">Adipisicing elit</h2>
-                                <br>
-                                <p class="text-center">dolor sit amet,<br> consectetur adipisicing elit<br>Quis adipisci corporis<br> ipsum maiores nulla <br> hic? Aut ipsam <br> provident, hic rem <br> voluptatem id amet </p>
+                                    <h2 class="sub-titulo cor">Adipisicing elit</h2>
+                                    <br>
+                                    <p class="text-center">dolor sit amet,<br> consectetur adipisicing elit<br>Quis adipisci corporis<br> ipsum maiores nulla <br> hic? Aut ipsam <br> provident, hic rem <br> voluptatem id amet </p>
 
 
-                                <!--
+                                    <!--
                                 <figure>
                                     <img src="img/simb/obra1.jpg" alt="" class="">
                                     <figcaption><cite class="font">Primeira edição de Faróis,<br> de Cruz e Sousa </cite></figcaption>
                                 </figure>
 -->
+                                </div>
+                                <hr class="visible-sm visible-xs">
                             </div>
-                            <hr class="visible-sm visible-xs">
+                            <div class="col-md-6 col-xs-12">
+                                <p class="lineVertical-left">Cumque sint autem quod animi vitae ut, accusantium dignissimos rem nihil unde impedit minus molestias dolorem totam quo! Accusantium sit ipsum omnis quibusdam, velit at magni itaque temporibus impedit non mollitia pariatur rem eveniet quasi, odio beatae rerum fugit in molestiae! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis iste nostrum quasi odio dicta, dignissimos libero nam adipisci suscipit alias? Nobis ullam eligendi et iste quidem a esse amet error animi voluptate! Doloremque hic, sit consequuntur blanditiis eligendi, similique aut nesciunt ratione sunt omnis quam, explicabo nobis inventore quas sequi rem optio harum non quidem alias tenetur, velit? </p>
+                            </div>
                         </div>
-                        <div class="col-md-6 col-xs-12">
-                            <p class="lineVertical-left">Cumque sint autem quod animi vitae ut, accusantium dignissimos rem nihil unde impedit minus molestias dolorem totam quo! Accusantium sit ipsum omnis quibusdam, velit at magni itaque temporibus impedit non mollitia pariatur rem eveniet quasi, odio beatae rerum fugit in molestiae! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis iste nostrum quasi odio dicta, dignissimos libero nam adipisci suscipit alias? Nobis ullam eligendi et iste quidem a esse amet error animi voluptate! Doloremque hic, sit consequuntur blanditiis eligendi, similique aut nesciunt ratione sunt omnis quam, explicabo nobis inventore quas sequi rem optio harum non quidem alias tenetur, velit? </p>
-                        </div>
-                    </div>
-                </article>
-                <svg width=20em height=3em x="0px" y="0px" viewBox="0 0 140 25.1" style="enable-background:new 0 0 140 25.1;">
+                    </article>
+                    <svg width=20em height=3em x="0px" y="0px" viewBox="0 0 140 25.1" style="enable-background:new 0 0 140 25.1;">
 <style type="text/css">
 	.st0{fill:#c6c1d7;}
 </style>
@@ -346,25 +346,25 @@
 </g>
 </svg>
 
-                <article>
-                    <div class="row section">
-                        <h2 class="titulo text-left line cor">Dona Mística <small>Alphonsus de Guimaraens</small></h2>
+                    <article tabindex="0">
+                        <div class="row section">
+                            <h2 class="titulo text-left line cor">Dona Mística <small>Alphonsus de Guimaraens</small></h2>
 
-                        <div class="col-md-6 col-xs-11 col-md-push-6">
+                            <div class="col-md-6 col-xs-11 col-md-push-6">
 
-                            <div class="row section">
-                                <h2 class="sub-titulo cor">Lorem</h2>
-                                <br>
-                                <p class="text-center"> Voluptatem id amet <br>Quis adipisci,<br>Consectetur adipisicing elit Quis adipisci,<br> Vorporis ipsum maiores nulla hic?<br> Aut ipsam provident, hic rem <br> Eorporis ipsum maiores nulla hic?<br> Aut ipsam provident, <br> hic rem voluptatem</p>
+                                <div class="row section">
+                                    <h2 class="sub-titulo cor">Lorem</h2>
+                                    <br>
+                                    <p class="text-center"> Voluptatem id amet <br>Quis adipisci,<br>Consectetur adipisicing elit Quis adipisci,<br> Vorporis ipsum maiores nulla hic?<br> Aut ipsam provident, hic rem <br> Eorporis ipsum maiores nulla hic?<br> Aut ipsam provident, <br> hic rem voluptatem</p>
+                                </div>
+                                <hr class="visible-xs visible-sm">
                             </div>
-                            <hr class="visible-xs visible-sm">
+                            <div class="col-md-6 col-xs-12 col-md-pull-6">
+                                <p class="lineVertical-right">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis iste nostrum quasi odio dicta, dignissimos libero nam adipisci suscipit alias? Nobis ullam eligendi et iste quidem a esse amet error animi voluptate! Doloremque hic, sit consequuntur blanditiis eligendi, similique aut nesciunt ratione sunt omnis quam, explicabo nobis inventore quas sequi rem optio harum non quidem alias tenetur, velit? Cumque sint autem quod animi vitae ut, accusantium dignissimos rem nihil unde impedit minus molestias dolorem totam quo! Accusantium sit ipsum omnis quibusdam, velit at magni itaque temporibus impedit non mollitia pariatur rem eveniet quasi, odio beatae rerum fugit in molestiae!</p>
+                            </div>
                         </div>
-                        <div class="col-md-6 col-xs-12 col-md-pull-6">
-                            <p class="lineVertical-right">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis iste nostrum quasi odio dicta, dignissimos libero nam adipisci suscipit alias? Nobis ullam eligendi et iste quidem a esse amet error animi voluptate! Doloremque hic, sit consequuntur blanditiis eligendi, similique aut nesciunt ratione sunt omnis quam, explicabo nobis inventore quas sequi rem optio harum non quidem alias tenetur, velit? Cumque sint autem quod animi vitae ut, accusantium dignissimos rem nihil unde impedit minus molestias dolorem totam quo! Accusantium sit ipsum omnis quibusdam, velit at magni itaque temporibus impedit non mollitia pariatur rem eveniet quasi, odio beatae rerum fugit in molestiae!</p>
-                        </div>
-                    </div>
-                </article>
-                <svg width=20em height=3em x="0px" y="0px" viewBox="0 0 140 25.1" style="enable-background:new 0 0 140 25.1;">
+                    </article>
+                    <svg width=20em height=3em x="0px" y="0px" viewBox="0 0 140 25.1" style="enable-background:new 0 0 140 25.1;">
 <style type="text/css">
 	.st0{fill:#c6c1d7;}
 </style>
@@ -439,18 +439,18 @@
 	</g>
 </g>
 </svg>
+                </div>
+
             </div>
 
-        </div>
 
 
 
+        </main>
 
-    </main>
-
-    <!-- Rodapé
+        <!-- Rodapé
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <?php include 'includes/estrutura/footer.php'; ?>
+        <?php include 'includes/estrutura/footer.php'; ?>
 
 </body>
 

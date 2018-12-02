@@ -1,4 +1,4 @@
-<article class="container section">
+<article class="container section" id="conteudo">
     <div class="row text-left">
         <div class="col-xs-12 mp-mapa">
             <div class="col-xs-12 mp-home">
@@ -8,69 +8,69 @@
             <div class="col-xs-12 mp-escolasgeral">
                 <h3 class="mp-molduraescola">Escolas <span class="caret"></span></h3>
 
-                    <div class="row">
-                        <div class="col-xs-12 col-md-6 col-lg-4 mp-escola ">
-                            <h4> Romantismo(1836 - 1881) <span class="caret"></span></h4>
-                            <ul>
-                                <li><a class="mp-link" href="romantismo-contexto-historico.php">Romantismo e a Independência</a></li>
-                                <li><a class="mp-link" href="romantismo-principais-obras.php">As obras mais importantes</a></li>
-                                <li><a class="mp-link" href="romantismo-autor-destaque.php">Autor de destaque: José de Alencar</a></li>
-                            </ul>
+                <div class="row">
+                    <div class="col-xs-12 col-md-6 col-lg-4 mp-escola ">
+                        <h4> Romantismo(1836 - 1881) <span class="caret"></span></h4>
+                        <ul>
+                            <li><a class="mp-link" href="romantismo-contexto-historico.php">Romantismo e a Independência</a></li>
+                            <li><a class="mp-link" href="romantismo-principais-obras.php">As obras mais importantes</a></li>
+                            <li><a class="mp-link" href="romantismo-autor-destaque.php">Autor de destaque: José de Alencar</a></li>
+                        </ul>
 
-                        </div>
-
-                        <div class="col-xs-12 col-md-6 col-lg-4 mp-escola">
-                            <h4> Realismo(1881 - 1893) <span class="caret"></span></h4>
-
-
-                            <ul>
-                                <li><a class="mp-link" href="realismo-contexto-historico.php">O Brasil das ideias liberais</a></li>
-                                <li><a class="mp-link" href="realismo-principais-obras.php">O Realismo no Brasil</a></li>
-                                <li><a class="mp-link" href="realismo-autor-destaque.php">Autor de destaque: Machado de Assis</a></li>
-                            </ul>
-
-
-
-                        </div>
-
-                        <div class="col-xs-12 col-md-6 col-lg-4 mp-escola">
-                            <h4> Simbolismo(1893 - 1910) <span class="caret"></span></h4>
-                            <ul>
-                                <li><a class="mp-link" href="simbolismo-contexto-historico.php">O Início da Belle Époque</a></li>
-                                <li><a class="mp-link" href="simbolismo-principais-obras.php">Obras da Época</a></li>
-                                <li><a class="mp-link" href="simbolismo-autor-destaque.php">Autor de destaque: Cruz e Sousa</a></li>
-                            </ul>
-
-                        </div>
-
-                        <div class="col-xs-12 col-md-6 col-lg-4 mp-escola">
-                            <h4> Pré-Modernismo(1910 - 1922) <span class="caret"></span></h4>
-                            <ul>
-                                <li><a class="mp-link" href="pre-modernismo-contexto-historico.php">Consolidação da República</a></li>
-                                <li><a class="mp-link" href="pre-modernismo-principais-obras.php">Manifestação dos Autores</a></li>
-                                <li><a class="mp-link" href="pre-modernismo-autor-destaque.php">Autor de destaque: Euclides da Cunha</a></li>
-                            </ul>
-
-                        </div>
-                        <div class="col-xs-12 col-md-6 col-lg-4 mp-escola">
-                            <h4> Modernismo(1922 - 1950) <span class="caret"></span></h4>
-                            <ul>
-                                <li><a class="mp-link" href="modernismo-contexto-historico.php">Semana da Arte Moderna</a></li>
-                                <li><a class="mp-link" href="modernismo-principais-obras.php">Principais Obras</a></li>
-                                <li><a class="mp-link" href="modernismo-autor-destaque.php">Autor de destaque: Mario de Andrade</a></li>
-                            </ul>
-
-                        </div>
-                        <div class="col-xs-12 col-md-6 col-lg-4 mp-escola">
-                            <h4> Pós-Modernismo(1950 - à atual) <span class="caret"></span></h4>
-                            <ul>
-                                <li><a class="mp-link" href="pos-modernismo-contexto-historico.php">A Guerra, A História</a></li>
-                                <li><a class="mp-link" href="pos-modernismo-principais-obras.php">Obras que Marcaram</a></li>
-                                <li><a class="mp-link" href="pos-modernismo-autor-destaque.php">Autor de destaque: Guimarães Rosa</a></li>
-                            </ul>
-
-                        </div>
                     </div>
+
+                    <div class="col-xs-12 col-md-6 col-lg-4 mp-escola">
+                        <h4> Realismo(1881 - 1893) <span class="caret"></span></h4>
+
+
+                        <ul>
+                            <li><a class="mp-link" href="realismo-contexto-historico.php">O Brasil das ideias liberais</a></li>
+                            <li><a class="mp-link" href="realismo-principais-obras.php">O Realismo no Brasil</a></li>
+                            <li><a class="mp-link" href="realismo-autor-destaque.php">Autor de destaque: Machado de Assis</a></li>
+                        </ul>
+
+
+
+                    </div>
+
+                    <div class="col-xs-12 col-md-6 col-lg-4 mp-escola">
+                        <h4> Simbolismo(1893 - 1910) <span class="caret"></span></h4>
+                        <ul>
+                            <li><a class="mp-link" href="simbolismo-contexto-historico.php">O Início da Belle Époque</a></li>
+                            <li><a class="mp-link" href="simbolismo-principais-obras.php">Obras da Época</a></li>
+                            <li><a class="mp-link" href="simbolismo-autor-destaque.php">Autor de destaque: Cruz e Sousa</a></li>
+                        </ul>
+
+                    </div>
+
+                    <div class="col-xs-12 col-md-6 col-lg-4 mp-escola">
+                        <h4> Pré-Modernismo(1910 - 1922) <span class="caret"></span></h4>
+                        <ul>
+                            <li><a class="mp-link" href="pre-modernismo-contexto-historico.php">Consolidação da República</a></li>
+                            <li><a class="mp-link" href="pre-modernismo-principais-obras.php">Manifestação dos Autores</a></li>
+                            <li><a class="mp-link" href="pre-modernismo-autor-destaque.php">Autor de destaque: Euclides da Cunha</a></li>
+                        </ul>
+
+                    </div>
+                    <div class="col-xs-12 col-md-6 col-lg-4 mp-escola">
+                        <h4> Modernismo(1922 - 1950) <span class="caret"></span></h4>
+                        <ul>
+                            <li><a class="mp-link" href="modernismo-contexto-historico.php">Semana da Arte Moderna</a></li>
+                            <li><a class="mp-link" href="modernismo-principais-obras.php">Principais Obras</a></li>
+                            <li><a class="mp-link" href="modernismo-autor-destaque.php">Autor de destaque: Mario de Andrade</a></li>
+                        </ul>
+
+                    </div>
+                    <div class="col-xs-12 col-md-6 col-lg-4 mp-escola">
+                        <h4> Pós-Modernismo(1950 - à atual) <span class="caret"></span></h4>
+                        <ul>
+                            <li><a class="mp-link" href="pos-modernismo-contexto-historico.php">A Guerra, A História</a></li>
+                            <li><a class="mp-link" href="pos-modernismo-principais-obras.php">Obras que Marcaram</a></li>
+                            <li><a class="mp-link" href="pos-modernismo-autor-destaque.php">Autor de destaque: Guimarães Rosa</a></li>
+                        </ul>
+
+                    </div>
+                </div>
 
             </div>
 

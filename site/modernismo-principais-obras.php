@@ -51,7 +51,7 @@
         OBS: O Section define o espaçamento padrão de uma SESSÃO, 
         container se refere a classe usada pelo bootstrap
         –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-        <div class="container section">
+        <div class="container section" id="conteudo">
             <article class="row">
 
 
@@ -68,7 +68,7 @@
                             <figcaption>
                                 <cite>Primeira obra poética de Drummond, foi publicado em 1930.<br>
                               Reuni produções de 1925 a 1930 , tem sido considerado como elo de ligação entre a primeira e a segunda geração do Modernismo, representando a síntese mais perfeita entre elas.</cite>
-                                                               
+
                             </figcaption>
                         </figure>
                     </div>
@@ -86,22 +86,22 @@
 
                 <div class="col-xs-12 col-md-6 ">
                     <p class="titulo text-center mid-space">A Festa das Letras</p>
-                    
-                    <div class="col-lg-12 text-center"> 
-                         <figure>
-                        <img class="center-img" src="img/modernismo/AFestaDasLetras.jpg" alt="A Festa da Letras.">
-                              <figcaption>
+
+                    <div class="col-lg-12 text-center">
+                        <figure>
+                            <img class="center-img" src="img/modernismo/AFestaDasLetras.jpg" alt="A Festa da Letras.">
+                            <figcaption>
                                 <cite>Lorem ipsum dolor sit amet, consectetur adipisicing elit.<br>
                              Dolorum est sunt eligendi molestiae nemo blanditiis, quisquam maiores aut quam ducimus nulla ullam manam cDpois sapiente in reiciendis. Officia, non, voluptate.Lorem ipsum dolor sit amet.</cite>
-                                                               
+
                             </figcaption>
                         </figure>
 
                     </div>
 
                 </div>
-                
-                                
+
+
                 <div class="col-xs-12 col-md-6">
 
                     <p class="mid-space text-justify first-letter-obras">Dolorum est sunt eligendi molestiae nemo blanditiis, quisquam maiores aut quam ducimus nulla ullam magnam corporis sapiente in reiciendis. Officia, non, voluptate.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est sunt eligendi molestiae nemo blanditiis, quisquam maiores aut quam ducimus nulla ullam magnam corporis sapiente in reiciendis. Officia, non, voluptate.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est sunt eligendi molestiae nemo blanditiis, quisquam maiores aut quam ducimus nulla ullam magnam corporis sapiente in reiciendis. Officia, non, voluptate.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est sunt eligendi molestiae nemo blanditiis, quisquam maiores aut quam ducimus nulla ullam magnam corporis sapiente in reiciendis. Officia, non, voluptate.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est sunt eligendi molestiae nemo blanditiis, quisquam maiores aut quam ducimus nulla ullam magnam corporis sapiente in reiciendis. Officia, non, voluptate.Lorem ipsum dolor sit amet, consectetur Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est sunt eligendi molestiae nemo blanditiis, quisquam maiores aut quam ducimus nulla ullam magnam corporis sapiente in reiciendis. Officia, non, voluptate.Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
@@ -113,16 +113,16 @@
                 <div class="divisor"></div>
 
 
-               <div class="col-xs-12 col-md-6 ">
+                <div class="col-xs-12 col-md-6 ">
                     <p class="titulo text-center mid-space">A Cinza das Horas</p>
-                    
-                    <div class="col-lg-12 text-center"> 
-                         <figure>
-                        <img class="center-img" src="img/modernismo/ACinzaDasHoras.jpg" alt="A Cinza das Horas.">
-                              <figcaption>
+
+                    <div class="col-lg-12 text-center">
+                        <figure>
+                            <img class="center-img" src="img/modernismo/ACinzaDasHoras.jpg" alt="A Cinza das Horas.">
+                            <figcaption>
                                 <cite>Lorem ipsum dolor sit amet, consectetur adipisicing elit.<br>
                              Dolorum est sunt eligendi molestiae nemo blanditiis, quisquam maiores aut quam ducimus nulla ullam manam cDpois sapiente in reiciendis. Officia, non, voluptate.Lorem ipsum dolor sit amet.</cite>
-                                                               
+
                             </figcaption>
                         </figure>
 
@@ -131,7 +131,7 @@
                 </div>
                 <div class="col-xs-12 col-md-6">
 
-                    <p class="text-justify first-letter-obras">Officia, non, voluptate.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est sunt eligendi molestiae nemo blanditiis, quisquam maiores aut quam ducimus nulla ullam magnam corporis sapiente in reiciendis. Officia, non, voluptate.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est sunt eligendi molestiae nemo blanditiis, quisquam maiores aut quam ducimus nulla ullam magnam corporis sapiente in reiciendis. Officia, non, voluptate.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est sunt eligendi molestiae nemo blanditiis, quisquam maiores aut quam ducimus nulla ullam magnam corporis sapiente in reiciendis. Officia, non, voluptate.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est sunt eligendi molestiae nemo blanditiis, quisquam maiores aut quam ducimus nulla ullam magnam corporis sapiente in reiciendis. Officia, non, voluptate.Lorem ipsum dolor sit amet, consectetur Lorem ipsum dolor sit amet, consectetur adipisicing elit.  
+                    <p class="text-justify first-letter-obras">Officia, non, voluptate.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est sunt eligendi molestiae nemo blanditiis, quisquam maiores aut quam ducimus nulla ullam magnam corporis sapiente in reiciendis. Officia, non, voluptate.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est sunt eligendi molestiae nemo blanditiis, quisquam maiores aut quam ducimus nulla ullam magnam corporis sapiente in reiciendis. Officia, non, voluptate.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est sunt eligendi molestiae nemo blanditiis, quisquam maiores aut quam ducimus nulla ullam magnam corporis sapiente in reiciendis. Officia, non, voluptate.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est sunt eligendi molestiae nemo blanditiis, quisquam maiores aut quam ducimus nulla ullam magnam corporis sapiente in reiciendis. Officia, non, voluptate.Lorem ipsum dolor sit amet, consectetur Lorem ipsum dolor sit amet, consectetur adipisicing elit.
                     </p>
                 </div>
             </article>
@@ -140,16 +140,16 @@
                 <h2 class="titulo no-space text-center">Clarice Lispector (1920-1077)</h2>
                 <div class="divisor"></div>
 
-                               <div class="col-xs-12 col-md-6 ">
+                <div class="col-xs-12 col-md-6 ">
                     <p class="titulo text-center mid-space">A Hora da Estrela</p>
-                    
-                    <div class="col-lg-12 text-center"> 
-                         <figure>
-                        <img class="center-img" src="img/modernismo/AHoraDaEstrela.jpg" alt="A Hora da Estrela">
-                              <figcaption>
+
+                    <div class="col-lg-12 text-center">
+                        <figure>
+                            <img class="center-img" src="img/modernismo/AHoraDaEstrela.jpg" alt="A Hora da Estrela">
+                            <figcaption>
                                 <cite>Lorem ipsum dolor sit amet, consectetur adipisicing elit.<br>
                              Dolorum est sunt eligendi molestiae nemo blanditiis, quisquam maiores aut quam ducimus nulla ullam manam cDpois sapiente in reiciendis. Officia, non, voluptate.Lorem ipsum dolor sit amet.</cite>
-                                                               
+
                             </figcaption>
                         </figure>
 
