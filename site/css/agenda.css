@@ -3,7 +3,7 @@ padding-bottom: 50px;
 }
 .ag-teventoa {
     background-color: #e7bf7b;
-    padding: 10px;
+    padding: 15px 5px 5px 5px;
 /*
     border-left-style: solid;
     border-left-color: #3a3a8b;
@@ -32,7 +32,7 @@ padding-bottom: 50px;
 }
 .ag-teventob {
     background-color: #d78d37;
-    padding: 10px;
+    padding: 15px 5px 5px 5px;
 /*
     border-left-style: solid;
     border-left-color: #d78d37;
@@ -46,7 +46,7 @@ padding-bottom: 50px;
 
 .ag-titulo {
     margin: 0;
-    height: 40px;
+    min-height: 130px;
     text-align: left;
     letter-spacing: normal;
     font-size: 1.9em;
@@ -60,7 +60,7 @@ padding-bottom: 50px;
     font-size: 1.5em;
     text-align: left;
     padding-top: 12px;
-    height: 60px;
+    min-height: 100px;
     border-bottom-style: solid;
     border-bottom-color: #9a9a9a;
     border-bottom-width: 0.5px;
@@ -70,7 +70,7 @@ padding-bottom: 50px;
     font-size: 1.5em;
      text-align: left;
     padding-top: 5px;
-    height: 60px;
+    min-height: 100px;
     border-bottom-style: solid;
     border-bottom-color: #9a9a9a;
     border-bottom-width: 0.5px;
@@ -80,5 +80,5 @@ padding-bottom: 50px;
     font-size: 1.5em;
      text-align: left;
     padding-top: 10px;
-    height: 70px;
+    min-height: 100px;
 }
